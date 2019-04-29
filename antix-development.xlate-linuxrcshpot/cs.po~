@@ -1,0 +1,536 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-07 23:55+0200\n"
+"PO-Revision-Date: 2011-12-15 12:52+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: xlate-linuxrc.sh:8
+msgid "Start"
+msgstr "Spustit"
+
+#: xlate-linuxrc.sh:9
+msgid "remaster"
+msgstr "remaster"
+
+#: xlate-linuxrc.sh:10
+msgid "to put linuxfs file in RAM"
+msgstr "umístit soubor lunuxfs do RAM"
+
+#: xlate-linuxrc.sh:11
+msgid "to mount persist file %s at %s"
+msgstr "připojit trvající soubor %s na %s"
+
+#: xlate-linuxrc.sh:13
+msgid "Select"
+msgstr "Vyberte"
+
+#: xlate-linuxrc.sh:14
+msgid "then hit <enter>"
+msgstr "pak stiskněte <enter>"
+
+#: xlate-linuxrc.sh:15
+msgid "or"
+msgstr "nebo"
+
+#: xlate-linuxrc.sh:18
+msgid "continue"
+msgstr "pokračujte"
+
+#: xlate-linuxrc.sh:19
+msgid "c"
+msgstr "p"
+
+#: xlate-linuxrc.sh:20
+msgid "C"
+msgstr "P"
+
+#: xlate-linuxrc.sh:21
+msgid "power off"
+msgstr "vypnout"
+
+#: xlate-linuxrc.sh:22
+msgid "p"
+msgstr "v"
+
+#: xlate-linuxrc.sh:23
+msgid "P"
+msgstr "V"
+
+#: xlate-linuxrc.sh:24
+msgid "reboot"
+msgstr "restartovat"
+
+#: xlate-linuxrc.sh:25
+msgid "r"
+msgstr "r"
+
+#: xlate-linuxrc.sh:26
+msgid "R"
+msgstr "R"
+
+#: xlate-linuxrc.sh:27
+msgid "powering down"
+msgstr "vypínání"
+
+#: xlate-linuxrc.sh:28
+msgid "rebooting"
+msgstr "restartování"
+
+#: xlate-linuxrc.sh:29
+msgid "Rolling back %s to %s"
+msgstr "Vrácení %s na %s"
+
+#: xlate-linuxrc.sh:30
+msgid "Refusing to remaster"
+msgstr "Nelze remastrovat"
+
+#: xlate-linuxrc.sh:32
+msgid "In directory %s one or more of these files already exist"
+msgstr "Ve složce %s jeden nebo více těchto souborů již existuje"
+
+#: xlate-linuxrc.sh:33
+msgid "Run the remaster-me program to fix this problem"
+msgstr "Spusťte program remaster-me pro opravu tohoto problému"
+
+#: xlate-linuxrc.sh:34
+msgid "Remastering %s to %s"
+msgstr "Remastrování %s na %s"
+
+#: xlate-linuxrc.sh:36
+msgid "Fatal Error"
+msgstr "Závažná chyba"
+
+#: xlate-linuxrc.sh:37
+msgid "Non-Fatal Error"
+msgstr "Nezávažná chyba"
+
+#: xlate-linuxrc.sh:38
+msgid "Waiting for file systems to sync"
+msgstr "Čekání na synchronizaci souborových systémů"
+
+#: xlate-linuxrc.sh:39
+msgid "done"
+msgstr "hotovo"
+
+#: xlate-linuxrc.sh:40
+msgid "Unknown command"
+msgstr "Neznámý příkaz"
+
+#: xlate-linuxrc.sh:41
+msgid "Please try again"
+msgstr "Prosím zkuste to znovu"
+
+#: xlate-linuxrc.sh:42
+msgid "No device with %s found"
+msgstr "Žádné zařízení s %s nenalezeno"
+
+#: xlate-linuxrc.sh:43
+msgid "Valid"
+msgstr "Platné"
+
+#: xlate-linuxrc.sh:44
+msgid "Could not find device"
+msgstr "Nelze nalézt zařízení"
+
+#: xlate-linuxrc.sh:45
+msgid "Valid devices"
+msgstr "Platná zařízení"
+
+#: xlate-linuxrc.sh:46
+msgid "Copying linuxfs VID to empty rootfs"
+msgstr "Kopírování linuxfs VID do prádných rootfs"
+
+#: xlate-linuxrc.sh:47
+msgid "VID file not found"
+msgstr "Soubor VID nenalezen"
+
+#: xlate-linuxrc.sh:48
+msgid "No VID found in"
+msgstr "Žádně VID nenalezeno v"
+
+#: xlate-linuxrc.sh:49
+msgid "VID mismatch"
+msgstr "Neshoda VID"
+
+#: xlate-linuxrc.sh:50
+msgid "Matching VID found in"
+msgstr "Shodné VID nanlezeno v"
+
+#: xlate-linuxrc.sh:51
+msgid "Directory"
+msgstr "Složka"
+
+#: xlate-linuxrc.sh:52
+msgid "does not exist"
+msgstr "neexistuje"
+
+#: xlate-linuxrc.sh:53
+msgid "Can't perform md5 check"
+msgstr "Nelze provést kontrolu md5"
+
+#: xlate-linuxrc.sh:54
+msgid "Checking files in %s dir. This may take a while"
+msgstr "Kontroluji soubory ve složce %s. To může chvíli trvat"
+
+#: xlate-linuxrc.sh:55
+msgid "file"
+msgstr "soubor"
+
+#: xlate-linuxrc.sh:56
+msgid "files"
+msgstr "soubory"
+
+#: xlate-linuxrc.sh:57
+msgid "result"
+msgstr "výsledek"
+
+#: xlate-linuxrc.sh:58
+msgid "passed"
+msgstr "úspěšné"
+
+#: xlate-linuxrc.sh:59
+msgid "failed"
+msgstr "neúspěšné"
+
+#: xlate-linuxrc.sh:60
+msgid "wanted"
+msgstr "požadováno"
+
+#: xlate-linuxrc.sh:61
+msgid "got"
+msgstr "předáno"
+
+#: xlate-linuxrc.sh:62
+msgid "No md5 checksums were found in %s. Can't do any md5 checks"
+msgstr "Žádné kontrolní hodnoty md5 nebyly v %s nalezeny. Nelze provést žádné kontroly md5"
+
+#: xlate-linuxrc.sh:63
+msgid "At least one checksum did not match"
+msgstr "Alespoň jedna kontrolní hodnota se neshodovala"
+
+#: xlate-linuxrc.sh:64
+msgid "Success!"
+msgstr "Úspěch!"
+
+#: xlate-linuxrc.sh:65
+msgid "Welcome to"
+msgstr "Vítejte v"
+
+#: xlate-linuxrc.sh:66
+msgid "Total Memory"
+msgstr "Celková paměť"
+
+#: xlate-linuxrc.sh:67
+msgid "Free Memory"
+msgstr "Volná paměť"
+
+#: xlate-linuxrc.sh:68
+msgid "Used Memory"
+msgstr "Použitá paměť"
+
+#: xlate-linuxrc.sh:69
+msgid "Linux kernel"
+msgstr "Kernel Linux"
+
+#: xlate-linuxrc.sh:70
+msgid "CPU"
+msgstr "CPU"
+
+#: xlate-linuxrc.sh:71
+msgid "cores"
+msgstr "cores"
+
+#: xlate-linuxrc.sh:72
+msgid "cache"
+msgstr "mezipaměť"
+
+#: xlate-linuxrc.sh:73
+msgid "Hardware kernel modules"
+msgstr "Moduly hardware kernelu"
+
+#: xlate-linuxrc.sh:74
+msgid "Possibly unknown or misspelled boot codes:"
+msgstr "Pravděpodobně neznámé nebo chybné kódy zavedení:"
+
+#: xlate-linuxrc.sh:75
+msgid "(don't take this too seriously)"
+msgstr "(toto neberte příliš vážně)"
+
+#: xlate-linuxrc.sh:76
+msgid "Looking for"
+msgstr "Hledání"
+
+#: xlate-linuxrc.sh:77
+msgid "device"
+msgstr "zařízení"
+
+#: xlate-linuxrc.sh:78
+msgid "with label"
+msgstr "s označením"
+
+#: xlate-linuxrc.sh:79
+msgid "with uuid"
+msgstr "s uuid"
+
+#: xlate-linuxrc.sh:80
+msgid "retrying"
+msgstr "nový pokus"
+
+#: xlate-linuxrc.sh:81
+msgid "Looking for %s on: %s"
+msgstr "Hledání %s ve: %s"
+
+#: xlate-linuxrc.sh:82
+msgid "Device"
+msgstr "Zařízení"
+
+#: xlate-linuxrc.sh:83
+msgid "already mounted"
+msgstr "již připojeno"
+
+#: xlate-linuxrc.sh:84
+msgid "Mounted %s at %s"
+msgstr "Připojeno %s v %s"
+
+#: xlate-linuxrc.sh:85
+msgid "The boot param %s was given but no %s was found"
+msgstr "Parametr zavedení %s byl předán, ale žádné %S nebylo nalezeno"
+
+#: xlate-linuxrc.sh:86
+msgid "Waiting %s seconds"
+msgstr "Čekám %s vteřin"
+
+#: xlate-linuxrc.sh:87
+msgid "Not enough RAM available for"
+msgstr "Není dostatek RAM pro"
+
+#: xlate-linuxrc.sh:88
+msgid "have"
+msgstr "máte"
+
+#: xlate-linuxrc.sh:89
+msgid "needed"
+msgstr "je potřeba"
+
+#: xlate-linuxrc.sh:90
+msgid "Unable to mount tmpfs.  Not doing"
+msgstr "Nelze připojit tmpfs. Nic se neprovede"
+
+#: xlate-linuxrc.sh:91
+msgid "Copying files from %s to %s ... Please be patient"
+msgstr "Kopírování souborů %s do %s... Prosím buďte trpěliví"
+
+#: xlate-linuxrc.sh:92
+msgid "Copy failed.  Aborting"
+msgstr "Kopírování selhalo. Rušení operace"
+
+#: xlate-linuxrc.sh:93
+msgid "Copy to ram failed.  Destination file missing"
+msgstr "Kopírování do ram selhalo. Chybí cílový soubor"
+
+#: xlate-linuxrc.sh:94
+msgid "Copy was incomplete. The %s failed"
+msgstr "Kopírování nebylo dokončeno. %s selhalo"
+
+#: xlate-linuxrc.sh:95
+msgid "Original size"
+msgstr "Původní velikost"
+
+#: xlate-linuxrc.sh:96
+msgid "Copy size"
+msgstr "Velikost kopie"
+
+#: xlate-linuxrc.sh:97
+msgid "Copy to RAM succeeded"
+msgstr "Kopírování do RAM bylo úspěšné"
+
+#: xlate-linuxrc.sh:98
+msgid "Not enough space in RAM to hold persistent root"
+msgstr "Není dostatek místa v RAM pro držení trvalého root"
+
+#: xlate-linuxrc.sh:99
+msgid "Time to remaster"
+msgstr "Čas k remastrování"
+
+#: xlate-linuxrc.sh:100
+msgid "Copy to RAM failed!  Erasing partial copy ..."
+msgstr "Kopírování do RAM selhalo! Mazání částečné kopie..."
+
+#: xlate-linuxrc.sh:101
+msgid "Could not find any persistence files"
+msgstr "Nelze najít žádné soubory trvalé soubory"
+
+#: xlate-linuxrc.sh:102
+msgid "Could not find %s for required %s persistence"
+msgstr "Nelze najít %s pro požadovanou trvalost %s"
+
+#: xlate-linuxrc.sh:103
+msgid "Not enabling %s persistence"
+msgstr "Trvání %s není povoleno"
+
+#: xlate-linuxrc.sh:104
+msgid "Enabling %s persistence"
+msgstr "Trvání %s je povoleno"
+
+#: xlate-linuxrc.sh:105
+msgid "Not remastering rootfs twice"
+msgstr "Rootfs nebude dvakrát remastrován"
+
+#: xlate-linuxrc.sh:106
+msgid "Looking for crypt device ..."
+msgstr "Hledání šifrovacího zaízení..."
+
+#: xlate-linuxrc.sh:107
+msgid "Could not find crypt device"
+msgstr "Nelze naít šifrovací zařízení"
+
+#: xlate-linuxrc.sh:108
+msgid "Could not find crypt device after"
+msgstr "Nelze najít šifrovací zařízení po"
+
+#: xlate-linuxrc.sh:109
+msgid "Strange, could not find crypt device"
+msgstr "Zvláštní, nelze najít šifrovací zařízení"
+
+#: xlate-linuxrc.sh:110
+msgid "Found crypt partition"
+msgstr "Nalezen šifrovaný oddíl"
+
+#: xlate-linuxrc.sh:111
+msgid "Could not find iso file"
+msgstr "Nelze nalézt soubor iso"
+
+#: xlate-linuxrc.sh:112
+msgid "linuxfs file: %s not found on %s"
+msgstr "soubor linuxfs: %s nenalezeno v %s"
+
+#: xlate-linuxrc.sh:113
+msgid "Could not find linuxfs file"
+msgstr "Nelze nalézt soubor linuxfs"
+
+#: xlate-linuxrc.sh:114
+msgid "Unknown %s parameter: %s"
+msgstr "Neznámý %s parametr: %s"
+
+#: xlate-linuxrc.sh:115
+msgid "Valid values"
+msgstr "Platné hodnoty"
+
+#: xlate-linuxrc.sh:116
+msgid "Creating the aufs tempfs failed"
+msgstr "Vytváření aufs tempfs selhalo"
+
+#: xlate-linuxrc.sh:117
+msgid "Could not enable required %s persistence"
+msgstr "Nelze povolit požadované trvání %s"
+
+#: xlate-linuxrc.sh:118
+msgid "Could not mount aufs"
+msgstr "Nelze připojit aufs"
+
+#: xlate-linuxrc.sh:119
+msgid "The linuxrc bootstrap is done"
+msgstr "Zavedení lunuxrc je hotovo"
+
+#: xlate-linuxrc.sh:121
+msgid "Creating %s at: %s"
+msgstr "Vytváření %s ve: %s"
+
+#: xlate-linuxrc.sh:122
+msgid "Output of:"
+msgstr "Výstup:"
+
+#: xlate-linuxrc.sh:123
+msgid "Loading module:"
+msgstr "Načítání modulu:"
+
+#: xlate-linuxrc.sh:124
+msgid "Translating to %s in %s"
+msgstr "Překládání do %s ve %s"
+
+#: xlate-linuxrc.sh:125
+msgid "Invalid %s parameter(s):"
+msgstr "Neplatné parametry %s:"
+
+#: xlate-linuxrc.sh:126
+msgid "Valid values are:"
+msgstr "Platné hodnoty jsou:"
+
+#: xlate-linuxrc.sh:127
+msgid "Scanning %s devices for"
+msgstr "Skenování zařízení %s pro"
+
+#: xlate-linuxrc.sh:128
+msgid "No %s devices found!"
+msgstr "Žádná zařízení %s nebyla nalezena!"
+
+#: xlate-linuxrc.sh:129
+msgid "Filtered devices:"
+msgstr "Filtrovaná zařízení:"
+
+#: xlate-linuxrc.sh:130
+msgid "The %s parameter is blocking device: %s"
+msgstr "Parametr %s blokuje zařízení: %s\n\t"
+
+#: xlate-linuxrc.sh:131
+msgid "Remove the %s boot parameter to let that device be scanned"
+msgstr "Odstraňte parametr zavedení %s, aby toto zařízení mohlo být skenováno."
+
+#: xlate-linuxrc.sh:132
+msgid "Found new device in:"
+msgstr "Nalezeno nové zařízení ve:"
+
+#: xlate-linuxrc.sh:133
+msgid "Putting persistent root in RAM"
+msgstr "Vkládání přetrvávajícíh root do RAM"
+
+#: xlate-linuxrc.sh:134
+msgid "from"
+msgstr "z"
+
+#: xlate-linuxrc.sh:135
+msgid "Copying"
+msgstr "Kopírování"
+
+#: xlate-linuxrc.sh:136
+msgid "to"
+msgstr "do"
+
+#: xlate-linuxrc.sh:137
+msgid "Copy persistent root to RAM succeeded"
+msgstr "Kopírování přetrvávajícího root do RAM úspěšné"
+
+#: xlate-linuxrc.sh:138
+msgid "Delaying %s second(s)"
+msgstr "Zdržení o %s vteřin"
+
+#: xlate-linuxrc.sh:139
+msgid "Module %s was not found."
+msgstr "Modul %s nebyl nalezen."
+
+#: xlate-linuxrc.sh:140
+msgid "Could not mount %s as a %s file"
+msgstr "Nelze připojit %s jako soubor %s"
+
+#: xlate-linuxrc.sh:141
+msgid "Mounting %s at %s"
+msgstr "Připojování %s ve %s"
+
+#: xlate-linuxrc.sh:142
+msgid "Starting init process"
+msgstr "Spuštění zavádějícího procesu"

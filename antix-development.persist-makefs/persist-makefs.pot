@@ -1,0 +1,366 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-18 12:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: persist-makefs:24
+msgid "antiX Create or Resize Persistence"
+msgstr ""
+
+#: persist-makefs:25
+msgid "Create or resize the files need for root and/or home persistence."
+msgstr ""
+
+#: persist-makefs:29
+msgid "Use <%s> as the persistence device"
+msgstr ""
+
+#: persist-makefs:33
+msgid "Change Persistence Device"
+msgstr ""
+
+#: persist-makefs:34
+msgid "Change Peristence Path"
+msgstr ""
+
+#: persist-makefs:35
+msgid "Create Root Persistence"
+msgstr ""
+
+#: persist-makefs:36
+msgid "Resize Root Persistence"
+msgstr ""
+
+#: persist-makefs:37
+msgid "Make rootfs.new file for remastering"
+msgstr ""
+
+#: persist-makefs:38
+msgid "Create Home Persistence"
+msgstr ""
+
+#: persist-makefs:39
+msgid "Resize Home Persistence"
+msgstr ""
+
+#: persist-makefs:41
+msgid "Quit this program"
+msgstr ""
+
+#: persist-makefs:42
+msgid "Update information"
+msgstr ""
+
+#: persist-makefs:43
+msgid "Fix or delete broken and outdated files"
+msgstr ""
+
+#: persist-makefs:45
+msgid "Fix"
+msgstr ""
+
+#: persist-makefs:46
+msgid "Delete"
+msgstr ""
+
+#: persist-makefs:47
+msgid "Explore"
+msgstr ""
+
+#: persist-makefs:49 persist-makefs:381
+msgid "Exploration Menu"
+msgstr ""
+
+#: persist-makefs:50
+msgid "Exploring"
+msgstr ""
+
+#: persist-makefs:51
+msgid "Persistence Device"
+msgstr ""
+
+#: persist-makefs:52
+msgid "Persistence Directory"
+msgstr ""
+
+#: persist-makefs:53
+msgid "Persistence file: %s"
+msgstr ""
+
+#: persist-makefs:54
+msgid "Stop Exploring"
+msgstr ""
+
+#: persist-makefs:56
+msgid "Stop Fixing and deleting"
+msgstr ""
+
+#: persist-makefs:57
+msgid "Fix and Delete Files Menu"
+msgstr ""
+
+#: persist-makefs:59
+msgid "does not exist"
+msgstr ""
+
+#: persist-makefs:60
+msgid "Broken!"
+msgstr ""
+
+#: persist-makefs:63
+msgid "Simple, stable, no journaling"
+msgstr ""
+
+#: persist-makefs:64
+msgid "Adds journaling."
+msgstr ""
+
+#: persist-makefs:65
+msgid "Journaling, checksums, fast fsck"
+msgstr ""
+
+#: persist-makefs:98
+msgid "File System Type"
+msgstr ""
+
+#: persist-makefs:112
+msgid "The file %s already exists"
+msgstr ""
+
+#: persist-makefs:114
+msgid "Do you want to over-write it?"
+msgstr ""
+
+#: persist-makefs:119
+msgid "Please select for the new partition"
+msgstr ""
+
+#: persist-makefs:121
+msgid "For %s persistence"
+msgstr ""
+
+#: persist-makefs:125
+msgid "Not enough space on device to %s"
+msgstr ""
+
+#: persist-makefs:144
+msgid "About to create %s file"
+msgstr ""
+
+#: persist-makefs:145
+msgid "size"
+msgstr ""
+
+#: persist-makefs:146
+msgid "type"
+msgstr ""
+
+#: persist-makefs:147
+msgid "directory"
+msgstr ""
+
+#: persist-makefs:148
+msgid "device"
+msgstr ""
+
+#: persist-makefs:149
+msgid "Shall we proceed?"
+msgstr ""
+
+#: persist-makefs:176
+msgid "Please be patient while %s megs are copied ..."
+msgstr ""
+
+#: persist-makefs:190
+msgid "Was unable to unmount %s at %s"
+msgstr ""
+
+#: persist-makefs:193
+msgid "Please select a new persistence device"
+msgstr ""
+
+#: persist-makefs:194
+msgid "Current device is: %s"
+msgstr ""
+
+#: persist-makefs:205
+msgid "The selected device %s is read-only"
+msgstr ""
+
+#: persist-makefs:206
+msgid "Please select a different device"
+msgstr ""
+
+#: persist-makefs:225
+msgid "new"
+msgstr ""
+
+#: persist-makefs:229
+msgid "Please choose a new persistence directory"
+msgstr ""
+
+#: persist-makefs:230
+msgid "The current choice is %s"
+msgstr ""
+
+#: persist-makefs:238
+msgid "Please select a new persistence directory"
+msgstr ""
+
+#: persist-makefs:239
+msgid "The current one is %s"
+msgstr ""
+
+#: persist-makefs:252
+msgid "Expected a directory at %s but found a file."
+msgstr ""
+
+#: persist-makefs:254
+msgid "The only other option is to quit."
+msgstr ""
+
+#: persist-makefs:259
+msgid "Unable to erase file %s"
+msgstr ""
+
+#: persist-makefs:265
+msgid "Unable to make directory %s"
+msgstr ""
+
+#: persist-makefs:282
+msgid "There were no errors to correct in %s."
+msgstr ""
+
+#: persist-makefs:285
+msgid "File system in %s should be fixed."
+msgstr ""
+
+#: persist-makefs:288
+msgid "File system in %s left uncorrected."
+msgstr ""
+
+#: persist-makefs:289
+msgid "You may be able to fix this manually with the command:"
+msgstr ""
+
+#: persist-makefs:293
+msgid "Failed to fix %s"
+msgstr ""
+
+#: persist-makefs:294
+msgid "Shall I delete the file: %s?"
+msgstr ""
+
+#: persist-makefs:302
+msgid "Delete file %s?"
+msgstr ""
+
+#: persist-makefs:317
+msgid "No more files left to fix or delete"
+msgstr ""
+
+#: persist-makefs:336
+msgid "Strange.  No more files left to fix or delete"
+msgstr ""
+
+#: persist-makefs:351 persist-makefs:394 persist-makefs:702
+msgid "Really Quit?"
+msgstr ""
+
+#: persist-makefs:410
+msgid "Strange.  Could not find file %s"
+msgstr ""
+
+#: persist-makefs:411
+msgid "Cannot explore what we cannot find."
+msgstr ""
+
+#: persist-makefs:438
+msgid "total"
+msgstr ""
+
+#: persist-makefs:463
+msgid "Used"
+msgstr ""
+
+#: persist-makefs:510
+msgid "Default device %s is either missing or invalid"
+msgstr ""
+
+#: persist-makefs:511 persist-makefs:527
+msgid "Please select a new device for the persistence files"
+msgstr ""
+
+#: persist-makefs:526
+msgid "The boot/persist device %s is read-only."
+msgstr ""
+
+#: persist-makefs:547
+msgid "total space on device"
+msgstr ""
+
+#: persist-makefs:548
+msgid "available space"
+msgstr ""
+
+#: persist-makefs:549
+msgid "total RAM"
+msgstr ""
+
+#: persist-makefs:551
+msgid "persist device"
+msgstr ""
+
+#: persist-makefs:552
+msgid "persist path"
+msgstr ""
+
+#: persist-makefs:571
+msgid "(The %s file is already as large as all RAM)"
+msgstr ""
+
+#: persist-makefs:639
+msgid "Create Root"
+msgstr ""
+
+#: persist-makefs:646
+msgid "Can't resize %s while it is already mounted."
+msgstr ""
+
+#: persist-makefs:651
+msgid "Resize Root"
+msgstr ""
+
+#: persist-makefs:655
+msgid "The resize rootfs has failed."
+msgstr ""
+
+#: persist-makefs:656
+msgid "Shall I delete the %s file?"
+msgstr ""
+
+#: persist-makefs:667
+msgid "Create rootfs.new (for remastering)"
+msgstr ""
+
+#: persist-makefs:672
+msgid "Create Home"
+msgstr ""
+
+#: persist-makefs:678
+msgid "Resize Home"
+msgstr ""

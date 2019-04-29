@@ -1,0 +1,731 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# Michele Iezzi <miki1965@gmail.com>, 2018
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: 2016-10-14 08:28+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>, 2018\n"
+"Language-Team: Italian (https://www.transifex.com/anticapitalista/teams/10162/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Avvio di %s"
+
+msgid "The selected usb drive was %s"
+msgstr "L'unità USB selezionata era %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr ""
+"Questo dispositivo è noto per causare errori durante la creazione e il boot."
+
+msgid "Do you want to use it anyway?"
+msgstr "Vuoi usarlo comunque?"
+
+msgid "Will use target device %s"
+msgstr "Verrà utilizzato il dispositivo di destinazione %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Creare una Live USB crittografata?"
+
+msgid "copying"
+msgstr "Copia in corso"
+
+msgid "Please enter the filename"
+msgstr "Inserisci il nome del file"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "file"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "dispositivo"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "clonazione"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "directory"
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "Verrà utilizzata la sorgente %s"
+
+msgid "Could not find device %s"
+msgstr "Impossibile trovare il dispositivo %s"
+
+msgid "Customize language and timezone?"
+msgstr "Personalizzare la lingua e il fuso orario?"
+
+msgid "Encryption enabled"
+msgstr "Crittografia attivata"
+
+msgid "encrypted"
+msgstr "crittografato"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "Pronto per la creazione di %s sul dispositivo %s per %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "Pronto per l'esecuzione di %s su %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "Pronto per l'esecuzione di %s su %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Possiamo iniziare?"
+
+msgid "install"
+msgstr "installare"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr "Ti verrà chiesto di creare una passphrase durante il primo avvio"
+
+msgid "Will use initial passphrase %s"
+msgstr "Verrà utilizzata la password/passphrase iniziale %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "Crea una Live USB con tutte le funzionalità"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Crea una Live USB crittografata con tutte le funzionalità"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr ""
+"Crea una Live USB personalizzata (include l'opzione della crittografia)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr "Aggiorna il SO su una Live USB esistente (sperimentale)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Aggiorna gli identificativi UUID su una Live USB esistente"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Aggiorna i parametri di boot su una Live USB esistente"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Reinstalla il bootloader legacy su una Live USB esistente"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Cancella la tabella delle partizioni su un dispositivo USB "
+
+msgid "Please select what action to perform"
+msgstr "Seleziona quale azione eseguire"
+
+msgid "Please select the source for the new live-usb"
+msgstr "Seleziona la sorgente per la nuova Live USB"
+
+msgid "The only usb drive detected was %s"
+msgstr " L'unica unità USB rilevata è %s"
+
+msgid "A %s usb drive was detected"
+msgstr "È stata rilevata l'unità USB %s "
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Vuoi comunque includerla nel menu?"
+
+msgid "No available target usb devices were found"
+msgstr "Non sono stati trovati dispositivi USB di destinazione disponibili"
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "È stato trovato solo un dispositivo USB di destinazione %s"
+
+msgid "Please select the target usb device"
+msgstr "Seleziona il dispositivo USB di destinazione"
+
+msgid "entire drive"
+msgstr "intera unità"
+
+msgid "main partition"
+msgstr "partizione principale"
+
+msgid "bios partition"
+msgstr "partizione del bios"
+
+msgid "uefi partition"
+msgstr "partizione uefi"
+
+msgid "Already using over 90% of the device"
+msgstr "È già in uso oltre il 90% del dispositivo"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Vuoi cambiare la quantità usata nel dispositivo?"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "È stata impostata la dimensione a %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Seleziona quanto spazio deve essere usato per le partizioni della Live USB"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Supponendo che questa sia una Live USB crittografata"
+
+msgid "About to encrypt device %s"
+msgstr "Info sulla crittografia del dispositivo %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "Vogliamo sovrascrivere i dati su %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Digitare %s in maiuscolo, come suggerito"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "Ti verrà chiesta la password/passphrase una terza volta"
+
+msgid "Failed to create encrypted device"
+msgstr "Impossibile crittografare il dispositivo"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Vuoi provare a inserire la nuova password/passphrase ora?"
+
+msgid "Failed to open encrypted device"
+msgstr "Impossibile aprire il dispositivo crittografato"
+
+msgid "Encryption successful"
+msgstr "Crittografia riuscita"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "Attendi mentre viene montato il disco ottico su %s"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Utilizzo del partizionamento %s"
+
+msgid "copy from %s to %s partition"
+msgstr "copia da %s alla partizione %s"
+
+msgid "files: %s"
+msgstr "file: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr ""
+"Errore durante la copia dei file sulla partizione principale della Live USB"
+
+msgid "Error while copying %s files"
+msgstr "Errore durante la copia di %s file"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Si è verificato un errore durante la decompressione di initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr ""
+"Non è stato possibile aggiungere tutti i programmi richiesti all'initrd live"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Abilita la crittografia nell'initrd live"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Disabilita la crittografia nell'initrd live"
+
+msgid "Fix %s bug"
+msgstr "Correggi il bug %s"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Crea la directory syslinux da %s"
+
+msgid "Not enough space on %s partition"
+msgstr "Spazio insufficiente nella partizione %s"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Nella partizione %s rimarrebbero meno di %s MiB"
+
+msgid "done"
+msgstr "fatto"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Esci"
+
+msgid "Please enter the name of the iso file"
+msgstr "Inserisci il nome del file iso"
+
+msgid "The live media is not mounted"
+msgstr "Il supporto 'live' non è montato"
+
+msgid "Current running kernel is %s"
+msgstr "Attualmente è in esecuzione il kernel %s"
+
+msgid "This is not a live-usb system"
+msgstr "Questo non è un sistema Live USB"
+
+msgid "Will use running live system"
+msgstr "Verrà usato il sistema 'live' in esecuzione"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "'%s' non sembra essere un dispositivo USB"
+
+msgid "Can't find first partition on device %s"
+msgstr "Impossibile trovare la prima partizione sul dispositivo %s"
+
+msgid "Device %s is not a disk partition"
+msgstr "Il dispositivo %s non è una partizione del disco"
+
+msgid "Will use live-usb device %s"
+msgstr "Verrà utilizzato il dispositivo Live USB %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "Nessun file '%s' è stato trovato in alcuna directory in '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "Impossibile trovare '%s' o '%s' sulla Live USB"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "Il file %s '%s' è stato trovato nella directory %s"
+
+msgid "Could not find initrd file: %s"
+msgstr "Impossibile trovare il file initrd: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Trovato:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "kernel 'live' in totale"
+
+msgid "total live kernels"
+msgstr "kernel 'live' in totale"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "kernel 'live' predefinito"
+
+msgid "default live kernels"
+msgstr "kernel 'live' predefiniti"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "vecchio kernel 'live'"
+
+msgid "old live kernels"
+msgstr "vecchi kernel 'live'"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "kernel installato in totale"
+
+msgid "total installed kernels"
+msgstr "kernel installati in totale"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "nuovo kernel installato"
+
+msgid "new installed kernels"
+msgstr "nuovi kernel installati"
+
+msgid "Live kernels:"
+msgstr "Kernel 'live':"
+
+msgid "Boot kernels:"
+msgstr "Kernel eseguibili all'avvio:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "È stato trovato solo un nuovo kernel installato:"
+
+msgid "New installed kernels:"
+msgstr "Nuovi kernel installati:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Ci sono %s nuovi kernel. Viene mostrato solo il più recente %s."
+
+msgid "No kernels were found in the boot directory"
+msgstr "Nessun kernel è stato trovato nella directory 'boot'"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "Nessun kernel è stato trovato nella directory 'boot' della 'live'"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "Dovresti rimasterizzare prima di aggiornare il kernel"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "DEVI rimasterizzare prima di aggiornare il kernel"
+
+msgid "No new kernels were found"
+msgstr "Nessun nuovo kernel trovato"
+
+msgid "Can only update the initrd file"
+msgstr "È possibile aggiornare solo il file initrd"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Devi installare un kernel, quindi rimasterizzarlo, prima di aggiornarlo"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Nessun nuovo kernel trovato e nessun modello di file initrd"
+
+msgid "live kernel update"
+msgstr "aggiornamento del kernel 'live'"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Corrente"
+
+msgid "New"
+msgstr "Nuovo"
+
+msgid "(new)"
+msgstr "(nuovo)"
+
+msgid "live kernel rollback"
+msgstr "ripristina il precedente kernel 'live'"
+
+msgid "Old"
+msgstr "Vecchio"
+
+msgid "live initrd update"
+msgstr "aggiornamento dell'initrd 'live'"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Aggiorna l'initrd usando il file"
+
+msgid "live modules update"
+msgstr "aggiornamento dei moduli 'live'"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Aggiungi moduli initrd"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "Pronti a realizzare  il seguente %s"
+
+msgid "The current Live System on %s"
+msgstr "Il sistema Live corrente è su %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Il sistema non è una usb-Live e non sono state rilevate unità usb"
+
+msgid "Please select the system to update"
+msgstr "Prego seleziona il sistema da aggiornare"
+
+msgid "No update or rollback actions are available"
+msgstr ""
+"Non sono disponibili azioni di aggiornamento o ripristino della versione "
+"precedente"
+
+msgid "Please select an action to perform"
+msgstr "Prego, seleziona un azione da eseguire"
+
+msgid "Update"
+msgstr "Aggiorna"
+
+msgid "from"
+msgstr "da"
+
+msgid "Rollback"
+msgstr "Ripristina versione precedente"
+
+msgid "to"
+msgstr "a"
+
+msgid "Update initrd using file %s"
+msgstr "Aggiorna initrd usando il file %s"
+
+msgid "Quit"
+msgstr "Esci"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "Non è stato trovato alcun nuovo kernel nella directory boot"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "Trovato un kernel che combacia con la versione richiesta  %s"
+
+msgid "Found one new kernel %s"
+msgstr "Trovato un nuovo kernel %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "Prego, seleziona il nuovo kernel da questa lista"
+
+msgid "kernel"
+msgstr "kernel"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "La copia dei moduli initrd per il kernel %s è fallita"
+
+msgid "No modules were copied to the initrd"
+msgstr "Nessun modulo è stato copiato nell'initrd"
+
+msgid "Compressing ..."
+msgstr "Compressione ..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "installare %s"
+
+msgid "Overwriting backup"
+msgstr "Sovrascrittura del backup"
+
+msgid "Target file %s does not exist"
+msgstr "Il file Target %s non esiste"
+
+msgid "Could not find old %s file to roll back"
+msgstr "Non si riesce a trovare il vecchio file %s per fare il ripristino"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Ripristino di %s su %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "in modalità simulata"
+
+msgid "Would you like to do a remaster now?"
+msgstr "Desideri fare un remaster ora?"
+
+msgid "Ready to restart %s"
+msgstr "Pronto a riavviare %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "Ci si aspetta un parametro dopo: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Argomento sospetto (suspicious) dopo %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "In attesa di '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Invio"
+
+msgid "Press <%s> to continue"
+msgstr "Premi <%s> per continuare"
+
+msgid "Unknown command: %s"
+msgstr "Comando sconosciuto: %s"
+
+msgid "yes"
+msgstr "sì"
+
+msgid "no"
+msgstr "no"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "esci"
+
+msgid "default"
+msgstr "predefinito"
+
+msgid "pretend mode"
+msgstr "modalità simulata"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "MODALITA' SIMULATA ABILITATA"
+
+msgid "entry"
+msgstr "la voce"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Premi <%s> per il predefinito %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Usa %s per aiuto, %s su %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Usa %s su %s"
+
+msgid "Oops.  Please try again"
+msgstr "Oops.  Per favore riprova"
+
+msgid "You must enter a number"
+msgstr "Devi inserire un numero"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Devi inserire un numero o premere <Enter>"
+
+msgid "The number '%s' is out of range"
+msgstr "Il numero '%s' è fuori range"
+
+msgid "Press '%s' again to quit"
+msgstr "Premi ancora '%s' per uscire"
+
+msgid "You chose %s"
+msgstr "Hai scelto %s"
+
+msgid "Please select the live boot directory"
+msgstr "Prego scegli la directory di boot della live"
+
+msgid "You entered: %s"
+msgstr "Hai iserito: %s"
+
+msgid "Is this correct?"
+msgstr "Questo è corretto?"
+
+msgid "(tab completion is enabled)"
+msgstr ""
+"(è abilitato il completamento automatico della parola con il tasto tab)"
+
+msgid "%s does not appear to be a file"
+msgstr "%s non sembra essere un file"
+
+msgid "Try again?"
+msgstr "Provare di nuovo?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Size"
+msgstr "Dimensione"
+
+msgid "Filesystem"
+msgstr "Filesystem"
+
+msgid "Label"
+msgstr "Etichetta"
+
+msgid "Model"
+msgstr "Modello"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Clona questo sistema Live"
+
+msgid "Copy from an ISO file"
+msgstr "Copia da un file ISO"
+
+msgid "Check md5 of the file %s?"
+msgstr "Verifica dell'md5 del file %s?"
+
+msgid "Checking md5 ..."
+msgstr "Verifca md5 in corso ..."
+
+msgid "Keep going anyway?"
+msgstr "Continuare comunque?"
+
+msgid "The %s program failed!"
+msgstr "Il programma %s ha fallito!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "File"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Versione"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "From"
+msgstr "Da"
+
+msgid "To"
+msgstr "A"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Totale"
+
+msgid "Used"
+msgstr "Usato"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Error"
+msgstr "Errore"
+
+msgid "Warning"
+msgstr "Attenzione"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s ha impiegato %s secondi"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Un processo %s (utilizzando PID %s) è già in esecuzione"
+
+msgid "Please close that process before starting a new one"
+msgstr "Si prega di chiudere questo processo prima di iniziarne uno nuovo"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Impossibile ottenere il controllo esclusivo su %s"
+
+msgid "Creating new config file %s"
+msgstr "Creazione del nuovo file config %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Non si riesce a trovare il programma %s. Si salta oltre %s."
+
+msgid "Could not find required program '%s'"
+msgstr "Non si riesce a trovare il programma richiesto '%s'"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "La %s directory '%s' non è scrivibile"
+
+msgid "Could not find iso file %s"
+msgstr "Non si riesce a trovare il file iso %s"
+
+msgid "Could not read iso file %s"
+msgstr "Non si riesce a leggere il file iso %s"
+
+msgid "Could not mount iso file %s"
+msgstr "Non si riesce a montare il file iso %s"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distro: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distro: %s su %s"
+
+msgid "This script must be run as root"
+msgstr "Questo script dovrebbe essere eseguito come root"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Premi %s per selezionare %s evidenziata"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Usa %s per aiuto, %s per ripetere la richiesta di scelta, %s per %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Usa %s per ripetere la richiesta di scelta, %s per %s"

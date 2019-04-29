@@ -1,0 +1,40 @@
+# Translation for antiX Development: live-L10n file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# cyril cottet <cyrilusber2001@yahoo.fr>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-11-03 19:27-0600\n"
+"PO-Revision-Date: 2017-11-20 21:36+0000\n"
+"Last-Translator: cyril cottet <cyrilusber2001@yahoo.fr>\n"
+"Language-Team: French (http://www.transifex.com/anticapitalista/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Localizing console and timezone"
+msgstr "Régionalisation de la console et du fuseau horaire"
+
+msgid "Setting timezone and localtime to %s"
+msgstr "Configurer le fuseau horaire et l'heure locale sur %s"
+
+msgid "Unknown time zone %s"
+msgstr "Fuseau horaire inconnu %s"
+
+msgid "Recreate symlink %s"
+msgstr "Recréation du lien symbolique %s"
+
+msgid "Setting hostname to %s"
+msgstr "Configuration du nom d'hôte sur %s"
+
+msgid "Setting locale to %s"
+msgstr "Configuration de la locale sur %s"
+
+msgid "Configuring console for a %s keymap"
+msgstr "Configuration de la console pour un clavier %s"

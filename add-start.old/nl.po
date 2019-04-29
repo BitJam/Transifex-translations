@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# eadwine, 2014
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-04 16:27+EEST\n"
+"PO-Revision-Date: 2014-02-17 17:40+0000\n"
+"Last-Translator: eadwine\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: add-start:38
+msgid "No line Selected:"
+msgstr "Geen regel geselecteerd:"
+
+#: add-start:39
+msgid "line has been removed"
+msgstr "Regel is verwijderd"
+
+#: add-start:40
+msgid "Remove Items"
+msgstr "Verwijder Items"
+
+#: add-start:41
+msgid "Remove"
+msgstr "Verwijder"
+
+#: add-start:42
+msgid "You need to enter a command"
+msgstr "U moet een commando invoeren"
+
+#: add-start:43
+msgid "command has been added"
+msgstr "Commando is toegevoegd"
+
+#: add-start:44
+msgid "Add Items"
+msgstr "Items Toevoegen"
+
+#: add-start:45
+msgid "Command"
+msgstr "Commando"
+
+#: add-start:46
+msgid "Sleep Time"
+msgstr ""
+
+#: add-start:47
+msgid "Add"
+msgstr "Toevoegen"
+
+#: add-start:48
+msgid "Changing start for:"
+msgstr ""
+
+#: add-start:49
+msgid ""
+"There is no file ~/.%s/startup \n"
+"The session variable DESKTOP_CODE='%s' \n"
+"incorrectly matches your system"
+msgstr "Er is geen bestand ~/.%s/startup\nDe sessie variabele DESKTOP_CODE='%s' correspondeert niet met uw systeem"

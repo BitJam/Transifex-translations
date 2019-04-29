@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-04-24 12:29+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:16
+msgid "Change Display Manager"
+msgstr "Gestor de canvi de pantalla"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:18
+msgid "Change the display manager and then offer too restart X-windows."
+msgstr "Canvia el gestor de pantalla i ofereix de tornar a arrencar les X-windows."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:24
+msgid "New display manager."
+msgstr "Nou gestor de pantalla"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:25
+msgid "Pause between stopping and starting."
+msgstr "Pausa entre aturada i arrencada"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:42
+msgid "Invalid deskcode: %s"
+msgstr "Deskcode no vàlid: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:44
+msgid "Valid choices: %s"
+msgstr "Opcions vàlides: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:46
+msgid "Found no Slim sessions"
+msgstr "No s'han trobat sessions de Slim"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:52
+msgid "Set default window manager to: %s"
+msgstr "Gestor de finestres per omissió establert en: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:54
+msgid "Do you want to restart X-windows now?  "
+msgstr "Voleu tornar a arrencar les X-windows ara?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:56
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Es farà una pausa de %s segons abans de tornar a arrencar) "

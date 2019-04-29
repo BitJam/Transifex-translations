@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# mahmut özcan <mahmutozcan65@yahoo.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Turkish (http://www.transifex.com/anticapitalista/antix-development/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Terminal"
+msgstr "Uçbirim"
+
+msgid "File Manager"
+msgstr "Ev Dizini"
+
+msgid "Web Browser"
+msgstr "Tarayıcı"
+
+msgid "Editor"
+msgstr "Editör"
+
+msgid "Personal"
+msgstr "Kişisel"
+
+msgid "Applications"
+msgstr "Uygulamalar"
+
+msgid "Terminal Apps"
+msgstr "Uçbirim Uygulamaları"
+
+msgid "Multimedia"
+msgstr "Çokluortam"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD Yazıcı"
+
+msgid "Music Player"
+msgstr "Müzik Çalar"
+
+msgid "Network"
+msgstr "Ağ"
+
+msgid "Alpine Mail"
+msgstr "Alpine Posta"
+
+msgid "Browser elinks"
+msgstr "Elinks tarayıcı"
+
+msgid "Irssi Chat"
+msgstr "Irssi Chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom Reader"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Ofis"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr "Menüyü Güncelle"
+
+msgid "Desktop"
+msgstr "Masaüstü"
+
+msgid "Alternate Desktops"
+msgstr "Diğer Masaüstleri"
+
+msgid "Add Desktop"
+msgstr "Masaüstü ekle"
+
+msgid "Wallpaper"
+msgstr "Duvarkağıdı"
+
+msgid "GTK Theme"
+msgstr "GTK Teması"
+
+msgid "Desktop Defaults"
+msgstr ""
+
+msgid "Session Settings"
+msgstr "Oturum Ayarları"
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel aç/kapa"
+
+msgid "Conky on/off"
+msgstr "Conky açık/kapalı"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr ""
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "MC File Manager"
+msgstr "Ev Dizini MC"
+
+msgid "App Killer"
+msgstr ""
+
+msgid "Process Viewer"
+msgstr "İşlem Görüntüleyici"
+
+msgid "System Information"
+msgstr "Sistem Bilgisi"
+
+msgid "Control Centre"
+msgstr "Denetim Masası"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX SSS"
+
+msgid "antiX-live How-To"
+msgstr "antiX-çalışan Nasıl"
+
+msgid "Rox Manual"
+msgstr "Rox Kılavuzu"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox Belgeler"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox SSS"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM SSS"
+
+msgid "IceWM Manual"
+msgstr "IceWM Kılavuzu"
+
+msgid "OSNews"
+msgstr "İşletim Sistemi Haberleri"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Anasayfa"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Güvenlik Duvarı "
+
+msgid "Partimage"
+msgstr ""
+
+msgid "Man Pages"
+msgstr "Kılavuz Sayfaları"
+
+msgid "Backup"
+msgstr "Yedekle"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr ""
+
+msgid "mocp"
+msgstr ""
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Çalıştır"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox Ayarları"
+
+msgid "Configuration"
+msgstr "Yapılandırma"
+
+msgid "Styles"
+msgstr "Biçimler"
+
+msgid "~/.fluxbox/styles"
+msgstr ""
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox Biçimleri"
+
+msgid "Workspaces"
+msgstr "Çalışma alanları"
+
+msgid "Reconfigure"
+msgstr "Yeniden yapılandırma"
+
+msgid "Restart"
+msgstr "Yeniden Başlat "
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "antiX Installer"
+msgstr "Kurmak"
+
+msgid "Logout..."
+msgstr "Oturumu Kapat"
+
+msgid "Restart JWM"
+msgstr "Yeniden Başlat JWM"
+
+msgid "Log Out"
+msgstr "Oturumu Kapat"
+
+msgid "Home Folder"
+msgstr "Ev Dizini"
+
+msgid "Browser"
+msgstr "Tarayıcı"
+
+msgid "Unplug Removable Device"
+msgstr "Kaldırılabilir Aygıtı Ayır"
+
+msgid "Quit"
+msgstr "Çıkış"

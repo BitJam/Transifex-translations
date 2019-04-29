@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:18+EEST\n"
+"PO-Revision-Date: 2013-07-06 14:50+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Estonian (http://www.transifex.com/projects/p/antix-development/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: group-management:40
+msgid "The password cannot contain spaces"
+msgstr ""
+
+#: group-management:41
+msgid "You need to enter a password"
+msgstr ""
+
+#: group-management:42
+msgid "First and second password must be identical"
+msgstr ""
+
+#: group-management:43 group-management:47
+msgid "No group Selected:"
+msgstr ""
+
+#: group-management:44
+msgid "You must choose a group"
+msgstr ""
+
+#: group-management:45
+msgid "Password Management"
+msgstr ""
+
+#: group-management:46
+msgid "Choose group"
+msgstr ""
+
+#: group-management:48
+msgid "group Password"
+msgstr ""
+
+#: group-management:49
+msgid "password"
+msgstr ""
+
+#: group-management:50
+msgid "password again"
+msgstr ""
+
+#: group-management:51
+msgid "Passwords"
+msgstr ""
+
+#: group-management:52
+msgid "The groupname cannot contain spaces"
+msgstr ""
+
+#: group-management:53
+msgid "You need to enter a groupname"
+msgstr ""
+
+#: group-management:54
+msgid "Add groups"
+msgstr ""
+
+#: group-management:55
+msgid "Enter groupname"
+msgstr ""
+
+#: group-management:56
+msgid "Group Password"
+msgstr ""
+
+#: group-management:57
+msgid "Set Password"
+msgstr ""
+
+#: group-management:58
+msgid "Users"
+msgstr ""
+
+#: group-management:59
+msgid "Add group"
+msgstr ""
+
+#: group-management:60
+msgid "Users to Group"
+msgstr ""
+
+#: group-management:61
+msgid "Repair group"
+msgstr ""
+
+#: group-management:62
+msgid "group Removal"
+msgstr ""
+
+#: group-management:63
+msgid ""
+"Notice!\n"
+"        All of the users in this group will be \n"
+"        logged, unless completely remove\n"
+"        is checked."
+msgstr ""
+
+#: group-management:69
+msgid "Remove group"
+msgstr ""
+
+#: group-management:70
+msgid "No group Recoverable:"
+msgstr ""
+
+#: group-management:71
+msgid "There are no records of a recoverable group."
+msgstr ""
+
+#: group-management:72
+msgid "Recover group"
+msgstr ""
+
+#: group-management:73
+msgid ""
+"Notice!\n"
+"        A group can only be recovered if the group\n"
+"        has not been completely removed!"
+msgstr ""
+
+#: group-management:76
+msgid "Select Group"
+msgstr ""
+
+#: group-management:77
+msgid "You MUST be root to use this application!"
+msgstr ""

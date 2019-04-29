@@ -1,0 +1,159 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011,2014
+# anticapitalista <anticapitalista@riseup.net>, 2014
+# Eadwine Rose, 2014-2015
+# Eadwine Rose, 2015-2017
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+# ko <ko.bros@gmail.com>, 2014-2015
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-05 21:38-0600\n"
+"PO-Revision-Date: 2017-10-11 07:04+0000\n"
+"Last-Translator: Eadwine Rose\n"
+"Language-Team: Dutch (http://www.transifex.com/anticapitalista/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "X-Windows localiseren/configureren"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Splash (fbcondecor) in Virtual Box uitschakelen"
+
+msgid "Creating missing %s file"
+msgstr "Creëren ontbrekend bestand %s"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Geen standaard gebruiker %s gevonden in het systeem."
+
+msgid "Mounting all devices"
+msgstr "Mount alle apparaten"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Ongeldige %s optie %s"
+
+msgid "Automount disabled"
+msgstr "Automatisch koppelen uitgeschakeld"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Activeren fstab hotpluggen"
+
+msgid "Automount enabled"
+msgstr "Automatisch koppelen ingeschakeld"
+
+msgid "Bad fstab option %s"
+msgstr "Verkeerde fstab optie %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Onbekende menu lokalisatietaal %s"
+
+msgid "Directory not found %s"
+msgstr "Directory niet gevonden %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Lokaliseren van menus naar %s in %s"
+
+msgid "Setting %s to %s"
+msgstr "Stel %s in naar %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Verkeerde mirror code %s (twee letters werden verwacht)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Gebruik %s voor localiseren van bron repositories "
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Neem aan dat %s is afgestemd op %s tijd."
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Verwijderen van het eerder automatisch gegenereerde %s bestand"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Veilige modus uitschakelen wegens KMS %s video hardware"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Laat X server standaard %s driver gebruiken"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "X-windows forceren om de standaard modus te gebruiken"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Configureer %s bestand met %s"
+
+msgid "Using X to make xorg.conf"
+msgstr "Gebruik X om xorg.conf te maken"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Forceer %s versnelling op %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Forceer %s driver op %s"
+
+msgid "Creating file %s"
+msgstr "Creëer bestand %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Zoeken naar hardware-specifieke video mudules"
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Vond %s video module(s) %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Vond %s kernel modules ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "%s Video driver gevonden"
+
+msgid "Setting Conky width to %s"
+msgstr "Conky breedte instellen op %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Ongeldige %s boot parameter %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Slechte desktopvertragingsparameter %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "Desktopvertraging instellen op %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Stel console leegmaken timeout in op %s minu(u)t(en)"
+
+msgid "Creating issue file for %s"
+msgstr "Creëren kwestiebestand voor %s"
+
+msgid "Files already exist under %s"
+msgstr "Bestanden bestaan al onder %s"
+
+msgid "Not creating or populating %s"
+msgstr "Niet creeeren of bevolken van %s"
+
+msgid "Populating %s directory"
+msgstr "Vullen van %s directory"
+
+msgid "Setting desktop theme to %s"
+msgstr "Stelt desktop theme in naar %s"

@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-12-28 11:00+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:20
+msgid "Change Default Window Manager"
+msgstr "Cambiare il Window Manager di Default"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:22
+msgid ""
+"Change the default desktop in %s, %s and %s then offer to restart X-windows."
+msgstr "Cambiare il desktop di default in %s, %s e %s  dopo di che richiedere di riavviare X-windows."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:25
+msgid ""
+"Includes all known installed Windows Managers as options in both files."
+msgstr "Include tutti i Windows Managers conosciuti e installati come opzioni in ciascun file."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:31
+msgid "New default desktop."
+msgstr "Nuovo desktop predefinito."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:32
+msgid "Overwrite customized .xinitrc files without asking."
+msgstr "Sovrascrivi il file personalizzato .xinitrc senza chiedere conferma."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:33
+msgid "Pause between stopping and starting X."
+msgstr "Pausa tra l'arresto e il riavvio di X."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:34
+msgid "Print out changes without touching files."
+msgstr "Mostra i cambiamenti senza modificare i file"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:60
+msgid "No %s specified, not updating %s file."
+msgstr "Nessun %s specificato, non viene aggiornato il file %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:62
+msgid "Try running %s as a normal user."
+msgstr "Prova ad eseguire %s come utente normale."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:63
+msgid "Or you could trying running it as:"
+msgstr "Oppure potresti provare ad eseguirlo come:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:68
+msgid "%s directory: %s does not exist"
+msgstr "Directory %s: %s non esiste"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:79
+msgid "Invalid deskcode: %s"
+msgstr "Deskcode non valido: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:81
+msgid "Valid choices: %s"
+msgstr "Scelte valide: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:93
+msgid "Do you want to over-write it?"
+msgstr "Vuoi sovrascriverlo ?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:99
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:109
+msgid "Writing %s\\n"
+msgstr "Scrittura di %s\\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:114
+msgid "Found no Slim sessions"
+msgstr "Nessuna sessione Slim trovata"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:119
+msgid "Here is the new sessions line for slim.conf:"
+msgstr "Ecco la nuova linea delle sessioni per slim.conf:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:131
+msgid "Wrote: %s"
+msgstr "Ha scritto: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:133
+msgid "Set default window manager to: %s"
+msgstr "Imposta il gestore delle finestre predefinito come: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:135
+msgid "Do you want to restart X-windows now?  "
+msgstr "Vuoi riavviare X-windows ora?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:137
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Ci sarà una pausa di %s secondi prima dell'avvio di X-windows)"

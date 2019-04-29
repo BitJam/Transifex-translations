@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# En Kerro <inactive+ekeimaja@transifex.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:57+0000\n"
+"Last-Translator: En Kerro <inactive+ekeimaja@transifex.com>, 2018\n"
+"Language-Team: Finnish (https://www.transifex.com/anticapitalista/teams/10162/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "<Enter> select option, <q> return to Main, <h> help"
+msgstr "<Enter> valitse vaihtoehto, <q> palaa päävalikkoon, <h> ohje"
+
+msgid "<Enter> select option, <q> quit, <h> help"
+msgstr "<Enter> valitse vaihtoehto, <q> lopeta, <h> ohje"
+
+msgid "Return to main menu"
+msgstr "Palaa päävalikkoon"
+
+msgid "Are you SURE you want to %s (y/N) "
+msgstr "Oletko varma että haluat %s (k/E) "
+
+msgid "File not found %s"
+msgstr "Tiedostoa ei löytynyt %s"
+
+msgid "Cannot write to file %s"
+msgstr "Ei voida kirjoittaa tiedostoon %s"
+
+msgid "There are too many %s lines to fit on the screen all at once."
+msgstr "Liian monta %s riviä mahtumaan ruudulle yhtä aikaa."
+
+msgid "Therefore the %s will be sent to the 'less' program."
+msgstr "Täten %s lähetetään 'less'-sovellukselle."
+
+msgid "You can scroll the %s with the arrow keys, <page-up>, and <page-down>."
+msgstr "Voit liikkua %s nuolinäppäimillä, <page-up>, ja <page-down>."
+
+msgid "Use <Home> to go to the beginning and <End> to go to the end"
+msgstr "Paina <Home> siirtyäksesi alkuun ja <End> siirtyäksesi loppuun"
+
+msgid "Press 'q' when you are done.  Use 'h' for help and many more commands."
+msgstr ""
+"Paina 'q' kun olet valmis.  Paina 'h' nähdäksesi oppaan ja mahdolliset "
+"lisäkomennot."

@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# Caner Başaran <basaran.caner@gmail.com>, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 23:02+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/antix-development/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: antixcckeyboard.sh:15
+msgid "Keyboard Config"
+msgstr "Klavye Yapılandırma"
+
+#: antixcckeyboard.sh:19
+msgid "<b>Choose a Language.</b>"
+msgstr "<b>Bir Dil Seçiniz.</b>"
+
+#: antixcckeyboard.sh:24
+msgid "British"
+msgstr "İngilizce (UK)"
+
+#: antixcckeyboard.sh:29
+msgid "French"
+msgstr "Fransızca"
+
+#: antixcckeyboard.sh:33
+msgid "German"
+msgstr "Almanca"
+
+#: antixcckeyboard.sh:37
+msgid "Greek"
+msgstr "Yunanca"
+
+#: antixcckeyboard.sh:41
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: antixcckeyboard.sh:45
+msgid "Norwegian"
+msgstr "Norveçce"
+
+#: antixcckeyboard.sh:49
+msgid "Portuguese"
+msgstr "Portekizce"
+
+#: antixcckeyboard.sh:53
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: antixcckeyboard.sh:57
+msgid "Romanian"
+msgstr "Romanca"
+
+#: antixcckeyboard.sh:61
+msgid "US"
+msgstr "İngilizce (ABD)"
+
+#: antixcckeyboard.sh:68
+msgid "Close"
+msgstr "Kapat"

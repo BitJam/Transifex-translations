@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# scootergrisen, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: 2016-11-16 21:44+0000\n"
+"Last-Translator: scootergrisen, 2018\n"
+"Language-Team: Danish (https://www.transifex.com/anticapitalista/teams/10162/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Grafisk brugerflade for live-USB-skaber"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Livesystem registreret. Vælg oprettelsestilstand for live-USB"
+
+msgid "Select Mode"
+msgstr "Vælg tilstand"
+
+msgid "Select USB Device"
+msgstr "Vælg USB-enhed"
+
+msgid "Clone Mode"
+msgstr "Kloningstilstand"
+
+msgid "Select ISO"
+msgstr "Vælg ISO"
+
+msgid "Clone Running Live System"
+msgstr "Klon kørende livesystem"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "Kilden er ikke en ISO-fil. Vælg venligst en anden fil."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Simpel brugerflade for live-USB-skaber"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Ingen mål-USB-enhed registreret. Indsæt venligst en enhed og prøv igen"
+
+msgid "License"
+msgstr "Licens"
+
+msgid "Apply"
+msgstr "Anvend"
+
+msgid "Close"
+msgstr "Luk"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "Advanced"
+msgstr "Avanceret"
+
+msgid "LiveUSB creation successful!"
+msgstr "Oprettelse af LiveUSB lykkedes!"
+
+msgid "Operation stopped by user."
+msgstr "Handling stoppet af bruger."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "En %s-proces (bruger PID %s) kører allerede"
+
+msgid "Please close that process before starting a new one"
+msgstr "Luk venligst processen inden en ny startes"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Kunne ikke indhente lås på %s"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr "Forløbsvindue lukkede, men jobbet er ikke færdig. Vil du fortsætte?"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"

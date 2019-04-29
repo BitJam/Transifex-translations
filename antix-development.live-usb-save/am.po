@@ -1,0 +1,78 @@
+# Translation for antiX Development: live-usb-save file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-02-18 23:58+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. "State" information are files saved at shutdown and restored at startup
+#. Like saving the state of a game.
+msgid "Restore state information"
+msgstr "የ ሁኔታ መረጃ እንደ ነበር መመለሻ"
+
+msgid "Save state information"
+msgstr "የ ሁኔታ መረጃ ማስቀመጫ"
+
+#. Save <user-name> file <file-name>
+msgid "Save %s file %s"
+msgstr "ማስቀመጫ %s ፋይል %s"
+
+#. Restore <user-name> file <file-name>
+msgid "Restore %s file %s"
+msgstr "እንደ ነበር መመለሻ %s ፋይል %s"
+
+#. "Save %s desktop %s" $(wq $user) $(wq $(cat $from))
+msgid "Save %s desktop %s"
+msgstr "ማስቀመጫ %s ዴስክቶፕ %s"
+
+#. Restore <user-name> desktop to <window-manager-name>
+msgid "restore %s desktop to %s"
+msgstr "እንደ ነበር መመለሻ %s ዴስክቶፕ %s"
+
+#. "general" (same on all machines) versus "machine specific"
+msgid "general"
+msgstr "ባጠቃላይ"
+
+#. "machine specific" versus "general" (same on all machines)
+msgid "machine specific"
+msgstr "machine specific"
+
+#. Save <general|machine specific> state file <file-name>
+msgid "Save %s state file %s"
+msgstr "ማስቀመጫ %s የ ሁኔታ ፋይል %s"
+
+#. Restore <general|machine specific> state file <file-name>
+msgid "Restore %s state file %s"
+msgstr "እንደ ነበር መመለሻ %s የ ሁኔታ ፋይል %s"
+
+msgid "Reset file %s"
+msgstr "እንደ ነበር መመለሻ ፋይል %s"
+
+#. Delete <general|machine specific> state file <file-name>
+msgid "Delete %s state file %s"
+msgstr "ማጥፊያ %s የ ሁኔታ ፋይል %s"
+
+msgid "Could not find UUID of boot device for remounting"
+msgstr "UUID ለ ማስነሻ አካል እንደገና ለ መጫን ማግኘት አልተቻለም"
+
+msgid "Will not save state information"
+msgstr "የ ሁኔታ መረጃ አይቀመጥም"
+
+msgid "Could not find boot device for remounting"
+msgstr "ለ መጫን የ ማስነሻ አካል ማግኘት አልተቻለም"
+
+msgid "Could not remount boot device"
+msgstr "የ ማስነሻ አካል እንደገና መጫን አልተቻለም"

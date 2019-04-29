@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-06 00:34+0300\n"
+"PO-Revision-Date: 2015-01-16 09:10+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixsnapshot-gui.sh:95
+msgid "There is no xserver running. Exiting..."
+msgstr "Non c'è alcuna sessione di xserver in esecuzione. Uscita in corso..."
+
+#: antixsnapshot-gui.sh:96
+msgid "You need to be root\\! \\n\\nCannot continue."
+msgstr "Devi essere root\\! \\n\\nNon è possibile continuare."
+
+#: antixsnapshot-gui.sh:98
+#, sh-format
+msgid ""
+"Are you ready to create a live installable snapshot of your system? \n"
+"This utility will create a bootable image that you can burn to CD. \n"
+"The image will be stored in $snapshot_dir.\n"
+"\n"
+"This is free software that comes with no warranty or guarantee of any type, \n"
+"including but not limited to express, implied, merchantability or fitness \n"
+"of purpose.\n"
+"\n"
+"Copyright:\n"
+"2012, 2013 anticapitalista@antiX@operamail.com \n"
+"2011, 2012 fsmithred@gmail.com \n"
+"(portions may be copyright Dean Linkous)"
+msgstr "Sei pronto a creare una iso-live installabile del tuo sistema attualmente in esecuzione? \nQuesta utility creerà un immagine iso, caricabile all'avvio del computer, che puoi masterizzare su CD. \nQuesta imagine sarà archiviata in $snapshot_dir.\nQuesto è software libero che viene fornito senza includere alcun tipo di garanzia, \nma non pone limiti d'uso, compresa la commercializzazione o modifica.\nCopyright:\n2012, 2013 anticapitalista@antiX@operamail.com \n2011, 2012 fsmithred@gmail.com \n(alcune parti potrebbero essere soggette a copyright di Dean Linkous)"
+
+#: antixsnapshot-gui.sh:112
+#, sh-format
+msgid "$TEXT1"
+msgstr "$TEXT1"
+
+#: antixsnapshot-gui.sh:120
+#, sh-format
+msgid ""
+"The graphical text editor is set to\n"
+"${gui_editor}, but it is not installed. Edit $configfile\n"
+"and set the gui_editor variable to the editor of your choice.\n"
+"(examples: /usr/bin/gedit, /usr/bin/leafpad)"
+msgstr "L'editor grafico di testo è impostato su\n${gui_editor}, ma non è installato. Edita il file $configfile\ne imposta  la variabile gui_editor con l'editor di tua scelta.\n(esempi: /usr/bin/gedit, /usr/bin/leafpad)"
+
+#: antixsnapshot-gui.sh:155
+#, sh-format
+msgid ""
+"* You have a saved copy of the system using $saved_size of space located at "
+"$work_dir/new-squashfs."
+msgstr "* Hai una copia del sistema salvata usando $saved_size di spazio in $work_dir/new-squashfs."
+
+#: antixsnapshot-gui.sh:160
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be saved at $work_dir/new-"
+"squashfs."
+msgstr "* La copia temporanea del filesystem sarà salvata in $work_dir/new-squashfs."
+
+#: antixsnapshot-gui.sh:162
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be created at $work_dir/new-"
+"squashfs and removed when this program finishes."
+msgstr "* La copia temporanea del filesystem sarà creata in $work_dir/new-squashfs e rimossa quando questo programma avrà finito."
+
+#: antixsnapshot-gui.sh:219
+msgid ""
+"You will need plenty of free space. It is recommended that free space "
+"(Avail) in the partition that holds the work directory (probably \\"
+msgstr "Ti servirà veramente molto spazio libero. Si raccomanda che ci sia spazio libero (Disponibile) nella partizione che contiene la directory di lavoro (probabilmente \\ "

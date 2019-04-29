@@ -1,0 +1,721 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>, 2016\n"
+"Language-Team: Swedish (https://www.transifex.com/anticapitalista/teams/10162/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Startar %s"
+
+msgid "The selected usb drive was %s"
+msgstr "Den valda usb-enheten var %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr "Denna enhet är känd för att orsaka fel under skapande och start"
+
+msgid "Do you want to use it anyway?"
+msgstr "Vill du ändå använda den?"
+
+msgid "Will use target device %s"
+msgstr "Kommer att använda målenhet %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Skapa en krypterad live-usb?"
+
+msgid "copying"
+msgstr "kopierar"
+
+msgid "Please enter the filename"
+msgstr "Var vänlig ange filnamn"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "fil"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "enhet"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "klonar"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "mapp"
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "Kommer att använda källan %s"
+
+msgid "Could not find device %s"
+msgstr "Kunde inte hitta enhet %s"
+
+msgid "Customize language and timezone?"
+msgstr "Anpassa språk och tidszon?"
+
+msgid "Encryption enabled"
+msgstr "Kryptering aktiverad"
+
+msgid "encrypted"
+msgstr "krypterad"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "Färdig att göra %s på enhet %s vid %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "Färdig att utföra %s aktivitet på %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "Färdig att utföra %s aktiviteter på %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Ska vi börja?"
+
+msgid "install"
+msgstr "installera"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr "Du kommer att bli ombedd att skapa ett lösenord under första start"
+
+msgid "Will use initial passphrase %s"
+msgstr "Kommer att använda inledande lösenord %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "Gör en live-usb med alla möjligheter"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Skapa en  krypterad live-usb med alla möjligheter "
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr "Skapa en anpassad live-usb (inkluderande en krypteringsmöjlighet)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr ""
+"Uppdatera operativsystemet på en existerande live-usb (experimentellt)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Uppdatera  UUIDs på en existerande live-usb"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Uppdatera boot-parametrar på en existerande live-usb"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Ominstallera legacy bootloader på en existerande live-usb"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Avlägsna partitionstabellen på en usb-enhet"
+
+msgid "Please select what action to perform"
+msgstr "Var vänlig välj vilken uppgift som ska utföras"
+
+msgid "Please select the source for the new live-usb"
+msgstr "Var vänlig välj källan för den nya live-usb"
+
+msgid "The only usb drive detected was %s"
+msgstr "Den enda usb-enhet som hittades var %s"
+
+msgid "A %s usb drive was detected"
+msgstr "En %s usb-enhet hittades"
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Vill du ändå ha den inkluderad i menyn"
+
+msgid "No available target usb devices were found"
+msgstr "Ingen tillgänglig mål-usb enhet hittades"
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "Endast en mål-usb-enhet hittades %s"
+
+msgid "Please select the target usb device"
+msgstr "Var vänlig välj mål-usb enhet"
+
+msgid "entire drive"
+msgstr "hela disken"
+
+msgid "main partition"
+msgstr "huvud-partition"
+
+msgid "bios partition"
+msgstr "bios partition"
+
+msgid "uefi partition"
+msgstr "uefi-partition"
+
+msgid "Already using over 90% of the device"
+msgstr "Använder redan mer än 90 % av enheten"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Vill du ändra hur mycket av enheten som används?"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "Storleken inställd på  %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Var vänlig välj hur mycket utrymme som ska användas för live-usb "
+"partitionerna"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Antar att detta är en krypterad live-usb"
+
+msgid "About to encrypt device %s"
+msgstr "Kommer att kryptera enhet %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "Vi vill skriva över datan på %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Skriv med stora bokstäver %s som föreslaget"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "Då kommer att tillfrågas om lösenordet en tredje gång"
+
+msgid "Failed to create encrypted device"
+msgstr "Misslyckades med att skapa krypteras enhet"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Vill du försöka skriva in det nya lösenordet nu?"
+
+msgid "Failed to open encrypted device"
+msgstr "Misslyckades med att öppna krypterad enhet"
+
+msgid "Encryption successful"
+msgstr "Krypteringen lyckades"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "Var vänlig vänta medan vi monterar den optiska skivan vid %s"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Använder %s partitionering"
+
+msgid "copy from %s to %s partition"
+msgstr "kopiera från %s till %s partition"
+
+msgid "files: %s"
+msgstr "filer:%s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr "Fel vid kopiering av filer till huvudpartitionen på live-usb"
+
+msgid "Error while copying %s files"
+msgstr "Fel vid kopiering av %s filer"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Ett fel uppträdde vid uppackning av initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr "Kunde inte lägga till alla nödvändiga program till live initrd"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Aktivera kryptering av live initrd"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Stäng av kryptering av live initrd"
+
+msgid "Fix %s bug"
+msgstr "Fixa %s bug"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Skapa syslinux-katalog från %s"
+
+msgid "Not enough space on %s partition"
+msgstr "Inte tillräckligt utrymme på %s partition"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Mindre än %s MiB skulle bli kvar på %s partitionen"
+
+msgid "done"
+msgstr "klart"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Avsluta"
+
+msgid "Please enter the name of the iso file"
+msgstr "Var vänlig skriv in namnet på iso-filen"
+
+msgid "The live media is not mounted"
+msgstr "Live mediet är inte monterat"
+
+msgid "Current running kernel is %s"
+msgstr "Nuvarande kärna som körs är %s"
+
+msgid "This is not a live-usb system"
+msgstr "Detta är inte ett live-usb system"
+
+msgid "Will use running live system"
+msgstr "Kommer att använda det live-system som körs"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "Enheten '%s' verkar inte vara en usb-enhet"
+
+msgid "Can't find first partition on device %s"
+msgstr "Kan inte hitta första partitionen på enhet %s"
+
+msgid "Device %s is not a disk partition"
+msgstr "Enheten %s är inte en diskpartition"
+
+msgid "Will use live-usb device %s"
+msgstr "Kommer att använda live-usb enhet %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "Ingen '%s' fil hittad i någon katalog '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "Kunde inte hitta '%s' eller '%s' på live-usb"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "Hittade %s fil %s i katalog %s"
+
+msgid "Could not find initrd file: %s"
+msgstr "Kunde inte hitta initrd fil: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Hittade:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "total live kärna"
+
+msgid "total live kernels"
+msgstr "totala live kärnor"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "standard live kärna"
+
+msgid "default live kernels"
+msgstr "standard live kärnor"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "gammal live kärna"
+
+msgid "old live kernels"
+msgstr "gamla live kärnor"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "total installerad kärna"
+
+msgid "total installed kernels"
+msgstr "total installerade kärnor"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "ny installerad kärna"
+
+msgid "new installed kernels"
+msgstr "nya installerade kärnor"
+
+msgid "Live kernels:"
+msgstr "Live kärnor:"
+
+msgid "Boot kernels:"
+msgstr "Boot kärnor:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "Endast en ny installerad kärna hittades:"
+
+msgid "New installed kernels:"
+msgstr "Nya installerade kärnor:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Det finns %s nya kärnor. Visar endast de allra senaste %s."
+
+msgid "No kernels were found in the boot directory"
+msgstr "Inga kärnor hittades i boot-katalogen"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "Inga kärnor hittades i live-boot katalogen"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "Du borde göra en remaster innan en uppdatering av kärnan"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "Du MÅSTE göra en remaster innan en uppdatering av kärnan"
+
+msgid "No new kernels were found"
+msgstr "Inga nya kärnor hittades"
+
+msgid "Can only update the initrd file"
+msgstr "Kan endast uppdatera initrd filen"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Du måste installera en kärna och remaster innan en kärn-uppdatering görs"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Inga nya kärnor hittades och det finns ingen mall för initrd filen"
+
+msgid "live kernel update"
+msgstr "live kärna-uppdatering"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Nuvarande"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "(new)"
+msgstr "(ny)"
+
+msgid "live kernel rollback"
+msgstr "live kärn-återställning"
+
+msgid "Old"
+msgstr "Gammal"
+
+msgid "live initrd update"
+msgstr "live initrd uppdatering"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Uppdatera initrd med hjälp av fil"
+
+msgid "live modules update"
+msgstr "uppdatering av live-moduler"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Lägg till initrd moduler"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "Färdig för att göra följande %s"
+
+msgid "The current Live System on %s"
+msgstr "Det nuvarande Live-systemet på %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Systemet är inte en live-usb och inga usb-enheter hittades"
+
+msgid "Please select the system to update"
+msgstr "Var vänlig välj system att uppdatera"
+
+msgid "No update or rollback actions are available"
+msgstr "Ingen uppdaterings eller återställningsmöjlighet finns"
+
+msgid "Please select an action to perform"
+msgstr "Var vänlig välj en uppgift att utföra"
+
+msgid "Update"
+msgstr "Uppdatera"
+
+msgid "from"
+msgstr "från"
+
+msgid "Rollback"
+msgstr "Återställning"
+
+msgid "to"
+msgstr "till"
+
+msgid "Update initrd using file %s"
+msgstr "Uppdatera initrd med filen %s"
+
+msgid "Quit"
+msgstr "Avsluta"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "Hittade inga nya kärnor i boot katalogen"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "Hittade en kärna som matchar den begärda versionen %s"
+
+msgid "Found one new kernel %s"
+msgstr "Hittade en ny kärna %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "Var vänlig välj den nya kärnan från denna lista"
+
+msgid "kernel"
+msgstr "kärna"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Kopiering av initrd moduler misslyckades för kärna %s"
+
+msgid "No modules were copied to the initrd"
+msgstr "Inga moduler kopierades till initrd"
+
+msgid "Compressing ..."
+msgstr "Komprimerar..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "installera %s"
+
+msgid "Overwriting backup"
+msgstr "Skriver över backup"
+
+msgid "Target file %s does not exist"
+msgstr "Målfilen %s finns inte"
+
+msgid "Could not find old %s file to roll back"
+msgstr "Kunde inte hitta gammal %s fil för återställning"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Återställ %s till %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "I simuleringsläge"
+
+msgid "Would you like to do a remaster now?"
+msgstr "Vill du göra en remaster nu?"
+
+msgid "Ready to restart %s"
+msgstr "Klar att starta om %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "Väntade en parameter efter: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Misstänkt argument efter %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "Pausad vid '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press <%s> to continue"
+msgstr "Tryck på <%s> för att fortsätta"
+
+msgid "Unknown command: %s"
+msgstr "Okänt kommando: %s"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nej"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "avsluta"
+
+msgid "default"
+msgstr "standard"
+
+msgid "pretend mode"
+msgstr "simuleringsläge"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "LÅTSAS-LÄGE AKTIVERAT"
+
+msgid "entry"
+msgstr "post"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Tryck på <%s> för standard %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Använd %s för hjälp, %s till %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Använd %s till %s"
+
+msgid "Oops.  Please try again"
+msgstr "Hoppsan. Var vänlig försök igen "
+
+msgid "You must enter a number"
+msgstr "Du måste skriva in ett nummer"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Du måste skriva in ett nummer eller trycka på <Enter>"
+
+msgid "The number '%s' is out of range"
+msgstr "Talet '%s' är utanför det tillåtna"
+
+msgid "Press '%s' again to quit"
+msgstr "Tryck på '%s' igen för att avbryta"
+
+msgid "You chose %s"
+msgstr "Du valde %s"
+
+msgid "Please select the live boot directory"
+msgstr "Var vänlig välj live boot  katalog"
+
+msgid "You entered: %s"
+msgstr "Du skrev: %s"
+
+msgid "Is this correct?"
+msgstr "Är detta riktigt?"
+
+msgid "(tab completion is enabled)"
+msgstr "(tab-komplettering är aktiverad)"
+
+msgid "%s does not appear to be a file"
+msgstr "%s verkar inte vara en fil"
+
+msgid "Try again?"
+msgstr "Försöka igen?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Enhet"
+
+msgid "Size"
+msgstr "Storlek"
+
+msgid "Filesystem"
+msgstr "Filsystem"
+
+msgid "Label"
+msgstr "Etikett"
+
+msgid "Model"
+msgstr "Modell"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Klona detta live-system"
+
+msgid "Copy from an ISO file"
+msgstr "Kopiera från en ISO-fil"
+
+msgid "Check md5 of the file %s?"
+msgstr "Kontrollera md5 på filen %s?"
+
+msgid "Checking md5 ..."
+msgstr "Kontrollerar md5..."
+
+msgid "Keep going anyway?"
+msgstr "Fortsätta i vilket fall som helst?"
+
+msgid "The %s program failed!"
+msgstr "%s programmet misslyckades!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Fil"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Version"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "From"
+msgstr "Från"
+
+msgid "To"
+msgstr "Till"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Total"
+
+msgid "Used"
+msgstr "Använde"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "Warning"
+msgstr "Varning"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s tog %s sekunder"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "En %s process (använder PID %s) körs redan"
+
+msgid "Please close that process before starting a new one"
+msgstr "Var vänlig avsluta den processen innan en ny startas"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Misslyckades med att låsa %s"
+
+msgid "Creating new config file %s"
+msgstr "Skapar ny konfigurationsfil %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Kunde inte hitta programmet %s. Hoppar över %s."
+
+msgid "Could not find required program '%s'"
+msgstr "Kunde inte hitta det behövda programmet '%s'"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "%s katalogen %s är inte skrivbar"
+
+msgid "Could not find iso file %s"
+msgstr "Kunde inte hitta iso-fil %s"
+
+msgid "Could not read iso file %s"
+msgstr "Kunde inte läsa iso-fil %s"
+
+msgid "Could not mount iso file %s"
+msgstr "Kunde inte montera iso-fil %s"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distro: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distro: %s på %s"
+
+msgid "This script must be run as root"
+msgstr "Detta skript måste köras som root"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Tryck på %s för att välja den markerade %s"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Använd %s för hjälp, %s för att rita om, %s till %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Använd %s för att rita om, %s till %s"

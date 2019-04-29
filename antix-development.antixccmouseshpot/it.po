@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2015-01-16 11:30+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Opzioni del mouse "
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Accelerazione del mouse"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Cambia movimento del mouse"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Accelerazione (esponenziale)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Limite (in pixel)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Ripristina movimento predefinito"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Ordine dei tasti"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Nessuna modifica"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Impostazione per mano sinistra"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Impostazione per mano destra"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Dimensione del puntatore"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Cambia la grandezza del puntatore"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Dimensione (in pixel)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Ripristina dimensione predefinita"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Tema del puntatore"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Dopo aver scelto un nuovo tema, per favore\\n\n esci e accedi per vedere i cambiamenti. "
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Cambia tema del puntatore"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Velocità del mouse modificata."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Si sta utilizzando la velocità del mouse predefinita"
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Ora stai usando la mappatura per la mano sinistra"
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Ora stai usando la mappatura per la mano destra"
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Dimensione del puntatore modificata. Per favore\\n\nesci e accedi per vedere i cambiamenti. "
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Ripristinata la dimensione del puntatore predefinita\\n\nPer favore esci e accedi per vedere i cambiamenti. "

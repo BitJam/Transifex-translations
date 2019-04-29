@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Sveinn í Felli <sv1@fellsnet.is>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:57+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>, 2018\n"
+"Language-Team: Icelandic (https://www.transifex.com/anticapitalista/teams/10162/is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "This program must be run as root"
+msgstr "Þetta forrit verður að keyra sem kerfisstjóri (root)"
+
+msgid "Could not get console width. Is the framebuffer enabled?"
+msgstr "Ekki tókst að finna breidd stjórnskjás, Er rammabiðminnið virkt?"
+
+msgid "No fonts found"
+msgstr "Engar leturgerðir fundust"
+
+msgid "Select the console width in characters"
+msgstr "Veldu breidd stjórnskjás sem stafafjölda"
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr ""
+"Ýttu á: <Enter> til að velja letur, <q> til að hætta, <h> til að sjá hjálp"
+
+msgid "Screen is %s chars wide"
+msgstr "Skjárinn er %s stafa breiður"
+
+msgid "%s is %s chars wide"
+msgstr "%s er %s stafa breitt"
+
+msgid "Select Console Width"
+msgstr "Veldu breidd stjórnskjás"
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr "Skjárinn er %s stafa breiður, letur er %s"
+
+#. How many columns wide the screen is, and the font width
+msgid "columns"
+msgstr "dálkar"
+
+msgid "font width"
+msgstr "leturbreidd"
+
+msgid "Setting default font to %s"
+msgstr "Stilli sjálfgefið letur sem %s"

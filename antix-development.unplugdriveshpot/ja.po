@@ -1,0 +1,76 @@
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 00:36+0200\n"
+"PO-Revision-Date: 2014-06-04 00:20+0000\n"
+"Last-Translator: BALLOON a.k.a. Fu-sen.\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-02 10:46+0000\n"
+
+#: unplugdrive.sh:54
+msgid ""
+"A removable drive with a mounted partition was not found.\n"
+"It is safe to unplug the drive(s)"
+msgstr "マウントしたリムーバブル・ドライブのパーティションは見つかりませんでした。\n安全にドライブを外す事ができます。"
+
+#: unplugdrive.sh:60
+#, sh-format
+msgid ""
+"The following are currently mounted:\n"
+"$removablelist\n"
+"Choose the drive(s) to be unplugged"
+msgstr "現在マウントされているドライブ:\n$removablelist\n外すドライブを選んで下さい"
+
+#: unplugdrive.sh:62
+msgid ""
+"Nothing selected.\n"
+"Aborting without unmounting."
+msgstr "選択されませんでした。\nアンマウントせず中断しました。"
+
+#: unplugdrive.sh:84
+#, sh-format
+msgid ""
+"About to unmount:\n"
+"$summarylist\n"
+"Please confirm you wish to proceed."
+msgstr "次をアンマウントします:\n$summarylist\nよろしいかご確認下さい。"
+
+#: unplugdrive.sh:86
+msgid ""
+"Nothing has been unmounted.\n"
+"Aborting as requested with no action taken."
+msgstr "何もアンマウントされませんでした。\n何も実行されずに中断しました。"
+
+#: unplugdrive.sh:91
+msgid ""
+"Data is being written to devices.\n"
+"Please wait..."
+msgstr "デバイスへデータを書き込んでいます。\nお待ち下さい..."
+
+#: unplugdrive.sh:114
+#, sh-format
+msgid ""
+"Mountpoint removal failed.\n"
+"\n"
+"A mountpoint remains present at:\n"
+"$mountpointerrorlist\n"
+"Check each mountpoint listed before unpluging the drive(s)."
+msgstr "マウントポイントの取り出しに失敗しました。\n\n次のマウントポイントが残されています:\n$mountpointerrorlist\nドライブを取り外す前にこれらのマウントポイントを確認して下さい。"
+
+#: unplugdrive.sh:119
+#, sh-format
+msgid ""
+"Unmounted:\n"
+"$summarylist\n"
+"It is safe to unplug the drive(s)"
+msgstr "アンマウントしました:\n$summarylist\n安全にドライブを取り外せます。"

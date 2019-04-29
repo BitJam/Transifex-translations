@@ -1,0 +1,388 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2015-2016
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2017-09-19 12:24+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "προειδοποίηση"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Πραγματικά Κλείστε;"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "Y"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "y"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Πιέστε το πλήκτρο ENTER για να συνεχίσετε"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Προσπαθήστε ξανά"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "έχετε εισάγει: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "Είναι σωστό?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Εισήγαγε έναν αριθμό:"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr "(ή ένα γράμμα)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Η επιλογή σας ήταν άδειο."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Πρέπει να επιλέξετε έναν αριθμό."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Η επιλογή σας %s ήταν εκτός εμβέλειας"
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Μετάβαση σε περιβάλλον Διεπαφής με Γραμμές Εντολών/CLI"
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Συνηθισμένες επιλογές"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Επιβολή της διεπαφής με γραμμές εντολών"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Επιβολή των χρωμάτων της κονσόλας στο φωτεινό"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Επιβολή Γραφικής Διεπαφής Χρήστη/GUI (συνήθως δεν χρειάζεται ποτέ)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Εμφάνιση αυτής της απλής βοήθειας"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Επιβολή των χρωμάτων της κονσόλας στο σιωπηλό/μειωμένο"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Απενεργοποίηση των χρωμάτων της κονσόλας"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Απενεργοποίηση της σύνδεσης"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Να μην εμφανίζονται επιπλέον ερωτήσεις και εκτύπωση"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Προσποιηθείτε ότι το yad δεν υπάρχει"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Εκτυπώστε περισσότερα"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Επιλογές αποσφαλμάτωσης"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Debug Pango markup sent to yad"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Εμφάνιση όλων πεζά globals όταν τελειώσετε"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Εμφάνιση όλων των globals όταν τελειώσετε"
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "επιλογή %s απαιτεί ένα όρισμα"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "επιλογή %s δεν απαιτεί ένα όρισμα"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "Άγνωστη όρισματος %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Πάρα πολλά επιπλέον όρισματα: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Πολύ λίγες ορίσματα. Απαιτούνται τουλάχιστον %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "Αναμενόμενη μια αριθμητική τιμή μετά την παράμετρο %s"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Θέλετε πραγματικά να αποχωρήσει από το %s;"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Αυτό το σενάριο μπορεί να εκτελεστεί μόνο σε περιβάλλον ενός %s."
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "Φάκελλος %s δεν υπάρχει"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "δείχνοντας ότι αυτό δεν είναι το περιβάλλον του %s."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Έξοδος."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Παρακαλούμε να εκτελέσετε αυτό ως root."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Μεταβλητές %s είναι άδειες"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Μεταβλητή %s είναι άδεια"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "Στο %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "σφάλμα"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Προειδοποίηση "
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Το πρόγραμμα %s δε βρέθηκε τόσο το κλείδωμα δεν θα συμβεί."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Θέλετε να συνεχίσετε; "
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Ένα άλλο αντίγραφο του %s είναι σε λειτουργία."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Εάν είστε βέβαιοι ότι αυτό δεν συμβαίνει στη συνέχεια, διαγράψτε το αρχείο:"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "και προσπαθήστε ξανά"
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "Δεν θα μπορούσε να κάνει %s ανάγνωσης-εγγραφής"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Δεν μπόρεσα να δημιουργήσω το σημείο προσάρτησης %s."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "Δεν μπορούσε να bind mount %s στο %s."
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Δεν ήταν δυνατή η προσάρτηση %s στο %s."
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "Δεν ήταν δυνατή η απροσάρτητη %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Παράξενο. Το αρχείο %s δεν υπάρχει."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "Το αρχείο %s δεν μπορεί να τοποθετηθεί."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "μέγεθος"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Να διαγραφεί;"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Διαγραφή"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Αποθήκευση"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Δείτε πληροφορίες"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Έξοδος "
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Καθαρισμός"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Τι πρέπει να κάνουμε με το %s;"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Απομεινάρια από μια επαναφορά. Κανονικά διαγράψετε."
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "Ένα ρεμίξ κάνατε χωρίς επανεκκίνηση."
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Προηγούμενο αρχείο squashfs. Αποθηκεύσετε ή να διαγράψετε;"
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "Η ελλιπής ρεμίξ."
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Επιλέξτε: "
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Έκδοση:"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "Το VID δε βρέθηκε"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "Δεν ήταν δυνατή η προσάρτηση %s "
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "Παράξενο. Δεν μπορούσε να βρει μια σειρά ταυτίζονται \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Επιλέξτε τις συσκευές"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Όλες"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Προσαρτημένη"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "Απροσαρτημένη"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "Συσκευές"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "Εντάξει"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Κάντε κλικ σε μια συσκευή και στη συνέχεια χτύπησε %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Συσκευή"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Προσάρτηση"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Τύπος"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Επιγραφή"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Ελεύθερο"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Χρησιμοποιήστε την \"έξοδο\" εντολή να επιστρέψει στο %s"

@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# secipolla <secipolla@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 23:02+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: secipolla <secipolla@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/antix-development/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: antixcckeyboard.sh:15
+msgid "Keyboard Config"
+msgstr "Configuração de Teclado"
+
+#: antixcckeyboard.sh:19
+msgid "<b>Choose a Language.</b>"
+msgstr "<b>Escolha uma Língua.</b>"
+
+#: antixcckeyboard.sh:24
+msgid "British"
+msgstr "Inglês (GB)"
+
+#: antixcckeyboard.sh:29
+msgid "French"
+msgstr "Francês"
+
+#: antixcckeyboard.sh:33
+msgid "German"
+msgstr "Alemão"
+
+#: antixcckeyboard.sh:37
+msgid "Greek"
+msgstr "Grego"
+
+#: antixcckeyboard.sh:41
+msgid "Italian"
+msgstr "Italiano"
+
+#: antixcckeyboard.sh:45
+msgid "Norwegian"
+msgstr "Norueguês"
+
+#: antixcckeyboard.sh:49
+msgid "Portuguese"
+msgstr "Português"
+
+#: antixcckeyboard.sh:53
+msgid "Spanish"
+msgstr "Espanhol"
+
+#: antixcckeyboard.sh:57
+msgid "Romanian"
+msgstr "Romeno"
+
+#: antixcckeyboard.sh:61
+msgid "US"
+msgstr "EUA"
+
+#: antixcckeyboard.sh:68
+msgid "Close"
+msgstr "Fechar"

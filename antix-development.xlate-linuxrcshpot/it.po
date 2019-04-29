@@ -1,0 +1,536 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-07 23:55+0200\n"
+"PO-Revision-Date: 2014-12-29 17:21+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: xlate-linuxrc.sh:8
+msgid "Start"
+msgstr "Avvia"
+
+#: xlate-linuxrc.sh:9
+msgid "remaster"
+msgstr "remaster"
+
+#: xlate-linuxrc.sh:10
+msgid "to put linuxfs file in RAM"
+msgstr "Metti il file linuxfs nella RAM"
+
+#: xlate-linuxrc.sh:11
+msgid "to mount persist file %s at %s"
+msgstr " per montare il file con persistenza %s su %s"
+
+#: xlate-linuxrc.sh:13
+msgid "Select"
+msgstr "Seleziona"
+
+#: xlate-linuxrc.sh:14
+msgid "then hit <enter>"
+msgstr "poi premi <invio>"
+
+#: xlate-linuxrc.sh:15
+msgid "or"
+msgstr "oppure"
+
+#: xlate-linuxrc.sh:18
+msgid "continue"
+msgstr "continua"
+
+#: xlate-linuxrc.sh:19
+msgid "c"
+msgstr "c"
+
+#: xlate-linuxrc.sh:20
+msgid "C"
+msgstr "C"
+
+#: xlate-linuxrc.sh:21
+msgid "power off"
+msgstr "arresta"
+
+#: xlate-linuxrc.sh:22
+msgid "p"
+msgstr "p"
+
+#: xlate-linuxrc.sh:23
+msgid "P"
+msgstr "P"
+
+#: xlate-linuxrc.sh:24
+msgid "reboot"
+msgstr "riavvia"
+
+#: xlate-linuxrc.sh:25
+msgid "r"
+msgstr "r"
+
+#: xlate-linuxrc.sh:26
+msgid "R"
+msgstr "R"
+
+#: xlate-linuxrc.sh:27
+msgid "powering down"
+msgstr "spegnimento in corso"
+
+#: xlate-linuxrc.sh:28
+msgid "rebooting"
+msgstr "riavvio in corso"
+
+#: xlate-linuxrc.sh:29
+msgid "Rolling back %s to %s"
+msgstr "Ripristina %s in %s"
+
+#: xlate-linuxrc.sh:30
+msgid "Refusing to remaster"
+msgstr "Rifiuto di rimasterizzare"
+
+#: xlate-linuxrc.sh:32
+msgid "In directory %s one or more of these files already exist"
+msgstr "Nella directory %s uno o più di questi file esitono già"
+
+#: xlate-linuxrc.sh:33
+msgid "Run the remaster-me program to fix this problem"
+msgstr "Avviare il programma remaster-me per correggere questo problema"
+
+#: xlate-linuxrc.sh:34
+msgid "Remastering %s to %s"
+msgstr "Rimasterizzazione di %s in %s"
+
+#: xlate-linuxrc.sh:36
+msgid "Fatal Error"
+msgstr "Errore critico"
+
+#: xlate-linuxrc.sh:37
+msgid "Non-Fatal Error"
+msgstr "Errore non critico"
+
+#: xlate-linuxrc.sh:38
+msgid "Waiting for file systems to sync"
+msgstr "Sincronizzazione del filesystem in corso"
+
+#: xlate-linuxrc.sh:39
+msgid "done"
+msgstr "fatto"
+
+#: xlate-linuxrc.sh:40
+msgid "Unknown command"
+msgstr "Comando sconosciuto"
+
+#: xlate-linuxrc.sh:41
+msgid "Please try again"
+msgstr "Riprova, per favore"
+
+#: xlate-linuxrc.sh:42
+msgid "No device with %s found"
+msgstr "Nessun dispositivo con %s trovato"
+
+#: xlate-linuxrc.sh:43
+msgid "Valid"
+msgstr "Valido"
+
+#: xlate-linuxrc.sh:44
+msgid "Could not find device"
+msgstr "Non è stato possibile trovare il dispositivo"
+
+#: xlate-linuxrc.sh:45
+msgid "Valid devices"
+msgstr "Dispositivi validi"
+
+#: xlate-linuxrc.sh:46
+msgid "Copying linuxfs VID to empty rootfs"
+msgstr "Copia di linuxfs VID su rootfs vuoto"
+
+#: xlate-linuxrc.sh:47
+msgid "VID file not found"
+msgstr "File VID non trovato"
+
+#: xlate-linuxrc.sh:48
+msgid "No VID found in"
+msgstr "Nessun VID trovato in"
+
+#: xlate-linuxrc.sh:49
+msgid "VID mismatch"
+msgstr "VID non corrisponde"
+
+#: xlate-linuxrc.sh:50
+msgid "Matching VID found in"
+msgstr "VID corrispondente trovato in"
+
+#: xlate-linuxrc.sh:51
+msgid "Directory"
+msgstr "Directory"
+
+#: xlate-linuxrc.sh:52
+msgid "does not exist"
+msgstr "non esiste"
+
+#: xlate-linuxrc.sh:53
+msgid "Can't perform md5 check"
+msgstr "Non è possibile effettuare il controllo md5"
+
+#: xlate-linuxrc.sh:54
+msgid "Checking files in %s dir. This may take a while"
+msgstr "Controllo dei files nella directory %s. Ci vorrà un pò di tempo"
+
+#: xlate-linuxrc.sh:55
+msgid "file"
+msgstr "file"
+
+#: xlate-linuxrc.sh:56
+msgid "files"
+msgstr "file"
+
+#: xlate-linuxrc.sh:57
+msgid "result"
+msgstr "risultato"
+
+#: xlate-linuxrc.sh:58
+msgid "passed"
+msgstr "passato"
+
+#: xlate-linuxrc.sh:59
+msgid "failed"
+msgstr "fallito"
+
+#: xlate-linuxrc.sh:60
+msgid "wanted"
+msgstr "ricercato"
+
+#: xlate-linuxrc.sh:61
+msgid "got"
+msgstr "ottenuto"
+
+#: xlate-linuxrc.sh:62
+msgid "No md5 checksums were found in %s. Can't do any md5 checks"
+msgstr "In %s non è stato trovato nessun md5 checksums. Non si può fare alcun controllo di md5."
+
+#: xlate-linuxrc.sh:63
+msgid "At least one checksum did not match"
+msgstr "Almeno un md5 checksum non corrisponde"
+
+#: xlate-linuxrc.sh:64
+msgid "Success!"
+msgstr "Successo!"
+
+#: xlate-linuxrc.sh:65
+msgid "Welcome to"
+msgstr "Benvenuto in"
+
+#: xlate-linuxrc.sh:66
+msgid "Total Memory"
+msgstr "Memoria totale"
+
+#: xlate-linuxrc.sh:67
+msgid "Free Memory"
+msgstr "Memoria libera"
+
+#: xlate-linuxrc.sh:68
+msgid "Used Memory"
+msgstr "Memoria utilizzata"
+
+#: xlate-linuxrc.sh:69
+msgid "Linux kernel"
+msgstr "Kernel Linux"
+
+#: xlate-linuxrc.sh:70
+msgid "CPU"
+msgstr "CPU"
+
+#: xlate-linuxrc.sh:71
+msgid "cores"
+msgstr "nuclei"
+
+#: xlate-linuxrc.sh:72
+msgid "cache"
+msgstr "cache"
+
+#: xlate-linuxrc.sh:73
+msgid "Hardware kernel modules"
+msgstr "Moduli del kernel dell'hardware"
+
+#: xlate-linuxrc.sh:74
+msgid "Possibly unknown or misspelled boot codes:"
+msgstr "Codici di boot probabilmente sconosciuti o errati"
+
+#: xlate-linuxrc.sh:75
+msgid "(don't take this too seriously)"
+msgstr "(non prendere questo troppo seriamente)"
+
+#: xlate-linuxrc.sh:76
+msgid "Looking for"
+msgstr "Cercando"
+
+#: xlate-linuxrc.sh:77
+msgid "device"
+msgstr "dispositivo"
+
+#: xlate-linuxrc.sh:78
+msgid "with label"
+msgstr "con l'etichetta"
+
+#: xlate-linuxrc.sh:79
+msgid "with uuid"
+msgstr "con codice uuid"
+
+#: xlate-linuxrc.sh:80
+msgid "retrying"
+msgstr "riprova"
+
+#: xlate-linuxrc.sh:81
+msgid "Looking for %s on: %s"
+msgstr "Ricerca in corso di %s su: %s"
+
+#: xlate-linuxrc.sh:82
+msgid "Device"
+msgstr "Dispositivo"
+
+#: xlate-linuxrc.sh:83
+msgid "already mounted"
+msgstr "già montato"
+
+#: xlate-linuxrc.sh:84
+msgid "Mounted %s at %s"
+msgstr "Montato %s su %s"
+
+#: xlate-linuxrc.sh:85
+msgid "The boot param %s was given but no %s was found"
+msgstr "Il parametro di boot %s è stato dato ma nessun %s è stato trovato"
+
+#: xlate-linuxrc.sh:86
+msgid "Waiting %s seconds"
+msgstr "Aspettando %s secondi"
+
+#: xlate-linuxrc.sh:87
+msgid "Not enough RAM available for"
+msgstr "Non è disponibile abbastanza RAM per"
+
+#: xlate-linuxrc.sh:88
+msgid "have"
+msgstr "si ha"
+
+#: xlate-linuxrc.sh:89
+msgid "needed"
+msgstr "richiesto"
+
+#: xlate-linuxrc.sh:90
+msgid "Unable to mount tmpfs.  Not doing"
+msgstr "Non si è riusciti a montare tmpfs. Non viene montato"
+
+#: xlate-linuxrc.sh:91
+msgid "Copying files from %s to %s ... Please be patient"
+msgstr "Copia dei file da %s a %s in corso... Sii paziente, per favore"
+
+#: xlate-linuxrc.sh:92
+msgid "Copy failed.  Aborting"
+msgstr "Copia fallita. Uscita in corso"
+
+#: xlate-linuxrc.sh:93
+msgid "Copy to ram failed.  Destination file missing"
+msgstr "Copia nella RAM fallita. Il file di destinazione è assente"
+
+#: xlate-linuxrc.sh:94
+msgid "Copy was incomplete. The %s failed"
+msgstr "La copia non era completa. % non è andato a buon fine."
+
+#: xlate-linuxrc.sh:95
+msgid "Original size"
+msgstr "Dimensione dell'originale"
+
+#: xlate-linuxrc.sh:96
+msgid "Copy size"
+msgstr "Dimensione della copia"
+
+#: xlate-linuxrc.sh:97
+msgid "Copy to RAM succeeded"
+msgstr "Copia sulla RAM effettuata con successo"
+
+#: xlate-linuxrc.sh:98
+msgid "Not enough space in RAM to hold persistent root"
+msgstr "Non c'è abbastanza spazio nella RAM per contenere root persistente"
+
+#: xlate-linuxrc.sh:99
+msgid "Time to remaster"
+msgstr "Tempo per rimasterizzare"
+
+#: xlate-linuxrc.sh:100
+msgid "Copy to RAM failed!  Erasing partial copy ..."
+msgstr "Copia della RAM fallita! Verrà eliminata la copia parziale ..."
+
+#: xlate-linuxrc.sh:101
+msgid "Could not find any persistence files"
+msgstr "Non è stato possibile trovare alcun file di persistenza"
+
+#: xlate-linuxrc.sh:102
+msgid "Could not find %s for required %s persistence"
+msgstr "Non è stato possibile trovare %s per %s persistente"
+
+#: xlate-linuxrc.sh:103
+msgid "Not enabling %s persistence"
+msgstr "Non abilitazione di %s persistente"
+
+#: xlate-linuxrc.sh:104
+msgid "Enabling %s persistence"
+msgstr "Abilitazione %s persistente"
+
+#: xlate-linuxrc.sh:105
+msgid "Not remastering rootfs twice"
+msgstr "rootfs non verrà rimasterizzato due volte"
+
+#: xlate-linuxrc.sh:106
+msgid "Looking for crypt device ..."
+msgstr "Ricerca di un file cifrato in corso..."
+
+#: xlate-linuxrc.sh:107
+msgid "Could not find crypt device"
+msgstr "Non è stato possibile trovare un dispositivo cifrato"
+
+#: xlate-linuxrc.sh:108
+msgid "Could not find crypt device after"
+msgstr "Non è stato possibile trovare un dispositivo cifrato dopo"
+
+#: xlate-linuxrc.sh:109
+msgid "Strange, could not find crypt device"
+msgstr "Strano, non è stato possibile trovare un dispositivo cifrato"
+
+#: xlate-linuxrc.sh:110
+msgid "Found crypt partition"
+msgstr "Trovata una partizione cifrata"
+
+#: xlate-linuxrc.sh:111
+msgid "Could not find iso file"
+msgstr "Non è stato possibile trovare il file ISO"
+
+#: xlate-linuxrc.sh:112
+msgid "linuxfs file: %s not found on %s"
+msgstr "linuxfs: %s non trovato su %s"
+
+#: xlate-linuxrc.sh:113
+msgid "Could not find linuxfs file"
+msgstr "Non è stato possibile trovare il file linuxfs"
+
+#: xlate-linuxrc.sh:114
+msgid "Unknown %s parameter: %s"
+msgstr "Parametro %s sconosciuto: %s"
+
+#: xlate-linuxrc.sh:115
+msgid "Valid values"
+msgstr "Valori validi"
+
+#: xlate-linuxrc.sh:116
+msgid "Creating the aufs tempfs failed"
+msgstr "Creazione di aufs tempfs fallita"
+
+#: xlate-linuxrc.sh:117
+msgid "Could not enable required %s persistence"
+msgstr "Non è possibile abilitare %s persistente come da richiesta"
+
+#: xlate-linuxrc.sh:118
+msgid "Could not mount aufs"
+msgstr "Non è stato possibile montare aufs"
+
+#: xlate-linuxrc.sh:119
+msgid "The linuxrc bootstrap is done"
+msgstr "Il bootstrap di linuxrc è completato"
+
+#: xlate-linuxrc.sh:121
+msgid "Creating %s at: %s"
+msgstr "Creazione in corso di %s su: %s"
+
+#: xlate-linuxrc.sh:122
+msgid "Output of:"
+msgstr "Output di:"
+
+#: xlate-linuxrc.sh:123
+msgid "Loading module:"
+msgstr "Caricamento in corso del modulo:"
+
+#: xlate-linuxrc.sh:124
+msgid "Translating to %s in %s"
+msgstr "Traduzione in corso di %s in %s"
+
+#: xlate-linuxrc.sh:125
+msgid "Invalid %s parameter(s):"
+msgstr "Parametro(i) %s non valido/i:"
+
+#: xlate-linuxrc.sh:126
+msgid "Valid values are:"
+msgstr "I valori validi sono:"
+
+#: xlate-linuxrc.sh:127
+msgid "Scanning %s devices for"
+msgstr "Scansione in corso di %s dispositivi per trovare"
+
+#: xlate-linuxrc.sh:128
+msgid "No %s devices found!"
+msgstr "Nessun dispositivo %s trovato!"
+
+#: xlate-linuxrc.sh:129
+msgid "Filtered devices:"
+msgstr "Dispositivi filtrati:"
+
+#: xlate-linuxrc.sh:130
+msgid "The %s parameter is blocking device: %s"
+msgstr "Il parametro %s sta bloccando il dispositivo: %s"
+
+#: xlate-linuxrc.sh:131
+msgid "Remove the %s boot parameter to let that device be scanned"
+msgstr "Rimuovi il parametro di avvio %s per permettere la scansione di quel dispositivo"
+
+#: xlate-linuxrc.sh:132
+msgid "Found new device in:"
+msgstr "Trovato un nuovo dispositivo in:"
+
+#: xlate-linuxrc.sh:133
+msgid "Putting persistent root in RAM"
+msgstr "Mettere la root persistente nella RAM"
+
+#: xlate-linuxrc.sh:134
+msgid "from"
+msgstr "da"
+
+#: xlate-linuxrc.sh:135
+msgid "Copying"
+msgstr "Copia in corso"
+
+#: xlate-linuxrc.sh:136
+msgid "to"
+msgstr "a"
+
+#: xlate-linuxrc.sh:137
+msgid "Copy persistent root to RAM succeeded"
+msgstr "Copia della root persistente nella RAM completata"
+
+#: xlate-linuxrc.sh:138
+msgid "Delaying %s second(s)"
+msgstr "Ritardo di %s secondo(i)"
+
+#: xlate-linuxrc.sh:139
+msgid "Module %s was not found."
+msgstr "Il modulo %s non è stato trovato."
+
+#: xlate-linuxrc.sh:140
+msgid "Could not mount %s as a %s file"
+msgstr "Non è stato possibile montare %s come un file %s"
+
+#: xlate-linuxrc.sh:141
+msgid "Mounting %s at %s"
+msgstr "Montaggio di %s su %s"
+
+#: xlate-linuxrc.sh:142
+msgid "Starting init process"
+msgstr "Avvio del processo di inizializzazione in corso"

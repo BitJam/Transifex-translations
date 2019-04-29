@@ -1,0 +1,168 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Eduard Selma <selma@tinet.cat>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:19+EEST\n"
+"PO-Revision-Date: 2014-11-17 10:39+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: user-management:40
+msgid "The password cannot contain spaces"
+msgstr "La contrasenya no pot contenir espais"
+
+#: user-management:41
+msgid "You need to enter a password"
+msgstr "Cal que introduïu una contrasenya "
+
+#: user-management:42
+msgid "First and second password must be identical"
+msgstr "Les dues contrasenyes han de ser idèntiques "
+
+#: user-management:43
+msgid "No User Selected:"
+msgstr "No s'ha seleccionat cap usuari:"
+
+#: user-management:44
+msgid "You must choose a user"
+msgstr "Cal que trieu un usuari "
+
+#: user-management:45
+msgid "Choose User"
+msgstr "Trieu un usuari"
+
+#: user-management:46
+msgid "User Password"
+msgstr "Contrasenya d'usuari "
+
+#: user-management:47
+msgid "User Login"
+msgstr "Nom d'entrada de l'usuari "
+
+#: user-management:48
+msgid "Set as Default User"
+msgstr "Defineix com a usuari per omissió "
+
+#: user-management:49
+msgid "Set User for Automatic Login"
+msgstr "Defineix l'usuari per entrada automàtica "
+
+#: user-management:50
+msgid "The username cannot contain spaces"
+msgstr "El nom d'usuari no pot contenir espais "
+
+#: user-management:51
+msgid "You need to enter a username"
+msgstr "Cal que introduïu un nom d'usuari "
+
+#: user-management:52
+msgid "Enter Username"
+msgstr "Introduïu el nom d'usuari "
+
+#: user-management:53
+msgid "User Shell"
+msgstr "Intèrpret d'ordres de l'usuari "
+
+#: user-management:54
+msgid "No Shell Selected:"
+msgstr "No s'ha triat cap intèrpret d'ordres: "
+
+#: user-management:55
+msgid "You need to choose a shell"
+msgstr "Cal que trieu un intèrpret d'ordres "
+
+#: user-management:56
+msgid "Password Manager"
+msgstr "Gestor de contrasenyes "
+
+#: user-management:57
+msgid "password"
+msgstr "contrasenya "
+
+#: user-management:58
+msgid "password again"
+msgstr "un altre cop la contrasenya "
+
+#: user-management:59
+msgid "Passwords"
+msgstr "Contrasenyes"
+
+#: user-management:60
+msgid "Add Users"
+msgstr "Afegeix usuaris "
+
+#: user-management:61
+msgid "Add User"
+msgstr "Afegir Usuari"
+
+#: user-management:62
+msgid "Set Password"
+msgstr "Defineix la contrasenya "
+
+#: user-management:63
+msgid "Users"
+msgstr "Usuaris "
+
+#: user-management:64
+msgid "User Repair"
+msgstr "Reparació d'usuari "
+
+#: user-management:65
+msgid "Repair User"
+msgstr "Repara l'usuari"
+
+#: user-management:67
+msgid "User Removal"
+msgstr "Elimina usuaris"
+
+#: user-management:68
+msgid ""
+"Notice!\n"
+"        All of the users files will remain in their \n"
+"        home directory, unless completely remove\n"
+"        is checked. \n"
+"        Even so, it is recomended that the\n"
+"        files be backed up!"
+msgstr "Atenció!\n        Tots els fitxers d'usuari quedaran al seu \n        directori, llevat que es marqui l'opció\n        d'eliminar completament. \n        Tot i això, es recomana fer còpia de\n        seguretat dels fitxers!"
+
+#: user-management:76
+msgid "Remove User"
+msgstr "Elimina l'usuari"
+
+#: user-management:77
+msgid "Recover User"
+msgstr "Recupera l'usuari "
+
+#: user-management:78
+msgid ""
+"Notice!\n"
+"        A user can only be recovered if the user\n"
+"        has not been completely removed!"
+msgstr "Atenció!\n        Només es pot recuperar l'usuari si\n        no ha estat eliminat completament!"
+
+#: user-management:81
+msgid "The list of configs need to be empty or your own configs"
+msgstr "La llista de paràmetres ha d'estar buida o ser les vostres pròpies "
+
+#: user-management:82
+msgid "You MUST be root to use this application!"
+msgstr "Cal ser administrador per usar aquesta aplicació!"
+
+#: user-management:83
+msgid ""
+"Warning!\n"
+"        Attempting a user repair may restore more\n"
+"        programs to original settings than you intend!\n"
+"        It is highly recommended that you first do a\n"
+"        backup of all files in your home directory."
+msgstr "Atenció!\n        Intentar fer una reparació d'usuari pot restaurar més\n        programes als seus paràmetres originals que els que voleu!\n        Es recomana que primer feu una còpia de seguretat de\n        tots els fitxers al vostre directori d'usuari."

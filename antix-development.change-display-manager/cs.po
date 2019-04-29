@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-01-04 19:41+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:16
+msgid "Change Display Manager"
+msgstr "Změnit správce zobrazení"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:18
+msgid "Change the display manager and then offer too restart X-windows."
+msgstr "Změnit správce zobrazení a pak nabídnout restart X-windows."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:24
+msgid "New display manager."
+msgstr "Nový správce zobrazení."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:25
+msgid "Pause between stopping and starting."
+msgstr "Pozastavit mezi zastavením a spuštěním."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:42
+msgid "Invalid deskcode: %s"
+msgstr "Neplatný kód plochy: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:44
+msgid "Valid choices: %s"
+msgstr "Platné volby: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:46
+msgid "Found no Slim sessions"
+msgstr "Nenalezeny žádné relace Slim"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:52
+msgid "Set default window manager to: %s"
+msgstr "Nastavit výchozího správce oken na: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:54
+msgid "Do you want to restart X-windows now?  "
+msgstr "Chcete restartovat X-windows nyní?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:56
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Před spuštěním X-windows bude %s vteřinová pauza) "

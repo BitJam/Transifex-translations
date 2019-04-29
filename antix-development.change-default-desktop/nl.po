@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-03-15 01:20+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:20
+msgid "Change Default Window Manager"
+msgstr "Standaard Window Manager wijzigen"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:22
+msgid ""
+"Change the default desktop in %s, %s and %s then offer to restart X-windows."
+msgstr "Stel de standaard desktop in op %s, %s en %s en bied dan de mogelijkheid om X-windows te herstarten."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:25
+msgid ""
+"Includes all known installed Windows Managers as options in both files."
+msgstr "Bevat alle bekende en geinstalleerde Window Managers in beide bestanden als keuzemogelijkheden."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:31
+msgid "New default desktop."
+msgstr "Nieuwe standaard desktop."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:32
+msgid "Overwrite customized .xinitrc files without asking."
+msgstr "De voorgevormde .xinitrc bestanden overschrijven zonder te vragen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:33
+msgid "Pause between stopping and starting X."
+msgstr "Tussen het stoppen en starten van X pauseren."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:34
+msgid "Print out changes without touching files."
+msgstr "Druk de veranderingen af zonder bestanden te wijzigen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:60
+msgid "No %s specified, not updating %s file."
+msgstr "Geen %s vastgesteld, %s bestand niet opgewaardeerd."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:62
+msgid "Try running %s as a normal user."
+msgstr "Probeer %s uit te voeren als een normale gebruiker."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:63
+msgid "Or you could trying running it as:"
+msgstr "Of u kunt proberen het uit te voeren als:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:68
+msgid "%s directory: %s does not exist"
+msgstr "%s folder: %s bestaat niet"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:79
+msgid "Invalid deskcode: %s"
+msgstr "Ongeldige deskcode: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:81
+msgid "Valid choices: %s"
+msgstr "Geldige keuzes: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:93
+msgid "Do you want to over-write it?"
+msgstr "Wilt u het overschrijven?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:99
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:109
+msgid "Writing %s\\n"
+msgstr "%s schrijven\\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:114
+msgid "Found no Slim sessions"
+msgstr "Geen Slim-sessies gevonden"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:119
+msgid "Here is the new sessions line for slim.conf:"
+msgstr "Hier is de nieuwe sessie-regel voor slim.conf:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:131
+msgid "Wrote: %s"
+msgstr "Geschreven: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:133
+msgid "Set default window manager to: %s"
+msgstr "Stel standaard window manager in op: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:135
+msgid "Do you want to restart X-windows now?  "
+msgstr "Wilt u X-windows nu herstarten?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:137
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Er zal een %s tweede pauze zijn voordat X-windows opstart) "

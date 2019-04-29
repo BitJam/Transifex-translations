@@ -1,0 +1,318 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# mahmut özcan <faradundamarti@yandex.com>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Kamar Telobul <ktelobul@gmail.com>, 2018
+# mahmut özcan <mahmutozcan65@yahoo.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:56+0000\n"
+"Last-Translator: mahmut özcan <mahmutozcan65@yahoo.com>, 2018\n"
+"Language-Team: Turkish (https://www.transifex.com/anticapitalista/teams/10162/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "antiX Command-Line Control Centre"
+msgstr "antiX Komut Satırı Denetim Merkezi"
+
+msgid ""
+"Press: <Enter> to select an option, <b> back to main, <q> to quit, <h> for "
+"help"
+msgstr ""
+"Bir seçeneği seçmek için <Enter>'e, anasayfaya dnmek için <b>'e, çıkmak için"
+" <q>'e, yardım için <h>'e basın"
+
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+msgid "antiX Live Commands"
+msgstr "antiX Çalışan Komutları"
+
+msgid "Audio/Visual Commands"
+msgstr "Görsel/İşitsel komutlar"
+
+msgid "System Tools"
+msgstr "Sistem Araçları"
+
+msgid "System Information"
+msgstr "Sistem Bilgisi"
+
+msgid "Console Utilities"
+msgstr "Konsol Yardımcı Programları"
+
+msgid "Internet Applications"
+msgstr "İnternet Uygulamaları"
+
+msgid "Office Applications"
+msgstr "Ofis Uygulamaları"
+
+msgid "Configuration Files"
+msgstr "Yapılandırma Dosyaları"
+
+msgid "Logout / Installer"
+msgstr "Çıkış / Yükleyici"
+
+msgid "Logout / Reboot"
+msgstr "Çıkış / Yeniden Başlatma"
+
+msgid "Audio/Visual menu"
+msgstr "Görsel/İşitsel menü"
+
+msgid "Internet Tools & Apps"
+msgstr "İnternet Araçları ve Uygulamaları"
+
+msgid "Live System Centre"
+msgstr "Çalışan Sistem Merkezi"
+
+msgid "Office and Other"
+msgstr "Ofis ve Diğerleri"
+
+msgid "Logout / Install"
+msgstr "Çıkış / Yükleme"
+
+msgid "Quit"
+msgstr "Çıkış"
+
+msgid "Would do action %s"
+msgstr "%s eylemini yapmak ister misin?"
+
+msgid "Install this distro on a hard drive"
+msgstr "Bu dağıtımı sabit sürücüye kur"
+
+msgid "Reboot the system"
+msgstr "Sistemi yeniden başlat"
+
+msgid "Powerdown the system"
+msgstr "Sistemi kapatın"
+
+msgid "See if sound is working"
+msgstr "Ses çalışıyor mu bakalım"
+
+msgid "Select which sound card to use"
+msgstr "Hangi ses kartını kullanacağınızı seçin"
+
+msgid "simple sound mixer"
+msgstr "basit ses karıştırıcı"
+
+msgid "Audio Player"
+msgstr "Ses Çalar"
+
+msgid "Stop mocp Audio Player"
+msgstr "Mocp Ses Oynatıcısını durdur"
+
+msgid "Video Player"
+msgstr "Görüntü Oynatıcı"
+
+msgid "YouTube audio-only jukebox"
+msgstr "YouTube sadece ses müzik kutusu"
+
+msgid "Poor Man's Radio Player"
+msgstr "Poor Man's Radyo Çalar"
+
+#. add_cmd burniso                  "cd/dvd burner"
+msgid "Image viewer"
+msgstr "Resim görüntüleyici"
+
+msgid "Pdf viewer"
+msgstr "Pdf görüntüleyici"
+
+msgid "cd/dvd burner"
+msgstr "cd/dvd yazıcı"
+
+msgid "Install new packages (like Synaptic)"
+msgstr "Yeni paketler kur (Synaptic benzeri)"
+
+#. add_cmd smxi                  $"System maintenance tool"
+msgid "Install nvidia non-free graphics drivers (for X)"
+msgstr "nvidia sahipli grafik kartı sürücülerini kur (X için)"
+
+msgid "Check and undelete disk partitions"
+msgstr "Disk bölümlerini kontrol et ve kurtar"
+
+msgid "Choose startup services"
+msgstr "Başlangıç Servisleri Seçimi"
+
+msgid "Set date and time"
+msgstr "Tarih ve Saat Ayarla"
+
+msgid "Partition block device %s"
+msgstr "%s aygıtını bölümle"
+
+msgid "Monitor and control processes"
+msgstr "İzleme ve kontrol süreçleri"
+
+msgid "Hardware and OS information"
+msgstr "Donanım ve işletim sistemi bilgisi"
+
+msgid "Other system information"
+msgstr "Diğer sistem bilgisi"
+
+msgid "Show memory usage"
+msgstr "Bellek kullanımını göster"
+
+msgid "Information about mounted partitions"
+msgstr "Bağlanmış bölümler hakkında bilgi"
+
+msgid "List all block (disk) partitions"
+msgstr "Tüm blok (disk) bölümlendirmelerini listele"
+
+msgid "List currently installed kernel modules"
+msgstr "Şu an kurulu olan çekirdek modüllerini listele"
+
+msgid "List major system components"
+msgstr "Büyük sistem bileşenlerini listele"
+
+msgid "List attached USB devices"
+msgstr "Takılmış USB aygıtların listesi"
+
+msgid "Display messages from the kernel"
+msgstr "Çekirdek iletilerini göster"
+
+msgid "View information about various commands"
+msgstr "Çeşitli komutlar hakkında bilgi görüntüle"
+
+msgid "View and edit disk partitions"
+msgstr "Disk bölümlerini görüntüle ve düzenle"
+
+msgid "X Server Log File"
+msgstr "X Sunucu Kayıt Dosyası"
+
+msgid "Live Boot Log File"
+msgstr "Çalışan Sistem Başlatıcı Kayıt Dosyası"
+
+msgid "Make a full featured antiX or MX live-usb"
+msgstr "MX çalışan-usb veya tam özellikli antiX yapın"
+
+msgid "Make a "
+msgstr "Yap"
+
+msgid "Update live kernel"
+msgstr "Çalışan çekirdeği güncelle"
+
+msgid "Remaster live system"
+msgstr "Çalışan sistemi yeniden düzenle"
+
+msgid "Save dynamic root persistence"
+msgstr "Dinamik kalıcı root'u kaydedin"
+
+msgid "Configure dynamic root persistence"
+msgstr "Dinamik kalıcı root'u yapılandırın"
+
+msgid "Create live persistence files"
+msgstr "Çalışan kalıcı dosyaları oluşturun"
+
+msgid "Adjust the brightness of the backlight"
+msgstr "Arka aydınlatmanın parlaklığını ayarla"
+
+msgid "Choose the console background"
+msgstr "Uçbirim arkaplanını seçin"
+
+msgid "Choose the console font"
+msgstr "Uçbirim yazı tipini seçin"
+
+msgid "Display all possible console text colors"
+msgstr "Olabilecek tüm uçbirim metin renklerini göster"
+
+#. add_cmd space-evaders         $"Arcade type game"
+msgid "Excerpts from the Tao of Programming"
+msgstr "Programlamanın Tao'sundan bölümler"
+
+msgid "Lock the virtual consoles"
+msgstr "Sanal uçbirimi kilitle"
+
+msgid "Set up wired/wireless"
+msgstr "Kablolu/kablosuz kurulumu"
+
+msgid "Show network status"
+msgstr "Ağ durumunu göster"
+
+msgid "Test if network is connected"
+msgstr "Ağın bağlı olup olmadığını sınayın"
+
+msgid "Test network bandwidth"
+msgstr "Ağ bant genişliğini sınayın"
+
+msgid "Show all network connections and ports"
+msgstr "Tüm ağ bağlantılarını ve bağlanma yerlerini göster"
+
+msgid "Manage network profiles"
+msgstr "Ağ profillerini yönet"
+
+msgid "Weather forecast"
+msgstr "Hava durumu tahmini"
+
+msgid "Email client"
+msgstr "Eposta istemcisi"
+
+msgid "Web browser (text mode)"
+msgstr "İnternet tarayıcı (metin kipi)"
+
+#. add_cmd links2           $"Web browser (text mode)"
+msgid "Web browser (graphics mode)"
+msgstr "İnternet tarayıcı (grafik kipi)"
+
+msgid "Chat client"
+msgstr "Şöyleşi istemcisi"
+
+msgid "RSS/Atom feed reader"
+msgstr "RSS/Atom okuma kaynağı"
+
+msgid "BitTorrent client"
+msgstr "BitTorrent istemcisi"
+
+msgid "Midnight commander file manager"
+msgstr "Midnight commander dosya yöneticisi"
+
+msgid "Word Processor"
+msgstr "Sözcük İşlemci"
+
+msgid "Calendar/Schedule"
+msgstr "Takvim/İzlence"
+
+msgid "Simple text editor"
+msgstr "Basit metin düzenleyici"
+
+msgid "Advanced text editor"
+msgstr "Gelişmiş metin düzenleyici"
+
+msgid "File system table"
+msgstr "Dosya sistemi tablosu"
+
+msgid "X Windows Configuration"
+msgstr "X Pencere Yapılandırması"
+
+msgid "SLiM Graphical login manager"
+msgstr "SLİM Grafik giriş yöneticisi"
+
+msgid "Installed bootloader"
+msgstr "Önyükleyici kurulu"
+
+msgid "Live usb BIOS bootloader"
+msgstr "Çalışan usb BİOS önyükleyici"
+
+msgid "Live usb UEFI bootloader"
+msgstr "Çalışan usb UEFİ önyükleyici"
+
+msgid "Remaster Exclude List"
+msgstr "Dışarıda bırakılanlar listesini yeniden düzenle"
+
+msgid "Snapshot Exclude List"
+msgstr "Anlık Dışarıda Bırakılanlar Listesi"
+
+msgid "Remaster Exclude List 2"
+msgstr "Dışarıda bırakılanlar 2 listesini yeniden düzenle"
+
+msgid "Persist Save Exclude List"
+msgstr "Dışarıda Bırakılanlar Listesini Kalıcı Olarak Kaydet"

@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: joyinko <joyinko@azet.sk>, 2017\n"
+"Language-Team: Czech (https://www.transifex.com/anticapitalista/teams/10162/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Tvůrce Live-USB "
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Rozpoznán Live systém. Vyberte způsob vytvoření Live-USB"
+
+msgid "Select Mode"
+msgstr "Vyberte způsob vytvoření"
+
+msgid "Select USB Device"
+msgstr "Vybrat USB zařízení"
+
+msgid "Clone Mode"
+msgstr "Naklonovat"
+
+msgid "Select ISO"
+msgstr "Vybrat ISO soubor"
+
+msgid "Clone Running Live System"
+msgstr "Naklonovat běźící Live sytém"
+
+msgid "Information"
+msgstr "Informace"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "Zdrojem není ISO soubor. Prosím vyberte jiný soubor."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Jednoduchý program pro tvorbu Live-USB"
+
+msgid "Version"
+msgstr "Verze"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Nebylo detekováno žádné USB zařízení. Prosím vložte ho a zkuste to znovu."
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Apply"
+msgstr "Použít"
+
+msgid "Close"
+msgstr "Zavřít"
+
+msgid "About"
+msgstr "O aplikaci"
+
+msgid "Help"
+msgstr "Nápověda"
+
+msgid "Advanced"
+msgstr "Rozšířené"
+
+msgid "LiveUSB creation successful!"
+msgstr "Vytvoření Live-USB proběhlo úspěšně!"
+
+msgid "Operation stopped by user."
+msgstr "Operace přerušena uživatelem."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "%s Proces (který používá PID %s) už běží"
+
+msgid "Please close that process before starting a new one"
+msgstr "Prosím ukončete běžící proces před spuštěním nového"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Uzamčení %s zlyhalo"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Zavřeli jste progresové okno ale úkol ještě nebyl ukončen. Přejete si "
+"pokračovat?"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Ne"

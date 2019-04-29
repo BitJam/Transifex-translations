@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Eduard Selma <selma@tinet.cat>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:28+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Per omissió "
+
+msgid "Check integrity of the live media"
+msgstr "Comprova la integritat del suport autònom "
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Comprova LiveUSB i persistència en sistemes de fitxers ext2/3/4 "
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Copia el sistema de fitxers comprimit a la RAM "
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Acaba l'arrencada des de l'USB autònom "
+
+msgid "Finish booting from a hard drive"
+msgstr "Acaba l'arrencada des d'un disc dur "
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Inhabilita tots els dispositius USB-2 en arrencar "
+
+msgid "Have the system help determine the clock setting"
+msgstr "Deixa que el sistema ajudi a trobar la configuració de rellotge "
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "El rellotge del maquinari usa UTC (sistemes amb només Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "El rellotge de maquinari usa l'hora local (sistemes amb Windows) "
+
+msgid "Change passwords before booting"
+msgstr "Canvieu les contrasenyes abans d'arrencar "
+
+msgid "Enable wicd service on startup"
+msgstr "Activa el servei wicd a l'arrencada"
+
+msgid "Disable wicd service on startup"
+msgstr "Desactiva el servei wicd a l'arrencada"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Desactiva l'opció d'emmagatzematge LiveUSB (només LiveUSB) "
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Activa l'opció d'emmagatzematge LiveUSB (només LiveUSB) "
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Desa alguns fitxers entre arrencades (només USB autònom) "
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "No desis fitxers entre arrencades (només USB autònom) "
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Munta els dispositius automàticament en connectar-los "
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Desactiva tot el muntatge i desmuntatge addicional"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Ràpid. Desa root i home (usa la RAM, desa a l'aturada) "
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Ràpid. Només desa root (usa la RAM, desa a l'aturada) "
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Lent. Desa root i home (no usa la RAM, desa continuament) "
+
+msgid "Only home persistence"
+msgstr "Persistència només d'usuari "
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal, amb persistència d'arrel i usuari "
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal, amb persistència només d'arrel "
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal, amb persistència d'usuari i arrel estàtica "
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal, només amb persistència d'usuari "
+
+msgid "Only Frugal, no persistence"
+msgstr "Només Frugal, sense persistència "
+
+msgid "Yes (default)"
+msgstr "Si (per omissió) "
+
+msgid "No"
+msgstr "No "

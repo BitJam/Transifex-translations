@@ -1,0 +1,159 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2014-2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2018-08-21 19:29+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: bin/persist-config:12
+msgid "antiX Root Persistence Auto-Save Configuration"
+msgstr "antiX ルート Persistence 自動保存設定"
+
+#: bin/persist-config:20
+msgid "Automatic"
+msgstr "自動"
+
+#: bin/persist-config:21
+msgid "Semi-Automatic"
+msgstr "半自動"
+
+#: bin/persist-config:22
+msgid "Manual"
+msgstr "手動"
+
+#: bin/persist-config:23
+msgid "Quit"
+msgstr "終了"
+
+#: bin/persist-config:29
+msgid "Configure root persistence saves to run either:"
+msgstr "ルート persistence の保存について次の設定を実行します:"
+
+#: bin/persist-config:31
+msgid "at shutdown/reboot, no asking"
+msgstr "反応せずシャットダウン・再起動"
+
+#: bin/persist-config:32
+msgid "ask at shutdown/reboot"
+msgstr "反応によりシャットダウン・再起動"
+
+#: bin/persist-config:33
+msgid "you snooze, you lose"
+msgstr "手動保存のみ"
+
+#: bin/persist-config:35
+msgid ""
+"This program should be called with the %s option in a startup script to "
+"ensure a config file is created."
+msgstr "このプログラムは作成された設定ファイルを確実にするために、スタートアップスクリプトで ％s オプションを指定して呼び出す必要があります。"
+
+#: bin/persist-config:37
+msgid ""
+"It should be called with the %s option in shutdown scripts so your changes "
+"can be saved before shutting down."
+msgstr "変更はシャットダウン前に保存することができます。これは、シャットダウンスクリプトで %s オプションを指定して呼び出す必要があります。"
+
+#: bin/persist-config:45
+msgid "%s specific options"
+msgstr "％s 固有オプション"
+
+#: bin/persist-config:46
+msgid "Create a %s file if one is missing."
+msgstr "一致していない場合 ％s ファイルを作成します。"
+
+#: bin/persist-config:47
+msgid "Run persist-save as directed by %s file."
+msgstr "%s ファイルの指示どおりに persist 保存を実行します。"
+
+#: bin/persist-config:48
+msgid "Run %s if %s succeeded."
+msgstr "%s を %s が完了した時に実行します。"
+
+#: bin/persist-config:49
+msgid "If %s fails prompt user before running %s."
+msgstr "%s 失敗プロンプトを %s 実行前に出します。"
+
+#: bin/persist-config:50
+msgid "implies %s"
+msgstr "%s の暗示"
+
+#: bin/persist-config:52
+msgid "Config file is located at: %s"
+msgstr "設定ファイルのロケール: "
+
+#: bin/persist-config:90
+msgid "Current mode is: %s"
+msgstr "現在のモード: %s"
+
+#: bin/persist-config:92
+msgid "There is no current auto-save mode.  The default is: %s."
+msgstr "現在自動保存モードになっていません。デフォルト: %s"
+
+#: bin/persist-config:102
+msgid "save on shutdown/reboot automatically.  No asking."
+msgstr "シャットダウン・再起動時、反応なく自動保存します。"
+
+#: bin/persist-config:103
+msgid "ask to save on shutdown/reboot."
+msgstr "反応によりシャットダウン・再起動時に保存します。"
+
+#: bin/persist-config:104
+msgid "only save changes manually (you snooze, you lose)."
+msgstr "変更の保存は手動で行います。"
+
+#: bin/persist-config:105
+msgid "use current default."
+msgstr "現在のデフォルトを使用する"
+
+#: bin/persist-config:117
+msgid "Auto-save mode set to %s in %s."
+msgstr "自動保存モードの設定は %s です %s "
+
+#: bin/persist-config:123
+msgid "It looks like root persistence was just enabled."
+msgstr "ルート persistence は有効になっているようです。"
+
+#: bin/persist-config:124
+msgid "Please set the save-mode for root persistence."
+msgstr "ルート persistence の保存モードを設定して下さい。"
+
+#: bin/persist-config:125
+msgid "You will only have to do this once."
+msgstr "一度だけこの操作を行う必要があります。"
+
+#: bin/persist-config:127
+msgid "You can change your choice later with %s."
+msgstr "%s の後に選択を変更することができます。"
+
+#: bin/persist-config:159
+msgid "Already saved less than %s seconds ago"
+msgstr "保存まであと %s 秒"
+
+#: bin/persist-config:160
+msgid "Won't autosave within %s seconds of a previous save"
+msgstr "％s 秒以内に保存しないと自動保存されません"
+
+#: bin/persist-config:199
+msgid "CONFIRM"
+msgstr "確認"
+
+#: bin/persist-config:200
+msgid "There was an error saving your changes."
+msgstr "変更を保存中にエラーが発生しました。"
+
+#: bin/persist-config:202
+msgid "Do you still want to %s?"
+msgstr "%s を行いますか？"

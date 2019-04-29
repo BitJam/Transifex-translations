@@ -1,0 +1,373 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2012-12-02 10:47+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: usr/local/bin/remaster.sh:41
+msgid "This script needs to use squashfs-tools package, shall I install it?"
+msgstr "Dieses Skript benötigt das \"squashfs-tools\" Paket; soll es installiert werden?"
+
+#: usr/local/bin/remaster.sh:43
+msgid "Squshfs-tools is a required package. Script aborted."
+msgstr "Das Paket \"squashfs-tools\" wird benötigt. Skript abgebrochen."
+
+#: usr/local/bin/remaster.sh:56
+msgid "Error installing required package. Script aborted."
+msgstr "Fehler beim installieren eines benötigten Pakets. Skript abgebrochen."
+
+#: usr/local/bin/remaster.sh:85
+msgid "Are you ready to start building the ISO?"
+msgstr "Bereit zum Erstellen des ISO's?"
+
+#: usr/local/bin/remaster.sh:87
+msgid ""
+"OK, to remaster later on, run this script with \"build-iso\" argument, like "
+"this"
+msgstr "OK, um später Remastering auszuführen, dieses Skript mit dem \"build-iso\" Argument aufrufen, wie folgt"
+
+#: usr/local/bin/remaster.sh:99
+msgid ""
+"Enter the host path (i.e. /home/username) in which you want to remaster your"
+" project"
+msgstr "Den Host-Pfad (z.B.: /home/username/) für das remaster Projekt angeben"
+
+#: usr/local/bin/remaster.sh:106
+msgid "Error creating \"remaster\" directory. Script aborted."
+msgstr "Fehler beim Erstellen des \"remaster\" Verzeichnis. Skript abgebrochen."
+
+#: usr/local/bin/remaster.sh:114
+msgid ""
+"Enter the host path (i.e. /mnt/hda5/home/username) in which you want to "
+"remaster your project."
+msgstr "Den Host-Pfad (z.B.: /mnt/hda5/home/username) für das remaster Projekt angeben"
+
+#: usr/local/bin/remaster.sh:115
+msgid ""
+"When remastering from harddisk you need to specify a different partition "
+"than the one you remaster"
+msgstr "Beim Remastering von Festplatten, eine Partition die nicht remastered wird muss angegeben werden"
+
+#: usr/local/bin/remaster.sh:127
+msgid "Could not mount"
+msgstr "Konnte nicht einhängen (mount'en)"
+
+#: usr/local/bin/remaster.sh:139
+msgid "Error: the remaster directory already exists, please use another path"
+msgstr "Fehler: Das \"remaster\" Verzeichnis existiert bereits, bitte anderen Pfad nutzen"
+
+#: usr/local/bin/remaster.sh:144
+msgid ""
+"Now using left-hand layout.Error: the directory was not created, please try "
+"again"
+msgstr "Verwende nun linkshändiges Layout. Fehler: Das Verzeichnis wurde nicht erstellt, bitte erneut eingeben"
+
+#: usr/local/bin/remaster.sh:147
+msgid "The project will be created in ... directory"
+msgstr "Das Projekt wird im Verzeichnis ... erstellt"
+
+#: usr/local/bin/remaster.sh:149
+msgid "Okay, we have added a \"remaster\" subdirectory to your host path."
+msgstr "OK, es wurde ein \"remaster\" Unterverzeichnis zum Host-Pfad hinzugefügt."
+
+#: usr/local/bin/remaster.sh:157
+msgid "This script will remaster"
+msgstr "Dieses Skript wird remastern"
+
+#: usr/local/bin/remaster.sh:159
+msgid "Enter the path of your optical drive with the MEPIS CD (i.e. /dev/hdc)"
+msgstr "Bitte den Pfad des optischen Laufwerks mit der MEPIS CD einlegen (z.B. /dev/hdc)"
+
+#: usr/local/bin/remaster.sh:160
+msgid ""
+"Or enter the complete path to a MEPIS iso on your hard disk (i.e. "
+"/path_to_iso/mepis.iso)"
+msgstr "Oder den vollständigen Pfad zu einer MEPIS ISO Datei auf einer Festplatte eingeben (z.B. /pfad_zum_iso/mepis.iso)"
+
+#: usr/local/bin/remaster.sh:164
+msgid "Path or file doesn't exist, please try again"
+msgstr "Pfad oder Datei existiert nicht; bitte erneut versuchen"
+
+#: usr/local/bin/remaster.sh:171
+msgid "Creating directory structure for this operation"
+msgstr "Erstelle Verzeichnisstruktur für diese Aktion"
+
+#: usr/local/bin/remaster.sh:173
+msgid "...directory to mount CD on"
+msgstr "... Verzeichnis in welchem die CD eingehängt werden soll"
+
+#: usr/local/bin/remaster.sh:174
+msgid "...directory for old squashfs"
+msgstr "Verzeichnis für altes \"squashfs\" ..."
+
+#: usr/local/bin/remaster.sh:175
+msgid "...directory for new squashfs"
+msgstr "Verzeichnis für neues \"squashfs\" ..."
+
+#: usr/local/bin/remaster.sh:176
+msgid "...directory for new iso"
+msgstr "Verzeichnis für neues \"iso\""
+
+#: usr/local/bin/remaster.sh:177
+msgid "mounting original CD to..."
+msgstr "hänge originale CD in ... ein"
+
+#: usr/local/bin/remaster.sh:181
+msgid "Copying mounted squashfs to ... (takes some time)"
+msgstr "Kopiere eingehängtes \"squashfs\" nach ... (könnte etwas dauern)"
+
+#: usr/local/bin/remaster.sh:194
+msgid "Could not mount the CD image, do you want to try again"
+msgstr "Konnte CD-Abbild (Image) nicht einhängen; soll wiederholt werden"
+
+#: usr/local/bin/remaster.sh:206
+msgid "Copying live CD files to..."
+msgstr "Kopiere Live-CD Dateien nach ..."
+
+#: usr/local/bin/remaster.sh:213
+msgid "Mounting original squashfs to..."
+msgstr "Original squashfs wird gemounted auf ..."
+
+#: usr/local/bin/remaster.sh:217
+msgid "Error mounting squashfs file. ...is probable not a ... file."
+msgstr "Fehler beim mounten von squashfs Datei. ... is wahrscheinlich nich eine ... Datei."
+
+#: usr/local/bin/remaster.sh:218
+msgid "Cleaning up, removing \"remaster\" directory."
+msgstr "Aufräumen, Entferne \"remaster\" Verzeichnis."
+
+#: usr/local/bin/remaster.sh:229
+msgid "Enter the path to the remaster directory (e.g., /home/username):"
+msgstr "Bitte den Pfad zum \"remaster\"- Verzeichnis eingeben (z.B. /home/username)"
+
+#: usr/local/bin/remaster.sh:233
+msgid "\"remaster\" directory not found in that path, please try again"
+msgstr "\"remaster\" Verzeichnis nicht im Pfad gefunden, bitte erneut versuchen"
+
+#: usr/local/bin/remaster.sh:279
+msgid "Do you want to remove..."
+msgstr "Soll ... entfernt werden"
+
+#: usr/local/bin/remaster.sh:302
+msgid "Chrooting into your..."
+msgstr "Chroot nach ..."
+
+#: usr/local/bin/remaster.sh:303
+msgid ""
+"You should now be in the environment you want to remaster. To check please "
+"type \"ls\" - you should see a root directory tree."
+msgstr "Sie sollten sich nun in der Umgebung befinden die dem remaster Prozess unterzogen werden soll. Um dies zu überprüfen bitte \"ls\" eingeben - es sollte der root Verzeichnisbaum angezeigt werden."
+
+#: usr/local/bin/remaster.sh:304
+msgid "When done please type \"exit\" or press CTRL-D"
+msgstr "Wenn fertig bitte \"exit\" eingeben oder CTRL-D drücken"
+
+#: usr/local/bin/remaster.sh:326
+msgid "Cleaning chroot environment..."
+msgstr "Räume chroot Umgebung auf..."
+
+#: usr/local/bin/remaster.sh:328
+msgid "Exiting chroot."
+msgstr "Beende \"chroot\"."
+
+#: usr/local/bin/remaster.sh:333
+msgid "This is your current version file:"
+msgstr "Dies ist die aktuelle Versionsdatei:"
+
+#: usr/local/bin/remaster.sh:338
+msgid "Would you like to amend your version file?"
+msgstr "Soll die Versionsdatei ergänzt werden?"
+
+#: usr/local/bin/remaster.sh:349
+msgid "The ISO file will be placed by default in ... directory."
+msgstr "Das Vorgabeverzeichnis für die ISO-Datei ist ..."
+
+#: usr/local/bin/remaster.sh:350
+msgid "Is that OK?"
+msgstr "In Ordnung?"
+
+#: usr/local/bin/remaster.sh:353
+msgid ""
+"Enter the path (i.e. /home/username) in which you want to place your ISO "
+"file"
+msgstr "Bitte den Pfad eingeben, in dem die ISO-Datei gespeichert werden soll (z.B. /home/username)"
+
+#: usr/local/bin/remaster.sh:359
+msgid "...doesn't exist, create?"
+msgstr "... existiert nicht; soll erstellt werden?"
+
+#: usr/local/bin/remaster.sh:363
+msgid "Error: the directory was not created, please try again"
+msgstr "Fehler: Das Verzeichnis wurde nicht erstellt, bitte erneut versuchen"
+
+#: usr/local/bin/remaster.sh:365
+msgid "The path will be..."
+msgstr "Der Pfad wird..."
+
+#: usr/local/bin/remaster.sh:375
+msgid "Enter the name of the ISO file (default: remastered.iso)"
+msgstr "Bitte den Namen der ISO-Datei eingeben (Vorgabewert: \"remastered.iso\")"
+
+#: usr/local/bin/remaster.sh:383
+msgid "File exists, overwrite?"
+msgstr "Datei existiert bereits; überschreiben?"
+
+#: usr/local/bin/remaster.sh:391
+msgid ""
+"Good. We are now creating your iso. Sit back and relax, this takes some time"
+" (some 20 minutes on an AMD +2500 for a 680MB iso)."
+msgstr "Gut. Nun wird die ISO-Datei erstellt. Dies könnte ein wenig dauern (ca. 20 Minuten auf einem AMD +2500 für eine 680 MB ISO-Datei), also Zeit für eine Pizza."
+
+#: usr/local/bin/remaster.sh:394
+msgid "Error making squashfs file. Script aborted."
+msgstr "Fehler beim Erstellen der \"squashfs\"-Datei. Skript abgebrochen.\n\t"
+
+#: usr/local/bin/remaster.sh:405
+msgid "Done. You will find your very own remastered home-made Linux here:"
+msgstr "Fertig. Ihr Linux Marke Eigenbau befindet sich hier:"
+
+#: usr/local/bin/remaster.sh:409
+msgid "ISO building failed."
+msgstr "ISO Erstellen fehlgeschlagen."
+
+#: usr/local/bin/remaster.sh:418
+msgid "File size ="
+msgstr "Dateigröße ="
+
+#: usr/local/bin/remaster.sh:420
+msgid "you can burn this file on a business-card CD, or a larger medium"
+msgstr "Diese Datei kann auf eine \"business-card\"-CD oder auf größere Medien gebrannt werden"
+
+#: usr/local/bin/remaster.sh:422
+msgid "you can burn this file on a Mini CD, or a larger medium"
+msgstr "Diese Datei kann auf eine Mini-CD oder auf größere Medien gebrannt werden"
+
+#: usr/local/bin/remaster.sh:424
+msgid "you can burn this file on a 650 MB / 74 Min. CD, or a larger medium"
+msgstr "Diese Datei kann auf eine 650 MB / 74 Min. CD oder auf größere Medien gebrannt werden"
+
+#: usr/local/bin/remaster.sh:426
+msgid "you can burn this file on a 700 MB / 80 Min. CD, or a larger medium"
+msgstr "Diese Datei kann auf eine 700 MB / 80 Min. CD oder auf größere Medien gebrannt werden\n\t"
+
+#: usr/local/bin/remaster.sh:428
+msgid "this is too big for a CD, burn it on a DVD"
+msgstr "Zu groß für eine CD, muss auf DVD gebrannt werden"
+
+#: usr/local/bin/remaster.sh:430
+msgid "this is too big for a 4.7 GB DVD, burn it on a dual-layer DVD"
+msgstr "Zu groß für eine 4,7 GB DVD, muss auf zweilagige (Dual-Layer) DVD gebrannt werden"
+
+#: usr/local/bin/remaster.sh:432
+msgid "the file is probably too big to burn even on a dual-layer DVD"
+msgstr "Diese Datei ist wahrscheinlich sogar zu groß für eine zweilagige (Dual-Layer) DVD"
+
+#: usr/local/bin/remaster.sh:447
+msgid ""
+"You started the script with \"--from-hdd\" option, you need to run the "
+"script from a Live CD"
+msgstr "Das Skript wurde mit der \"--from-hdd\" Option gestartet, das Skript muss von einer Live CD ausgeführt werden."
+
+#: usr/local/bin/remaster.sh:454
+msgid "You have two choices here:"
+msgstr "Hier gibt es zwei Möglichkeiten:"
+
+#: usr/local/bin/remaster.sh:455
+msgid ""
+"1. Remaster a generic Live CD -- you'll lose your user account(s), you have "
+"to use Live CD's default accounts and passwords, /home partition or "
+"directory will not be included in resulting ISO."
+msgstr "1. Remastern einer generischen Live CD -- es werden alle Benutzerkonten entfernt; es müssen die voreingestellten Benuzerkonten und Passwörter der Live CD benutzt werden. Die/das /home Partition/Verzeichnis wird nicht in dem erzeugte ISO enthalten sein."
+
+#: usr/local/bin/remaster.sh:456
+msgid ""
+"2. Remaster a custom Live CD -- you'll keep your own account(s) and paswords in the new Live CD\n"
+" (WARNING! NOT WORKING PROPERLY YET!) "
+msgstr "2. Remastern eine angepassten Live CD -- Die Benutzerkonten und Passwörter werden auf der erzeuten Live CD beibehalten\n(WARNUNG! FUNKTIONIERT NOCH NICHT VOLLSTÄNDIG!) "
+
+#: usr/local/bin/remaster.sh:457
+msgid "Please enter your choice: 1 or 2"
+msgstr "Bitte auswählen: 1 oder 2"
+
+#: usr/local/bin/remaster.sh:479
+msgid ""
+"This option DOESN'T completely work yet. To log in in the resulting Live CD "
+"you need to:"
+msgstr "iese Option funktioniert noch NICHT vollständig. Um sich auf der erstellten Live CD einzuloggen muss:"
+
+#: usr/local/bin/remaster.sh:480
+msgid "1. boot the Live CD using \"aufs\" option"
+msgstr "1. LiveCD mit der Option \"aufs\" booten"
+
+#: usr/local/bin/remaster.sh:481
+msgid ""
+"2. press CTRL-ALT-F1, log in as root and execute this command: \"mount "
+"--bind /aufs/home /home\""
+msgstr "2. STRG+ALT+F1 drücken, als \"root\" einloggen und folgenden Befehl ausführen: \"mount --bind /aufs/home /home\""
+
+#: usr/local/bin/remaster.sh:482
+msgid "3. run: \"/etc/init.d/kdm restart\""
+msgstr "3. Ausführen: \"/etc/init.d/kdm restart\""
+
+#: usr/local/bin/remaster.sh:487
+msgid "Enter the partition that you want to remaster (e.g., hda3)"
+msgstr "Die Partition die remastert werden soll angeben (z.B.: hda3)"
+
+#: usr/local/bin/remaster.sh:496
+msgid "Do you have /home on a different partition?"
+msgstr "Befindet sich \"/home\" auf einer anderen Partition?"
+
+#: usr/local/bin/remaster.sh:498
+msgid "Enter /home partition (e.g., hda4)"
+msgstr "Bitte die \"/home\" Partition eingeben (z.B. hda4)"
+
+#: usr/local/bin/remaster.sh:511
+msgid "Could not mount ... partition, retry?"
+msgstr "Konnte nicht Partition ... einhängen (mount'en), wiederholen?"
+
+#: usr/local/bin/remaster.sh:520
+msgid "You need to be root to execute this script."
+msgstr "Das Ausführen dieses Skriptes erfordert \"root\"-Rechte"
+
+#: usr/local/bin/remaster.sh:527
+msgid ""
+"This remastering process uses the \"squashfs\" file system which doesn't "
+"seem to be installed on your system. Without it we cannot proceed. Run ..."
+msgstr "Das Remaster-Programm benutzt das \"squashfs\" Dateisystem, welches nicht installiert zu sein scheint. Ohne es kann nicht fortgefahren werden. Bitte ausführen:"
+
+#: usr/local/bin/remaster.sh:528
+msgid ""
+"If you do have the package installed you might need to run this command "
+"\"modprobe squashfs\" before running this script"
+msgstr "Falls das Paket installiert sein sollte, könnte es sein, dass der Befehl \"modprobe squashfs\" vor diesem Skriptes ausgeführt werden muss"
+
+#: usr/local/bin/remaster.sh:529
+msgid "Script aborted."
+msgstr "Skript abgebrochen"
+
+#: usr/local/bin/remaster.sh:550
+msgid "Unrecognized option:"
+msgstr "Unbekannte Option:"
+
+#: usr/local/bin/remaster.sh:571
+msgid "Do you want to chroot to ... to add/remove programs?"
+msgstr "Soll chroot nach ... ausgeführt werden um Programme hinzufügen/entfernen?"
+
+#: usr/local/bin/remaster.sh:573
+msgid ""
+"WARNING!!! You are chrooting to ..., any changes in the chroot environment "
+"will affect the actual hard disk installation."
+msgstr "WARNUNG!!! Es wird ein chroot nach... ausgeführt. Jegliche Änderungen an der chroot Umgebung wird die Festplatteninstallation verändern."

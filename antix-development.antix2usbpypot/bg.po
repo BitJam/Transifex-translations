@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 01:51+EEST\n"
+"PO-Revision-Date: 2015-01-18 02:30+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: antix2usb.py:41
+msgid "not found."
+msgstr "не е намерено."
+
+#: antix2usb.py:42
+msgid "Warning"
+msgstr "Внимание"
+
+#: antix2usb.py:43
+msgid ""
+"No removable USB device has been detected.\n"
+"\\ Plug in the USB key and retry."
+msgstr "Не беше намерено отстранимо USB устройство.\n\\ Свържете USB устройство и опитайте отново."
+
+#: antix2usb.py:44 antix2usb.py:61
+msgid "No ISO file selected!"
+msgstr "Не е избран ISO файл!"
+
+#: antix2usb.py:45
+msgid "Cannot access file %s"
+msgstr "Няма достъп до файл %s"
+
+#: antix2usb.py:46
+msgid ""
+"File '%s' does not fit \n"
+"in %s MB partition"
+msgstr "Файл '%s' не се побира\nв %s MB сектор"
+
+#: antix2usb.py:47
+msgid "Required size: %d MB"
+msgstr "Задължителен размер: "
+
+#: antix2usb.py:48
+msgid ""
+"You need extra space for %s persistence file in the partition.\n"
+"\n"
+"\\ Estimated minimum partition size is %d MB"
+msgstr "Имате нужда от допълнително място за %s файл за постоянство в сектора.\n\\ Очакван минимален размер на сектора е "
+
+#: antix2usb.py:49
+msgid ""
+"You need extra space for root and home persistence files in the partition.\n"
+"\n"
+"Estimated minimum partition size is %d MB"
+msgstr "Имате нужда от допълнително място за рут и домашно постоянство файлове в сектора.\n\nОчакван минимален размер на сектора е %d MB"
+
+#: antix2usb.py:51
+msgid "No device selected"
+msgstr "Не е избрано устройство"
+
+#: antix2usb.py:52
+msgid "Device %s appears to be mounted on %s\n"
+msgstr "Изглежда устройството %s е монтирано на %s\n"
+
+#: antix2usb.py:53
+msgid "Unmount the device and prevent any application\n"
+msgstr "Демонтирайте устройството и спрете всяко приложение\n"
+
+#: antix2usb.py:54
+msgid "to auto-mount it.\n"
+msgstr "за авто-монтирането му.\n"
+
+#: antix2usb.py:55
+msgid "ISO files"
+msgstr "ISO файлове"
+
+#: antix2usb.py:56
+msgid "Installing..."
+msgstr "Инсталиране..."
+
+#: antix2usb.py:57
+msgid "Dry test: command: [%s]"
+msgstr "Сух тест: команда: [%s]"
+
+#: antix2usb.py:58
+msgid "Sorry, Cannot find help file."
+msgstr "Извинете, Не може да бъде намерен помощен файл."
+
+#: antix2usb.py:59
+msgid ""
+"\n"
+"Process interrupted by user.\n"
+msgstr "\nПроцеса е прекъснат от потребителя.\n"
+
+#: antix2usb.py:60
+msgid "Are you sure you want to quit?"
+msgstr "Сигурен ли сте, че искате да приключите?"
+
+#: antix2usb.py:62
+msgid "Selected file does not look like an ISO file."
+msgstr "Избраният файл не изглежда, че е ISO файл."
+
+#: antix2usb.py:63
+msgid ""
+"Ready to install <b>%s\n"
+"</b>"
+msgstr "Готов да инсталира <b>%s\n</b>"
+
+#: antix2usb.py:64
+msgid ""
+"on device <b>%s</b>\n"
+"\n"
+msgstr "на устройство <b>%s</b>\n\n"
+
+#: antix2usb.py:65
+msgid "Installation will use full device.\n"
+msgstr "Инсталацията ще използва цялото устройство.\n"
+
+#: antix2usb.py:66
+msgid "Format: <b>%s</b>.\n"
+msgstr "Форматиране: <b>%s</b>.\n"
+
+#: antix2usb.py:67
+msgid "Installation will use <b>%d MB</b> on device.\n"
+msgstr "Инсталацията ще използва <b>%d MB</b> на устройството.\n"
+
+#: antix2usb.py:68
+msgid "Format of the partition: <b>%s</b>\n"
+msgstr "Формат на сектора: <b>%s</b>\n"
+
+#: antix2usb.py:69
+msgid "A persistent root file system will be created.\n"
+msgstr "Постоянна рут файлова система ще бъде създадена.\n"
+
+#: antix2usb.py:70
+msgid "A persistent home file system will be created.\n"
+msgstr "Постоянна домашна файлова система ще бъде създадена.\n"
+
+#: antix2usb.py:71
+msgid "Persistent root and home file sytems will be created.\n"
+msgstr "Постоянна рут и домашна файлови системи ще бъдат създадени.\n"
+
+#: antix2usb.py:72
+msgid "The Live USB device will boot using <b>%s</b> bootloader.\n"
+msgstr "Лайф USB устройството ще бутва използвайки <b>%s</b> бутлоудър.\n"
+
+#: antix2usb.py:73
+msgid ""
+"\n"
+"<b>All data existing on the device will be erased.</b>"
+msgstr "\n<b>Всички данни на устройството ще бъдат изтрити.</b>"
+
+#: antix2usb.py:74
+msgid "Calling terminate..."
+msgstr "Извикване на терминиране..."
+
+#: antix2usb.py:75
+msgid ""
+"Process completed.\n"
+"You can close the application."
+msgstr "Процес завършен.\nМожете да затворите приложението."
+
+#: antix2usb.py:76
+msgid "You need root privileges to run this script."
+msgstr "Имате нужда от рут привилегии за да изпълните този скрипт."
+
+#: antix2usb.py:77
+msgid ""
+"Cannot proceed. The script %s\n"
+" is not present in the path. "
+msgstr "Не може да се продължи. Скрипта %s\nне е представен в указания път."
+
+#: antix2usb.py:78
+msgid "Sorry."
+msgstr "Съжелявам."
+
+#: antix2usb.py:79
+msgid ""
+"Cannot proceed. The resource file %s\n"
+" is not accessible."
+msgstr "Не може да се продължи. Ресурсния файл %s\nне е достъпен."

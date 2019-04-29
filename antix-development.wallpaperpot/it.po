@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 21:07+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: wallpaper.py:145
+msgid "Note: you cannot change the color with rox desktop"
+msgstr "Nota: non si può cambiare il colore con rox desktop"
+
+#: wallpaper.py:180
+msgid "Images"
+msgstr "Immagini"
+
+#: wallpaper.py:205 wallpaper.py:226
+msgid "No file selected"
+msgstr "Nessun file selezionato"
+
+#: wallpaper.py:217
+msgid "All Files"
+msgstr "Tutti i file"
+
+#: wallpaper.py:267
+msgid "antiX Wallpaper - help"
+msgstr "antiX Wallpaper - aiuto"
+
+#: wallpaper.py:301
+msgid ""
+"This is an antiX application for setting the wallpaper on the preinstalled "
+"window managers"
+msgstr "Questa è un'applicazione antiX per impostare il wallpaper sui gestori di finestre preinstallati"
+
+#: wallpaper.py:400
+msgid "Options"
+msgstr "Opzioni"
+
+#: wallpaper.py:415
+msgid "Default Folder"
+msgstr "Cartella predefinita"
+
+#: wallpaper.py:421
+msgid "Open Image"
+msgstr "Apri un'immagine"
+
+#: wallpaper.py:427
+msgid "Default Color"
+msgstr "Colore predefinito"
+
+#: wallpaper.py:446
+msgid "Static"
+msgstr "Statico"
+
+#: wallpaper.py:448
+msgid "No Wallpaper"
+msgstr "Nessun wallpaper"
+
+#: wallpaper.py:449
+msgid "Random Wallpaper"
+msgstr "Wallpaper casuale"
+
+#: wallpaper.py:450
+msgid "Random Wallpaper Timed"
+msgstr "Wallpaper casuale a rotazione"
+
+#: wallpaper.py:457
+msgid "scale"
+msgstr "scala"
+
+#: wallpaper.py:458
+msgid "center"
+msgstr "centro"
+
+#: wallpaper.py:459
+msgid "fill"
+msgstr "riempi"

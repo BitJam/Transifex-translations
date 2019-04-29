@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2017-09-20 00:55+0000\n"
+"Last-Translator: Вячеслав Волошин <vol_vel@mail.ru>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "предупреждение"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Действительно, выйти?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "Y"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "y"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Нажмите <Enter> для продолжения"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Попробуйте еще раз"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "Вы вошли: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "Это правильно?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Введите число"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr " (или букву)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Ваш выбор пуст."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Вы должны выбрать число"
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Ваш выбор %s выходит из диапазона."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Ошибка"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Переключение в режим командной строки."
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Стандартные опции"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Вызвать интерфейс командной строки"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Повысить яркость цветов консоли"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Вызвать графический интерфейс (обычно не требуется)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Показать эту простую справку"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Уменьшить яркость цветов консоли"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Выключить цветность консоли"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Отключить журналирование"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Скрыть дополнительные запросы и печать"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Симулировать отсутствие yad"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Распечатать больше"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Опции отладки"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Отправить разметку Pango в yad"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Показать все строчные глобальные переменные, когда будет готово"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Показать все глобальные переменные, когда будет готово"
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "Опции %s требуется аргумент"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "Опция %s не принимает аргумент"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "Неизвестный аргумент %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Слишком много лишних аргументов: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Слишком мало аргументов. Нужно как минимум %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "Ожидается числовое значение после %s параметра"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Вы действительно хотите выйти из %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Этот сценарий может быть запущен только в среде %s."
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "%s каталог не существует"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "Указание, что это не %s среда."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Выход."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Запустите, пожалуйста, этот скрипт от имени root."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Переменные %s пусты"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Переменная %s пуста"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "В %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Это критическая ошибка"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Программа %s не найдена, и блокировки не произойдет."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Вы хотите продолжить?"
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Другая копия %s работает."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Если вы уверены, что это не так, то удалите файл:"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "и попробуйте еще раз."
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "Не удалось сделать %s для чтения-записи"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Не удалось создать точку монтирования %s."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "Не удалось связать монтирование %s на %s."
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Не удалось монтировать %s на %s."
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "Не удалось размонтировать %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Странно.  Файл %s не существует."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "Файл %s не может быть установлен."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "размер"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Должен ли он быть удален?"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Удалить его"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Сохранить его"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Просмотр информации"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Выход"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Очистка"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Что мы должны сделать с %s ?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Осталось после отката. Обычно удаляют."
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "Вы провели ремастеринг без перезагрузки."
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Предыдущий squashfs файл. Сохранить или удалить."
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "Неполный ремастеринг."
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Выберите действие:"
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Информация о версии для"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "Не VID файл"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "Не удалось монтировать %s"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "Странно. Не удалось найти соответствие строке \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Выберите устройства из"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Всех"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Смонтированных"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "Отмонтированных"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "устройств"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "OK"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Кликните устройство, затем нажмите %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Устройство"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Монтирование"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Тип"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Метка"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Размер"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Свободно"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Используйте команду \"exit\", чтобы вернуться к %s"

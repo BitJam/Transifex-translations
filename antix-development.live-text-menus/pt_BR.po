@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Guilherme Peev dos Santos <guilherme.peev@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:28+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/anticapitalista/antix-development/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Default"
+msgstr "Pré-definição"
+
+msgid "Check integrity of the live media"
+msgstr "Verificar a integridade do dispositivo externo"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Verificar os sistemas de arquivos ext2/3/4 da Instalação USB Externa e da área persistente"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Copiar o sistema de arquivos comprimido para a memória (RAM)"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Acabar de inicializar a partir duma Instalação USB Externa"
+
+msgid "Finish booting from a hard drive"
+msgstr "Acabar de inicializar pelo disco rígido"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Desabilitar todos os dispositivos usb-2 enquanto a inicializar"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Fazer o sistema ajudar a determinar as definições de relógio"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "O relógio interno usa o fuso horário UTC (só em sistemas Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "O relógio interno usa a hora local (sistemas Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Alterar as senhas antes de inicializar"
+
+msgid "Enable wicd service on startup"
+msgstr "Ativar serviço wicd ao iniciar"
+
+msgid "Disable wicd service on startup"
+msgstr "Desativar serviço wicd ao iniciar"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Desabilitar a funcionalidade Armazenar em Instalação USB Externa (apenas para Instalações USB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Habilitar a funcionalidade Armazenar em Instalação USB Externa (apenas para Instalações USB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Salvar alguns arquivos de reinício para reinício (apenas para Instalações USB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Não salvar arquivos de reinício para reinício (apenas para Instalações USB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Quando fisicamente conectados, montar os dispositivos automaticamente"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Desabilitar todas as montagens extra e auto-montagens"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Rápido. Salva a raíz [root] e a 'home' (usa a RAM, salva ao encerrar)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Rápido. Salva apenas a raíz [root] (usa a RAM, salva ao encerrar)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Lento. Salva a raíz [root] e a 'home' (não usa a RAM, salva em contínuo)"
+
+msgid "Only home persistence"
+msgstr "Persistência apenas em home"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal com persistência na raíz (root) e em home"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal com persistência apenas na raíz (root)"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal com persistência em home e na raíz (root) estática"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal com persistência apenas em home"
+
+msgid "Only Frugal, no persistence"
+msgstr "Apenas frugal, sem persistência"
+
+msgid "Yes (default)"
+msgstr "Sim (pré-definição)"
+
+msgid "No"
+msgstr "Não"

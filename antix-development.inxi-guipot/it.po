@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-27 01:56+0300\n"
+"PO-Revision-Date: 2014-11-21 14:01+0000\n"
+"Last-Translator: Guybrush88 <erpizzo@alice.it>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inxi-gui.sh:32
+msgid "    -a|--audio\t\tview sound card information"
+msgstr "-a|--audio⇥⇥visualizza le informazioni sulla scheda audio"
+
+#: inxi-gui.sh:33
+msgid "    -c|--cpu    \tview cpu information"
+msgstr "-c|--cpu ⇥visualizza le informazioni sulla CPU"
+
+#: inxi-gui.sh:34
+msgid "    -g|--graphics\tview graphics card information"
+msgstr "-g|--graphics⇥visualizza le informazioni sulla scheda video"
+
+#: inxi-gui.sh:35
+msgid "    -n|--nic\t\tview nic information"
+msgstr "-n|--nic⇥⇥visualizza le informazioni su NIC"
+
+#: inxi-gui.sh:36
+msgid "    -l|--system\t\tview system information"
+msgstr "-l|--system⇥⇥visualizza le informazioni sul sistema"
+
+#: inxi-gui.sh:37
+msgid "    -hd|--hard-drive\tview hard drive information"
+msgstr "-hd|--hard-drive⇥visualizza le informazioni sul disco fisso"
+
+#: inxi-gui.sh:38
+msgid "    -r|--repository\tview repository"
+msgstr " -r|--repository⇥visualizza il repository"
+
+#: inxi-gui.sh:39
+msgid "    -s|--sensor\t\tview sensor information"
+msgstr "-s|--sensor⇥⇥visualizza le informazioni sul sensore"
+
+#: inxi-gui.sh:40
+msgid "    --all\t\tview all (short) information"
+msgstr "--all⇥⇥visualizza tutte le informazioni (brevi)"
+
+#: inxi-gui.sh:41
+msgid "    --help\t\tdisplay this help"
+msgstr "--help⇥⇥visualizza questo aiuto"
+
+#: inxi-gui.sh:48
+msgid "Audio"
+msgstr "Audio"
+
+#: inxi-gui.sh:49
+msgid "CPU"
+msgstr "CPU"
+
+#: inxi-gui.sh:50
+msgid "Graphics"
+msgstr "Grafica"
+
+#: inxi-gui.sh:51
+msgid "NIC and IP address"
+msgstr "Indirizzo NIC e IP"
+
+#: inxi-gui.sh:52
+msgid "System"
+msgstr "Sistema"
+
+#: inxi-gui.sh:53
+msgid "Hard Drive"
+msgstr "Disco fisso"
+
+#: inxi-gui.sh:54
+msgid "Repository"
+msgstr "Repository"
+
+#: inxi-gui.sh:55
+msgid "Sensor Output"
+msgstr "Output del sensore"
+
+#: inxi-gui.sh:56
+msgid "All Short"
+msgstr "Tutto breve"
+
+#: inxi-gui.sh:57
+msgid "PC Information Options"
+msgstr "Opzioni delle informazioni sul PC"
+
+#: inxi-gui.sh:187
+msgid "Edit?"
+msgstr "Modificare?"
+
+#: inxi-gui.sh:187
+msgid "Edit Repositories?"
+msgstr "Modificare i repository?"
+
+#: inxi-gui.sh:243
+msgid "Unrecognized option: $1"
+msgstr "Opzione non riconosciuta: $1"

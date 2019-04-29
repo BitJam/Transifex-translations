@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2015-2016,2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-08-21 19:25+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s avstängd på grund av för gamla persistens-skript och libs"
+
+msgid "The %s program took %s seconds"
+msgstr "%s programmet tog %s sekunder"
+
+msgid "Detected %s init system"
+msgstr "Upptäckte %s init system"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Väntar %s sekunder för att systembussarna ska stabiliseras..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Ange brytpunkt (-er) separerade av komma"
+
+msgid "Invalid %s value %s"
+msgstr "Ogiltigt %s värde %s"
+
+msgid "Set font to %s"
+msgstr "Ställ in teckensnitt på%s"
+
+msgid "New screen width %s"
+msgstr "Ny skärmbredd %s"
+
+msgid "Welcome to %s"
+msgstr "Välkommen till %s"
+
+msgid "Current boot codes"
+msgstr "Aktuella boot-koder"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Möjligen okända eller felstavade boot-koder"
+
+msgid "don't take this too seriously"
+msgstr "ta inte det här för allvarligt"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Okänd(a) alternativ i %s. Okänd(a) alternativ: %s"
+
+msgid "Loading all modules"
+msgstr "Laddar alla moduler"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Laddar hårdvaruspecifika moduler..."
+
+msgid "No %s devices found"
+msgstr "Inga %s enheter hittade"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "%s parametern blockerar enhet %s"
+
+msgid "Even though device %s has %s"
+msgstr "Även om enhet %s har %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Ta bort %s boot parametern för att låta den enheten skannas"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Enhet hittad men kunde inte hitta %s fil på enheten"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Försök igen %s sekunder %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Skanna %s enheter. Sök efter %s fil(er) %s"
+
+msgid "Filtered devices %s"
+msgstr "Filtrerade enheter %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Sök efter fil(er) %s på enhet(er) %s"
+
+msgid "Found new device(s) %s"
+msgstr "Hittade ny enhet(er) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Enhet %s är redan monterad vid %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Monterad %s enhet. Monterad enhet %s vid %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s enhets filsystem: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Leta efter %s enhet med %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Hittade existerande %s installation"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Söker efter partitioner med åtminstone %s ledigt. Var vänlig vänta..."
+
+msgid "quit"
+msgstr "avsluta"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Vill du göra en %s installering på %s enheten?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Gör %s installering, var vänlig visa tålamod..."
+
+msgid "copy %s to %s"
+msgstr "kopiera %s till %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "%s installeringen lyckades"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Kunde inte hitta %s fil %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Kunde inte montera %s som en %s fil"
+
+msgid "File %s not found on device %s"
+msgstr "Fil %s inte hittad på enhet %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Ogiltigt krypteringsläge %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Nödvändig krypterings-kärnmodul %s ej hittad."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "%s programmet hittades inte. Kan inte kryptera."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "%s programmet är defekt. Kan inte kryptera. "
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Letar efter krypterad enhet med uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "Kunde inte hitta  filen %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Kunde inte hitta filerna %s eller %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Ingen krypterad enhet med uuid %s kunde hittas"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Letar efter krypterad partition på enhet %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Krypterad enhet %s finns inte"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "Krypterad enhet %s är inte en blockenhet"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Krypterad enhet %s är inte en LUKS enhet"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Hittade krypterad enhet. Du kommer att bli ombedd att skriva in ditt lösenord nedan."
+
+msgid "Could not open LUKS device %s"
+msgstr "Kunde inte öppna LUKS enhet %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Öppnade krypterad enhet %s vid %s"
+
+msgid "Could not mount encrypted device"
+msgstr "Kunde inte montera krypterad enhet"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Kunde inte hitta filen %s på krypterad partition"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Är du säker på att du har skrivit ner eller memorerat det nya lösenordet?"
+
+msgid "press %s to continue"
+msgstr "tryck på %s för att fortsätta"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Byter lösenord för kryptering ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Var vänlig skriv in nuvarande lösenord (i klartext)"
+
+msgid "The entered passphrase does not match"
+msgstr "Det inskrivna lösenordet matchar inte"
+
+msgid "Do you want to try again?"
+msgstr "Vill du försöka igen?"
+
+msgid "Passphrase change aborted"
+msgstr "Byte av lösenord avbrutet"
+
+msgid "Passphrase was not changed"
+msgstr "Lösenord byttes inte"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Förbereder för återställning av lösenord vid första start ..."
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Återställning avbruten: lösenordsfilen är tom"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Återställning avbruten: fel lösenord i lösenordsfilen"
+
+msgid "current phrase %s"
+msgstr "Nuvarande lösenord %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Du kommer att bli ombedd att skriva in ett nytt lösenord två gånger"
+
+msgid "Searched devices: %s"
+msgstr "Eftersökta enheter: %s"
+
+msgid "Searched types: %s"
+msgstr "Eftersökta typer: %s"
+
+msgid "All block devices: %s"
+msgstr "Alla blockenheter: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Var vänlig kontakta %s på %s"
+
+msgid "Kernel version mismatch"
+msgstr "Kernel version mismatch"
+
+msgid "Kernel version %s"
+msgstr "Kernel version %s"
+
+msgid "The module directory %s is missing"
+msgstr "Modulkatalogen %s saknas"
+
+msgid "Initializing random number generator ..."
+msgstr "Startar slumpgeneratorn ..."
+
+msgid "Saving random seed"
+msgstr "Sparar random seed"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Kunde inte montera %s som ett %s filsystem"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Ingen %s hittad i %s"
+
+msgid "Create %s failed"
+msgstr "Skapa %s har misslyckats"
+
+msgid "Found %s"
+msgstr "Hittade %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Varken %s eller %s är tillgängliga"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "%s filsystem är inte tillgängligt. Använder %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Framtvingar användning av %s för att matcha existerande rootfs-fil"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "%s filsystem är inte tillgängligt. Kan inte använda denna %s fil"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Gör %s persistens möjlig"
+
+msgid "Could not mount %s"
+msgstr "Kunde inte montera %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Skapa %s på %s %s"
+
+msgid "check %s filesystem"
+msgstr "kontrollera %s filsystem"
+
+msgid "There were no errors on %s"
+msgstr "Det fanns inga fel på %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Börja"
+
+msgid "Skip Error: %s"
+msgstr "Strunta i Fel: %s"
+
+msgid "power off"
+msgstr "stäng av"
+
+msgid "reboot"
+msgstr "starta om"
+
+msgid "Unknown command"
+msgstr "Okänt kommando"
+
+msgid "Please try again"
+msgstr "Var vänlig försök igen"
+
+msgid "Unmount successful"
+msgstr "Avmontering lyckades"
+
+msgid "Press %s to %s"
+msgstr "Tryck på %s till %s"
+
+msgid "Will now %s the system"
+msgstr "Kommer nu att %s systemet"
+
+msgid "Fatal Error"
+msgstr "Allvarligt Fel"
+
+msgid "Non-Fatal Error"
+msgstr "Mindre Allvarligt Fel"
+
+msgid "continue"
+msgstr "fortsätt"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nej"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Du måste svara %s eller %s. Var vänlig försök igen"
+
+msgid "The default is"
+msgstr "Standard är"
+
+msgid "default"
+msgstr "standard"
+
+msgid "Press <%s> for the default selection"
+msgstr "Tryck <%s> för att välja standard"
+
+msgid "enter"
+msgstr "enter"
+
+msgid "The number <%s> is out of range"
+msgstr "Talet <%s> ligger utanför området "
+
+msgid "Current default"
+msgstr "Nuvarande standard"
+
+msgid "Reset"
+msgstr "Återställ"
+
+msgid "Keeping default %s"
+msgstr "Behåller standard %s"
+
+msgid "Previous default %s erased"
+msgstr "Tidigare standard %s raderad"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s inställd på %s"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Select Language"
+msgstr "Välj Språk"
+
+msgid "Languages are listed alphabetically"
+msgstr "Språken är alfabetiskt listade"
+
+msgid "Language"
+msgstr "Språk"
+
+msgid "Select number of console columns"
+msgstr "Välj antal kolumner i kommandofönster"
+
+msgid "Wider means a smaller font"
+msgstr "Bredare ger mindre teckensnitt"
+
+msgid "Console columns"
+msgstr "Kommandofönster-kolumner"
+
+msgid "Select Timezone"
+msgstr "Välj Tidszon"
+
+msgid "Timezones are listed by longitude"
+msgstr "Tidszonerna är listade efter longitude"
+
+msgid "Timezone"
+msgstr "Tidszon"
+
+msgid "Select Option"
+msgstr "Välj Alternativ"
+
+msgid "Only one option can be selected"
+msgstr "Bara ett alternativ kan väljas"
+
+msgid "Options"
+msgstr "Valmöjligheter"
+
+msgid "Select Mounting Option"
+msgstr "Välj  Monterings-alternativ"
+
+msgid "Automounting is enabled by default"
+msgstr "Automontering är på som standard"
+
+msgid "Mount"
+msgstr "Montera"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Välj Persistens Alternativ"
+
+msgid "Persistence"
+msgstr "Persistence"
+
+msgid "Select font size"
+msgstr "Välj font-storlek"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Skala fonter i grafiken. Standard är 1.0"
+
+msgid "Select Desktop"
+msgstr "Välj Skrivbord"
+
+msgid "Desktop"
+msgstr "Skrivbord"
+
+msgid "Save these changes?"
+msgstr "Spara ändringarna?"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Please select %s device:"
+msgstr "Var vänlig välj %s enhet"
+
+msgid "reverse video"
+msgstr "växla video"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Partitioner som inte kan användas är listade men inte valbara."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "De begränsande faktorerna är markerade i %s"
+
+msgid "The device %s already has label %s"
+msgstr "Enheten %s har redan beteckningen %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Uppdatera beteckning på %s från %s till %s?"
+
+msgid "The device %s has no label"
+msgstr "Enheten %s har ingen beteckning"
+
+msgid "Give %s the label %s?"
+msgstr "Ge %s beteckningen %s?"
+
+msgid "Label updated to %s"
+msgstr "Beteckning uppdaterad till %s"
+
+msgid "Valid %s"
+msgstr "Giltig %s"
+
+msgid "Could not find device %s"
+msgstr "Kunde inte hitta enhet %s"
+
+msgid "Valid devices"
+msgstr "Giltiga enheter"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s ingen överensstämmelse mellan %s och %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Kopiera %s till tom %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s fil kunde inte hittas %s"
+
+msgid "No %s found in file %s"
+msgstr "Ingen %s hittad i fil %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Ingen %s hittad men det finns en %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Kontrollera %s av filerna i %s katalogen. Var vänlig ha tålamod..."
+
+msgid "file: %s"
+msgstr "fil: %s"
+
+msgid "result: %s"
+msgstr "resultat: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Inga %s kontrollsummor hittades i %s. Kan inte göra några %s kontroller."
+
+msgid "At least one %s checksum did not match"
+msgstr "Åtminstone en %s kontollsumma stämde inte"
+
+msgid "Success!  The file passed"
+msgstr "Framgång! Filen godkändes"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Framgång! Alla %s filer godkändes"
+
+msgid "Wait %s seconds"
+msgstr "Vänta %s sekunder"
+
+msgid "copy %s file to RAM"
+msgstr "Kopiera %s fil till RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Kommer att kopiera filer från %s till %s. Var vänlig visa tålamod..."
+
+msgid "Size of original %12s"
+msgstr "Orginalets storlek %12s"
+
+msgid "Size of copy %12s"
+msgstr "Kopians storlek %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Kopiering till RAM lyckades"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Montera persistens-enhet (om nödvändigt)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "Inte nog utrymme på Live-enheten för att skapa %s fil av storleken %s MiB"
+
+msgid "create %s persistence file"
+msgstr "skapa %s persistensfil"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Standardstorlek: %s MiB. Filsystemstyp: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Denna standardstorlek kommer att lämna %s MiB ledigt"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Skapa %s fil, manuellt eller automatiskt"
+
+msgid "create automatically"
+msgstr "skapa automatiskt"
+
+msgid "create custom"
+msgstr "skapa anpassad"
+
+msgid "Please select size of %s file"
+msgstr "Var vänlig välj storlek på %s fil"
+
+msgid "There is %s MiB available on the device"
+msgstr "Det finns %s MiB tillgängligt på enheten"
+
+msgid "Filesystem size %s MiB"
+msgstr "Filsystemets storlek %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Skapa %s fil av sorten %s och storleken %s MiB"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Varning: detta kan ta åtskilliga minuter per Gigabyte på ett %s filsystem"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Var vänlig vänta medan existerande partitioner hittas..."
+
+msgid "persistence"
+msgstr "persistens"
+
+msgid "persist device"
+msgstr "persist-enhet"
+
+msgid "Enabled %s persistence"
+msgstr "Möjliggjort %s persistens"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Kopiera %s MiB till RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "Montera persistensfil %s vid %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Vill du ändå möjliggöra home-persistens?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Konstigt, kunde inte flytta homefs monteringspunkt"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Det finns %4s MiB filer som blir dolda av home persistens"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Det finns %4s MiB ledigt på home persistens-enheten"
+
+msgid "There's not enough space to copy all the files"
+msgstr "Det finns inte tillräckligt med utrymme för att kopiera alla filer"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Vill du kopiera filerna till home-persistensenheten?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Ingen %s fil hittad. Döp om %s till %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Har %s MiB fritt. Behöver %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Byt storlek på homefs. Kopiera innehåll av %s till %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Kopiera home filsystem. Var vänlig ha tålamod..."
+
+msgid "Press <%s> to continue"
+msgstr "Tryck på <%s> för att fortsätta"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Det verkar som om du valt VGA upplösning %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Vill du spara denna upplösning för framtida starter?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Kommer att spara den nya VGA-inställningen och dina andra boot-parametrar"
+
+msgid "umount %s"
+msgstr "avmontera %s"
+
+msgid "umount of %s failed"
+msgstr "avmontering av %s misslyckades"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Standardstorlek: %s Meg. Filsystemets sort: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Denna standardstorlek lämnar %s Meg fritt"
+
+msgid "There is %s Meg available on the device"
+msgstr "Det finns %s Meg tillgängligt på enheten"
+
+msgid "Filesystem size %s Meg"
+msgstr "Filsystemets storlek %s Meg"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Skapa %s fil av typen %s och storlek %s Meg"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Kopiera %s Megabyte till RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Det finns %4s Mb filer som kommer att döljas av home-persistens"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Det finns %4s Mb ledigt på home-persistensenheten"

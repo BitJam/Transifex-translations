@@ -1,0 +1,33 @@
+# Translation for antiX Development: persist-autosave file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-08-08 16:49-0600\n"
+"PO-Revision-Date: 2017-08-03 10:45+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Korean (http://www.transifex.com/anticapitalista/antix-development/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Save new passwords"
+msgstr ""
+
+msgid "Save new autosave selection"
+msgstr ""
+
+msgid "Possibly save persistent information"
+msgstr ""
+
+msgid "Already saved %s seconds ago"
+msgstr ""
+
+msgid "Won't autosave within %s seconds of a previous save"
+msgstr ""

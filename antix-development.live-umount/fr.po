@@ -1,0 +1,76 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011
+# cyril cottet <cyrilusber2001@yahoo.fr>, 2017
+# Franck Vazifranky <vazifranky@gmail.com>, 2015
+# Geoff Gigg <geoffgigg@hotmail.com>, 2016
+# Jonathan Chevalier <jonathan.chevalier@icloud.com>, 2016
+# sombreros <sebastiendebierre@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: cyril cottet <cyrilusber2001@yahoo.fr>\n"
+"Language-Team: French (http://www.transifex.com/anticapitalista/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "Demander à la plupart des autres processus pour mettre fin à"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Presque tous les processus arrêtés immédiatement"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s On attend la conclusion %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr "Tous les processus arrêtés dans %s seconde(s)"
+
+msgid "Killing remaining processes"
+msgstr "Arrête les processus restants"
+
+msgid "Unable to kill: %s"
+msgstr "Impossible d'arrêter: %s"
+
+msgid "Unmount most filesystems"
+msgstr "Démonter plus de systèmes de fichiers"
+
+msgid "Disable swap"
+msgstr "Désactive le swap"
+
+msgid "Kill any remaining processes"
+msgstr "Arrêter tous les processus restants"
+
+msgid "Failed to umount some filesystems"
+msgstr "Impossible de démonter certains systèmes de fichiers"
+
+msgid "reboot"
+msgstr "redémarrer"
+
+msgid "poweroff"
+msgstr "Arrêt"
+
+msgid "Ready to %s"
+msgstr "Prêt pour %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "S'il vous plaît retirez le disque, fermez le tiroir"
+
+msgid "and press ENTER to continue"
+msgstr "et appuyez sur ENTRER pour continuer"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "secondes"
+
+msgid "Saving random seed"
+msgstr "Sauvegarde de la graine aléatoire"

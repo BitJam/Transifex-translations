@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Moo, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/anticapitalista/antix-development/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Terminal"
+msgstr "Terminalas"
+
+msgid "File Manager"
+msgstr "Failų tvarkytuvė"
+
+msgid "Web Browser"
+msgstr "Saityno naršyklė"
+
+msgid "Editor"
+msgstr "Redaktorius"
+
+msgid "Personal"
+msgstr "Asmeniniai"
+
+msgid "Applications"
+msgstr "Programos"
+
+msgid "Terminal Apps"
+msgstr "Terminalo programos"
+
+msgid "Multimedia"
+msgstr "Multimedija"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD įrašymo programa"
+
+msgid "Music Player"
+msgstr "Muzikos grotuvas"
+
+msgid "Network"
+msgstr "Tinklas"
+
+msgid "Alpine Mail"
+msgstr "Alpine paštas"
+
+msgid "Browser elinks"
+msgstr "Naršyklė elinks"
+
+msgid "Irssi Chat"
+msgstr ""
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom skaitytuvė"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Raštinė"
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr "Atnaujinti meniu"
+
+msgid "Desktop"
+msgstr "Darbalaukis"
+
+msgid "Alternate Desktops"
+msgstr "Alternatyvūs darbalaukiai"
+
+msgid "Add Desktop"
+msgstr "Pridėti darbalaukį"
+
+msgid "Wallpaper"
+msgstr "Darbalaukio fonas"
+
+msgid "GTK Theme"
+msgstr "GTK tema"
+
+msgid "Desktop Defaults"
+msgstr ""
+
+msgid "Session Settings"
+msgstr "Seanso nustatymai"
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr "Rox skydelis įjungti/išjungti"
+
+msgid "Conky on/off"
+msgstr "Conky įjungti/išjungti"
+
+msgid "Tools"
+msgstr "Įrankiai"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Ieškoti"
+
+msgid "MC File Manager"
+msgstr "MC Failų tvarkytuvė"
+
+msgid "App Killer"
+msgstr ""
+
+msgid "Process Viewer"
+msgstr "Procesų žiūryklė"
+
+msgid "System Information"
+msgstr "Sistemos informacija"
+
+msgid "Control Centre"
+msgstr "Valdymo centras"
+
+msgid "Help"
+msgstr "Žinynas"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX DUK"
+
+msgid "antiX-live How-To"
+msgstr ""
+
+msgid "Rox Manual"
+msgstr "Rox vadovas"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox dokumentacija"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox DUK"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox vikis"
+
+msgid "Arch Wiki"
+msgstr "Arch vikis"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM DUK"
+
+msgid "IceWM Manual"
+msgstr "IceWM vadovas"
+
+msgid "OSNews"
+msgstr "OS naujienos"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr ""
+
+msgid "WM - Puppy-Linux"
+msgstr ""
+
+msgid "Firewall"
+msgstr "Užkarda"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Vadovo puslapiai"
+
+msgid "Backup"
+msgstr "Atsarginė kopija"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Vykdyti"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox nustatymai"
+
+msgid "Configuration"
+msgstr "Konfigūracija"
+
+msgid "Styles"
+msgstr "Stiliai"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox stiliai"
+
+msgid "Workspaces"
+msgstr "Darbo sritys"
+
+msgid "Reconfigure"
+msgstr "Iš naujo konfigūruoti"
+
+msgid "Restart"
+msgstr "Paleisti iš naujo"
+
+msgid "Exit"
+msgstr "Išeiti"
+
+msgid "antiX Installer"
+msgstr "antiX diegimo programa"
+
+msgid "Logout..."
+msgstr "Atsijungti..."
+
+msgid "Restart JWM"
+msgstr "Iš naujo paleisti JWM"
+
+msgid "Log Out"
+msgstr "Atsijungti"
+
+msgid "Home Folder"
+msgstr "Namų aplankas"
+
+msgid "Browser"
+msgstr "Naršyklė"
+
+msgid "Unplug Removable Device"
+msgstr "Atjungti keičiamąjį įrenginį"
+
+msgid "Quit"
+msgstr "Išeiti"

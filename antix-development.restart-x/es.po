@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/antix-development/issues\n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-11-19 04:09+0000\n"
+"Last-Translator: megatotoro <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:18
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:20
+msgid "Restart X Windows"
+msgstr "Reiniciar las ventanas X"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:24
+msgid "Pause between stopping and starting."
+msgstr "Pausa entre el inicio y el fin."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:25
+msgid "DO NOT USE."
+msgstr "NO USAR."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:49
+msgid "The default display manager was not found."
+msgstr "El manejador de apariencia por defecto no se ha encontrado."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:51
+msgid "Will search for any running display manager."
+msgstr "Se buscará cualquier manejador de apariencia."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:54
+msgid "No display manager was found."
+msgstr "No se encontró ningún manejador de apariencia."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:55
+msgid "Cannot restart X."
+msgstr "No se puede reiniciar X."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:59
+msgid "Found display manager: %s"
+msgstr "Se encontró el manejador de apariencia: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:61
+msgid "Do you want to restart X-windows now?  "
+msgstr "¿Desea reiniciar las ventanas X ahora?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:63
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Habrá una pausa de %s segundos antes de que las ventanas X se inicien). "

@@ -1,0 +1,57 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2012-2013
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/anticapitalista/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr "RISKANT!%s ONVEILIG WACHTWOORD!%s"
+
+msgid "It appears that root persistence was recently enabled."
+msgstr "Het lijkt erop dat recent persistentie is ingesteld voor root."
+
+msgid "The default password for the %s account is not secure."
+msgstr "Het standaard wachtwoord voor de %s account is niet veilig"
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr "Het was toereikend voor een Live CD, maar niet om een persistent systeem te beveiligen."
+
+msgid "Please provide a more secure password."
+msgstr "Geef a.u.b. een veiliger wachtwoord."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr "Een goed wachtwoord bevat 8 of meer karakters met een mix van letters, nummers, en leestekens."
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Excuses voor het kleine ongemak dat dit met zich meebrengt."
+
+msgid "username: %s"
+msgstr "Gebruikersnaam: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr "Het %s wachtwoord is niet veranderd. Probeer a,.u.b opnieuw."
+
+msgid "Changing password for account %s as requested"
+msgstr "Het wachtwoord voor account %s veranderen zoals verzocht"
+
+msgid "by use of the %s boot parameter."
+msgstr "door gebruik te maken van de %s opstart parameter."

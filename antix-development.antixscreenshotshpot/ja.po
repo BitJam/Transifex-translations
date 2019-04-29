@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# ふうせん Fu-sen.｜BALLOON, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:52+0300\n"
+"PO-Revision-Date: 2014-05-29 00:11+0000\n"
+"Last-Translator: ふうせん Fu-sen.｜BALLOON\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "antiXscreenshot"
+msgstr "antiX スクリーンショット"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "Keep this screenshot?"
+msgstr "このスクリーンショットを保持しますか？"
+
+#: antixscreenshot.sh:69
+msgid "File extension was changed.\\nPlease try again."
+msgstr "ファイルの拡張子を変更しました。\\nもう一度行って下さい。"
+
+#: antixscreenshot.sh:96
+msgid "Your screenshot has been saved."
+msgstr "スクリーンショットを保存しました。"
+
+#: antixscreenshot.sh:107
+msgid "Region to capture"
+msgstr "キャプチャの範囲"
+
+#: antixscreenshot.sh:110
+msgid "Full Screen"
+msgstr "全画面"
+
+#: antixscreenshot.sh:111
+msgid "Custom Area"
+msgstr "範囲指定"
+
+#: antixscreenshot.sh:112
+msgid "Window"
+msgstr "ウインドウ"
+
+#: antixscreenshot.sh:116
+msgid "Name of image"
+msgstr "画像の名前"
+
+#: antixscreenshot.sh:123
+msgid "File type"
+msgstr "ファイルの種類"
+
+#: antixscreenshot.sh:134
+msgid "Show save dialog"
+msgstr "保存ダイヤログを表示"
+
+#: antixscreenshot.sh:136
+msgid "Choose directory"
+msgstr "ディレクトリを選択"
+
+#: antixscreenshot.sh:146
+msgid "Delay in seconds"
+msgstr "遅延時間(秒)"
+
+#: antixscreenshot.sh:153
+msgid "Multiple screenshots"
+msgstr "復数のスクリーンショット"
+
+#: antixscreenshot.sh:155
+msgid "Take another shot"
+msgstr "他のショットを撮影する"
+
+#: antixscreenshot.sh:161
+msgid "Thumbnail for webpages"
+msgstr "Web ページのサムネール"
+
+#: antixscreenshot.sh:163
+msgid "Create a thumbnail"
+msgstr "サムネールを作成"
+
+#: antixscreenshot.sh:170
+msgid "Percentage (1-100)"
+msgstr "パーセント (1〜100)"

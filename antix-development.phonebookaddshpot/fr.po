@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# sombreros <sebastiendebierre@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:16+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: sombreros <sebastiendebierre@gmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: phonebookadd.sh:16
+msgid "Phonebook"
+msgstr "Répertoire"
+
+#: phonebookadd.sh:18
+msgid "Enter a name and number:"
+msgstr "Entrez un nom et un numéro:"
+
+#: phonebookadd.sh:27
+msgid "Close"
+msgstr "Fermer"
+
+#: phonebookadd.sh:33
+msgid "Create"
+msgstr "Créer"
+
+#: phonebookadd.sh:36
+msgid "Entry Status"
+msgstr "Statut de l'entrée"
+
+#: phonebookadd.sh:36
+#, sh-format
+msgid "$ENTRY\\nhas been added."
+msgstr "$ENTRY\\n a été ajouté."

@@ -1,0 +1,214 @@
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: antixcc.sh:18
+msgid "Desktop"
+msgstr "Десктоп"
+
+#: antixcc.sh:18
+msgid "System"
+msgstr "Система"
+
+#: antixcc.sh:18
+msgid "Network"
+msgstr "Мрежа"
+
+#: antixcc.sh:18
+msgid "Session"
+msgstr "Сесия"
+
+#: antixcc.sh:19
+msgid "Live"
+msgstr "Лайф"
+
+#: antixcc.sh:19
+msgid "Disks"
+msgstr "Дискове"
+
+#: antixcc.sh:19
+msgid "Hardware"
+msgstr "Хардуер"
+
+#: antixcc.sh:37
+msgid "Choose Wallpaper"
+msgstr "Изберете Картина"
+
+#: antixcc.sh:46
+msgid "Edit Fluxbox Settings"
+msgstr "Настройте Fluxbox Настройки"
+
+#: antixcc.sh:55
+msgid "Edit System Monitor"
+msgstr "Настройте Системен Монитор"
+
+#: antixcc.sh:66
+msgid "Change Gtk2 and Icon Themes"
+msgstr "Променете Gtk2 и Иконни Теми"
+
+#: antixcc.sh:75
+msgid "Edit IceWM Settings"
+msgstr "Редактирайте IceWM Настройки"
+
+#: antixcc.sh:84
+msgid "Edit jwm Settings"
+msgstr "Редактирайте jwm Настройки"
+
+#: antixcc.sh:102
+msgid "Manage Packages"
+msgstr "Управлявайте Пакети"
+
+#: antixcc.sh:111
+msgid "Configure System"
+msgstr "Конфигурирайте Системата"
+
+#: antixcc.sh:120
+msgid "Choose Startup Services"
+msgstr "Изберете Услуги При Стартиране"
+
+#: antixcc.sh:131
+msgid "Manage Users"
+msgstr "Управлявайте Потребители"
+
+#: antixcc.sh:140
+msgid "Edit Config Files"
+msgstr "Редактирайте Конфигурационни Файлове"
+
+#: antixcc.sh:149
+msgid "Set Date and Time"
+msgstr "Настройте Дата и Час"
+
+#: antixcc.sh:167
+msgid "Network Interfaces (ceni)"
+msgstr "Мрежови Интерфейси (ceni)"
+
+#: antixcc.sh:176
+msgid "Configure GPRS/UMTS Connection"
+msgstr "Конфигурирайте GPRS/UMTS Връзка"
+
+#: antixcc.sh:185
+msgid "Connect Wirelessly (wicd)"
+msgstr "Свържете Се Безжично (wicd)"
+
+#: antixcc.sh:196
+msgid "Wireless (rutilt)"
+msgstr "Безжична Мрежа (rutilt)"
+
+#: antixcc.sh:205
+msgid "Configure Dial-Up Connection"
+msgstr "Конфигуриране на Dial-Up Връзка"
+
+#: antixcc.sh:214
+msgid "Manage Firewall"
+msgstr "Управлявайте Огнена Стена"
+
+#: antixcc.sh:232
+msgid "Change Keyboard Layout"
+msgstr "Променете Клавиатурното Оформление"
+
+#: antixcc.sh:241
+msgid "Change Slim Background"
+msgstr "Сменете Фона на Slim"
+
+#: antixcc.sh:250
+msgid "Set Screen Resolution"
+msgstr "Задайте Екранна Резолюция"
+
+#: antixcc.sh:261
+msgid "Edit Login Options"
+msgstr "Опции При Влизане"
+
+#: antixcc.sh:270
+msgid "Set auto-login"
+msgstr "Задайте авто-влизане"
+
+#: antixcc.sh:277
+msgid "After choosing a new theme, please logout/login to see the changes."
+msgstr "След като изберете нова тема, моля излезте/влезте за да видите промените."
+
+#: antixcc.sh:280
+msgid "Change cursor theme"
+msgstr "Променете курсор тема"
+
+#: antixcc.sh:298
+msgid "RemasterCC"
+msgstr ""
+
+#: antixcc.sh:307
+msgid "Set up live persistence"
+msgstr "Настройте лайф постоянство"
+
+#: antixcc.sh:318
+msgid "Save root persistence"
+msgstr "Съхранете рут постоянство"
+
+#: antixcc.sh:327
+msgid "Remaster"
+msgstr ""
+
+#: antixcc.sh:345
+msgid "Partition a Drive"
+msgstr "Поделете Устройство"
+
+#: antixcc.sh:354
+msgid "Mount Connected Devices"
+msgstr "Монтирайте Свързани Устройства"
+
+#: antixcc.sh:363
+msgid "Backup Your System"
+msgstr "Резервно Копие На Система"
+
+#: antixcc.sh:374
+msgid "Image a Partition"
+msgstr "Изобразете Сектор"
+
+#: antixcc.sh:383
+msgid "Synchronize Directories"
+msgstr "Синхронизирайте Директории"
+
+#: antixcc.sh:392
+msgid "antiX2usb"
+msgstr "antiX към USB"
+
+#: antixcc.sh:410
+msgid "System Information"
+msgstr "Системна Информация"
+
+#: antixcc.sh:419
+msgid "Setup a Printer"
+msgstr "Настройте Принтер"
+
+#: antixcc.sh:428
+msgid "Configure Sound System"
+msgstr "Конфигурирайте Звуковата Система"
+
+#: antixcc.sh:439
+msgid "PC Information"
+msgstr "PC Информация"
+
+#: antixcc.sh:448
+msgid "Configure Mouse"
+msgstr "Конфигурирайте Мишка"
+
+#: antixcc.sh:457
+msgid "Adjust Mixer"
+msgstr "Настройте Миксера"
+
+#: antixcc.sh:468
+msgid "Close"
+msgstr "Затваряне"

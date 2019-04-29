@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2014
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 01:51+EEST\n"
+"PO-Revision-Date: 2015-01-18 02:30+0000\n"
+"Last-Translator: alfredmale <maledora4@googlemail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: antix2usb.py:41
+msgid "not found."
+msgstr "nicht gefunden"
+
+#: antix2usb.py:42
+msgid "Warning"
+msgstr "Warnung"
+
+#: antix2usb.py:43
+msgid ""
+"No removable USB device has been detected.\n"
+"\\ Plug in the USB key and retry."
+msgstr "Kein entfernbares USB-Gerät erkannt.\n\\Stecken Sie den USB-Stick erneut an."
+
+#: antix2usb.py:44 antix2usb.py:61
+msgid "No ISO file selected!"
+msgstr "Kein ISO Detei gewählt"
+
+#: antix2usb.py:45
+msgid "Cannot access file %s"
+msgstr "Kein Zugriff zum Detei %s"
+
+#: antix2usb.py:46
+msgid ""
+"File '%s' does not fit \n"
+"in %s MB partition"
+msgstr "Datei '%s' passt nicht\nin %s MB-Partition"
+
+#: antix2usb.py:47
+msgid "Required size: %d MB"
+msgstr "Erforderliche Größe: %d MB"
+
+#: antix2usb.py:48
+msgid ""
+"You need extra space for %s persistence file in the partition.\n"
+"\n"
+"\\ Estimated minimum partition size is %d MB"
+msgstr "Sie benötigen zusätzlichen Platz für die %s Persistenz-Datei in der Partition.\n\n\\Geschätzte Mindest-Partitionsgrösse ist %d MB"
+
+#: antix2usb.py:49
+msgid ""
+"You need extra space for root and home persistence files in the partition.\n"
+"\n"
+"Estimated minimum partition size is %d MB"
+msgstr "Sie benötigen zusätzlichen Platz für die root und home-Persistenzdateien in der Partition.\n\nGeschätzte Mindest-Partitionsgrösse ist %d MB"
+
+#: antix2usb.py:51
+msgid "No device selected"
+msgstr "Kein Gerät gewählt"
+
+#: antix2usb.py:52
+msgid "Device %s appears to be mounted on %s\n"
+msgstr "Gerät %s scheint auf  %s montiert zu sein\n"
+
+#: antix2usb.py:53
+msgid "Unmount the device and prevent any application\n"
+msgstr "Aushängen des Gerätes, um jede Anwendung zu verhindern\n"
+
+#: antix2usb.py:54
+msgid "to auto-mount it.\n"
+msgstr "es auto zu mounten.\n"
+
+#: antix2usb.py:55
+msgid "ISO files"
+msgstr "ISO-Dateien"
+
+#: antix2usb.py:56
+msgid "Installing..."
+msgstr "Installieren..."
+
+#: antix2usb.py:57
+msgid "Dry test: command: [%s]"
+msgstr "Probe Test: Befehl: [%s]"
+
+#: antix2usb.py:58
+msgid "Sorry, Cannot find help file."
+msgstr "Entschuldigung, kann nicht finden Hilfe-Datei."
+
+#: antix2usb.py:59
+msgid ""
+"\n"
+"Process interrupted by user.\n"
+msgstr "\nProzess vom Benutzer unterbrochen.\n"
+
+#: antix2usb.py:60
+msgid "Are you sure you want to quit?"
+msgstr "Sind Sie sicher, dass Sie aufhören wollen?"
+
+#: antix2usb.py:62
+msgid "Selected file does not look like an ISO file."
+msgstr "Die ausgewählte Datei sieht nicht aus wie eine ISO-Datei."
+
+#: antix2usb.py:63
+msgid ""
+"Ready to install <b>%s\n"
+"</b>"
+msgstr "Zur Installation bereit <b>%s\n</b>"
+
+#: antix2usb.py:64
+msgid ""
+"on device <b>%s</b>\n"
+"\n"
+msgstr "auf Gerät <b>%s</b>\n\n"
+
+#: antix2usb.py:65
+msgid "Installation will use full device.\n"
+msgstr "Die Installation wird das ganze Gerät verwenden.\n"
+
+#: antix2usb.py:66
+msgid "Format: <b>%s</b>.\n"
+msgstr "Format: <b>%s</b>.\n"
+
+#: antix2usb.py:67
+msgid "Installation will use <b>%d MB</b> on device.\n"
+msgstr "Die Installation wird <b>%d MB</b> auf dem Gerät verwenden.\n"
+
+#: antix2usb.py:68
+msgid "Format of the partition: <b>%s</b>\n"
+msgstr "Format der Partition: <b>%s</b>\n"
+
+#: antix2usb.py:69
+msgid "A persistent root file system will be created.\n"
+msgstr "Es wird ein persistentes Root-Dateisystem erstellt.\n"
+
+#: antix2usb.py:70
+msgid "A persistent home file system will be created.\n"
+msgstr "Es wird ein persistentes Home-Dateisystem erstellt.\n"
+
+#: antix2usb.py:71
+msgid "Persistent root and home file sytems will be created.\n"
+msgstr "Persistentes Root -und Home-Dateisystem werden erstellt.\n"
+
+#: antix2usb.py:72
+msgid "The Live USB device will boot using <b>%s</b> bootloader.\n"
+msgstr "Indem <b>%s</b> wird der Bootloader das Live-USB-Gerät starten.\n"
+
+#: antix2usb.py:73
+msgid ""
+"\n"
+"<b>All data existing on the device will be erased.</b>"
+msgstr "\n<b>Alle vorhandenen Daten auf dem Gerät werden gelöscht.</b>"
+
+#: antix2usb.py:74
+msgid "Calling terminate..."
+msgstr "Aufruf zu beenden von..."
+
+#: antix2usb.py:75
+msgid ""
+"Process completed.\n"
+"You can close the application."
+msgstr "Prozess abgeschlossen.\nSie können die Anwendung schliessen."
+
+#: antix2usb.py:76
+msgid "You need root privileges to run this script."
+msgstr "Sie benötigen root-Rechte, um dieses Script auszuführen."
+
+#: antix2usb.py:77
+msgid ""
+"Cannot proceed. The script %s\n"
+" is not present in the path. "
+msgstr "Kann nicht fortsetzen. Das Script %s\nist nicht in dem Pfad vorhanden."
+
+#: antix2usb.py:78
+msgid "Sorry."
+msgstr "Entschuldigung."
+
+#: antix2usb.py:79
+msgid ""
+"Cannot proceed. The resource file %s\n"
+" is not accessible."
+msgstr "Kann nicht weitergehen. Das ressourcedetei %s\nist night erreichbar."

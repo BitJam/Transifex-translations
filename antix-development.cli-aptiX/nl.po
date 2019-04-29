@@ -1,0 +1,576 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Eadwine Rose <eadwine@gmail.com>, 2017\n"
+"Language-Team: Dutch (https://www.transifex.com/anticapitalista/teams/10162/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Kommandoregelafhankelijken"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "pijl omhoog"
+
+msgid "down-arrow"
+msgstr "pijl naar beneden"
+
+msgid "page-up"
+msgstr "page-up"
+
+msgid "page-down"
+msgstr "page-down"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "ga terug naar hoofdmenu"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Kommandoregel Pakketinstalleerder"
+
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+msgid "Search for packages to mark or install"
+msgstr "Zoeken naar pakketten om te markeren of installeren"
+
+msgid "Search for antiX kernels"
+msgstr "Zoeken naar anitX kernels"
+
+msgid "Search for all kernels"
+msgstr "Zoeken naar alle kernels"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Pakkettenlijst opwaarderen"
+
+msgid "Edit the repo source files"
+msgstr "Bewerk de pakketbron bronbestanden"
+
+msgid "Quit"
+msgstr "Stop"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Alle %s voorgestelde %s pakketten zijn geïnstalleerd"
+
+msgid "no pending upgrades"
+msgstr "geen wachtende opwaarderingen"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Bekijk een lijst van %s voorgestelde %s pakketten"
+
+msgid "View or perform %s upgrade now"
+msgstr "Bekijk of voer %s opwaardering nu uit"
+
+msgid "View or perform %s upgrades now"
+msgstr "Bekijk of voer %s opwaarderingen nu uit"
+
+msgid "Upgrade %s package now"
+msgstr "Nu %s pakket opwaarderen"
+
+msgid "Upgrade %s packages now"
+msgstr "Nu %s pakketten opwaarderen"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Bekijk een lijst van opwaardeerbare pakketten"
+
+msgid "Ignore these upgrades for now"
+msgstr "Negeer deze opwaarderingen voor nu"
+
+msgid "View or install %s marked package"
+msgstr "Bekijk of installeer %s gemarkeerd pakket"
+
+msgid "View or install %s marked packages"
+msgstr "Bekijk of installeer %s gemarkeerde pakketten"
+
+msgid "Edit Source Menu"
+msgstr "Bewerk Bronmenu"
+
+msgid "Please select a source file to edit"
+msgstr "Selecteer aub een bronbestand om aan te passen"
+
+msgid "Could not find file %s to edit"
+msgstr "Kon bestand %s niet vinden om aan te passen"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Ga terug naar het hoofdmenu"
+
+msgid "Search for packages"
+msgstr "Zoeken naar pakketten"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "Exacte naamovereenkomst"
+
+msgid "exact name matches"
+msgstr "Exacte naamovereenkomsten"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "Leidende naamovereenkomst"
+
+msgid "leading name matches"
+msgstr "Leidende naamovereenkomsten"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "Enige naamovereenkomst"
+
+msgid "any name matches"
+msgstr "Enige naamovereenkomsten"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "Naam- of beschrijvingsovereenkomst"
+
+msgid "name or description matches"
+msgstr "Naam- of beschrijvingsovereenkomsten"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "zoekopdrachten"
+
+msgid "No matches were found"
+msgstr "Geen overeenkomsten gevonden"
+
+msgid "Do you want to try a different search?"
+msgstr "Wilt u een andere zoekopdracht proberen?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "exact"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "beginnende"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "enige overeenkomst"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "beschrijving"
+
+msgid "Do a different search"
+msgstr "Een andere zoekopdracht proberen"
+
+msgid "Search Result Menu"
+msgstr "Zoekresultatenmenu"
+
+msgid "Please select an action"
+msgstr "Selecteer aub een actie"
+
+msgid "What next?"
+msgstr "Wat nu?"
+
+msgid "%s packages were found"
+msgstr "%s pakketten werden gevonden"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+"In de volgende stap zult u een lijst te zien krijgen waardoor u kunt "
+"scrollen"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Gebruik %s, %s, %s, en %s om in de lijst te scrollen"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+"Positioneer het pakket dat u wilt bij de onderkant en druk dan op %s om door"
+" te gaan"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press %s to see the list"
+msgstr "Druk %s om de lijst te zien"
+
+msgid "Use %s to go to the main menu"
+msgstr "Gebruik %s om naar het hoofdmenu te gaan"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Gebruik %s om dezelfde zoekopdracht te herhalen"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Gebruik %s voor nieuwe zoekopdracht"
+
+msgid "Press %s to skip picking a package"
+msgstr "Druk %s om een pakket over te slaan"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+"Of voer het nummer in van elk pakket dat u wilt markeren of installeren"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Gebruik %s om een bereik van cijfers aan te geven"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Gebruik %s om naar hoofdmenu te gaan"
+
+msgid "Use %s to see the results again"
+msgstr "Gebruik %s om de resultaten nogmaals te bekijken"
+
+msgid "Use %s to do a new search"
+msgstr "Gebruik %s voor een nieuwe zoekopdracht"
+
+msgid "Invalid input.  Please try again"
+msgstr "Ongeldige invoer. Probeer aub opnieuw"
+
+msgid "The following numbers were out of range %s"
+msgstr "De volgende nummers liggen buiten het bereik: %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Geen geldige nummers gegeven. Probeer het aub nog eens"
+
+msgid "Selected packages"
+msgstr "Geselecteerde pakketten"
+
+msgid "Could not find package number %s"
+msgstr "Kon pakketnummer %s niet vinden"
+
+msgid "Repeat the same search"
+msgstr "Herhaal dezelfde zoekopdracht"
+
+msgid "Search again"
+msgstr "Opnieuw zoeken"
+
+msgid "Go back to main menu"
+msgstr "Ga terug naar hoofdmenu"
+
+msgid "Now what?"
+msgstr "Wat nu?"
+
+msgid "Do a new search"
+msgstr "Een nieuwe zoekopdracht proberen"
+
+msgid "See search results again"
+msgstr "Bekijk zoekresultaten nogmaals"
+
+msgid "Return to main menu"
+msgstr "Keer terug naar hoofdmenu"
+
+msgid "Remove or Purge Menu"
+msgstr "Menu Verwijderen of Opruimen"
+
+msgid "Please choose an action for this package"
+msgstr "Selecteer een actie voor dit pakket"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+"Deïnstalleer pakket [verwijder pakket maar niet de configuratiebestanden]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Ruim pakket op [verwijder pakket EN de configuratiebestanden]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Herinstalleer pakket [zelfs als het actueel is]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Herinstalleer pakket [enkel als het niet actueel is]"
+
+msgid "The %s command failed"
+msgstr "Het %s commando mislukte"
+
+msgid "Please enter the term you want to search for"
+msgstr "Voer aub de opdracht waarnaar u wilt zoeken in"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "Standaard globbing jokers %s en %s werken"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "Gebruik een lege regel of %s om naar het hoofdmenu terug te keren"
+
+msgid "Found"
+msgstr "Gevonden"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Bekijk %s %s resultaten"
+
+msgid "Show more information about package %s"
+msgstr "Laat meer informatie over pakket %s zien"
+
+msgid "Uninstall package %s"
+msgstr "Deïnstalleer pakket %s"
+
+msgid "Unmark package %s"
+msgstr "Ontmarkeer pakket %s"
+
+msgid "Mark package %s"
+msgstr "Markeer pakket %s"
+
+msgid "Install package %s"
+msgstr "Installeer pakket %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Markeer geselecteerd, gedeïnstalleerd pakket %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Markeer %s geselecteerde, gedeïnstalleerde pakketten "
+
+msgid "install selected uninstalled package %s"
+msgstr "Installeer geselecteerd gedeïnstalleerd pakket %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "Installeer %s geselecteerde gedeïnstalleerde pakketten "
+
+msgid "Checking source files ..."
+msgstr "Bronbestanden controleren ..."
+
+msgid "Run %s now?"
+msgstr "%s nu uitvoeren?"
+
+msgid "No list files were found"
+msgstr "Geen lijstbestanden gevonden"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "Een %s is vereist om door te gaan"
+
+msgid "It appears that at least one list file is missing"
+msgstr "Het lijkt erop dat er minimaal een lijstbestand ontbreekt"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "U zult nu waarschijnlijk %s uit moeten voeren"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Uitvoeren %s"
+
+msgid "There was a problem running %s"
+msgstr "Er was een probleem met het uitvoeren van %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Wilt u toch doorgaan"
+
+msgid "Creating database ..."
+msgstr "Database creëren ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "database generatie"
+
+msgid "Updating database ..."
+msgstr "Database opwaarderen ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "database opwaardering"
+
+msgid "Found %s dependencies"
+msgstr "%s Afhankelijkheden gevonden"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Markeer %s gedeïnstalleerde afhankelijkheden"
+
+msgid "found %s dependencies"
+msgstr "%s afhankelijkheden gevonden"
+
+msgid "found %s unmet dependencies"
+msgstr "vond %s niet-voldane afhankelijkheden"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "Dit pakket en niet-voldane afhankelijkheden zullen %s Meg toevoegen"
+
+msgid "Marking package %s"
+msgstr "Markeer pakket %s"
+
+msgid "Unmarked %s package"
+msgstr "Pakket %sgedemarkeerd"
+
+msgid "Unmarked %s packages"
+msgstr "Pakketten %sgedemarkeerd"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Wilt u meer gedetailleerde informatie zien?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+"vond %s niet-voldane afhankelijkheden die ook geïnstalleerd zullen worden"
+
+msgid "Do you want to install this package now?"
+msgstr "Wilt u dit pakket nu installeren?"
+
+msgid "Installing %s"
+msgstr "Installeren %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Vond %s gedeïnstalleerde gemarkeerde pakketten"
+
+msgid "Nothing to install"
+msgstr "Niets te installeren"
+
+msgid "Install %s package"
+msgstr "Installeer pakket %s"
+
+msgid "Install %s packages"
+msgstr "Installeer pakketten %s"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "De pakketten en niet-voldane afhankelijkheden zullen %s Meg toevoegen"
+
+msgid "Install this package?"
+msgstr "Dit pakket installeren?"
+
+msgid "Install these packages?"
+msgstr "Deze pakketten installeren?"
+
+msgid "Install %s marked package"
+msgstr "Installeer %s gemarkeerd pakket"
+
+msgid "Install all %s marked packages"
+msgstr "Installeer alle %s gemarkeerde pakketten"
+
+msgid "View %s marked package"
+msgstr "Bekijk %s gemarkeerd pakket"
+
+msgid "View all %s marked packages"
+msgstr "Bekijk alle %s gemarkeerde pakketten"
+
+msgid "Unmark %s marked package"
+msgstr "Demarkeer %s gemarkeerd pakket"
+
+msgid "Unmark all %s marked packages"
+msgstr "Demarkeer alle %s gemarkeerde pakketten"
+
+msgid "View or Install Marked Packages"
+msgstr "Bekijk of Installeer Gemarkeerde Pakketten"
+
+msgid "No marked packages were found"
+msgstr "Geen gemarkeerde pakketten gevonden"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Gemarkeerde pakketten zullen %s Meg toevoegen"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+"In de volgende stap zult u een lijst met pakketten te zien krijgen waardoor "
+"u kunt scrollen"
+
+msgid "Use %s to go the main menu"
+msgstr "Gebruik %s om naar het hoofdmenu te gaan"
+
+msgid "Use %s to do another search"
+msgstr "Gebruik %s voor een nieuwe zoekopdracht"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "Voorgestelde %s Pakketten"
+
+msgid "No suggestions were found!"
+msgstr "Geen suggesties gevonden!"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Controleer op het bestand %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Bekijk"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "bekijk alles"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "Voorgestelde pakketten"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "Ster pakketten"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "Nul ster pakketten"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Ga door naar de volgende stap (pakketten niet bekijken)"
+
+msgid "Please select which packages to view"
+msgstr "Selecteer aub welke pakketten te bekijken"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "%s pakketten werden gevonden (%s gedeïnstalleerd)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Druk %s om te lijst te zien, %s om naar het hoofdmenu te gaan, %s om opnieuw"
+" te zoeken"
+
+msgid "See suggestions again"
+msgstr "Bekijk suggesties nogmaals"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "%s Voorheen ongemarkeerde pakketten gemarkeerd"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Alle %s voorheen gemarkeerde pakketten gedemarkeerd"
+
+msgid "%s package is still marked"
+msgstr "Pakket %s is nog gemarkeerd"
+
+msgid "%s packages are still marked"
+msgstr "Pakketten %s zijn nog gemarkeerd"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Markeer %s gedemarkeerd, gedeïnstalleerd pakket"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Markeer %s gedemarkeerde, gedeïnstalleerde pakketten"
+
+msgid "Unmark %s marked packages"
+msgstr "Demarkeer %s gemarkeerde pakketten"
+
+msgid "Checking for package upgrades ..."
+msgstr "Controleren op pakket opwaarderingen ..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Er zijn %s pakketten die opgewaardeerd kunnen worden"
+
+msgid "There are no packages to upgrade"
+msgstr "Er zijn geen pakketten om op te waarderen"
+
+msgid "System Upgrade Menu"
+msgstr "Systeem Opwaardermenu"
+
+msgid "Exit"
+msgstr "Afsluiten"

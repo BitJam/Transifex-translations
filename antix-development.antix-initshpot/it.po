@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2014-12-27 11:21+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "Riempimento della directory %s in corso"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "Lingua di localizzazione del menù %s sconosciuta"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "Directory non trovata %s"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "Traduzione dei menù da %s a %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "%s parametro di boot %s non valido"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "Impostare %s su %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Errato codice mirror %s (previste due lettere)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "Localizzazione %s su mirror %s"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "Non è stato possibile trovare %s in %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "Trovato il desktop predefinito %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "Il desktop %s non è un desktop valido."
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "Le scelte valide sono %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "Impostare il desktop di default su %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "Localizzazione/Configurazione di X-Windows in corso"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "Abilitare il montaggio automatico di %s"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "Disabilitazione del montaggio automatico"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "Costruzione %s attraverso %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "Disabilitare da fstab l'hotplug dei dispositivi (ciò disabiliterà anche l'automount)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "Abilitare in fstab l'autoriconoscimento, hotplug, dei dispositivi"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "Configurazione del file %s in corso"

@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Eugen Brodski <eugen.brodski@web.de>, 2016\n"
+"Language-Team: German (https://www.transifex.com/anticapitalista/teams/10162/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Live-USB Maker GUI"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Live-System erkannt. Wähle Live-USB Erzeugungsmodus"
+
+msgid "Select Mode"
+msgstr "Modus auswählen"
+
+msgid "Select USB Device"
+msgstr "USB-Speichermedium auswählen"
+
+msgid "Clone Mode"
+msgstr "Klon-Modus"
+
+msgid "Select ISO"
+msgstr "ISO-Datei auswählen"
+
+msgid "Clone Running Live System"
+msgstr "Laufendes Live-System klonen"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr ""
+"Die Quelle ist keine ISO-Datei. Bitte wählen Sie eine andere Datei aus."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Einfache GUI für den Live-USB Maker"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Kein Ziel-USB-Gerät erkannt. Bitte, ein Gerät anschließen und erneut "
+"versuchen"
+
+msgid "License"
+msgstr "Lizenz"
+
+msgid "Apply"
+msgstr "Anwenden"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "About"
+msgstr "Impressum"
+
+msgid "Help"
+msgstr "Hilfe"
+
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+msgid "LiveUSB creation successful!"
+msgstr "LiveUSB-Erstellung erfolgreich!"
+
+msgid "Operation stopped by user."
+msgstr "Vorgang durch Benutzer angehalten."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Ein %s Prozess (PID %s) läuft bereits"
+
+msgid "Please close that process before starting a new one"
+msgstr "Bitte beenden Sie den Prozess bevor Sie einen neuen starten"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Beim blockieren von %s gescheitert"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Das Fortschrittsfenster wurde geschlossen, der Prozess jedoch nicht beendet."
+" Wollen Sie fortfahren?"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nein"

@@ -1,0 +1,153 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# scootergrisen, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-12-26 08:20+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Lokaliserer/konfigurerer X-vinduer"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Deaktiverer billede (fbcondecor) i Virtual Box"
+
+msgid "Creating missing %s file"
+msgstr "Opretter manglende %s-fil"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Fandt ikke standardbrugeren %s på systemet."
+
+msgid "Mounting all devices"
+msgstr "Monterer alle enheder"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Ugyldig %s valgmulighed %s"
+
+msgid "Automount disabled"
+msgstr "Automatisk montering deaktiveret"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Aktiverer hotplugging af fstab"
+
+msgid "Automount enabled"
+msgstr "Automatisk montering aktiveret"
+
+msgid "Bad fstab option %s"
+msgstr "Dårlig fstab-valgmulighed %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Ukendt menulokaliseringssprog %s"
+
+msgid "Directory not found %s"
+msgstr "Mappe ikke fundet %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Lokaliserer menuer til %s i %s"
+
+msgid "Setting %s to %s"
+msgstr "Indstiller %s til %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Dårlig spejlkode %s (ventede to bogstaver)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Lokaliseringskildens softwarekilder bruger %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Formoder at %s er indstillet til %s tid"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Fjern tidligere automatisk genererede %s-fil"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Deaktivering af fejlsikret tilstand for KMS %s videohardware"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Lader X-server bruge %s-driver som standard"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Tvinger X-vinduer til at bruge standardtilstand"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Konfigurerer %s-fil med %s"
+
+msgid "Using X to make xorg.conf"
+msgstr "Brug X til at skabe xorg.conf"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Tvinger %s-acceleration på %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Tvinger %s-driver på %s"
+
+msgid "Creating file %s"
+msgstr "Opretter filen %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Skanner efter hardwarespecifikke videomoduler ..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Fandt %s videomodul(er) %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Fandt %s kernemoduler ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Fandt %s videodriver"
+
+msgid "Setting Conky width to %s"
+msgstr "Indstiller Conky-bredde til %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Ugyldig %s opstartsparameter %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Dårlig skrivebordsforsinkelsesparameter %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "Indstiller skrivebordsforsinkelse til %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Indstiller konsolens blankingtimeout til %s minut(ter)"
+
+msgid "Creating issue file for %s"
+msgstr "Opretter problemstillingsfil for %s"
+
+msgid "Files already exist under %s"
+msgstr "Filerne findes allerede under %s"
+
+msgid "Not creating or populating %s"
+msgstr "Undlader at oprette eller udfylde %s"
+
+msgid "Populating %s directory"
+msgstr "Udfylder %s-mappe"
+
+msgid "Setting desktop theme to %s"
+msgstr "Indstiller skrivebordstema til %s"

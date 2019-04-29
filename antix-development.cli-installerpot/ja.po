@@ -1,0 +1,206 @@
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-04 05:11+0000\n"
+"Last-Translator: BALLOON a.k.a. Fu-sen.\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: ca\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: cli-installer:9
+msgid "CL installer for $antiX"
+msgstr "CL installer for $antiX"
+
+#: cli-installer:10
+msgid "Version 2.02 2011/04/01"
+msgstr "Version 2.02 2011/04/01"
+
+#: cli-installer:16
+msgid "Requirements for minimum installation:"
+msgstr "Requirements for minimum installation:"
+
+#: cli-installer:19
+msgid "antiX-full: hard-disk 2.3GB  RAM 64MB"
+msgstr "antiX-full: hard-disk 2.3GB  RAM 64MB"
+
+#: cli-installer:21
+msgid "antiX-base: hard-disk 1.5GB  RAM 48MB"
+msgstr "antiX-base: hard-disk 1.5GB  RAM 48MB"
+
+#: cli-installer:23
+msgid "antiX-core: hard-disk 0.5GB  RAM 48MB"
+msgstr "antiX-core: hard-disk 0.5GB  RAM 48MB"
+
+#: cli-installer:27
+msgid "Usage: cli-installer [drive]"
+msgstr "Usage: cli-installer [drive]"
+
+#: cli-installer:28
+msgid "Where drive is the name of the drive antiX is to be installed on."
+msgstr "Where drive is the name of the drive antiX is to be installed on."
+
+#: cli-installer:29
+msgid "   For example: cli-installer sdb"
+msgstr "   For example: cli-installer sdb"
+
+#: cli-installer:30
+msgid "The default is correct if the computer has only one drive."
+msgstr "The default is correct if the computer has only one drive."
+
+#: cli-installer:34
+msgid "Pre-installation tips:"
+msgstr "Pre-installation tips:"
+
+#: cli-installer:37
+msgid "Set language at the boot screen by pressing F2"
+msgstr "Set language at the boot screen by pressing F2"
+
+#: cli-installer:38
+msgid "or by adding the line lang=xx where xx is your language code."
+msgstr "or by adding the line lang=xx where xx is your language code."
+
+#: cli-installer:39
+msgid "eg lang=gr for Greek."
+msgstr "eg lang=gr for Greek."
+
+#: cli-installer:41
+msgid "Set timezone at the boot screen by pressing F3"
+msgstr "Set timezone at the boot screen by pressing F3"
+
+#: cli-installer:44
+msgid ""
+"Press F1 at the boot screen for Help and list of cheatcodes for live use."
+msgstr "Press F1 at the boot screen for Help and list of cheatcodes for live use."
+
+#: cli-installer:55
+msgid "/home partition (hda1, sda2, etc): "
+msgstr "/home partition (hda1, sda2, etc): "
+
+#: cli-installer:58
+msgid "$hdrv invalid. Retry:"
+msgstr "$hdrv invalid. Retry:"
+
+#: cli-installer:67
+msgid "Root partition (hda1, sda2, etc): "
+msgstr "Root partition (hda1, sda2, etc): "
+
+#: cli-installer:96
+msgid "$rdrv invalid. Retry"
+msgstr "$rdrv invalid. Retry"
+
+#: cli-installer:109
+msgid "Available file systems for $1 are ext2, ext3, and ext4"
+msgstr "Available file systems for $1 are ext2, ext3, and ext4"
+
+#: cli-installer:113
+msgid "Enter your choice (the default is ext3): "
+msgstr "Enter your choice (the default is ext3): "
+
+#: cli-installer:122
+msgid "Ignore any 'barrier' lines"
+msgstr "Ignore any 'barrier' lines"
+
+#: cli-installer:123
+msgid "$fs invalid. Retry:"
+msgstr "$fs invalid. Retry:"
+
+#: cli-installer:135
+msgid "Passwords are not identical. Retry:"
+msgstr "Passwords are not identical. Retry:"
+
+#: cli-installer:154
+msgid "Invalid; retry:"
+msgstr "Invalid; retry:"
+
+#: cli-installer:162
+msgid "Press Enter to exit this script."
+msgstr "Press Enter to exit this script."
+
+#: cli-installer:168
+msgid "Please run this script as root."
+msgstr "Please run this script as root."
+
+#: cli-installer:176
+msgid "Do you want to repartition the disk (y/N)"
+msgstr "Do you want to repartition the disk (y/N)"
+
+#: cli-installer:190
+msgid "Deleting the contents of the '/' partition."
+msgstr "Deleting the contents of the '/' partition."
+
+#: cli-installer:191
+msgid "This may take some time. Please wait...."
+msgstr "This may take some time. Please wait...."
+
+#: cli-installer:197
+msgid "Use separate '/home' partition (y/N)"
+msgstr "Use separate '/home' partition (y/N)"
+
+#: cli-installer:204
+msgid "Is $hdrv a new '/home' partition (y/N)"
+msgstr "Is $hdrv a new '/home' partition (y/N)"
+
+#: cli-installer:223
+msgid "$antiX will now be copied to $rdrv."
+msgstr "$antiX will now be copied to $rdrv."
+
+#: cli-installer:260
+msgid "File copy done"
+msgstr "File copy done"
+
+#: cli-installer:262
+msgid "Install GRUB on MBR (Y/n)"
+msgstr "Install GRUB on MBR (Y/n)"
+
+#: cli-installer:268
+msgid "GRUB installed on ($grub)"
+msgstr "GRUB installed on ($grub)"
+
+#: cli-installer:272
+msgid "Computer name (default is 'antiX1')? "
+msgstr "Computer name (default is 'antiX1')? "
+
+#: cli-installer:280
+msgid "Is this a remastered install (y/N)"
+msgstr "Is this a remastered install (y/N)"
+
+#: cli-installer:286
+msgid "Installation of antiX finished!"
+msgstr "Installation of antiX finished!"
+
+#: cli-installer:288
+msgid "Reboot computer without CD to start program. ('reboot')"
+msgstr "Reboot computer without CD to start program. ('reboot')"
+
+#: cli-installer:294
+msgid "User name? "
+msgstr "User name? "
+
+#: cli-installer:298
+msgid "Note: $hdrv must contain a folder named '$name'."
+msgstr "Note: $hdrv must contain a folder named '$name'."
+
+#: cli-installer:302
+msgid "Password for $name:"
+msgstr "Password for $name:"
+
+#: cli-installer:305
+msgid "Password for root:"
+msgstr "Password for root:"
+
+#: cli-installer:326
+msgid "Cleaning up"
+msgstr "Cleaning up"

@@ -1,0 +1,697 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# José Vieira <jvieira33@sapo.pt>, 2016-2018
+# ric, 2017
+# ric, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-07-26 19:58+0000\n"
+"Last-Translator: José Vieira <jvieira33@sapo.pt>\n"
+"Language-Team: Portuguese (http://www.transifex.com/anticapitalista/antix-development/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s desligado devido a scripts e bibliotecas (libs) desactualizados."
+
+msgid "The %s program took %s seconds"
+msgstr "O programa %s demorou %s segundos"
+
+msgid "Detected %s init system"
+msgstr "Detectado sistema de iniciação (init) %s"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Esperando %s segundos para que os transferidores (bus) se estabeleçam ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Introduzir ponto(s) de quebra separados por vírgulas"
+
+msgid "Invalid %s value %s"
+msgstr "Parâmetro %s inváildo, valor %s"
+
+msgid "Set font to %s"
+msgstr "Definir a fonte para %s"
+
+msgid "New screen width %s"
+msgstr "Nova largura de écrã %s"
+
+msgid "Welcome to %s"
+msgstr "Boas-vindas ao %s"
+
+msgid "Current boot codes"
+msgstr "Códigos de arranque (boot) actuais"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Códigos de arranque possivelmente desconhecidos ou incorrectos"
+
+msgid "don't take this too seriously"
+msgstr "não dar muita importância"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Opção/Opções desconhecida(s) em %s. Opção/Opções desconhecida(s): %s"
+
+msgid "Loading all modules"
+msgstr "A carregar todos os módulos"
+
+msgid "Loading hardware specific modules ..."
+msgstr "a carregar módulos específicos do equipamento ..."
+
+msgid "No %s devices found"
+msgstr "Nenhum dispositivo %s encontrado"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "O parâmetro %s está a bloquear o dispositivo %s"
+
+msgid "Even though device %s has %s"
+msgstr "Apesar do dispositivo %s ter %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Remover o parâmetro de arranque %s para permitir que esse dispositivo possa ser analisado"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Dispositivo encontrado, mas não foi possível encontrar no mesmo o ficheiro %s"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Voltar a tentar por %s segundos %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Analisar dispositivos %s. Procurar ficheiro(s) %s %s"
+
+msgid "Filtered devices %s"
+msgstr "Dispositivos filtrados %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Procurar ficheiro(s) %s no(s) dispositivo(s) %s"
+
+msgid "Found new device(s) %s"
+msgstr "encontardo(s) novo(s) dispositivo(s) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "O dispositivo %s já está montado em %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Montado o dispositivo %s. Dispositivo %s montado em %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "Sistema de ficheiros do dispositivo %s: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Procurar dispositivo %s com %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Encontrada a instalação %s existente"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "A procurar partições com, pelo menos, %s livres. Aguardar..."
+
+msgid "quit"
+msgstr "sair"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Efectuar uma instalação %s no dispositivo %s?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "A efectuar instalação %s; aguardar..."
+
+msgid "copy %s to %s"
+msgstr "copiar %s para %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "A instalção %s foi efectuada com êxito"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Não foi possível encontrar o ficheiro %s %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Não foi possível montar %s como ficheiro %s"
+
+msgid "File %s not found on device %s"
+msgstr "Ficheiro %s não encontrado no dispositivo %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Modo de encriptação %s inválido"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "O requerido módulo %s  de encriptação do núcleo não foi encontrado."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "O programa de %s  não foi encontrado.  Não é possível encriptar."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "O programa de %s está corrompido. Não é possível encriptar."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Procurando dispositivo encriptado com o uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "Não foi encontado o ficheiro %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Não foram encontrados ficheiros %s ou %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Não foi encontrado qualquer dispositivo com o uuid %s"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Procurando partição encriptada no dispositivo %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Não existe nenhum dispositivo %s encriptado"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "O dispositivo encriptado %s não é um dispositivo de blocos"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "O dispositivo encriptado %s não é um dispositivo LUKS (Linux Unified Key Setup)"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Encontrado dispositivo encriptado. Abaixo será pedida a frase senha."
+
+msgid "Could not open LUKS device %s"
+msgstr "Não foi possível abrir o dispositivo LUKS %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "O dispositivo encriptado %s foi aberto em %s"
+
+msgid "Could not mount encrypted device"
+msgstr "O dispositivo encriptado não foi montado"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "O ficheiro %s não foi encontrado na partição encriptada"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "A nova frase-senha foi registada noutro meio ou memorizada?"
+
+msgid "press %s to continue"
+msgstr "premir %s para continuar"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr "A alterar a frase-senha de encriptação ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Introduzir a frase-senha em uso (texto em claro)"
+
+msgid "The entered passphrase does not match"
+msgstr "A frase-senha introduzida não coincide"
+
+msgid "Do you want to try again?"
+msgstr "Tentar novamente?"
+
+msgid "Passphrase change aborted"
+msgstr "Alteração da frase-senha abortada"
+
+msgid "Passphrase was not changed"
+msgstr "A frase-senha não foi alterada"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "A preparar para redefinir a frase-senha no primeiro arranque"
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Redefinição abortada: o ficheiro de frase-senha está vazio"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Alteração abortada: frase-senha errada no ficheiro de frase-senha "
+
+msgid "current phrase %s"
+msgstr "frase %s em uso"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Será solicitada a introdução da frase-senha duas vezes"
+
+msgid "Searched devices: %s"
+msgstr "Dispositivos analisados: %s"
+
+msgid "Searched types: %s"
+msgstr "Tipos analisados: %s"
+
+msgid "All block devices: %s"
+msgstr "Dispositivos de bloqueio total: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Contactar %s em %s"
+
+msgid "Kernel version mismatch"
+msgstr "Versão do núcleo (kernel) não combina"
+
+msgid "Kernel version %s"
+msgstr "Versão do núcleo %s"
+
+msgid "The module directory %s is missing"
+msgstr "A directoria %s do módulo está em falta"
+
+msgid "Initializing random number generator ..."
+msgstr "A iniciar o gerador de números aleatórios ..."
+
+msgid "Saving random seed"
+msgstr "A guardar a semente aleatória"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Não foi possível montar %s como sistema de ficheiros %s"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Nenhum %s encontrado em %s"
+
+msgid "Create %s failed"
+msgstr "Falha ao criar %s"
+
+msgid "Found %s"
+msgstr "encontrado %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Nem %s nem %s estão disponíveis"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "O sistema de ficheiros %s não está disponível. A usar %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "A forçar o uso de %s para corresponder ao ficheiro rootfs existente"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "O sistema de ficheiros %s não está disponível. Não é possível usar este ficheiro %s"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "A activar persistência %s"
+
+msgid "Could not mount %s"
+msgstr "Não foi possível montar %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Criar %s em %s %s"
+
+msgid "check %s filesystem"
+msgstr "verificar o sistema de ficheiros %s"
+
+msgid "There were no errors on %s"
+msgstr "Não foram econtrados erros em %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Começar"
+
+msgid "Skip Error: %s"
+msgstr "Não considerar o erro: %s"
+
+msgid "power off"
+msgstr "desligado"
+
+msgid "reboot"
+msgstr "reiniciar"
+
+msgid "Unknown command"
+msgstr "Comando desconhecido"
+
+msgid "Please try again"
+msgstr "Tentar novamente"
+
+msgid "Unmount successful"
+msgstr "Desmontado com êxito"
+
+msgid "Press %s to %s"
+msgstr "Premir %s para %s"
+
+msgid "Will now %s the system"
+msgstr "O sistema será agora %s"
+
+msgid "Fatal Error"
+msgstr "Erro Fatal"
+
+msgid "Non-Fatal Error"
+msgstr "Erro Não-Fatal"
+
+msgid "continue"
+msgstr "continuar"
+
+msgid "yes"
+msgstr "sim"
+
+msgid "no"
+msgstr "não"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "É necessário responder %s ou %s. Tentar novamente"
+
+msgid "The default is"
+msgstr "A predefinição é"
+
+msgid "default"
+msgstr "predefinição"
+
+msgid "Press <%s> for the default selection"
+msgstr "Prima <%s> para a seleção predefinida"
+
+msgid "enter"
+msgstr "introduzir (enter)"
+
+msgid "The number <%s> is out of range"
+msgstr "O número <%s> está fora do alcance"
+
+msgid "Current default"
+msgstr "Predefinição atual"
+
+msgid "Reset"
+msgstr "Reiniciar"
+
+msgid "Keeping default %s"
+msgstr "A manter a predefinição %s"
+
+msgid "Previous default %s erased"
+msgstr "Anterior predefinição %s apagada"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s definido para %s"
+
+msgid "Default"
+msgstr "Predefinição"
+
+msgid "Select Language"
+msgstr "Selecionar Idioma"
+
+msgid "Languages are listed alphabetically"
+msgstr "Os idiomas estão listados por ordem alfabética"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select number of console columns"
+msgstr "Seleccionar o número de colunas da consola"
+
+msgid "Wider means a smaller font"
+msgstr "Largura maior equivale a fonte mais pequena"
+
+msgid "Console columns"
+msgstr "Colunas da consola"
+
+msgid "Select Timezone"
+msgstr "Selecionar Fuso horário"
+
+msgid "Timezones are listed by longitude"
+msgstr "Os fusos horários estão listados por longitude"
+
+msgid "Timezone"
+msgstr "Fuso Horário"
+
+msgid "Select Option"
+msgstr "Selecionar Opção"
+
+msgid "Only one option can be selected"
+msgstr "Só pode ser selecionada uma opção"
+
+msgid "Options"
+msgstr "Opções"
+
+msgid "Select Mounting Option"
+msgstr "Selecionar Opção de Montagem"
+
+msgid "Automounting is enabled by default"
+msgstr "Montagem automática está activada por predefinição"
+
+msgid "Mount"
+msgstr "Montar"
+
+msgid "automount|mount=*"
+msgstr "montar automaticamente|montar=*"
+
+msgid "Select Persistence Option"
+msgstr "Selecionar Opção Persistência"
+
+msgid "Persistence"
+msgstr "Persistência"
+
+msgid "Select font size"
+msgstr "Selecionar tamanho de fonte"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Escala de fontes. A predefinição é 1.0"
+
+msgid "Select Desktop"
+msgstr "Selecionar Ambiente de Trabalho"
+
+msgid "Desktop"
+msgstr "Ambiente de Trabalho"
+
+msgid "Save these changes?"
+msgstr "Guardar estas alterações?"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Please select %s device:"
+msgstr "Selecionar dispositivo %s:"
+
+msgid "reverse video"
+msgstr "vídeo reverso"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Partições que não podem ser usadas estão na lista, mas não podem ser selecionadas."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "Os fatores limite estão realçados em %s"
+
+msgid "The device %s already has label %s"
+msgstr "O dispositivo %s já tem o rótulo %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Atualizar o rótulo em %s de %s para %s? "
+
+msgid "The device %s has no label"
+msgstr "O dispositivo %s não tem rótulo"
+
+msgid "Give %s the label %s?"
+msgstr "Dar a %s o rótulo %s?"
+
+msgid "Label updated to %s"
+msgstr "Rótulo atualizado para %s"
+
+msgid "Valid %s"
+msgstr "%s válido"
+
+msgid "Could not find device %s"
+msgstr "Dispositivo %s não encontrado"
+
+msgid "Valid devices"
+msgstr "Dispositivos válidos"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s não há correspondência entre %s e %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Copiar %s para esvaziar %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "Ficheiro %s não encontrado %s"
+
+msgid "No %s found in file %s"
+msgstr "Nenhum %s encontrado no ficheiro %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Nenhum %s encontrado, mas existe um %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Verificar %s dos ficheiros na directoria %s. Por favor seja paciente..."
+
+msgid "file: %s"
+msgstr "ficheiro: %s"
+
+msgid "result: %s"
+msgstr "resultado: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Não foram encontradas somas de controlo %s em %s. Não é possível fazer verificações %s."
+
+msgid "At least one %s checksum did not match"
+msgstr "Pelo menos uma %s soma de controlo não corresponde"
+
+msgid "Success!  The file passed"
+msgstr "Sucesso! O ficheiro passou"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Sucesso! Todos os ficheiros %s passaram"
+
+msgid "Wait %s seconds"
+msgstr "Esperar %s segundos"
+
+msgid "copy %s file to RAM"
+msgstr "copiar o ficheiro %s para a RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Copiará os ficheiros de %s para %s. Aguardar..."
+
+msgid "Size of original %12s"
+msgstr "Tamanho do original %12s"
+
+msgid "Size of copy %12s"
+msgstr "Tamanho da cópia %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Cópia para a RAM com sucesso"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Montar dispositivo de persistência (se necessário)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "Não há espaço suficiente no dispositivo para que possa ser criado o ficheiro %s de %s MiB"
+
+msgid "create %s persistence file"
+msgstr "criar ficheiro de persistência %s"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Tamanho pré-definido: %s MiB.  Sistema de ficheiros: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Este tamanho pré-definido deixará livres %s MiB"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Criar ficheiro %s, manual ou automaticamente"
+
+msgid "create automatically"
+msgstr "criar automaticamente"
+
+msgid "create custom"
+msgstr "criar manualmente"
+
+msgid "Please select size of %s file"
+msgstr "Por favor selecione o tamanho do ficheiro %s"
+
+msgid "There is %s MiB available on the device"
+msgstr "O dispositivo tem %s MiB livres"
+
+msgid "Filesystem size %s MiB"
+msgstr "Tamanho do sistema de ficheiros: %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Criar ficheiro %s do tipo %s e %s MiB de tamanho"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Aviso: isto pode demorar vários minutos por Gigabyte num sistema de ficheiros %s"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Por favor aguarde enquanto o sistema procura as partições existentes..."
+
+msgid "persistence"
+msgstr "persistência"
+
+msgid "persist device"
+msgstr "dispositivo de persistência"
+
+msgid "Enabled %s persistence"
+msgstr "Ativada persistência de %s"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Copiar %s MiB para a RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "montar o ficheiro de persistência %s em %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Ainda assim ativar persistência em home?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Estranho, não foi possível mover o ponto de montagem de homefs"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Há %4s MiB de ficheiros que serão ocultados pela persistência na pasta de utilizador (home persistence)"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Há %4s MiB livres no dispositivo com persistência na pasta de utilizador (home persistence)"
+
+msgid "There's not enough space to copy all the files"
+msgstr "Não há espaço suficiente para copiar todos os ficheiros"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Copiar os ficheiros para o dispositivo da persistência em home? "
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Nenhum ficheiro %s encontrado. Renomear %s para %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Há %s MiB livres.  São necessários %s MiB"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Redimensionar o ficheiro homefs. Copiar conteúdo de %s para %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Copiar sistema de ficheiros home. Por favor aguarde ..."
+
+msgid "Press <%s> to continue"
+msgstr "Premir <%s> para continuar"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Foi seleccionada a resolução VGA %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Guardar esta resolução para ser usada no arranque?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Será guardada a nova definição VGA, assim como os outros parâmetros de arraque"
+
+msgid "umount %s"
+msgstr "desmontar %s"
+
+msgid "umount of %s failed"
+msgstr "o desmontar de %s falhou"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Tamanho pré-definido: %s Meg. Tipo de sistema de ficheiros: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Este tamanho predefinido deixará livres %s Meg"
+
+msgid "There is %s Meg available on the device"
+msgstr "Existem %s Meg disponíveis no dispositivo"
+
+msgid "Filesystem size %s Meg"
+msgstr "Tamanho do sistema de ficheiros %s Meg"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Criar ficheiro %s do tipo %s e %s Meg de tamanho"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Copiar %s Megabytes para a RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Há %4s Meg de ficheiros que ficarão ocultos pela persistência de home"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Há %4s Meg livres no dispositivo de persistência"

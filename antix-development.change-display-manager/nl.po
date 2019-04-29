@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-04-24 12:29+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:16
+msgid "Change Display Manager"
+msgstr "Display Manager wijzigen"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:18
+msgid "Change the display manager and then offer too restart X-windows."
+msgstr "Wijzig de Display Manager en geef dan de mogelijkheid X-windows te herstarten."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:24
+msgid "New display manager."
+msgstr "Nieuwe Display Manager."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:25
+msgid "Pause between stopping and starting."
+msgstr "Pauzeren tussen stoppen en starten."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:42
+msgid "Invalid deskcode: %s"
+msgstr "Ongeldige deskcode: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:44
+msgid "Valid choices: %s"
+msgstr "Geldige keuzes: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:46
+msgid "Found no Slim sessions"
+msgstr "Geen Slim-sessies gevonden"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:52
+msgid "Set default window manager to: %s"
+msgstr "Stel standaard window manager in op: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:54
+msgid "Do you want to restart X-windows now?  "
+msgstr "Wilt u X-windows nu herstarten?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:56
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Er zal een %s tweede pauze zijn voordat X-windows opstart) "

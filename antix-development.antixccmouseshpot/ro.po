@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2011-12-06 09:51+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/antix-development/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Opţiuni mausului "
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Accelerație maus"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Schimbă mișcarea mausului"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Accelerație (Multiplicator)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Prag (Pixeli)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Restaurează mișcarea implicită"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Ordine butoane"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Nicio modificare"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Aranjament maus pentru mâna stângă"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Aranjament maus pentru mâna dreaptă"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Mărime cursor"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Schimbă mărimea cursorului"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Mărime (în pixeli)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Restaurează mărimea implicită"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Temă cursor"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Dupa alegerea unei teme noi,\\n\n ieșiți și autentificați-vă pentru a vedea modificările. "
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Schimbare temă cursor"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Viteza mausului schimbată."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Se folosește viteza mausului implicită."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Se folosește aranjament maus pentru mâna stângă."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Se folosește aranjament maus pentru mâna dreaptă."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Mărimea cursorului a fost schimbată.\\n\nIeșiți și autentificați-vă pentru a vedea schimbările. "
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Mărimea inplicită a cursorului a fost restaurată.\\n\nIeșiți și autentificați-vă pentru a vedea schimbările. "

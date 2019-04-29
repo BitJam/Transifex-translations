@@ -1,0 +1,851 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-13 11:53+0300\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#: MInstall#1
+msgid "No"
+msgstr "Όχι"
+
+#: MInstall#2
+msgid "Yes"
+msgstr "Ναι"
+
+#: MInstall#3
+msgid ""
+"The home directory for %1 already exists.Would you like to reuse the old "
+"home directory?"
+msgstr "Ο Φάκελλος χρήστη για τοr %1 υπάρχει ήδη.Θέλετε να χρησιμοποιήσετε τον παλιό Φάκελλο χρήστη;"
+
+#: MInstall#4
+msgid "Other"
+msgstr "Άλλο"
+
+#: MInstall#5
+msgid ""
+"You must choose a root partition.\n"
+"The root partition must be at 1.5 GB."
+msgstr "Πρέπει να επιλέξετε μία κατάτμηση συστήματος (root).\nΗ κατάτμηση συστήματος (root) πρέπει να είναι τουλάχιστον 1.5 GB."
+
+#: MInstall#6
+msgid "Sorry, unable to set user password."
+msgstr "Συγγνώμη, Αδυναμία ορισμού του Κωδικού Χρήστη."
+
+#: MInstall#7
+msgid ""
+"Failed to write antiX to destination.\n"
+"Returning to Step 1."
+msgstr "Αποτυχία εγγραφής του antiX στον προορισμό.\nΕπιστροφή στο Βήμα 1."
+
+#: MInstall#8
+msgid ""
+"Sorry, failed to delete old home directory. Before proceeding, \n"
+"you'll have to select a different username."
+msgstr "Συγγνώμη, αποτυχία διαγραφής του παλιού Φακέλλου χρήστη. Πριν συνεχίσετε,\nθα πρέπει να επιλέξετε ένα άλλο Όνομα Χρήστη."
+
+#: MInstall#9
+msgid ""
+"Failed to prepare chosen partitions.\n"
+"Returning to Step 1."
+msgstr "Αποτυχία προετοιμασίας των Κατατμήσεων που επιλέχθηκαν.\nΕπιστροφή στο Βήμα 1."
+
+#: MInstall#10
+msgid ""
+"The user password entries do\n"
+"not match.  Please try again."
+msgstr "Ο Κωδικός Χρήστη που βάλατε \nδεν ταιριάζει. Παρακαλώ δοκιμάστε ξανά."
+
+#: MInstall#11
+msgid ""
+"<p><b>Adjusting Your Sound Mixer</b><br/>antiX attempts to configure the "
+"sound mixer for you but sometimes it will be necessary for you to turn up "
+"volumes and unmute channels in the mixer in order to hear sound.</p> <p>The "
+"mixer shortcut is located in the tray. Click on it to open the mixer. </p>"
+msgstr "<p><b>Ρύθμιση του Μίκτη Ήχου</b><br/>Το antiX προσπαθεί να ρυθμίσει τον Μίκτη Ήχου για σας, αλλά μπορεί να πρέπει πρώτα να δυναμώσετε την ένταση του ήχου και να βγάλετε τη Σίγαση από τα κανάλια του μίκτη, για να ακούσετε ήχο.</p> <p>Η συντόμευση για τον μίκτη βρίσκεται στο tray. Κάντε κλικ πάνω της για να ανοίξετε τον Μίκτη. </p>"
+
+#: MInstall#12
+msgctxt "MInstall#12"
+msgid "Ready to install antiX filesystem"
+msgstr "Έτοιμοι για την εγκατάσταση του Συστήματος Αρχείων του antiX"
+
+#: MInstall#13
+msgid "Creating required partitions"
+msgstr "Δημιουργία των απαιτούμενων κατατμήσεων"
+
+#: MInstall#14
+msgid ""
+"antiX is installing, are you \n"
+"sure you want to Close now?"
+msgstr "Το antiX είναι σε φάση εγκατάστασης, είστε \nσίγουροι πως θέλετε να κλείσετε τώρα;"
+
+#: MInstall#15
+msgid "Desktop firewall"
+msgstr "Τοίχος Προστασίας"
+
+#: MInstall#16
+msgid ""
+"Sorry your computer name needs to be\n"
+"at least 2 characters long. You'll have to\n"
+"select a different name before proceeding."
+msgstr "Συγγνώμη, το όνομα του υπολογιστή σας πρέπει να έχει \nμήκος τουλάχιστον 2 χαρακτήρων. Θα πρέπει να \nεπιλέξετε ένα διαφορετικό όνομα πριν συνεχίσετε."
+
+#: MInstall#17
+msgid "Preparing required partitions"
+msgstr "Προετοιμασία των απαιτούμενων κατατμήσεων"
+
+#: MInstall#18
+msgid "Ok to format and destroy all data on %1 for the /home partition?"
+msgstr "Είναι Ok να γίνει format και να καταστραφούν όλα τα δεδομένα στο %1 στη Κατάτμηση Χρήστη (/home) ;"
+
+#: MInstall#19
+msgid "Mounting the /home partition"
+msgstr "Προσάρτηση της Κατάτμησης Χρήστη ( /home )"
+
+#: MInstall#20
+msgid "Ok to reuse (no reformat) %1 as the /home partition?"
+msgstr "Είναι Ok να ξαναχρησιμοποιηθεί το %1 (χωρίς reformat), σαν Κατάτμηση Χρήστη  /home ;"
+
+#: MInstall#21
+msgid "Formatting swap partition"
+msgstr "Γίνεται format της κατάτμησης του swap"
+
+#: MInstall#22
+msgid "title %1 at %2"
+msgstr "title %1 σε %2"
+
+#: MInstall#23
+msgid ""
+"The installation and configuration is incomplete.\n"
+"Do you really want to stop now?"
+msgstr "Η εγκατάσταση και η ρύθμιση δεν ολοκληρώθηκαν.\nΘέλετε πραγματικά να σταματήσετε τώρα;"
+
+#: MInstall#24
+msgid ""
+"<p><b>Common Services to Enable</b><br/>Select any of the these common "
+"services that you might need with your system configuration and the services"
+" will be started automatically when you start antiX.</p>"
+msgstr "<p><b>Κοινές Υπηρεσίες προς Ενεργοποίηση</b><br/>Επιλέξτε οποιεσδήποτε Κοινές Υπηρεσίες που μπορεί να χρειασθείτε για τη ρύθμιση του συστήματός σας και οι υπηρεσίες θα ξεκινούν αυτομάτως, με την εκκίνηση του antiX.</p>"
+
+#: MInstall#25
+msgid "title antiX at %1, previous kernel (if any)\n"
+msgstr "title antiX σε %1, προηγούμενο πυρήνα (αν υπάρχει)\n"
+
+#: MInstall#26
+msgid ""
+"The user name needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer name before proceeding."
+msgstr "Το Όνομα Χρήστη πρέπει να έχει μήκος \nτουλάχιστον 2 χαρακτήρων. Παρακαλώ επιλέξτε \nένα μεγαλύτερο όνομα πριν συνεχίσετε."
+
+#: MInstall#27
+msgid ""
+"<p><b>Repairing Your Installation</b><br/>If antiX stops working from the "
+"hard drive, sometimes it's possible to fix the problem by booting from CD "
+"and running one of the utilities in System Configuration or by using one of "
+"the regular Linux tools to repair the system.</p><p>You can also use your "
+"antiX CD to recover data from MS-Windows systems!</p>"
+msgstr "<p><b>Επισκευή της Εγκατάστασής σας</b><br/>Αν το antiX σταματήσει να λειτουργεί από τον σκληρό δίσκο, μπορεί, ορισμένες φορές, να είναι εφικτή η διόρθωση του προβλήματος, κάνοντας εκκίνηση από το CD και τρέχοντας ένα από τα utilities στη Ρύθμιση Συστήματος, είτε χρησιμοποιώντας ένα από τα συνηθισμένα εργαλεία Linux για την επισκευή του συστήματος.</p><p>Μπορείτε, επίσης, να χρησιμοποιήσετε το CD του antiX για να ανακτήσετε δεδομένα από συστήματα MS-Windows!</p>"
+
+#: MInstall#28
+msgid "Finish"
+msgstr "Ολοκλήρωση"
+
+#: MInstall#29
+msgid ""
+"The root password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "Ο Κωδικός για το root πρέπει να έχει τουλάχιστον \nένα μήκος 2 χαρακτήρων. Παρακαλώ επιλέξτε \nέναν πιο μεγάλο Κωδικό πριν συνεχίσετε."
+
+#: MInstall#30
+msgid "Dialup, adsl, and pptp support"
+msgstr "Υποστήριξη για Dialup, για ADSL και για PPTP"
+
+#: MInstall#31
+msgid ""
+"Sorry your computer domain needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Συγγνώμη, αλλά το όνομα του υπολογιστή σας πρέπει να έχει τουλάχιστον \nένα μήκος 2 χαρακτήρων. Θα πρέπει να επιλέξετε ένα διαφορετικό \nόνομα πριν συνεχίσετε."
+
+#: MInstall#32
+msgctxt "MInstall#32"
+msgid "Next >"
+msgstr "Επόμενο >"
+
+#: MInstall#33
+msgid "Bluetooth wireless device support"
+msgstr "Υποστήριξη για ασύρματη συσκευή Bluetooth"
+
+#: MInstall#34
+msgid ""
+"Ok to use (no format) \n"
+"%1 as the / (root) partition?"
+msgstr "Είναι εντάξει να χρησιμοποιηθεί το %1 \n(χωρίς format) σαν Κατάτμηση Συστήματος / (root) ;"
+
+#: MInstall#35
+msgid ""
+"Sorry that name is in use.\n"
+"Please select a different name.\n"
+msgstr "Συγγνώμη, αλλά το όνομα αυτό χρησιμοποιείται. \nΠαρακαλώ επιλέξτε ένα διαφορετικό όνομα."
+
+#: MInstall#36
+msgid "Fixing configuration"
+msgstr "Επιδιόρθωση της ρύθμισης"
+
+#: MInstall#37
+msgid ""
+"<p><b>Getting Help</b><br/>Basic information about antiX Linux is at "
+"http://antix.mepis.com. There are volunteers to help you at the antiX Forum,"
+" http://antix.freeforums.org.</p><p>If you ask for help, please remember to "
+"describe your problem and your computer in some detail. Usually statements "
+"like 'it didn't work' are not helpful.</p>"
+msgstr "<p><b>Παίρνοντας Βοήθεια</b><br/>Μπορείτε να βρείτε Βασικές Πληροφορίες για το antiX Linux στη διεύθυνση http://antix.mepis.com. Υπάρχουν εθελοντές που θα σας βοηθήσουν στο antiX Forum, στη διεύθυνση http://antix.freeforums.org. Αν αναζητάτε βοήθεια, παρακαλώ να θυμάστε να περιγράψετε το πρόβλημά σας και τον υπολογιστή σας, με κάποιες λεπτομέρειες. Φράσεις όπως 'δεν δούλεψε' δεν βοηθούν συνήθως και πάρα πολύ.</p>"
+
+#: MInstall#38
+msgid ""
+"Sorry, installing GRUB failed. This may be due to a change in the disk "
+"formatting. You can uncheck GRUB and finish installing antiX, then reboot to"
+" the CD and repair the installation with the reinstall GRUB function."
+msgstr "Συγγνώμη, η εγκατάσταση του GRUB απέτυχε. Αυτό μπορεί να οφείλεται σε μία αλλαγή στο φορμάρισμα του δίσκου. Μπορείτε να αποεπιλέξετε το GRUB, να ολοκληρώσετε την εγκατάσταση του antiX, και στη συνέχεια να ξανακάνετε εκκίνηση από το CD, επιδιορθώνοντας την εγκατάσταση και επανεγκαθιστώντας τη λειτουργία του GRUB."
+
+#: MInstall#39
+msgid ""
+"Sorry your workgroup needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Συγγνώμη, η Ομάδα Εργασίας σας πρέπει να έχει μήκος \nτουλάχιστον 2 χαρακτήρων. Πρέπει να επιλέξετε ένα \nδιαφορετικό όνομα πριν συνεχίσετε."
+
+#: MInstall#40
+msgid ""
+"<p><b>Select Boot Method</b><br/>antiX uses the GRUB bootloader to boot "
+"antiX and MS-Windows. If you have other versions of Linux already installed "
+"on your computer, GRUB will not be automatically configured to boot them. "
+"You will have to add them manually to the /boot/grub/menu.lst file.</p><p>If"
+" you install GRUB here, by default it is placed in the Master Boot Record of"
+" your boot drive and replaces whatever boot loader you may have been using "
+"before. This is normal.</p><p>If you choose to install GRUB at root instead "
+"of MBR, then GRUB will be installed at the beginning of the root partition. "
+"In most cases, this will allow you to start GRUB from a third party "
+"bootloader. This option is for experts only.</p><p>The use initrd option "
+"will allow a special software called initrd to preload extra drivers, "
+"restore from suspend to disk, and start the splash screen earlier. Its use "
+"is recommended, but not mandatory. </p><p>If you do not select the Install "
+"GRUB checkbox, GRUB will not be installed at this time. You can install GRUB"
+" later by using the Reinstall GRUB function in the antiX Utilities. "
+"Reinstall GRUB will also give you the option to install GRUB on a floppy "
+"disk.</p>"
+msgstr "<p><b>Επιλέξτε Μέθοδο Εκκίνησης</b><br/>Το antiX χρησιμοποιεί τον εκκινητή φόρτωσης GRUB, για να ξεκινήσει το antiX και τα MS-Windows. Αν διαθέτετε ήδη άλλες εκδόσεις του Linux εγκατεστημένες στον υπλογιστή σας, τότε το GRUB δεν θα ρυθμιθεί αυτομάτως να τις ξεκινά. Πρέπει να τις προσθέσετε χειροκίνητα στο αρχείο /boot/grub/menu.lst.</p><p>Αν εγκαταστήσετε τον GRUB εδώ, τότε αυτός θα μπει εκ προεπιλογής στο Master Boot Record του boot drive και θα αντικαταστήσει τον οποιονδήποτα άλλον εκκινητή φόρτωσης (boot loader) που ίσως είχατε πριν. Αυτό είναι φυσιολογικό.</p><p>Αν, αντιθέτως, επιλέξετε να εγκαταστήσετε τον GRUB στο root, αντί για το MBR, τότε ο GRUB θα εγκατασταθεί στην αρχή της κατάτμησης συστήματος (root partition). Στις περισσότερες περιπτώσεις, αυτό θα σας επιτρέψει να ξεκινάτε τον GRUB από ένα άλλον εκκινητή (third party bootloader). Αυτή η επιλογή προορίζεται μόνο για τους πιο έμπειρους.</p><p>Η επιλογή use initrd θα επιτρέψει σε ένα ειδικό λογισμικό, που ονομάζεται initrd, να προφορτώσει τους extra drivers, να τους βγάλει από την κατάσταση αδράνειας (suspend ) στο δίσκο, και να αρχίσει νωρίτερα την splash screen. Συστήνεται η χρήση του, αλλά δεν είναι υποχρεωτική.</p><p>Αν δεν επιλέξετε το κουτάκι για την εγκατάσταση του GRUB, τότε ο GRUB δεν θα εγκατασταθεί προς το παρόν. Μπορείτε να εγκαταστήσετε τον GRUB αργότερα, με τη χρήση της λειτουργίας Επανεγκατάστασης του GRUB, στα Utilities του antiX. Η Επανεγκατάσταση του GRUB θα σας προσφέρει και την επιλογή να εγκαταστήσετε τον GRUB σε μία μαλακή δισκέτα.</p>"
+
+#: MInstall#41
+msgid ""
+"The partition you selected for /home, appears to be a MS-Windows partition."
+"  Are you sure you want to reformat this partition?"
+msgstr "Η κατάτμηση που επιλέξατε για το /home, μοιάζει με κατάτμηση των Windows. Είστε σίγουροι πως θέλετε να ξανακάνετε φορμά σε αυτή την κατάτμηση;"
+
+#: MInstall#42
+msgid ""
+"The partition you selected for root, appears to be a MS-Windows partition.  "
+"Are you sure you want to reformat this partition?"
+msgstr "Η κατάτμηση που επιλέξατε για το Σύστημα (root), μοιάζει με κατάτμηση των Windows. Είστε σίγουροι πως θέλετε να ξανακάνετε φορμά σε αυτή την κατάτμηση;"
+
+#: MInstall#43
+msgid "Copying new system"
+msgstr "Αντιγραφή του νέου συστήματος"
+
+#: MInstall#44
+msgid "Formatting the /home partition"
+msgstr "Γίνεται φορμά στην Κατάτμηση  Χρήστη  /home"
+
+#: MInstall#45
+msgid ""
+"Failed to delete old antiX on destination.\n"
+"Returning to Step 1."
+msgstr "Αποτυχία διαγραφής του παλιού antiX στη τοποθεσία προορισμού. \nΕπιστροφή στο Βήμα 1."
+
+#: MInstall#46
+msgid ""
+"Sorry, failed to save old home directory. Before proceeding,\n"
+"you'll have to select a different username or\n"
+"delete a previously saved copy of your home directory."
+msgstr "Συγγνώμη, αποτυχία αποθήκευσης του Φακέλλου Χρήστη (home directory). \nΠριν συνεχίσετε, πρέπει να επιλέξετε ένα διαφορετικό Όνομα Χρήστη, ή να \nδιαγράψετε ένα αντίγραφο που είχατε προηγουμένως αποθηκεύσει στο Φάκελλο Χρήστη."
+
+#: MInstall#47
+msgid ""
+"<p><b>Computer Identity</b><br/>The computer name is a common unique name "
+"which will identify your computer if it is on a network. The computer domain"
+" is unlikely to be used unless your ISP or local network requires "
+"it.</p><p>The SaMBa Server needs to be activated if you want to use it to "
+"share some of your directories or printer with a local computer that is "
+"running MS-Windows or Mac OSX.</p>"
+msgstr "<p><b>Ταυτότητα Υπολογιστή</b><br/>Το Όνομα Υπολογιστή είναι ένα μοναδικό κοινό όνομα, που θα ταυτοποιεί τον υπολογιστή σας όταν βρίσκεται σε ένα δίκτυο. Είναι απίθανο να χρησιμοποιηθεί το Όνομα του υπολογιστή, εκτός αν το Τοπικό Δίκτυο ή ο ISP σας, το απαιτούν.</p><p>Αν θέλετε να χρησιμοποιείτε τον υπολογιστή σας για να μοιράζεσθε κάποιους φακέλλους σας, ή τον εκτυπωτή, με ένα τοπικό υπολογιστή που τρέχει MS-Windows ή Mac OSX, τότε θα πρέπει να ενεργοποιηθεί ο Διακομιστής SaMBa .</p>"
+
+#: MInstall#48
+msgid "Printing"
+msgstr "Εκτύπωση"
+
+#: MInstall#49
+msgid "Sorry, failed to name user directory."
+msgstr "Συγγνώμη, αποτυχία απόδοης ονόματος στο Φάκελλο Χρήστη"
+
+#: MInstall#50
+msgid ""
+"The user password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "Το όνομα χρήστη πρέπει να έχει μήκος \nτουλάχιστον 2 χαρακτήρων. Παρακαλώ επιλέξτε\nένα μεγαλύτερο Κωδικό πριν συνεχίσετε."
+
+#: MInstall#51
+msgid ""
+"Local web server \n"
+"with php and perl support"
+msgstr "Τοπικός διακομιστής Διαδιικτύου \nμε υποστήριξη για php και για perl"
+
+#: MInstall#52
+msgid "Deleting old system"
+msgstr "Διαγραφή παλιού συστήματος"
+
+#: MInstall#53
+msgid "Creating system directories"
+msgstr "Δημιουργία Φακέλλων Συστήματος"
+
+#: MInstall#54
+msgid "Sorry, failed to create user directory."
+msgstr "Συγγνώμη, αποτυχία δημιουργίας Φακέλλου Χρήστη (user directory)."
+
+#: MInstall#55
+msgid "title antiX at %1, kernel %2\n"
+msgstr "title antiX σε %1, kernel %2"
+
+#: MInstall#56
+msgid ""
+"Would you like to save the old home directory\n"
+"and create a new home directory?"
+msgstr "Μήπως θα θέλατε να αποθηκεύσετε τον παλιό Φάκελλο Χρήστη (home directory) \nκαι να φτιάξετε ένα νέο Φάκελλο Χρήστη (home directory);"
+
+#: MInstall#57
+msgid ""
+"antiX installation and configuration is complete.\n"
+"To use the new installation, reboot without the CD.\n"
+"Do you want to reboot now?"
+msgstr "Η εγκατάσταση και η ρύθμιση του antiX ολοκληρώθηκαν. \nΓια να χρησιμοποιήσετε τη νέα εγκατάσταση, επανεκκινήστε τον υπλογιστή, \nχωρίς το CD. Θα θέλατε να κάνετε επανεκκίνηση τώρα;"
+
+#: MInstall#58
+msgid ""
+"The root password entries do\n"
+" not match.  Please try again."
+msgstr "Ο Κωδικός root που βάλατε  \nδεν ταιριάζει. Παρακαλώ προσπαθείστε ξανά."
+
+#: MInstall#59
+msgid "Formatting home partition"
+msgstr "Γίνεται φορμά της Κατάτμησης Χρήστη (home partition)"
+
+#: MInstall#60
+msgid "Ok to format and use the entire disk (%1) for antiX?"
+msgstr "Είναι εντάξει να γίνει φορμά και να χρησιμοποιηθεί για το antiX ολόκληρος ο δίσκος (%1) ;"
+
+#: MInstall#61
+msgid "Formatting root partition"
+msgstr "Γίνεται φορμά της Κατάτμησης συστήματος (root partition)"
+
+#: MInstall#62
+msgid ""
+"<p><b>Congratulations!</b><br/>You have completed the installation of antiX "
+"Linux.</p><p><b>Finding Applications</b><br/>There are hundreds of excellent"
+" applications installed with antiX. The best way to learn about them is to "
+"browse through the Menu and try them. Many of the apps were developed "
+"specifically for the icewm/fluxbox environment. These are shown in the main "
+"menus. Other Linux applications can be found in Menu > Applications</p><p>In"
+" addition antiX includes many standard linux applications that are run only "
+"from the commandline and therefore do not show up in Menu.</p>"
+msgstr "<p><b>Συγχαρητήρια!</b><br/>Ολοκληρώσατε την εγκατάσταση του antiX Linux.</p><p><b>Εύρεση Εφαρμογών</b><br/>Υπάρχουν εκατοντάδες εξαιρετικών εφαρμογών που εγκαθίστανται με το antiX. Ο καλύτερος τρόπος για να μάθετε γι' αυτές είναι εξερευνώντας το Μενού και δοκιμάζοντάς τες. Πολλές από αυτές αναπτύχθηκαν ειδικά για το περιβάλλλον icewm/ fluxbox. Αυτές εμφανίζονται στα Κεντρικά Μενού. Μπορείτε να βρείτε άλλες εφαρμογές Linux στο Μενού > Εφαρμογές;</p><p>Επιπλέον, το antiX περιλαμβάνει πολλλές standard εφαρμογές linux που τρέχουν μόνον από τη γραμμή εντολών και, συνεπώς, δεν εμφανίζονται στο Μενού.</p>"
+
+#: MInstall#63
+msgid "Sorry, failed to set ownership of user directory."
+msgstr "Συγγνώμη, αποτυχία καθορισμού δικαιωμάτων ιδιοκτησίας για τον Φάκελλο Χρήστη."
+
+#: MInstall#64
+msgid "Linux and OSX printer service"
+msgstr "Υπηρεσία Εκτυπωτή για Linux και OSX"
+
+#: MInstall#65
+msgid ""
+"<p><b>Special Thanks</b><br/>My thanks to everyone who has chosen to support"
+" antiX with their time, money, suggestions, work, praise, ideas, promotion, "
+"and/or encouragement.</p><p>Without you there would be no antiX "
+"Linux.</p><p>anticapitalista</p>"
+msgstr "<p><b>Ιδιαίτερες Ευχαριστίες</b><br/>Τις ευχαριστίες μου προς όλους εκείνους που επέλεξαν να υποστηρίξουν το antiX με τον χρόνο τους, χρήμα, υποδείξεις, εργασία, επαίνους, ιδέες, προώθηση και/ή ενθάρρυνση.</p><p>Χωρίς εσάς, δεν θα υπήρχε καθόλου το antiX Linux.</p><p>anticapitalista</p>"
+
+#: MInstall#66
+msgid ""
+"<p><b>General Instructions</b><br/>BEFORE PROCEEDING, CLOSE ALL OTHER APPLICATIONS.</p><p>On each page, please read the instructions, make your selections, and then click on Next when you are ready to proceed. You will be prompted for confirmation before any destructive actions are performed.</p><p>Core versions of antiX require about 1 GB of space, Base versions about 1.5GB and Full versions of antiX require about 3 GB of space. 5 GB or more is preferred.You can use the entire disk or you can put antiX on existing partitions. </p><p>If you are using PC type hardware, run GParted from here if you need to modify some partitions before doing a custom install. If you are using Apple hardware, you must never use parted or GParted on your boot drive. Instead you must setup your partitions and boot manager in OSX before installing antiX.</p><p>The ext2, ext3, ext4, jfs, xfs, btrfs and reiserfs Linux filesystems are supported and ext4 is recommended. </\n"
+"p><p><b>Partition Requirements</b><br/>A linux-swap partition is highly recommended. Your RAM memory plus swap space must be at least 128MB. A larger size can improve system performance but you should not need more than 512MB of swap space unless you develop software or edit video files or run a database server.</p><p>A separate linux /home (pronounced home) partition is recommended and should be at least 200MB and preferably as large as possible. This is where your work will be stored. A separate home partition will make it easier to backup, upgrade or reinstall antiX in the future.A linux / ( pronounced root) partition is required. It needs to be at least 800 MB for Core versions of antiX and 1.5 GB for Base versions and 2.7GB for Full versions of antiX and it must be larger if you do not have a separate home partition. This is where additional applications will be stored and where the Linux kernel and drivers may be compiled. If you will be installing and/or testing a lot of applications, you should make this partition larger but, unless you test a lot software, it is unlikely you would need more than 5GB in this partition.</p><p><b>Auto-install Using Entire Disk</b><br/>The selected disk will be reformatted to ext4 and the installer will partition the disk as antiX prefers. Optionally you may request that a portion of the disk is left free if possible, for example so you can install a second OS later.</p><p><b>Custom Install on Existing Partitions</b><br/>antiX will be installed on the existing partitions you choose. If the disk isn't already partitioned appropriately, you can modify the partitions here with GParted.  If you have modified the partitions, it is best to reboot the system before continuing with the installation.  Do NOT use parted or GParted if you are installing on an Apple computer boot drive.</p><p><b>Upgrading</b><br/>To upgrade an existing Linux installation, choose to install on existing partitions and then choose to preserve the data in /home.</p>"
+msgstr ""
+
+#: MInstall#67
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the swap partition?"
+msgstr "Είναι Ok να γίνει φορμάτ και να καταστραφούν όλα τα δεδομένα στο \n%1 για τη δημιουργία της κατάτμησης swap;"
+
+#: MInstall#68
+msgid "Mounting the / (root) partition"
+msgstr "Γίνεται προσάρτηση της κατάτμησης συστήματος / (root)"
+
+#: MInstall#69
+msgid ""
+"<p><b>Keep Your Copy of antiX Up-to-date</b><br/>For antiX information and "
+"updates please visit http://antix.freeforums.org. </p>"
+msgstr "<p><b>Διατηρείστε ενημερωμένο το αντίγραφό σας του antiX</b><br/>Για πληροφορίες και ενημερώσεις του antiX, παρακαλώ επισκεφθείτε τη διεύθυνση http://antix.freeforums.org. </p>"
+
+#: MInstall#70
+msgid ""
+"<p><b>Localization Defaults</b><br/>Set the default keyboard and locale.  "
+"These will apply unless, they are overridden later by the "
+"user.</p><p><b>Configure Clock</b><br/>If you have an Apple or a pure Unix "
+"computer, by default the system clock is set to GMT or Universal Time.  In "
+"this case, check the box for 'System clock uses GMT.'</p>The CD boots with "
+"the timezone preset to EST. To change the timezone, after you reboot into "
+"the new installation, right click on the clock in the Panel and select "
+"Adjust Date & Time...</p>"
+msgstr "<p><b>Προεπιλογές Τοπικοποίησης</b><br/>Ρυθμίστε την προεπιλογή για διάταξη πληκτρολογίου και τη γλώσσα. Αυτά θα ισχύουν, εκτός αν αλλαχθούν αργότερα από το χρήστη.</p><p><b>Ρύθμιση Ωρολογίου</b><br/>Αν έχετε ένα υπολογιστή Apple ή καθαρό Unix, τότε το σύστημα ρυθμίζε από προεπιλογή την ώρα GMT ή την Universal Time. Σε αυτή την περίπτωση, επιλέξτε το κουτάκι για το 'Το ρολόϊ του συστήματος χρησιμοποιεί την ώρα GMT.' Το CD εκκινεί με τις προρυθμισμένες ζώνες ώρας στο EST. Για να αλλάξετε ζώνη ώρας, αφού επανεκκινήσετε με τη νέα εγκατάσταση, κάντε δεξί κλι στο ρολόι πάνω στο Panel και επιλέξτε Ρύθμιση Ώρας και Χρόνου.</p>"
+
+#: MInstall#71
+msgid "Sorry, creating menu.lst failed. Root filesystem may be faulty."
+msgstr "Συγγνώμη, η δημιουργία του menu.lst απέτυχε. Το σύστημα αρχείων συστήματος (Root filesystem) μπορεί να είναι ελλαττωματικό"
+
+#: MInstall#72
+msgid ""
+"<p><b>Limitations</b><br/>Remember, this software is provided AS-IS with no "
+"warranty what-so-ever. It's solely your responsibility to backup your data "
+"before proceeding.</p><p><b>Choose Partitions</b><br/>antiX requires a root "
+"partition. The swap partition is optional but highly recommended. If you "
+"want to use the Suspend-to-Disk feature of antiX, you will need a swap "
+"partition that is larger than your physical memory size.</p><p>If you choose"
+" a separate /home partition it will be easier for you to upgrade in the "
+"future, but this will not be possible if you are upgrading from an "
+"installation that does not have a separate home "
+"partition.</p><p><b>Upgrading</b><br/>To upgrade from an existing Linux "
+"installation, select the same home partition as before and check the "
+"preference to preserve data in /home.</p><p>If you are preserving an "
+"existing /home directory tree located on your root partition, the installer "
+"will not reformat the root partition. As a result, the installation will "
+"take much longer than usual.</p><p><b>Preferred Filesystem Type</b><br/>For "
+"antiX Linux, you may choose to format the partitions as ext2, ext3, ext4, "
+"jfs, xfs, btrfs or reiser. </p><p><b>Bad Blocks</b><br/>If you choose ext2, "
+"ext3 or ext4 as the format type, you have the option of checking and "
+"correcting for badblocks on the drive. The badblock check is very time "
+"consuming, so you may want to skip this step unless you suspect that your "
+"drive has badblocks.</p>"
+msgstr "<p><b>Περιορισμοί</b><br/>Να θυμάσθε ότι αυτό το λογισμικό προσφέρεται ΩΣ ΕΧΕΙ χωρίς καμία απολύτως εγγύηση. Είναι αποκλειστικά δικιά σας ευθύνη να πάρετε αντίγραφα ασφαλείας των δεδομένων σας πριν.</p><p><b>Επιλέξτε Κατατμήσεις</b><br/>Το antiX προαπαιτεί την ύπαρξη μίας κατάτμησης συστήματος (root partition). Η κατάτμηση swap είναι προαιρετική αλλά συστήνεται εντόνως. Αν θέλετε να χρησιμοποιήσετε την δυνατότητα Suspend-to-Disk του antiX, τότε θα χρειασθείτε μία κατάτμηση swap που να είναι μεγαλύτερη από το μέγεθος της φυσικής σας μνήμης.</p><p>Αν επιλέξετε μία χωριστή κατάτμηση χρήστη /home partition, θα είναι ευκολώτερο να κάνετε αναβαθμίσεις στο μέλλον, ενώ κάτι τέτοιο δεν θα είναι εφικτό αν αναβαθμίσετε από μία εγκατάσταση που δεν διαθέτει μία χωριστή κατάτμηση χρήστη.</p><p><b>Αναβάθμιση</b><br/>Για να κάνετ αναβάθμιση από μία υπάρχουσα εγκατάσταση Linux, επιλέξτε την ίδια κατάτμηση χρήστη (home partition) όπως και πριν, και τσεκάρετε την προτίμηση να διατηρούνται τα δεδομένα στο /home.</p><p>Αν φροντίσετε το υπάρχον /home directory tree να βρίσκεται στην κατάτμηση συστήματος (root partition), τότε ο εγκαταστάτης δεν θα ξανακάνει φορμά στην κατάτμηση συστήματος. Συνεπώς, η εγκατάσταση θα κρατήσει πολύ παραπάνω από το συνηθισμένο.</p><p><b>Προτιμώμενες μορφές Αρχείων Συστήματος</b><br/>Για το antiX Linux, μπορείτε να επιλέξετε τη μορφοποίηση των κατατμήσεων σε ext2, ext3, ext4, jfs, xfs, btrfs ή reiser. </p><p><b>Bad Blocks</b><br/>Αν επιλέξετε το ext2, ext3 or ext4 σαν τη μορφή αρχείων, έχετε την επιλογή να τσεκάρετε και να διορθώσετε τα badblocks που έχει το drive. Ο έλεγχος για badblock είναι πολύ χρονοβόρος, και έτσι μπορεί να θέλετε να παραβλέψετε αυτό το βήμα, εκτός και αν υποψιάζεσθε ότι το δικό σας drive μπορεί να έχει badblocks.</p>"
+
+#: MInstall#73
+msgid ""
+"Failed to create required partitions.\n"
+"Returning to Step 1."
+msgstr "Αποτυχία δημιουργίας των απαιτούμενων κατατμήσεων.\nΕπιστροφή στο Βήμα 1."
+
+#: MInstall#74
+msgid "Sorry, unable to set root password."
+msgstr "Συγγνώμη, αδυναμία καθορισμού του Κωδικού root."
+
+#: MInstall#75
+msgid "GRUB installed ok."
+msgstr "Η εγκατάσταση του GRUB έγινε επιτυχώς."
+
+#: MInstall#76
+msgid "Ok to install GRUB bootloader at %1 ?"
+msgstr "Είναι εντάξει να εγκατασταθεί ο εκκινητής φόρτωσης GRUB στο %1;"
+
+#: MInstall#77
+msgid "title antiX at %1, newest kernel\n"
+msgstr "title antiX σε %1, νεότερο πυρήνα\n"
+
+#: MInstall#78
+msgid "Networking"
+msgstr "Δικτύωση"
+
+#: MInstall#79
+msgid "Network connection"
+msgstr "Σύνδεση δικτύου"
+
+#: MInstall#80
+msgid "Hardware"
+msgstr "Υλικό (Hardware)"
+
+#: MInstall#81
+msgid "Would you like to delete the old home directory for %1?"
+msgstr "Θέλετε να διαγράψετε τον παλιό Φάκελλο Χρήστη (home directory) από το %1;"
+
+#: MInstall#82
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the / (root) partition?"
+msgstr "Να γίνει φορμά και να καταστραφούν όλα τα δεδομένα στο \n%1 για να δημιουργηθεί η Κατάτμηση συστήματος / (root) ;"
+
+#: MInstall#83
+msgid ""
+"You've chosen to not use, save or delete the old home directory.\n"
+"Before proceeding, you'll have to select a different username."
+msgstr "Επιλέξατε να μη χρησιμοποιήσετε, αποθηκεύσετε ή διαγράψετε τον παλιό Φάκελλο Χρήστη (home directory). \nΠριν προχωρήσετε, θα πρέπει να επιλέξετε ένα διαφορετικό όνομα χρήστη."
+
+#: MInstall#84
+msgid ""
+"<p><b>Default User Login</b><br/>The root user is similar to the "
+"Administrator user in some other operating systems. You should not use the "
+"root user as your daily user account. Please enter the name for a new "
+"(default) user account that you will use on a daily basis. If needed, you "
+"can add other user accounts later. </p><p><b>Passwords</b><br/>Enter a new "
+"password for your default user account and for the root account. Each "
+"password must be entered twice.</p>"
+msgstr "<p><b>Σύνδεση Προεπιλεγμένου Χρήστη</b><br/>Ο Χρήστης Συστήματος (root user) είναι όμοιος με τον Διαχειριστή Συστήματος σε μερικά άλλα Λειτουργικά Συστήματα. Δεν θα πρέπει να χρησιμοποιείτε τον Χρήστη Συστήματος σαν λογαρισμό χρήστη για καθημερινή χρήση. Παρακαλώ βάλτε το όνομα ενός νέου (προεπιλεγμένου) λογαρισμού χρήστη που θα χρησιμοποιείτε καθημερινά. Αν χρειασθεί, μπορείτε να προσθέσετε άλλους λογαρισμούς χρήστη αργότερα.</p><p><b>Κωδικοί Πρόσβασης</b><br/>Βάλτε έναν νέο Κωδικό πρόσβασης για τον προεπιλεγμένο σας λογαρισμό χρήστη καθώς και για τον λογαρισμό του root.Ο κάθε Κωδικός θα πρέπει να πληκτρολογηθεί δύο φορές.</p>"
+
+#: MInstall#85
+msgid ""
+"<p><b>Installation in Progress</b><br/>antiX is installing.  For a fresh "
+"install, this will probably take 3-20 minutes, depending on the speed of "
+"your system and the size of any partitions you are reformatting.</p><p>If "
+"you click the Abort button, the installation will be stopped as soon as "
+"possible.</p>"
+msgstr "<p><b>Η εγκατάσταση προχωρά</b><br/>Το antiX εγκαθίσταται. Μία νέα εγκατάσταση, θα πάρει πιθανώς περί τα 3-20 minutes, ανάλογα με την ταχύτητα του συστήματός σας και το μέγεθος των κατατμήσεων τις οποίες επαναμορφοποιέιτε.</p><p>Αν κάνετε κλικ στο κουμπί Ματαίωση, η εγκατάσταση θα σταματήσει το συντομώτερο δυνατόν.</p>"
+
+#: MInstall#86
+msgid "Formatting the / (root) partition"
+msgstr "Γίνεται φορμά της Κατάτμησης συστήματος (root partition)"
+
+#: MInstall#87
+msgctxt "MInstall#87"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Υποστηρίξτε το antiX</b><br/>Το antiX στηρίζεται από ανθρώπους σαν εσάς. Κάποιοι βοηθούν κάποιους άλλους στο forum υποστήριξης- http://antix.freeforums.org, ή μεταφράζουν αρχεία βοήθειας σε διάφορες γλώσσες, ή κάνουν υποδείξεις, γράφουν τεκμηρίωση, ή βοηθούν δοκιμάζοντας νεό λογισικό.</p>"
+
+#: MeInstall#1
+msgid "MB "
+msgstr " MB"
+
+#: MeInstall#2
+msgid "MBR"
+msgstr "MBR"
+
+#: MeInstall#3
+msgid "Tips"
+msgstr "Συμβουλές"
+
+#: MeInstall#4
+msgid "ext3"
+msgstr "ext3"
+
+#: MeInstall#5
+msgid "root"
+msgstr "root"
+
+#: MeInstall#6
+msgid "Preserve data in /home (if upgrading)"
+msgstr "Διατηρείστε τα δεδομένα στο  /home (αναβάθμιση)"
+
+#: MeInstall#7
+msgid "System clock uses LOCAL"
+msgstr "Το ρολόι του συστήματος χρησιμοποιεί ώρα LOCAL"
+
+#: MeInstall#8
+msgid "Abort"
+msgstr "Ματαίωση"
+
+#: MeInstall#9
+msgid "Alt+A"
+msgstr "Alt+A"
+
+#: MeInstall#10
+msgid "Alt+B"
+msgstr "Alt+B"
+
+#: MeInstall#11
+msgid "Alt+K"
+msgstr "Alt+K"
+
+#: MeInstall#12
+msgid "Alt+N"
+msgstr "Alt+N"
+
+#: MeInstall#13
+msgid "Alt+X"
+msgstr "Alt+X"
+
+#: MeInstall#14
+msgid "MeInstall"
+msgstr "MeInstall"
+
+#: MeInstall#15
+msgid "1a. Choose disk for installation"
+msgstr "1a. Επιλέξτε δίσκο για την εγκατάσταση"
+
+#: MeInstall#16
+msgid "3. Installation in progress"
+msgstr "3. Γίνεται εγκατάσταση"
+
+#: MeInstall#17
+msgctxt "MeInstall#17"
+msgid "Ready to install antiX filesystem"
+msgstr "Έτοιμοι για την εγκατάσταση του Συστήματος Αρχείων του antiX"
+
+#: MeInstall#18
+msgid "Workgroup:"
+msgstr "Ομάδα Εργασίας:"
+
+#: MeInstall#19
+msgid "Computer name:"
+msgstr "Όνομα Υπολογιστή:"
+
+#: MeInstall#20
+msgid "1c. Select type of installation"
+msgstr "1c. Επιλέξτε το είδος εγκατάστασης"
+
+#: MeInstall#21
+msgid "8b. Root (administrator) Account"
+msgstr "8b. Λογαριασμός Root (Διαχειριστή)"
+
+#: MeInstall#22
+msgid "5. Common Services to Enable"
+msgstr "5. Κοινές Υπηρεσίες προς ενεργοποίηση"
+
+#: MeInstall#23
+msgid "swap partition:"
+msgstr "κατάτμηση swap:"
+
+#: MeInstall#24
+msgid "Locale:"
+msgstr "Locale:"
+
+#: MeInstall#25
+msgid "Confirm root password:"
+msgstr "Επιβεβαιώστε τον Κωδικό Συστήματος:"
+
+#: MeInstall#26
+msgid "Filesystem type:"
+msgstr "Τύπος συστήματος αρχείων:"
+
+#: MeInstall#27
+msgid ""
+"<p>antiX is an independent linux distribution based on Debian Testing.</p> "
+"<p>antiX uses some components from MEPIS Linux which are released under an "
+"Apache free license. Some MEPIS components have been modified for antiX.</p>"
+" <p>Enjoy using antiX.</p>"
+msgstr "<p>To antiX είναι μία ανεξάρτητη διανομή GNU/Linux που βασίζεται στο Debian Testing.</p> <p>Το antiX χρησιμοποιεί μερικά συστατικά του MEPIS Linux που κυκλοφορούν υπό ελεύθερη άδεια Apache. Μερικά συστατικά του MEPIS έχουν τροποποποιηθεί για το antiX.</p> <p>Απολαύστε τη χρήση του antiX.</p>"
+
+#: MeInstall#28
+msgid "< Back"
+msgstr "< Πίσω "
+
+#: MeInstall#29
+msgid "Default user login name:"
+msgstr "Όνομα σύνδεσης προεπιλεγμένου χρήστη:"
+
+#: MeInstall#30
+msgid "Check for badblocks (takes longer)"
+msgstr "Ελέγξτε για badblocks (κρατά παραπάνω χρόνο)"
+
+#: MeInstall#31
+msgid "Reminders"
+msgstr "Υπενθυμίσεις"
+
+#: MeInstall#32
+msgid "2a. Choose partitions"
+msgstr "2a. Επιλέξτε κατατμήσεις"
+
+#: MeInstall#33
+msgid "1b. Rearrange disk partitions (optional)"
+msgstr "1b. Επανατακτοποίηση κατατμήσεων του δίσκου"
+
+#: MeInstall#34
+msgid "Terms of Use"
+msgstr "Όροι Χρήσεως"
+
+#: MeInstall#35
+msgid "7a. Localization Defaults"
+msgstr "7a. Προεπιλογές Τοπικοποίησης (Localization)"
+
+#: MeInstall#36
+msgctxt "MeInstall#36"
+msgid "Next >"
+msgstr "Επόμενο >"
+
+#: MeInstall#37
+msgid "antiXgrp"
+msgstr "antiXgrp"
+
+#: MeInstall#38
+msgid "Run GParted..."
+msgstr "Τρέξτε το GParted."
+
+#: MeInstall#39
+msgid "antiX1"
+msgstr "antiX1"
+
+#: MeInstall#40
+msgid "I have read the Terms"
+msgstr "Διάβασα τους Όρους"
+
+#: MeInstall#41
+msgctxt "MeInstall#41"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Υποστηρίξτε το antiX</b><br/>Το antiX στηρίζεται από ανθρώπους σαν εσάς. Κάποιοι βοηθούν κάποιους άλλους στο forum υποστήριξης- http://antix.freeforums.org, ή μεταφράζουν αρχεία βοήθειας σε διάφορες γλώσσες, ή κάνουν υποδείξεις, γράφουν τεκμηρίωση, ή βοηθούν δοκιμάζοντας νεό λογισικό.</p>"
+
+#: MeInstall#42
+msgid "example.dom"
+msgstr "example.dom"
+
+#: MeInstall#43
+msgid "6. Computer Network Names"
+msgstr "6. Ονόματα Υπολογιστών Δικτύου"
+
+#: MeInstall#44
+msgid "Leave free space up to:"
+msgstr "Αφήστε ελεύθερο χώρο μέχρι:"
+
+#: MeInstall#45
+msgid "Use disk:"
+msgstr "Δίσκος"
+
+#: MeInstall#46
+msgid "Install on:"
+msgstr "Να γίνει εγκατάσταση στο:"
+
+#: MeInstall#47
+msgid "4. Select Boot Method"
+msgstr "4. Επιλεξτε Μέθοδο Εγκατάστασης"
+
+#: MeInstall#48
+msgid "use initrd (recommended)"
+msgstr "χρησιμοποιείστε το initrd (συστήνεται)"
+
+#: MeInstall#49
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: MeInstall#50
+msgid "username"
+msgstr "όνομα χρήστη"
+
+#: MeInstall#51
+msgid "Service"
+msgstr "Υπηρεσία"
+
+#: MeInstall#52
+msgid "8a. Default User Account"
+msgstr "8a. Λογαριασμός Προεπιλεγμένου Χρήστη"
+
+#: MeInstall#53
+msgid "Run partition tool..."
+msgstr "Τρέξτε το εργαλείο."
+
+#: MeInstall#54
+msgid "Show passwords"
+msgstr "Εμφάνιση κωδικών"
+
+#: MeInstall#55
+msgid "/home partition:"
+msgstr "κατάτμηση χρήστη /home :"
+
+#: MeInstall#56
+msgid "Auto-install using entire disk "
+msgstr "Αυτόματη με χρήση όλου του δίσκου"
+
+#: MeInstall#57
+msgid "Default user password:"
+msgstr "Κωδικός Προεπιλεγμένου Χρήστη:"
+
+#: MeInstall#58
+msgid "reiserfs"
+msgstr "reiserfs"
+
+#: MeInstall#59
+msgid "SaMBa Server for MS Networking"
+msgstr "Διακομιστής SaMBa για δικτύωση MS"
+
+#: MeInstall#60
+msgid "Root password:"
+msgstr "Κωδικός του χρήστη root:"
+
+#: MeInstall#61
+msgid "2b. Preferences"
+msgstr "2b. Προτιμήσεις"
+
+#: MeInstall#62
+msgid "Custom install on existing partitions"
+msgstr "Custom σε προύπαρχουσες κατατμήσεις"
+
+#: MeInstall#63
+msgid "System boot disk:"
+msgstr "Δίσκος εκκίνησης συστήματος:"
+
+#: MeInstall#64
+msgid "Confirm user password:"
+msgstr "Επιβεβαίωση Κωδικού Χρήστη:"
+
+#: MeInstall#65
+msgid "/ (root) partition:"
+msgstr "κατάτμηση συστήματος / :"
+
+#: MeInstall#66
+msgid "Modify partitions:"
+msgstr "Τροποποίηση Κατατμήσεων:"
+
+#: MeInstall#67
+msgid "Computer domain:"
+msgstr "Όνομα Υπολογιστή:"
+
+#: MeInstall#68
+msgid "7b. Configure Clock"
+msgstr "7b. Ρύθμιση Ωρολογίου"
+
+#: MeInstall#69
+msgid "7c. Timezone Settings"
+msgstr "7c. Ρυθμόσεις Ζώνης ώρας"
+
+#: MeInstall#70
+msgid "Timezone:"
+msgstr "Ζώνη ώρας:"
+
+#: MeInstall#71
+msgid "Install GRUB for antiX and Windows"
+msgstr "Εγκατάσταση του GRUB για το antiX και τα Windows"
+
+#: MeInstall#72
+msgid "Keyboard:"
+msgstr "Πληκτρολόγιο:"
+
+#: MeMain#1
+msgid "Help"
+msgstr "Βοήθεια"
+
+#: MeMain#2
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: MeMain#3
+msgid "antiX Install"
+msgstr "Εγκατάσταση του antiX"
+
+#: QApplication#1
+msgid "You must run this app as root."
+msgstr "Πρέπει να τρέξετε αυτή την εφασρμογή ως Root."

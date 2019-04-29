@@ -1,0 +1,39 @@
+# Translation for antiX Development: live-L10n file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-11-03 19:27-0600\n"
+"PO-Revision-Date: 2017-11-04 01:28+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/anticapitalista/antix-development/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+msgid "Localizing console and timezone"
+msgstr ""
+
+msgid "Setting timezone and localtime to %s"
+msgstr ""
+
+msgid "Unknown time zone %s"
+msgstr ""
+
+msgid "Recreate symlink %s"
+msgstr ""
+
+msgid "Setting hostname to %s"
+msgstr ""
+
+msgid "Setting locale to %s"
+msgstr ""
+
+msgid "Configuring console for a %s keymap"
+msgstr ""

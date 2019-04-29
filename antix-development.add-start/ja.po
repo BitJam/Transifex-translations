@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-30 13:49+0200\n"
+"PO-Revision-Date: 2014-12-30 12:11+0000\n"
+"Last-Translator: BALLOON a.k.a. Fu-sen.\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: add-start.py:71
+msgid "No line Selected:"
+msgstr "行選択なし:"
+
+#: add-start.py:108
+msgid "line has been removed"
+msgstr "行を削除しました"
+
+#: add-start.py:113
+msgid "Remove Items"
+msgstr "項目を削除"
+
+#: add-start.py:122
+msgid "Line to Remove"
+msgstr "行を削除"
+
+#: add-start.py:133
+msgid "Remove"
+msgstr "削除"
+
+#: add-start.py:195
+msgid "command has been added"
+msgstr "コマンドを追加しました"
+
+#: add-start.py:208
+msgid "Add Items"
+msgstr "項目を追加"
+
+#: add-start.py:227
+msgid "Sleep Time"
+msgstr "停止時間"
+
+#: add-start.py:238
+msgid "Add"
+msgstr "追加"
+
+#: add-start.py:297
+#, python-format
+msgid ""
+"There is no file ~/.%s/startup \n"
+"The session variable DESKTOP_CODE='%s' \n"
+"incorrectly matches your system"
+msgstr "ファイル ~/.%s/startup が存在しません\nセッションの値 DESKTOP_CODE='%s' が\n誤ってシステムに検出されます"

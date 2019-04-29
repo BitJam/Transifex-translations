@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>\n"
+"Language-Team: Slovak (http://www.transifex.com/anticapitalista/antix-development/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Terminal"
+msgstr "Terminál"
+
+msgid "File Manager"
+msgstr "Správca súborov"
+
+msgid "Web Browser"
+msgstr "Prehliadač"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Personal"
+msgstr "Osobné"
+
+msgid "Applications"
+msgstr "Aplikácie"
+
+msgid "Terminal Apps"
+msgstr "Aplikácie terminálu"
+
+msgid "Multimedia"
+msgstr "Multimédiá"
+
+msgid "CD/DVD Writer"
+msgstr "Vypalovanie CD/DVD"
+
+msgid "Music Player"
+msgstr "Hudobný Prehrávač"
+
+msgid "Network"
+msgstr "Sieť"
+
+msgid "Alpine Mail"
+msgstr "Alpine Mail"
+
+msgid "Browser elinks"
+msgstr "Prehliadač Elinks"
+
+msgid "Irssi Chat"
+msgstr "Irssi Chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom Reader"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Kancelária"
+
+msgid "Organizer"
+msgstr "Organizér"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Update Menu"
+msgstr "Aktualizovať Ponuku"
+
+msgid "Desktop"
+msgstr "Pracovná plocha"
+
+msgid "Alternate Desktops"
+msgstr "Zmeniť nastavenia plochy"
+
+msgid "Add Desktop"
+msgstr "Pridať plochu"
+
+msgid "Wallpaper"
+msgstr "Pozadie"
+
+msgid "GTK Theme"
+msgstr "GTK Theme"
+
+msgid "Desktop Defaults"
+msgstr "Predvolené nastavenia plochy"
+
+msgid "Session Settings"
+msgstr "Nastavenia relácie"
+
+msgid "Session Settings Global"
+msgstr "Globálne nastavenia relácie"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel zap/vyp"
+
+msgid "Conky on/off"
+msgstr "Conky zap/vyp"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Hľadať"
+
+msgid "MC File Manager"
+msgstr "Midnight Commander"
+
+msgid "App Killer"
+msgstr "Ukončenie aplikácií"
+
+msgid "Process Viewer"
+msgstr "Zobraziť procesy"
+
+msgid "System Information"
+msgstr "Informácie o systéme"
+
+msgid "Control Centre"
+msgstr "Ovládací Panel"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "Ako na antiX-live"
+
+msgid "Rox Manual"
+msgstr "Rox manuál"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Dokumentácia Fluxbox "
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "IceWM manuál"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Domovská stránka"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Stránky užívateľkého manuálu"
+
+msgid "Backup"
+msgstr "Záloha"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Spustiť"
+
+msgid "Fluxbox Settings"
+msgstr "Nastavenia Fluxbox"
+
+msgid "Configuration"
+msgstr "Nastavenia"
+
+msgid "Styles"
+msgstr "Štýly"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Štýly Fluxboxu"
+
+msgid "Workspaces"
+msgstr "Pracovné plochy"
+
+msgid "Reconfigure"
+msgstr "Prekonfigurovať"
+
+msgid "Restart"
+msgstr "Reštartovať"
+
+msgid "Exit"
+msgstr "Zatvoriť"
+
+msgid "antiX Installer"
+msgstr "Inštalovať"
+
+msgid "Logout..."
+msgstr "Odhlasovanie..."
+
+msgid "Restart JWM"
+msgstr "Reštartovať JWM"
+
+msgid "Log Out"
+msgstr "Odhlásiť"
+
+msgid "Home Folder"
+msgstr "Domovská zložka"
+
+msgid "Browser"
+msgstr "Prehliadač"
+
+msgid "Unplug Removable Device"
+msgstr "Odpojiť vymeniteľnú jednotku"
+
+msgid "Quit"
+msgstr "Zatvoriť"

@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: José Vieira <jvieira33@sapo.pt>, 2017\n"
+"Language-Team: Portuguese (https://www.transifex.com/anticapitalista/teams/10162/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "antiX Command-Line Control Centre"
+msgstr "Centro de Controlo por Terminal"
+
+msgid ""
+"Press: <Enter> to select an option, <b> back to main, <q> to quit, <h> for "
+"help"
+msgstr ""
+"Premir: <Enter> para seleccionar uma opção, <b> para voltar ao menu "
+"principal, <q> para sair, <h> para ajuda "
+
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+msgid "antiX Live Commands"
+msgstr "Comandos do antiX em instalação externa"
+
+msgid "Audio/Visual Commands"
+msgstr "Comandos de Áudio e Vídeo"
+
+msgid "System Tools"
+msgstr "Ferramentas do Sistema"
+
+msgid "System Information"
+msgstr "Informação sobre o Sistema"
+
+msgid "Console Utilities"
+msgstr "Utilitários de Consola/Terminal"
+
+msgid "Internet Applications"
+msgstr "Aplicações de Internet"
+
+msgid "Office Applications"
+msgstr "Aplicações de Escritório"
+
+msgid "Configuration Files"
+msgstr "Ficheiros de Configuração"
+
+msgid "Logout / Installer"
+msgstr "Sair / Instalar"
+
+msgid "Logout / Reboot"
+msgstr "Sair / Reiniciar"
+
+msgid "Audio/Visual menu"
+msgstr "Menu Áudio/Vídeo"
+
+msgid "Internet Tools & Apps"
+msgstr "Ferramentas e Aplicações de Internet"
+
+msgid "Live System Centre"
+msgstr "Centro de Controlo da instalação externa"
+
+msgid "Office and Other"
+msgstr "Escritório e Outras"
+
+msgid "Logout / Install"
+msgstr "Sair / Instalar"
+
+msgid "Quit"
+msgstr "Sair"
+
+msgid "Would do action %s"
+msgstr "Executaria a acção %s"
+
+msgid "Install this distro on a hard drive"
+msgstr "Instalar o antiX no/num disco rígido"
+
+msgid "Reboot the system"
+msgstr "Reiniciar o computador"
+
+msgid "Powerdown the system"
+msgstr "Desligar o computador"
+
+msgid "See if sound is working"
+msgstr "Testar o som"
+
+msgid "Select which sound card to use"
+msgstr "Seleccionar a placa de som"
+
+msgid "simple sound mixer"
+msgstr "Misturador de som"
+
+msgid "Audio Player"
+msgstr "Reprodutor de áudio"
+
+msgid "Stop mocp Audio Player"
+msgstr "Parar o reprodutor de áudio mocp"
+
+msgid "Video Player"
+msgstr "Reprodutor de vídeo"
+
+msgid "YouTube audio-only jukebox"
+msgstr "Reprodutor de áudio para YouTube"
+
+msgid "Poor Man's Radio Player"
+msgstr "Poor Man's Radio Player"
+
+#. add_cmd burniso                  "cd/dvd burner"
+msgid "Image viewer"
+msgstr "Visualizador de imagens"
+
+msgid "Pdf viewer"
+msgstr "Visualizador de pdf"
+
+msgid "cd/dvd burner"
+msgstr "Gravador de CD/DVD"
+
+msgid "Install new packages (like Synaptic)"
+msgstr "Instalar novos pacotes (tipo Synaptic)"
+
+#. add_cmd smxi                  $"System maintenance tool"
+msgid "Install nvidia non-free graphics drivers (for X)"
+msgstr "Instalar controladores não-livres nvidia (para o X)"
+
+msgid "Check and undelete disk partitions"
+msgstr "Detectar e recuperar partições de disco"
+
+msgid "Choose startup services"
+msgstr "Serviços a iniciar no arranque"
+
+msgid "Set date and time"
+msgstr "Definir data e hora"
+
+msgid "Partition block device %s"
+msgstr "Criar partições no disco %s"
+
+msgid "Monitor and control processes"
+msgstr "Processos de monitorização e controlo"
+
+msgid "Hardware and OS information"
+msgstr "Informação sobre o equipamento e sistema operativo"
+
+msgid "Other system information"
+msgstr "Outra informação sobre o sistema operativo"
+
+msgid "Show memory usage"
+msgstr "Mostrar memória em uzo"
+
+msgid "Information about mounted partitions"
+msgstr "Informação sobre as partições montadas"
+
+msgid "List all block (disk) partitions"
+msgstr "Listar todas as partições"
+
+msgid "List currently installed kernel modules"
+msgstr "Listar os módulos do núcleo (kernel) presentemente instalados"
+
+msgid "List major system components"
+msgstr "Listar os componentes principais do sistema"
+
+msgid "List attached USB devices"
+msgstr "Listar os dispositivos USB acoplados"
+
+msgid "Display messages from the kernel"
+msgstr "Exibir mensagens emitidas pelo núcleo (kernel)"
+
+msgid "View information about various commands"
+msgstr "Ver informação sobre vários comandos"
+
+msgid "View and edit disk partitions"
+msgstr "Ver e editar partições de disco"
+
+msgid "X Server Log File"
+msgstr "Ficheiro de registos do servidor do X (X Server)"
+
+msgid "Live Boot Log File"
+msgstr "Ficheiro de registos de arranque de instalação externa executável"
+
+msgid "Make a full featured antiX or MX live-usb"
+msgstr "Criar uma instalação USB-executável completa do antiX ou do MX"
+
+msgid "Make a "
+msgstr "Criar uma"
+
+msgid "Update live kernel"
+msgstr "Actualizar o núcleo (kernel) da instalação externa"
+
+msgid "Remaster live system"
+msgstr "Recompor o sistema da instalação externa"
+
+msgid "Save dynamic root persistence"
+msgstr "Guardar persistência dinâmica de root"
+
+msgid "Configure dynamic root persistence"
+msgstr "Configurar persistência dinâmica de root"
+
+msgid "Create live persistence files"
+msgstr "Criar ficheiros de persistência na instalação externa"
+
+msgid "Adjust the brightness of the backlight"
+msgstr "Ajustar o brilho da retro-iluminação"
+
+msgid "Choose the console background"
+msgstr "Definir o fundo da consola/terminal"
+
+msgid "Choose the console font"
+msgstr "Definir a fonte da consola/terminal"
+
+msgid "Display all possible console text colors"
+msgstr "Exibir todas as cores possíveis para o texto"
+
+#. add_cmd space-evaders         $"Arcade type game"
+msgid "Excerpts from the Tao of Programming"
+msgstr "Excertos do livro The Tao of Programming"
+
+msgid "Lock the virtual consoles"
+msgstr "Bloquear as consolas/terminais virtuais"
+
+msgid "Set up wired/wireless"
+msgstr "Configurar ligação por fio / sem fios"
+
+msgid "Show network status"
+msgstr "Mostrar o estado da ligação à rede"
+
+msgid "Test if network is connected"
+msgstr "Verificar se a rede está ligada"
+
+msgid "Test network bandwidth"
+msgstr "Testar a largura de banda da rede"
+
+msgid "Show all network connections and ports"
+msgstr "Mostar todas as ligações e portas de rede"
+
+msgid "Manage network profiles"
+msgstr "Gerir perfis de rede"
+
+msgid "Weather forecast"
+msgstr "Previsão do tempo"
+
+msgid "Email client"
+msgstr "Cliente de correio-electrónico"
+
+msgid "Web browser (text mode)"
+msgstr "Navegador web (modo de texto)"
+
+#. add_cmd links2           $"Web browser (text mode)"
+msgid "Web browser (graphics mode)"
+msgstr "Navegador web (modo gráfico)"
+
+msgid "Chat client"
+msgstr "Cliente de conversação (chat)"
+
+msgid "RSS/Atom feed reader"
+msgstr "Painel RSS/Atom (notícias)"
+
+msgid "BitTorrent client"
+msgstr "Cliente de BitTorrent"
+
+msgid "Midnight commander file manager"
+msgstr "Gestor de ficheiros Midnight Commander"
+
+msgid "Word Processor"
+msgstr "Processador de texto"
+
+msgid "Calendar/Schedule"
+msgstr "Calendário/Agenda"
+
+msgid "Simple text editor"
+msgstr "Editor de texto básico"
+
+msgid "Advanced text editor"
+msgstr "Editor de texto avançado"
+
+msgid "File system table"
+msgstr "Tabela de sistema de ficheiros"
+
+msgid "X Windows Configuration"
+msgstr "Configuração de Janelas do X"
+
+msgid "SLiM Graphical login manager"
+msgstr "SLiM - Gestor gráfico de acesso ao sistema"
+
+msgid "Installed bootloader"
+msgstr "Gestor do arraque instalado"
+
+msgid "Live usb BIOS bootloader"
+msgstr "Gestor do arraque por BIOS, em USB-executável"
+
+msgid "Live usb UEFI bootloader"
+msgstr "Gestor do arraque por UEFI, em USB-executável"
+
+msgid "Remaster Exclude List"
+msgstr "Lista de exclusão do Recompositor (Remaster)"
+
+msgid "Snapshot Exclude List"
+msgstr "Lista de exclusão do Criador de imagens ISO (Snapshot)"
+
+msgid "Remaster Exclude List 2"
+msgstr "Lista de exclusão 2 do Recompositor (Remaster)"
+
+msgid "Persist Save Exclude List"
+msgstr "Lista de exclusão do Guardar persistência (Persist Save)"

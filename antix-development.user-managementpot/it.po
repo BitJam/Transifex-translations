@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2013
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:19+EEST\n"
+"PO-Revision-Date: 2014-12-21 12:16+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: user-management:40
+msgid "The password cannot contain spaces"
+msgstr "La password non può contenere spazi"
+
+#: user-management:41
+msgid "You need to enter a password"
+msgstr "Devi inserire una password"
+
+#: user-management:42
+msgid "First and second password must be identical"
+msgstr "La prima e la seconda password devono essere identiche"
+
+#: user-management:43
+msgid "No User Selected:"
+msgstr "Nessun Utente selezionato:"
+
+#: user-management:44
+msgid "You must choose a user"
+msgstr "Devi scegliere un utente"
+
+#: user-management:45
+msgid "Choose User"
+msgstr "Seleziona Utente"
+
+#: user-management:46
+msgid "User Password"
+msgstr "Password Utente"
+
+#: user-management:47
+msgid "User Login"
+msgstr "Login Utente"
+
+#: user-management:48
+msgid "Set as Default User"
+msgstr "Imposta come Utente di Default"
+
+#: user-management:49
+msgid "Set User for Automatic Login"
+msgstr "Imposta Utente per il Login Automatico"
+
+#: user-management:50
+msgid "The username cannot contain spaces"
+msgstr "Il nome-utente non può contenere spazi"
+
+#: user-management:51
+msgid "You need to enter a username"
+msgstr "Devi inserire un nome-utente"
+
+#: user-management:52
+msgid "Enter Username"
+msgstr "Inserisci Nome-utente"
+
+#: user-management:53
+msgid "User Shell"
+msgstr "Shell Utente"
+
+#: user-management:54
+msgid "No Shell Selected:"
+msgstr "Nessuna Shell selezionata"
+
+#: user-management:55
+msgid "You need to choose a shell"
+msgstr "Devi schegliere una shell "
+
+#: user-management:56
+msgid "Password Manager"
+msgstr "Password Manager"
+
+#: user-management:57
+msgid "password"
+msgstr "password"
+
+#: user-management:58
+msgid "password again"
+msgstr "ancora password "
+
+#: user-management:59
+msgid "Passwords"
+msgstr "Passwords"
+
+#: user-management:60
+msgid "Add Users"
+msgstr "Aggiungi Utenti"
+
+#: user-management:61
+msgid "Add User"
+msgstr "Aggiungi Utente"
+
+#: user-management:62
+msgid "Set Password"
+msgstr "Imposta una Password"
+
+#: user-management:63
+msgid "Users"
+msgstr "Utenti"
+
+#: user-management:64
+msgid "User Repair"
+msgstr "Ripristina Utente"
+
+#: user-management:65
+msgid "Repair User"
+msgstr "Ripristina Utente"
+
+#: user-management:67
+msgid "User Removal"
+msgstr "Rimozione Utente"
+
+#: user-management:68
+msgid ""
+"Notice!\n"
+"        All of the users files will remain in their \n"
+"        home directory, unless completely remove\n"
+"        is checked. \n"
+"        Even so, it is recomended that the\n"
+"        files be backed up!"
+msgstr "Attenzione!\nTutti i files degli utenti rimmarranno nelle loro\nhome directory, a meno che la rimozione completa\nsia selezionata.\nAnche se, è raccomandato che\nsi faccia il back up dei files!"
+
+#: user-management:76
+msgid "Remove User"
+msgstr "Rimuovi Utente"
+
+#: user-management:77
+msgid "Recover User"
+msgstr "Ripristina utente"
+
+#: user-management:78
+msgid ""
+"Notice!\n"
+"        A user can only be recovered if the user\n"
+"        has not been completely removed!"
+msgstr "Attenzione!\nUn utente può essere ripristinato solo se l'utente\nnon è stato completamente rimosso!"
+
+#: user-management:81
+msgid "The list of configs need to be empty or your own configs"
+msgstr "L'elenco dei file di configurazione deve essere vuoto o con le tue proprie configurazioni"
+
+#: user-management:82
+msgid "You MUST be root to use this application!"
+msgstr "Tu DEVI essere root per usare questa applicazione!"
+
+#: user-management:83
+msgid ""
+"Warning!\n"
+"        Attempting a user repair may restore more\n"
+"        programs to original settings than you intend!\n"
+"        It is highly recommended that you first do a\n"
+"        backup of all files in your home directory."
+msgstr "Attenzione!\nTentare una riparazione utente può ripristinare più\nprogrammi alle impostazioni originali di quello che si vorrebbe!\nSi consiglia vivamente di fare prima\nun backup di tutti i file della vostra home directory."

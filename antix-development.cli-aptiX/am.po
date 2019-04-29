@@ -1,0 +1,565 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: samson <sambelet@yahoo.com>, 2018\n"
+"Language-Team: Amharic (https://www.transifex.com/anticapitalista/teams/10162/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "የ ትእዛዝ መስመር"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "ቀስት ወደ-ላይ"
+
+msgid "down-arrow"
+msgstr "ቀስት ወደ-ታች"
+
+msgid "page-up"
+msgstr "ገጽ ወደ-ላይ"
+
+msgid "page-down"
+msgstr "ገጽ ወደ-ታች"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "ወደ ዋናው ዝርዝር መመለሻ"
+
+msgid "antiX Command Line Package Installer"
+msgstr "የ አንቲክ የ ትእዛዝ መስመር ጥቅል መግጠሚያ"
+
+msgid "Main Menu"
+msgstr "ዋናው ዝርዝር"
+
+msgid "Search for packages to mark or install"
+msgstr "ጥቅል መፈለጊያ ምልክት ለ ማድረግ ወይንም ለ መግጠም"
+
+msgid "Search for antiX kernels"
+msgstr "የ አንቲክ ከረኔል መፈለጊያ"
+
+msgid "Search for all kernels"
+msgstr "ሁሉንም ከረኔል መፈለጊያ"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "የ ጥቅል ማውጫ ማሻሻያ"
+
+msgid "Edit the repo source files"
+msgstr "የ ፋይል ምንጭ repo ማረሚያ"
+
+msgid "Quit"
+msgstr "ማጥፊያ"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "ሁሉም %s የ ተመከረው %s ጥቅል ተገጥሟል"
+
+msgid "no pending upgrades"
+msgstr "በ ቀጠሮ ላይ ያለ ማሻሻያ የለም"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "ሁሉንም %s የ ተመከረውን %s ጥቅሎች መመልከቻ"
+
+msgid "View or perform %s upgrade now"
+msgstr "ማሻሻያ %s መመልከቻ ወይንም መፈጸሚያ"
+
+msgid "View or perform %s upgrades now"
+msgstr "ማሻሻያ %s መመልከቻ ወይንም መፈጸሚያ"
+
+msgid "Upgrade %s package now"
+msgstr "ጥቅል %s አሁን ማሻሻያ"
+
+msgid "Upgrade %s packages now"
+msgstr "ጥቅሎች %s አሁን ማሻሻያ"
+
+msgid "View a list of packages to be upgraded"
+msgstr "የሚሻሻለውን ጥቅል ዝርዝር መመልከቻ"
+
+msgid "Ignore these upgrades for now"
+msgstr "እነዚህን ማሻሻያዎች ለ አሁን መተው"
+
+msgid "View or install %s marked package"
+msgstr "ምልክት የ ተደረገባቸውን ጥቅሎች %s መመልከቻ ወይንም መግጠሚያ"
+
+msgid "View or install %s marked packages"
+msgstr "ምልክት የ ተደረገባቸውን ጥቅሎች %s መመልከቻ ወይንም መግጠሚያ"
+
+msgid "Edit Source Menu"
+msgstr "ዝርዝር ምንጭ ማረሚያ"
+
+msgid "Please select a source file to edit"
+msgstr "እባክዎን የ ፋይል ምንጭ ለ ማረም ይምረጡ "
+
+msgid "Could not find file %s to edit"
+msgstr "ፋይል ማግኘት %s  አልተቻለም ለ ማረም"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "ወደ ዋናው ዝርዝር መመለሻ"
+
+msgid "Search for packages"
+msgstr "ጥቅል መፈለጊያ"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "በ ትክክል ተመሳሳይ ስም"
+
+msgid "exact name matches"
+msgstr "በ ትክክል ተመሳሳይ ስም"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "ተመሳሳይ ቀዳሚ ስም"
+
+msgid "leading name matches"
+msgstr "ተመሳሳይ ቀዳሚ ስም"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "ማንኛውም ተመሳሳይ ስም"
+
+msgid "any name matches"
+msgstr "ማንኛውም ተመሳሳይ ስም"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "ተመሳሳይ ስም ወይንም መግለጫ"
+
+msgid "name or description matches"
+msgstr "ተመሳሳይ ስም ወይንም መግለጫ"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "መፈለጊያ"
+
+msgid "No matches were found"
+msgstr "ምንም ተመሳሳይ አልተገኘም"
+
+msgid "Do you want to try a different search?"
+msgstr "እርስዎ የ ተለየ እንደገና መሞከር ይፈልጋሉ?  "
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "ትክክል"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "ቀዳሚ"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "ማንኛውም ስም"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "መግለጫ"
+
+msgid "Do a different search"
+msgstr "የ ተለየ መፈለጊያ"
+
+msgid "Search Result Menu"
+msgstr "የ ፍለጋውን ውጤት ዝርዝር"
+
+msgid "Please select an action"
+msgstr "እባክዎን ተግባር ይምረጡ"
+
+msgid "What next?"
+msgstr "ቀጥሎ ምን ላድርግ?"
+
+msgid "%s packages were found"
+msgstr "%s ጥቅሎች ተገኝተዋል"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr "በሚቀጥለው ደረጃ ለ እርስዎ ዝርዝር ጥቅል ይታያል: እርስዎ መሸብለል ይችላሉ:"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "ይጠቀሙ %s, %s, %s, እና %s ዝርዝር ለ መሸብለል"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr "እርስዎ የሚፈልጉትን ጥቅል ከ ታች በኩል ያድርጉ እና ከዛ ይጫኑ  %s ለ መቀጠል"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "ማስገቢያ"
+
+msgid "Press %s to see the list"
+msgstr "ይጫኑ %s ዝርዝር ለ መመልከት"
+
+msgid "Use %s to go to the main menu"
+msgstr "ይጠቀሙ %s ወደ ዋናው ዝርዝር ለ መመለስ "
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "ይጠቀሙ %s በ ድጋሚ መፈለጊያ መፈለጊያ"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "ይጠቀሙ %s አዲስ ለ መፈለግ "
+
+msgid "Press %s to skip picking a package"
+msgstr "ይጫኑ %s ለ መዝለል ጥቅል ለ መምረጥ"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr "ወይንም ቁጥር ያስገቡ ለ እያንዳንዱ ጥቅል እርስዎ ምልክት ያድርጉ ወይንም ይግጠሙ"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "ይጠቀሙ %s ለ ማሳየት የ ቁጥር መጠን"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "ይጠቀሙ %s ወደ ዋናው ዝርዝር ለ መመለስ"
+
+msgid "Use %s to see the results again"
+msgstr "ይጠቀሙ %s ወደ ዋናው ዝርዝር ለ መመለስ"
+
+msgid "Use %s to do a new search"
+msgstr "ይጠቀሙ %s አዲስ ለ መፈለግ "
+
+msgid "Invalid input.  Please try again"
+msgstr "እባክዎን እንደገና ይሞክሩ ዋጋ የሌለው ውጤት"
+
+msgid "The following numbers were out of range %s"
+msgstr "የሚቀጥሉት ቁጥሮች ከ መጠን ውጪ ናቸው %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "እባክዎን እንደገና ይሞክሩ የ ተሰጠው ዋጋ የሌለው ቁጥር ነው"
+
+msgid "Selected packages"
+msgstr "የ ተመረጠው ጥቅል"
+
+msgid "Could not find package number %s"
+msgstr "የ ጥቅል ቁጥር ማግኘት አልተቻለም %s"
+
+msgid "Repeat the same search"
+msgstr "በ ድጋሚ መፈለጊያ መፈለጊያ"
+
+msgid "Search again"
+msgstr "በድጋሚ መፈለጊያ"
+
+msgid "Go back to main menu"
+msgstr "ወደ ዋናው ዝርዝር መመለሻ"
+
+msgid "Now what?"
+msgstr "አሁን ምን ልስራ?"
+
+msgid "Do a new search"
+msgstr "የ ተለየ መፈለጊያ"
+
+msgid "See search results again"
+msgstr "የ ፍለጋውን ውጤት መመልከቻ"
+
+msgid "Return to main menu"
+msgstr "ወደ ዋናው ዝርዝር መመለሻ"
+
+msgid "Remove or Purge Menu"
+msgstr "ማስወገጃ ወይንም ዝርዝር ማስወገጃ"
+
+msgid "Please choose an action for this package"
+msgstr "እባክዎን ለዚህ ጥቅል ተግባር ይምረጡ"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr "ጥቅል-ማጥፊያ [ጥቅል ማጥፊያ ነገር ግን የ ማሰናጃ ፋይሎችን አይደለም]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "ጥቅል-ማጥፊያ [ጥቅል ማጥፊያ ነገር ግን የ ማሰናጃ ፋይሎችን አይደለም]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "ጥቅል እንደገና መግጠሚያ [ዘመናዊ ቢሆንም እንኳን]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "ጥቅል መግጠሚያ [ዘመናዊ ካልሆነ ብቻ]"
+
+msgid "The %s command failed"
+msgstr "ይህ %s ትእዛዝ ወድቋል!"
+
+msgid "Please enter the term you want to search for"
+msgstr "እባክዎን የሚፈልጉትን ቃል ያስገቡ"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "መደበኛ globbing wildcards %s እና %s መስሪያ"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "ባዶ ሀረግ ይጠቀሙ ወይንም  %s ወደ ዋናው ዝርዝር ለ መመለስ"
+
+msgid "Found"
+msgstr "ተገኝቷል"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "ውጤት %s %s መመልከቻ"
+
+msgid "Show more information about package %s"
+msgstr "ስለ ጥቅል የ ተለያዩ ትእዛዞች መረጃ መመልከቻ %s"
+
+msgid "Uninstall package %s"
+msgstr "ጥቅል ማጥፊያ %s"
+
+msgid "Unmark package %s"
+msgstr "ከ ጥቅል ላይ ምልክቱን ማጥፊያ %s"
+
+msgid "Mark package %s"
+msgstr "በ ጥቅል ላይ ምልክት ማድረጊያ %s "
+
+msgid "Install package %s"
+msgstr "ጥቅል መግጠሚያ %s "
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "የ ተመረጠውን ምልክት ማድረጊያ: ያልተገጠሙ ጥቅሎች %s "
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "የ ተመረጠውን ምልክት ማድረጊያ: ያልተገጠሙ ጥቅሎች %s "
+
+msgid "install selected uninstalled package %s"
+msgstr "የ ተመረጠውን መግጠሚያ: ያልተገጠሙ ጥቅሎች %s "
+
+msgid "install %s selected uninstalled packages"
+msgstr "መግጠሚያ %s የ ተመረጡት ያልተገጠሙ ጥቅሎች"
+
+msgid "Checking source files ..."
+msgstr "የ ፋይል ምንጭ በ መመርመር ላይ ..."
+
+msgid "Run %s now?"
+msgstr "አሁን %s ላስኪድ?"
+
+msgid "No list files were found"
+msgstr "ምንም የ ፋይል ዝርዝር አልተገኘም"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "ይህ %s ያስፈልጋል ለ መቀጠል"
+
+msgid "It appears that at least one list file is missing"
+msgstr "ቢያንስ አንድ የ ፋይል ዝርዝር ጎድሏል"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "እርስዎ አሁን %s ያስኪዱ"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "በ መስራት ላይ %s"
+
+msgid "There was a problem running %s"
+msgstr "በ ማስኬድ ላይ እንዳለ ችግር ተፈትሯል %s"
+
+msgid "Do you want to continue anyway"
+msgstr "እርስዎ ለማንኛውም መቀጠል ይፈልጋሉ?  "
+
+msgid "Creating database ..."
+msgstr "ዳታቤዝ መፍጠሪያ ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "ዳታቤዝ ማመንጫ"
+
+msgid "Updating database ..."
+msgstr "ዳታቤዝ በ ማሻሻል ላይ ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "ዳታቤዝ ማሻሻያ"
+
+msgid "Found %s dependencies"
+msgstr "ጥገኞች %s ተገኝተዋል"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "ምልክት በ ማድረግ ላይ %s ያልተገጠሙ ጥቅሎች"
+
+msgid "found %s dependencies"
+msgstr "ጥገኞች %s ተገኝተዋል"
+
+msgid "found %s unmet dependencies"
+msgstr "ያልተሟሉ ጥገኞች %s ተገኝተዋል"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "ይህ ጥቅል እና ያልተሟሉ ጥገኞች ይጨመራሉ %s Meg"
+
+msgid "Marking package %s"
+msgstr "ጥቅሎች ምልክት በ ማድረግ ላይ %s  "
+
+msgid "Unmarked %s package"
+msgstr "ጥቅል %s ምልክት ያልተደረገበት"
+
+msgid "Unmarked %s packages"
+msgstr "ጥቅሎች %s ምልክት ያልተደረገባቸው"
+
+msgid "Do you want to see more detailed information?"
+msgstr "እርስዎ ተጨማሪ ዝርዝር ማየት ይፈልጋሉ?  "
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr "ያልተሟሉ %s የሚገጠሙ ጥገኞች ተገኝተዋል"
+
+msgid "Do you want to install this package now?"
+msgstr "እርስዎ ይህን ጥቅል አሁን መግጠም ይፈልጋሉ?"
+
+msgid "Installing %s"
+msgstr "በ መግጠም ላይ %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "ተገኝቷል %s የ ተመረጡት ያል-ተገጠሙ ጥቅሎች"
+
+msgid "Nothing to install"
+msgstr "ምንም የሚገጠም የለም"
+
+msgid "Install %s package"
+msgstr "ጥቅሎች %s መግጠሚያ"
+
+msgid "Install %s packages"
+msgstr "ጥቅሎች %s መግጠሚያ"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "ጥቅል እና ያልተሟሉ ጥገኞች ይጨመራሉ %s Meg"
+
+msgid "Install this package?"
+msgstr "ይህን ጥቅል ልግጠም?"
+
+msgid "Install these packages?"
+msgstr "እነዚህን ጥቅሎች ልግጠም?"
+
+msgid "Install %s marked package"
+msgstr "ምልክት የ ተደረገባቸውን  %s መግጠሚያ"
+
+msgid "Install all %s marked packages"
+msgstr "ምልክት የ ተደረገባቸውን %s ሁሉንም መግጠሚያ"
+
+msgid "View %s marked package"
+msgstr "ምልክት የ ተደረገባቸውን  %s መመልከቻ"
+
+msgid "View all %s marked packages"
+msgstr "ምልክት የ ተደረገባቸውን ጥቅሎች %s ሁሉንም መመልከቻ"
+
+msgid "Unmark %s marked package"
+msgstr "ምልክቱን ማጥፊያ  %s ምልክት የ ተደረገባቸው ጥቅሎች"
+
+msgid "Unmark all %s marked packages"
+msgstr "ሁሉንም ምልክት ማጥፊያ  %s ምልክት የ ተደረገባቸው ጥቅሎች"
+
+msgid "View or Install Marked Packages"
+msgstr "ምልክት የ ተደረገባቸውን ጥቅሎች መመልከቻ ወይንም መግጠሚያ"
+
+msgid "No marked packages were found"
+msgstr "ምንም ምልክት የ ተደረገበት ጥቅል አልተገኘም"
+
+msgid "Marked packages will add %s Meg"
+msgstr "ምልክት የ ተደረገባቸው ጥቅሎች ይጨመራሉ %s Meg"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr "በሚቀጥለው ደረጃ ለ እርስዎ ዝርዝር ጥቅል ይታያል: እርስዎ መሸብለል ይችላሉ:"
+
+msgid "Use %s to go the main menu"
+msgstr "ይጠቀሙ %s ወደ ዋናው ዝርዝር ለ መመለስ"
+
+msgid "Use %s to do another search"
+msgstr "ይጠቀሙ %s ሌላ ለ መፈለጊያ"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "የምንመክረው %s ጥቅሎች"
+
+msgid "No suggestions were found!"
+msgstr "ምንም ምክር አልተገኘም"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "ፋይል መፈለጊያ %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "መመልከቻ"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "ሁሉንም መመልከቻ"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "የምንመክረው ጥቅሎች"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "ኮከብ ጥቅሎች"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "ዜሮ ኮከብ ጥቅሎች"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "የሚቀጥለውን ደረጃ መዝለያ (ጥቅሎችን አትመልከት)"
+
+msgid "Please select which packages to view"
+msgstr "እባክዎን የትኛውን ጥቅል እንደሚያዩ ይምረጡ"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "%sጥቅሎች ተገኝተዋል  (%s ያልተገጠሙ)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr "ይጫኑ %s ዝርዝር ለ መመልከት %s ወደ ዋናው ዝርዝር ለ መሄድ%s እንደገና ለ መፈለግ"
+
+msgid "See suggestions again"
+msgstr "ምክሩን እንደገና መመልከቻ"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "ምልክት የ ተደረገባቸውን  %s በቅድሚያ ምልክታቸው የጠፋ ጥቅሎች"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "ሁሉንም ምልክቱን ማጥፊያ  %s በቅድሚያ ምልክት የ ተደረገባቸው ጥቅሎች"
+
+msgid "%s package is still marked"
+msgstr "%s ጥቅል ምልክት ተደርጎባቸዋል"
+
+msgid "%s packages are still marked"
+msgstr "%s ጥቅል ምልክት ተደርጎባቸዋል"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "ምልክት %s ምልክት ማጥፊያ ያልተገጠሙ ጥቅሎች"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "ምልክት %s ምልክት ማጥፊያ ያልተገጠሙ ጥቅሎች"
+
+msgid "Unmark %s marked packages"
+msgstr "ምልክቱን ማጥፊያ  %s ምልክት የ ተደረገባቸው ጥቅሎች"
+
+msgid "Checking for package upgrades ..."
+msgstr "የሚሻሻለውን ጥቅል በ መፈለግ ላይ..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "እነዚህ %s የሚሻሻለሉ ጥቅሎች ናቸው"
+
+msgid "There are no packages to upgrade"
+msgstr "የሚሻሻለውን ጥቅል አልተገኘም"
+
+msgid "System Upgrade Menu"
+msgstr "የ ስርአት ማሻሻያ ዝርዝር"
+
+msgid "Exit"
+msgstr "መውጫ"

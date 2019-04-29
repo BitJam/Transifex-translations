@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+# Richard  Holt <richard.holt@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-27 02:09+0300\n"
+"PO-Revision-Date: 2014-04-14 03:10+0000\n"
+"Last-Translator: Richard  Holt <richard.holt@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: block-advert.sh:80
+msgid "Empty ad list. No change made in /etc/hosts."
+msgstr "Lista de anuncios vacía.  No se realizaron cambios en /etc/hosts."
+
+#: block-advert.sh:110
+#, sh-format
+msgid "Loading  adlist from $domain"
+msgstr "Cargando la lista de anuncios del dominio $"
+
+#: block-advert.sh:143
+msgid ""
+"Success - your settings have been changed.\\n\\nYour hosts file has been "
+"updated.\\nRestart your browser to see the changes."
+msgstr "Éxito -- su configuración se ha cambiado.\\n\\nSu archivo de hosts se ha actualizado.\\nReinicie su navegador para visualizar los cambios."
+
+#: block-advert.sh:164
+msgid "Choose your preferred ad blocking service(s)"
+msgstr "Escoja su servicio(s) preferido para bloquear anuncios"
+
+#: block-advert.sh:202
+msgid "No item selected"
+msgstr "No se ha seleccionado ningún ítem"

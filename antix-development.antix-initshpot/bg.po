@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2014-07-22 02:10+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "Запълване %s директория"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "Непозната езикова локализация на менюто %s"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "Директория не е намерена %s"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "Локализиране менюта към %s в %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "Невалиден %s бут параметър %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "Настройване %s към %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Лош огледален код %s (очакват се две букви)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "Локализиране %s към %s огледало"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "Не може да бъде намерен %s в %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "Намерен десктоп по подразбиране %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "Десктоп %s не е валиден десктоп"
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "Валидни избори са %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "Настройване на десктоп по подразбиране на %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "Локализиране/конфигуриране на X-Прозорци"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "Включване %s автомонтиране"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "Изключване на автомонтиране"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "Зглобяване %s чрез %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "Изключванее fstab хотплъгинг (това също ще изключи автомонтиране)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "Включване fstab хотплъгинг"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "Конфигуриране %s файл"

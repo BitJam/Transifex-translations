@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# michelmassoud <michel_massoud@hotmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2012-11-18 21:46+0000\n"
+"Last-Translator: michelmassoud <michel_massoud@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/antix-development/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "ملء الدليل %s"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "لغة قائمة إضفاء الطابع المحلي غير معروفة %s"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "الدليل غير موجود %s"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr " قائمة إضفاء الطابع المحلي إلى %s في %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "مُعامل الإقلاع %s باطل %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "إعدادات %s إلى %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "شفرة مراّت سيئة %s (كنا نتوقع حرفين)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "إضفاء الطابع المحلي %s إلى المراّت %s"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "لا يمكن العثور على %s في %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "وجد سطح المكتب الافتراضي %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr " سطح المكتب الافتراضي %s غير صالح"
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr " الاحتيارات الصالحة هي %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "إعداد سطح المكتب الافتراضي إلى %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "إضفاء الطابع المحلي\\إعداد X-Windows"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "تمكين الوصْل %s الآلي "
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "تعطيل الوصْل الآلي"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "بناء %s من خلال %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "تعطيل التوصيل دون إيقاف التشغيل fstab (سوف يعطَل أيضاً الوصْل الآلي) "
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "تمكين  التوصيل دون إيقاف التشغيل fstab"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "إعداد ملف %s"

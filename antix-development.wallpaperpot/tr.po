@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Caner Başaran <basaran.caner@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 21:07+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/antix-development/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: wallpaper.py:145
+msgid "Note: you cannot change the color with rox desktop"
+msgstr ""
+
+#: wallpaper.py:180
+msgid "Images"
+msgstr ""
+
+#: wallpaper.py:205 wallpaper.py:226
+msgid "No file selected"
+msgstr ""
+
+#: wallpaper.py:217
+msgid "All Files"
+msgstr ""
+
+#: wallpaper.py:267
+msgid "antiX Wallpaper - help"
+msgstr ""
+
+#: wallpaper.py:301
+msgid ""
+"This is an antiX application for setting the wallpaper on the preinstalled "
+"window managers"
+msgstr ""
+
+#: wallpaper.py:400
+msgid "Options"
+msgstr "Seçenekler"
+
+#: wallpaper.py:415
+msgid "Default Folder"
+msgstr ""
+
+#: wallpaper.py:421
+msgid "Open Image"
+msgstr ""
+
+#: wallpaper.py:427
+msgid "Default Color"
+msgstr ""
+
+#: wallpaper.py:446
+msgid "Static"
+msgstr "Sabit"
+
+#: wallpaper.py:448
+msgid "No Wallpaper"
+msgstr ""
+
+#: wallpaper.py:449
+msgid "Random Wallpaper"
+msgstr ""
+
+#: wallpaper.py:450
+msgid "Random Wallpaper Timed"
+msgstr ""
+
+#: wallpaper.py:457
+msgid "scale"
+msgstr ""
+
+#: wallpaper.py:458
+msgid "center"
+msgstr ""
+
+#: wallpaper.py:459
+msgid "fill"
+msgstr ""

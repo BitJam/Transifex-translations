@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2011-11-03 19:45+0000\n"
+"Last-Translator: Hannes_Worst <hannesworst@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Muis-opties"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Muis-acceleratie"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Muis-beweging wijzigen"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Acceleratie (Multiplier)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Drempelwaarde (Pixels)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Standaard-beweging herstellen"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Volgorde van knoppen"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Geen verandering"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Linkshandige layout"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Rechtshandige layout"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Cursor-grootte"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Cursorgrootte-wijzigen"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Grootte (in pixels)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Standaard-grootte herstellen"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Cursor-thema"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Nadat u een thema hebt gekozen, a.u.b.\\nafmelden/aanmelden om de veranderingen te bekijken."
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Verander Cursor-Thema"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Snelheid van de muis gewijzigd."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Standaard-snelheid voor de muis gebruiken."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Linkshandige layout nu toepassen."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Rechtshandige layout nu toepassen."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Cursorgrootte gewijzigd.A.u.b.\\n afmelden/aanmelden om de veranderingen te bekijken."
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Standaard cursor-grootte hersteld.\\nA.u.b. afmelden/aanmelden om de veranderingen te bekijken."

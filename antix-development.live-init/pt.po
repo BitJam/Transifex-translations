@@ -1,0 +1,153 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# José Vieira <jvieira33@sapo.pt>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-12-10 21:58+0000\n"
+"Last-Translator: José Vieira <jvieira33@sapo.pt>\n"
+"Language-Team: Portuguese (http://www.transifex.com/anticapitalista/antix-development/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "A atribuir localização e configurar o X-Windows"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "A desactivar a estampa (fbcondecor) dentro da Virtual Box"
+
+msgid "Creating missing %s file"
+msgstr "A criar o ficheiro %s em falta"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Não foi encontrado no sistema nenhum utilizador %s pré-definido"
+
+msgid "Mounting all devices"
+msgstr "A montar todos os dispositivos"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "%s inválido para a opção %s"
+
+msgid "Automount disabled"
+msgstr "Montagem automática desactivada"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Activar acoplamento em execução de fstab"
+
+msgid "Automount enabled"
+msgstr "Montagem automática activada"
+
+msgid "Bad fstab option %s"
+msgstr "Opção fstab %s incorrecta"
+
+msgid "Unknown menu localization language %s"
+msgstr "Menu de localização de idioma %s desconhecido"
+
+msgid "Directory not found %s"
+msgstr "Directório não encontrado %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "A localizar menus para %s em %s"
+
+msgid "Setting %s to %s"
+msgstr "A definir %s para %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Código de espelho (mirror) %s incorrecto (deve ter duas letras)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "A localizar repositórios origem usando %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Assumindo que %s está definido para hora %s"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "A remover o anterior ficheiro auto-gerado %s"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "A desactivar o modo seguro em razão do equipamento (hardware) de vídeo KMS %s"
+
+msgid "Letting X server default to using %s driver"
+msgstr "A deixar a pré-definição do servidor do X usar o controlador %s "
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "A forçar o X-Windows a usar o modo pré-definido"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "A configurar ficheiro %s com %s"
+
+msgid "Using X to make xorg.conf"
+msgstr "A usar o X para criar o ficheiro xorg.conf"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "A forçar aceleração %s em %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "A forçar controlador %s em %s"
+
+msgid "Creating file %s"
+msgstr "A criar o ficheiro %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "A procurar módulos de vídeo específicos para o equipamento ..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Módulo(s) de vídeo %s encontrado(s): %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Encontrados módulos de núcleo (kernel) %s ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Encontrado controlador (driver) de vídeo %s"
+
+msgid "Setting Conky width to %s"
+msgstr "A estabelecer largura do Conky para %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Opção %s inválida para o parâmetro de arranque (boot) %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Parâmetro de atraso do ambiente de trabalho %s incorrecto"
+
+msgid "Setting desktop delay to %s"
+msgstr "A definir o atraso do ambiente de trabalho para %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "A definir o tempo antes da consola/terminal ser limpa em %s minuto(s)"
+
+msgid "Creating issue file for %s"
+msgstr "A criar ficheiro de problema para %s"
+
+msgid "Files already exist under %s"
+msgstr "Os ficheiros já existem em %s"
+
+msgid "Not creating or populating %s"
+msgstr "%s não está a ser criado ou preenchido"
+
+msgid "Populating %s directory"
+msgstr "A preencher o directório %s"
+
+msgid "Setting desktop theme to %s"
+msgstr "A definir tema do ambiente de trabalho para %s"

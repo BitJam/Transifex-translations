@@ -1,0 +1,31 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-30 17:17+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: French (Belgium) (http://www.transifex.com/projects/p/antix-development/language/fr_BE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_BE\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: \n"
+"X-Poedit-Language: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: slim-login:11
+msgid "Enter username for auto-login."
+msgstr ""
+
+#: slim-login:24
+msgid "Default slim.conf replaced."
+msgstr ""
+
+#: slim-login:26
+msgid "Error in making backup!"
+msgstr ""

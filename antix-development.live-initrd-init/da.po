@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# scootergrisen, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-12-26 09:06+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s deaktiveret pga. forældede vedvarenheds-scripts og -biblioteker"
+
+msgid "The %s program took %s seconds"
+msgstr "%s-programmet tog %s sekunder"
+
+msgid "Detected %s init system"
+msgstr "Registrerede %s init-system"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Venter %s sekunder på at busser skal falde til ro ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Indtast breakpoint(s) separeret af kommaer"
+
+msgid "Invalid %s value %s"
+msgstr "Ugyldig %s værdi %s"
+
+msgid "Set font to %s"
+msgstr "Indstil skrifttype til %s"
+
+msgid "New screen width %s"
+msgstr "Ny skærmbredde %s"
+
+msgid "Welcome to %s"
+msgstr "Velkommen til %s"
+
+msgid "Current boot codes"
+msgstr "Nuværende opstartskoder"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Mulige ukendte eller forkert stavet opstartskoder"
+
+msgid "don't take this too seriously"
+msgstr "tag det ikke alt for seriøst"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Ukendt(e) tilvalg i %s. Ukendt(e) tilvalg: %s"
+
+msgid "Loading all modules"
+msgstr "Indlæser alle moduler"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Indlæser hardwarespecifikke moduler ..."
+
+msgid "No %s devices found"
+msgstr "Ingen %s-enheder fundet"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "%s-parameteren blokerer enheden %s"
+
+msgid "Even though device %s has %s"
+msgstr "Selvom enheden %s har %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Fjern %s-opstartsparameteren så enheden kan skannes"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Enheden blev fundet men kunne ikke finde %s-filen på enhed"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Prøv igen i %s sekunder %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Skan %s-enheder. Led efter %s fil(er) %s"
+
+msgid "Filtered devices %s"
+msgstr "Filtrerede enheder %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Led efter fil(er) %s på enhed(er) %s"
+
+msgid "Found new device(s) %s"
+msgstr "Fandt ny enhed(er) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Enheden %s er allerede monteret i %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Monterede %s-enhed. Monterede enheden %s på %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s-enhed filsystem: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Led efter %s-enhed med %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Fandt eksisterende %s-installation"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Leder efter partitioner med mindst %s ledig. Vent venligst ..."
+
+msgid "quit"
+msgstr "afslut"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Vil du installere en %s-installation på %s-enheden?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Foretager %s-installation, vær venligst tålmodig ..."
+
+msgid "copy %s to %s"
+msgstr "kopiér %s til %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "%s-installationen lykkedes"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Kunne ikke finde %s filen %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Kunne ikke montere %s som en %s-fil"
+
+msgid "File %s not found on device %s"
+msgstr "Filen %s blev ikke fundet på enheden %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Ugyldig krypteringstilstand %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Krævede krypteringskernemodul %s ikke fundet."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "%s-programmet blev ikke fundet. Kan ikke foretage kryptering."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "%s-programmet er ødelagt. Kan ikke foretage kryptering."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Leder efter krypteret enhed med uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "Kunne ikke finde filen %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Kunne ikke finde filerne %s eller %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Ingen krypteret enhed med uuid %s blev fundet"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Tjekker for krypteret partition på enheden %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Krypteret enhed %s findes ikke"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "Krypteret enhed %s er ikke en blokenhed"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Krypteret enhed %s er ikke en LUKS-enhed"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Fandt krypteret enhed. Du vil blive spurgt om at indtaste din adgangskode nedenfor."
+
+msgid "Could not open LUKS device %s"
+msgstr "Kunne ikke åbne LUKS-enheden %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Åbnede krypteret enhed %s på %s"
+
+msgid "Could not mount encrypted device"
+msgstr "Kunne ikke montere krypteret enhed"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Kunne ikke finde filen %s på krypteret partition"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Er du sikker på, at du skrevet den nye adgangskode ned eller husket den udenad?"
+
+msgid "press %s to continue"
+msgstr "tryk på %s for at fortsætte"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Skifter adgangskode for kryptering ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Indtast venligst nuværende adgangskode (i ren tekst)"
+
+msgid "The entered passphrase does not match"
+msgstr "De indtastede adgangskoder er ikke ens"
+
+msgid "Do you want to try again?"
+msgstr "Vil du prøve igen?"
+
+msgid "Passphrase change aborted"
+msgstr "Ændring af adgangskode afbrudt"
+
+msgid "Passphrase was not changed"
+msgstr "Adgangskoden blev ikke ændret"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Forbereder nulstilling af adgangskode ved første opstart ..."
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Nulstil afbrydelse: adgangskodefil er tom"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Nulstil afbrydelse: forkert adgangskode i adgangskodefil"
+
+msgid "current phrase %s"
+msgstr "nuværende adgangskode %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Du vil blive spurgt om at indtaste en ny adgangskode to gange"
+
+msgid "Searched devices: %s"
+msgstr "Søgte enheder: %s"
+
+msgid "Searched types: %s"
+msgstr "Søgte typer: %s"
+
+msgid "All block devices: %s"
+msgstr "Alle blokenheder: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Kontakt venligst %s i %s"
+
+msgid "Kernel version mismatch"
+msgstr "Uoverensstemmende kerneversion"
+
+msgid "Kernel version %s"
+msgstr "Kerneversion %s"
+
+msgid "The module directory %s is missing"
+msgstr "Modulmappen %s mangler"
+
+msgid "Initializing random number generator ..."
+msgstr "Initierer tilfældig tal-generator ..."
+
+msgid "Saving random seed"
+msgstr "Gemmer tilfældigt frø"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Kunne ikke montere %s som et %s-filsystem"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Ingen %s fundet i %s"
+
+msgid "Create %s failed"
+msgstr "Oprettelse af %s mislykkedes"
+
+msgid "Found %s"
+msgstr "Fandt %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Hverken %s eller %s er tilgængelig"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "%s-filsystemet er ikke tilgængeligt. Bruger %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Tvinger brug af %s til at matche eksisterende rootfs-fil"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "%s-filsystemet er ikke tilgængeligt. Kan ikke bruge %s-filen"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Aktivér %s-vedvarenhed"
+
+msgid "Could not mount %s"
+msgstr "Kunne ikke montere %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Opret %s i %s %s"
+
+msgid "check %s filesystem"
+msgstr "tjek %s-filsystem"
+
+msgid "There were no errors on %s"
+msgstr "Der var ingen fejl på %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Begynd"
+
+msgid "Skip Error: %s"
+msgstr "Spring fejl over: %s"
+
+msgid "power off"
+msgstr "sluk"
+
+msgid "reboot"
+msgstr "genstart"
+
+msgid "Unknown command"
+msgstr "Ukendt kommando"
+
+msgid "Please try again"
+msgstr "Prøv venligst igen"
+
+msgid "Unmount successful"
+msgstr "Afmontering lykkedes"
+
+msgid "Press %s to %s"
+msgstr "Tryk på %s til %s"
+
+msgid "Will now %s the system"
+msgstr "Nu %s systemet"
+
+msgid "Fatal Error"
+msgstr "Fatal fejl"
+
+msgid "Non-Fatal Error"
+msgstr "Ikke-fatal fejl"
+
+msgid "continue"
+msgstr "fortsæt"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nej"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Du skal svare %s eller %s. Prøv venligst igen"
+
+msgid "The default is"
+msgstr "Standard er"
+
+msgid "default"
+msgstr "standard"
+
+msgid "Press <%s> for the default selection"
+msgstr "Tryk på <%s> for standardvalget"
+
+msgid "enter"
+msgstr "enter"
+
+msgid "The number <%s> is out of range"
+msgstr "Nummeret <%s> er udenfor område"
+
+msgid "Current default"
+msgstr "Nuværende standard"
+
+msgid "Reset"
+msgstr "Nulstil"
+
+msgid "Keeping default %s"
+msgstr "Beholder standard %s"
+
+msgid "Previous default %s erased"
+msgstr "Forrige standard %s slettet"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s indstillet til %s"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Select Language"
+msgstr "Vælg sprog"
+
+msgid "Languages are listed alphabetically"
+msgstr "Sprog er oplistet alfabetisk"
+
+msgid "Language"
+msgstr "Sprog"
+
+msgid "Select number of console columns"
+msgstr "Vælg antal konsolkolonner"
+
+msgid "Wider means a smaller font"
+msgstr "Bredere betyder en mindre skrifttype"
+
+msgid "Console columns"
+msgstr "Konsolkolonner"
+
+msgid "Select Timezone"
+msgstr "Vælg tidszone"
+
+msgid "Timezones are listed by longitude"
+msgstr "Tidszonerne er oplistet efter længdegrad"
+
+msgid "Timezone"
+msgstr "Tidszone"
+
+msgid "Select Option"
+msgstr "Vælg valgmulighed"
+
+msgid "Only one option can be selected"
+msgstr "Der kan kun vælges en valgmulighed"
+
+msgid "Options"
+msgstr "Valgmuligheder"
+
+msgid "Select Mounting Option"
+msgstr "Vælg monteringsvalgmulighed"
+
+msgid "Automounting is enabled by default"
+msgstr "Automatisk montering er aktiveret som standard"
+
+msgid "Mount"
+msgstr "Monter"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Vælg vedvarenhedvalgmulighed"
+
+msgid "Persistence"
+msgstr "Vedvarenhed"
+
+msgid "Select font size"
+msgstr "Vælg skriftstørrelse"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Skaler skrifttyper i grafisk visning. Standard er 1.0"
+
+msgid "Select Desktop"
+msgstr "Vælg skrivebord"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "Save these changes?"
+msgstr "Gem ændringerne?"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Please select %s device:"
+msgstr "Vælg venligst %s-enhed:"
+
+msgid "reverse video"
+msgstr "negativ video"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Partitioner som ikke kan bruges oplistes her, men kan ikke vælges."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "De begrænsende faktorer fremhæves i %s"
+
+msgid "The device %s already has label %s"
+msgstr "Enheden %s har allerede etiketten %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Opdater etiket på %s fra %s til %s?"
+
+msgid "The device %s has no label"
+msgstr "Enheden %s har ingen etiket"
+
+msgid "Give %s the label %s?"
+msgstr "Giv %s etiketten %s?"
+
+msgid "Label updated to %s"
+msgstr "Etiket opdateret til %s"
+
+msgid "Valid %s"
+msgstr "Gyldig %s"
+
+msgid "Could not find device %s"
+msgstr "Kunne ikke finde enheden %s"
+
+msgid "Valid devices"
+msgstr "Gyldige enheder"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s uoverensstemmelse mellem %s og %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Kopiér %s til tom %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s-fil ikke fundet %s"
+
+msgid "No %s found in file %s"
+msgstr "Ingen %s fundet i filen %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Ingen %s fundet, men der er en %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Tjek %s for filer i %s-mappen. Vær venligst tålmodig ..."
+
+msgid "file: %s"
+msgstr "fil: %s"
+
+msgid "result: %s"
+msgstr "resultat: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Fandt ingen %s-tjeksumme i %s. Kan ikke bruge nogen %s-tjek."
+
+msgid "At least one %s checksum did not match"
+msgstr "Mindst en %s-tjeksum matchede ikke"
+
+msgid "Success!  The file passed"
+msgstr "Det lykkedes! Filen bestod"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Det lykkedes! Alle %s filer bestod"
+
+msgid "Wait %s seconds"
+msgstr "Vent %s sekunder"
+
+msgid "copy %s file to RAM"
+msgstr "kopiér %s-fil til RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Kopierer filer fra %s til %s. Vær venligst tålmodig ..."
+
+msgid "Size of original %12s"
+msgstr "Størrelse på original %12s"
+
+msgid "Size of copy %12s"
+msgstr "Størrelse på kopiering %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Kopiering af RAM lykkedes"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Monter vedvarenhedsenhed (hvis det er nødvendigt)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "Ikke nok plads på live-enhed til at oprette %s-fil med størrelsen %s MiB"
+
+msgid "create %s persistence file"
+msgstr "opret %s-vedvarenhedsfil"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Standardstørrelse: %s MiB.  Filsystemets type: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Denne standardstørrelse efterlader %s MiB ledig"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Opret %s-fil, manuelt eller automatisk"
+
+msgid "create automatically"
+msgstr "opret automatisk"
+
+msgid "create custom"
+msgstr "opret tilpasset"
+
+msgid "Please select size of %s file"
+msgstr "Vælg venligst størrelse på %s-fil"
+
+msgid "There is %s MiB available on the device"
+msgstr "Der er %s MiB tilgængelig på enheden"
+
+msgid "Filesystem size %s MiB"
+msgstr "Filsystemets størrelse %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Opret %s fil af type %s og størrelse %s MiB"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Advarsel: det kan tage flere minutter pr. GB på et %s-filsystem"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Vent venligst mens eksisterende partitioner findes ..."
+
+msgid "persistence"
+msgstr "vedvarenhed"
+
+msgid "persist device"
+msgstr "vedvarenhedsenhed"
+
+msgid "Enabled %s persistence"
+msgstr "Aktivér %s-vedvarenhed"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Kopiér %s MiB til RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "monter vedvarenhedsfil %s på %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Vil du aktivere hjemmevedvarenhed alligevel?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Underligt, kunne ikke flytte homefs-monteringspunktet"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Der er %4s MiB filer der skjules af hjemmevedvarenhed"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Der er %4s MiB ledig på hjemmevedvarenhedsenheden"
+
+msgid "There's not enough space to copy all the files"
+msgstr "Der er ikke nok ledig plads til at kopiere alle filerne"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Vil du kopiere filerne til hjemmevedvarenhedsenheden?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Ingen %s-fil fundet. Omdøb %s til %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Hav %s MiB ledig. Behøver %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Tilpas størrelsen på homefs. Kopiér indholdet af %s til %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Kopierer hjemmefilsystem. Vær venligst tålmodig ..."
+
+msgid "Press <%s> to continue"
+msgstr "Tryk på <%s> for at fortsætte"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Det ser ud til at du valgte VGA-opløsningen %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Vil du gemme opløsningen til efterfølgende opstarter?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Gemmer den nye VGA-indstilling og dine andre opstartsparametre"
+
+msgid "umount %s"
+msgstr "afmonter %s"
+
+msgid "umount of %s failed"
+msgstr "afmontering af %s mislykkedes"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Standardstørrelse: %s MB. Filsystemets type: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Standardstørrelsen efterlader %s MB fri"
+
+msgid "There is %s Meg available on the device"
+msgstr "Der er %s MB tilgængelig på enheden"
+
+msgid "Filesystem size %s Meg"
+msgstr "Filsystemets størrelse %s MB"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Opret %s-fil af typen %s og størrelsen %s MB"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Kopiér %s megabytes til RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Der er %4s MB filer der skjules af hjemmevedvarenhed"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Der er %4s MB ledig på hjemmevedvarenhedsenheden"

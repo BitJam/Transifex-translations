@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:22+0300\n"
+"PO-Revision-Date: 2014-03-14 11:02+0000\n"
+"Last-Translator: BitJam <BitJam@gmail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: adddesktop.sh:13
+msgid "Desktop Files"
+msgstr "Fitxers d'Escriptori"
+
+#: adddesktop.sh:19
+msgid "Menu name:"
+msgstr "Nom del menú"
+
+#: adddesktop.sh:25
+msgid "Menu icon:"
+msgstr "Icona del menú"
+
+#: adddesktop.sh:28
+msgid "Select an icon."
+msgstr "Trieu una icona"
+
+#: adddesktop.sh:39
+msgid "Menu category:"
+msgstr "Categoria del menú"
+
+#: adddesktop.sh:59
+msgid "Command to execute:"
+msgstr "Ordre a executar"
+
+#: adddesktop.sh:62
+msgid "Select an application."
+msgstr "Trieu una aplicació"
+
+#: adddesktop.sh:73
+msgid "Launch in a terminal?"
+msgstr "Obrir en un terminal?"
+
+#: adddesktop.sh:82
+msgid "File name:"
+msgstr "Nom del fitxer:"
+
+#: adddesktop.sh:123
+msgid ""
+"Your .desktop file has been saved as\\n "
+"/usr/share/applications/$FILE_SAVEFILENAME.desktop"
+msgstr "El vostre fitxer .desktop s'ha desat a \\n /usr/share/applications/$FILE_SAVEFILENAME.desktop"

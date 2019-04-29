@@ -1,0 +1,164 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2015
+# anticapitalista <anticapitalista@riseup.net>, 2012,2016
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Eugen Brodski <eugen.brodski@web.de>, 2016
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+# Jerry Bond, 2015
+# Jerry Bond, 2015
+# Mika Beckerich <beckerichmika@gmail.com>, 2016
+# q a, 2016
+# q a, 2016
+# Vinzenz Vietzke <vinz@vinzv.de>, 2017
+# WPSchulz <fly@wp-schulz.de>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2017-11-06 22:37+0000\n"
+"Last-Translator: Vinzenz Vietzke <vinz@vinzv.de>\n"
+"Language-Team: German (http://www.transifex.com/anticapitalista/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Lokalisierung/Konfiguration X-Window"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Deaktiviere Splash (fbcondecor) innerhalb von VirtualBox"
+
+msgid "Creating missing %s file"
+msgstr "Erstelle fehlende %s Datei"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Kein Standardbenutzer %s auf dem System gefunden."
+
+msgid "Mounting all devices"
+msgstr "Alle Geräte werden gemountet"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Ungültige %s Option %s"
+
+msgid "Automount disabled"
+msgstr "Automount abgeschaltet"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Aktiviere fstab Hot-Plugging"
+
+msgid "Automount enabled"
+msgstr "Automount eingeschaltet"
+
+msgid "Bad fstab option %s"
+msgstr "Ungültige fstab Option %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Unbekannte Lokalisierung der Menü-Sprache %s"
+
+msgid "Directory not found %s"
+msgstr "Verzeichnis nicht gefunden %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Menü-Lokalisierung auf %s in %s"
+
+msgid "Setting %s to %s"
+msgstr "Einstellung %s auf %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Falscher Spiegel Code %s (erwartet zwei Buchstaben)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Repository-Lokalisierung auf %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Assuming %s is set to %s time"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Automatisch generierte Datei %s wird entfernt"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Sicherer Modus ausgestellt wegen KMS %s Video hardware"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Lässt X-Server standardmäßig %s Treiber nutzen"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Erzwinge den Default-Modus bei X-Fenstern"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Datei %s wird mit %s konfiguriert"
+
+msgid "Using X to make xorg.conf"
+msgstr "Verwende X um xorg.conf zu erstellen"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Beschleunigung %s auf %s erzwungen"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Treiber %s auf %s erzwungen"
+
+msgid "Creating file %s"
+msgstr "Erstelle die Datei %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Nach Hardware-spezifischen Video-Module wird gescannt..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "%s Video-Modul(e) gefunden %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "%s Kernel-Module gefunden ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Video Treiber %s wurde gefunden"
+
+msgid "Setting Conky width to %s"
+msgstr "setze Conky Breite auf %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Ungültiger %s Boot-Parameter %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "ungeeigneter Parameter für Desktop Verzögerung %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "setze Desktop Verzögerung %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Konsolen Timeout (Bildschirmschoner) auf %s Minuten eingestellt"
+
+msgid "Creating issue file for %s"
+msgstr "Erstelle Ereignisdatei für %s"
+
+msgid "Files already exist under %s"
+msgstr "Datei besteht bereits unter %s"
+
+msgid "Not creating or populating %s"
+msgstr "Nicht erstellen oder auffüllen %s"
+
+msgid "Populating %s directory"
+msgstr "Füllen %s Verzeichnis"
+
+msgid "Setting desktop theme to %s"
+msgstr "Einrichtung des Desktop-Themas (Optik) zu %s "

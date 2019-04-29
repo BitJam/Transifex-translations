@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-05-21 08:17+0000\n"
+"Last-Translator: Vladimir O <vldoduv@yandex.ru>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s отключено из-за устаревших скриптов и библиотек сохранения состояния"
+
+msgid "The %s program took %s seconds"
+msgstr "Программа %s заняла %s секунд"
+
+msgid "Detected %s init system"
+msgstr "Обнаружена система инициализации %s"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Ожидание %s секунд для настройки шин"
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Введите точку(точки) остановки через запятые"
+
+msgid "Invalid %s value %s"
+msgstr ""
+
+msgid "Set font to %s"
+msgstr ""
+
+msgid "New screen width %s"
+msgstr ""
+
+msgid "Welcome to %s"
+msgstr "Добро пожаловать в %s"
+
+msgid "Current boot codes"
+msgstr "Текущие коды загрузки"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Возможно, неизвестные или написанные с ошибками коды загрузки"
+
+msgid "don't take this too seriously"
+msgstr "не воспринимайте это слишком серьезно"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Неизвестный параметр(ы) в %s. Неизвестный параметр(ы): %s"
+
+msgid "Loading all modules"
+msgstr "Загрузка всех модулей"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Загрузка аппаратно-зависимых модулей ..."
+
+msgid "No %s devices found"
+msgstr "Устройства %s не найдены"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "Параметр %s блокирует устройство %s"
+
+msgid "Even though device %s has %s"
+msgstr "Даже если устройство %s имеет %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Удалить параметр загрузки %s, чтобы позволить сканировать устройство"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Устройство найдено, но нет файла %s на устройстве"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Повтор в течение %s секунд %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Сканирование устройств %s.  Смотрите %s файло(в) %s"
+
+msgid "Filtered devices %s"
+msgstr "Отфильтрованы устройства - %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Смотрите файл(ы) %s на устройстве(устройствах) %s"
+
+msgid "Found new device(s) %s"
+msgstr "Найдено новое устройство(устройства) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Устройство %s уже смонтировано на %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Смонтировано устройство %s. Смонтировано устройство %s на %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "Файловая система устройства %s: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Смотрите устройство %s с %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Найдено %s существующих установок"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Просмотр разделов с наименьшим %s свободным пространством.  Пожалуйста, подождите ..."
+
+msgid "quit"
+msgstr "выход"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Вы хотите установить %s на устройство %s?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Идет установка %s, пожалуйста, будьте терпеливы ..."
+
+msgid "copy %s to %s"
+msgstr "копировать %s на %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "Установка %s успешно завершена"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Не удалось найти %s файл %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Не удалось смонтировать %s как файл %s"
+
+msgid "File %s not found on device %s"
+msgstr "Файл %s не найден на устройстве %s"
+
+msgid "Invalid encryption mode %s"
+msgstr ""
+
+msgid "Required encryption kernel module %s not found."
+msgstr ""
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr ""
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr ""
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr ""
+
+msgid "TYPE=.crypto_LUKS"
+msgstr ""
+
+msgid "Could not find file %s"
+msgstr "Не удалось найти файл %s"
+
+msgid "Could not find files %s or %s"
+msgstr ""
+
+msgid "No encrypted device with uuid %s was found"
+msgstr ""
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr ""
+
+msgid "Encrypted device %s does not exist"
+msgstr ""
+
+msgid "Encrypted device %s is not a block device"
+msgstr ""
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr ""
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr ""
+
+msgid "Could not open LUKS device %s"
+msgstr ""
+
+msgid "Opened encrypted device %s at %s"
+msgstr ""
+
+msgid "Could not mount encrypted device"
+msgstr ""
+
+msgid "Could not find file %s on encrypted partition"
+msgstr ""
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr ""
+
+msgid "press %s to continue"
+msgstr ""
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr ""
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr ""
+
+msgid "The entered passphrase does not match"
+msgstr ""
+
+msgid "Do you want to try again?"
+msgstr "Вы хотите попробовать еще раз?"
+
+msgid "Passphrase change aborted"
+msgstr ""
+
+msgid "Passphrase was not changed"
+msgstr ""
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr ""
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr ""
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr ""
+
+msgid "current phrase %s"
+msgstr ""
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr ""
+
+msgid "Searched devices: %s"
+msgstr "Найдено устройств: %s"
+
+msgid "Searched types: %s"
+msgstr "Искомые типы: %s"
+
+msgid "All block devices: %s"
+msgstr "Все блочные устройства: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Пожалуйста, свяжите %s с %s"
+
+msgid "Kernel version mismatch"
+msgstr "Несоответствие версии ядра"
+
+msgid "Kernel version %s"
+msgstr "Версия ядра %s"
+
+msgid "The module directory %s is missing"
+msgstr "Директория модулей %s отсутствует"
+
+msgid "Initializing random number generator ..."
+msgstr ""
+
+msgid "Saving random seed"
+msgstr ""
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Не удалось смонтировать %s в качестве файловой системы %s"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "%s не найден в %s"
+
+msgid "Create %s failed"
+msgstr "Создать %s не удалось"
+
+msgid "Found %s"
+msgstr "Найдено %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Ни %s, ни %s не доступны"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "Файловая система %s недоступна. Используется %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Принудительно использовать %s для соответствия имеющемуся файлу rootfs"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "Файловая система %s недоступна. Невозможно использовать файл %s"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Включено сохранение %s"
+
+msgid "Could not mount %s"
+msgstr "Не удалось монтировать %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Создать %s в %s %s"
+
+msgid "check %s filesystem"
+msgstr "проверка файловой системы %s"
+
+msgid "There were no errors on %s"
+msgstr "Нет ошибок в %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Начать"
+
+msgid "Skip Error: %s"
+msgstr "Пропустить ошибку: %s"
+
+msgid "power off"
+msgstr "выключить"
+
+msgid "reboot"
+msgstr "перезагрузить"
+
+msgid "Unknown command"
+msgstr "Неизвестная команда"
+
+msgid "Please try again"
+msgstr "Пожалуйста, попробуйте еще раз"
+
+msgid "Unmount successful"
+msgstr "Отмонтировано успешно"
+
+msgid "Press %s to %s"
+msgstr ""
+
+msgid "Will now %s the system"
+msgstr "Теперь система %s"
+
+msgid "Fatal Error"
+msgstr "Критическая ошибка"
+
+msgid "Non-Fatal Error"
+msgstr "Некритическая ошибка"
+
+msgid "continue"
+msgstr "продолжить"
+
+msgid "yes"
+msgstr "да"
+
+msgid "no"
+msgstr "нет"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Вы должны ответить %s или %s. Пожалуйста, попробуйте еще раз"
+
+msgid "The default is"
+msgstr "По умолчанию -"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "Press <%s> for the default selection"
+msgstr "Нажмите <%s> для выбора по умолчанию"
+
+msgid "enter"
+msgstr "enter"
+
+msgid "The number <%s> is out of range"
+msgstr "Число <%s> вне диапазона"
+
+msgid "Current default"
+msgstr "Текущая по умолчанию"
+
+msgid "Reset"
+msgstr "Сброс"
+
+msgid "Keeping default %s"
+msgstr "Сохранить по умолчанию %s"
+
+msgid "Previous default %s erased"
+msgstr "Предыдущее значение по умолчанию %s удалено"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s установлено в %s"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Select Language"
+msgstr "Выберите язык"
+
+msgid "Languages are listed alphabetically"
+msgstr "Языки перечислены в алфавитном порядке"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Select number of console columns"
+msgstr ""
+
+msgid "Wider means a smaller font"
+msgstr ""
+
+msgid "Console columns"
+msgstr ""
+
+msgid "Select Timezone"
+msgstr "Выберите часовой пояс"
+
+msgid "Timezones are listed by longitude"
+msgstr "Часовые пояса по долготе"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "Select Option"
+msgstr "Выберите вариант"
+
+msgid "Only one option can be selected"
+msgstr "Только один вариант может быть выбран"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Select Mounting Option"
+msgstr "Выберите вариант монтирования"
+
+msgid "Automounting is enabled by default"
+msgstr "Автомонтирование включено по умолчанию"
+
+msgid "Mount"
+msgstr "Монтирование"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Выберите вариант сохранения состояния"
+
+msgid "Persistence"
+msgstr "Сохранение состояния"
+
+msgid "Select font size"
+msgstr "Выберите размер шрифта"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Масштабирование шрифтов на дисплее.  По умолчанию 1.0"
+
+msgid "Select Desktop"
+msgstr "Выберите рабочий стол"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Save these changes?"
+msgstr "Сохранить эти изменения?"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Please select %s device:"
+msgstr "Пожалуйста, выберите устройство %s:"
+
+msgid "reverse video"
+msgstr "инвертировать видео"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Разделы, которые не могут быть использованы, имеются в списке, но не могут быть выбраны."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "Ограничивающие факторы выделены подсветкой в %s"
+
+msgid "The device %s already has label %s"
+msgstr "Устройство %s уже имеет метку %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Обновить метку %s с %s на %s"
+
+msgid "The device %s has no label"
+msgstr "Устройство %s не имеет метки"
+
+msgid "Give %s the label %s?"
+msgstr "Присвоить %s метку %s"
+
+msgid "Label updated to %s"
+msgstr "Метка обновлена на %s"
+
+msgid "Valid %s"
+msgstr "Годится %s"
+
+msgid "Could not find device %s"
+msgstr "Не удалось найти устройство %s"
+
+msgid "Valid devices"
+msgstr "Подходящие устройства"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s несоответствие между %s и %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Копировать %s на пустой %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s файл не найден %s"
+
+msgid "No %s found in file %s"
+msgstr "Не найден %s в файле %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Не найден %s, но здесь есть %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Проверка %s файлов в директории %s. Пожалуйста, будьте терпеливы ..."
+
+msgid "file: %s"
+msgstr "файл: %s"
+
+msgid "result: %s"
+msgstr "результат: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Не найдены %s контрольные суммы в %s. Невозможно сделать %s проверки."
+
+msgid "At least one %s checksum did not match"
+msgstr "По крайней мере одна %s контрольная сумма не совпадает"
+
+msgid "Success!  The file passed"
+msgstr "Успешно!  Файл пройден"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Успешно! Все %s файлов пройдено"
+
+msgid "Wait %s seconds"
+msgstr "Ожидайте %s секунд"
+
+msgid "copy %s file to RAM"
+msgstr "копировать файл %s в RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Будут копироваться файлы %s на %s. Пожалуйста, будьте терпеливы ..."
+
+msgid "Size of original %12s"
+msgstr "Размер оригинала %12s"
+
+msgid "Size of copy %12s"
+msgstr "Размер копии %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Копирование в RAM успешно завершено"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Монтировать устройство сохранения (если необходимо)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr ""
+
+msgid "create %s persistence file"
+msgstr "создать файл сохранения %s"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr ""
+
+msgid "This default size will leave %s MiB free"
+msgstr ""
+
+msgid "Create %s file, manually or automatically"
+msgstr "Создать файл %s, вручную или автоматически"
+
+msgid "create automatically"
+msgstr "создать автоматически"
+
+msgid "create custom"
+msgstr "создать вручную"
+
+msgid "Please select size of %s file"
+msgstr "Пожалуйста, выберите размер файла %s"
+
+msgid "There is %s MiB available on the device"
+msgstr ""
+
+msgid "Filesystem size %s MiB"
+msgstr ""
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr ""
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr ""
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Пожалуйста, подождите, пока существующие разделы будут найдены ..."
+
+msgid "persistence"
+msgstr "сохранение состояния"
+
+msgid "persist device"
+msgstr "устройство сохранения"
+
+msgid "Enabled %s persistence"
+msgstr "Включено сохранение %s"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr ""
+
+msgid "mount persistence file %s at %s"
+msgstr "монтировать файл сохранения %s на %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Вы хотите включить сохранение home в любом случае?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Странно, но не удается переместить точку монтирования homefs"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr ""
+
+msgid "There's not enough space to copy all the files"
+msgstr "Не хватает места для копирования всех файлов"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Вы хотите копировать файлы на устройство сохранения home?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Файл %s не найден.  Переименуйте %s в %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr ""
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Изменение размера homefs. Копирование содержания %s в %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Копирование домашней файловой системы.  Пожалуйста, будьте терпеливы ..."
+
+msgid "Press <%s> to continue"
+msgstr "Нажмите <%s> чтобы продолжить"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr ""
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr ""
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr ""
+
+msgid "umount %s"
+msgstr "размонтировать %s"
+
+msgid "umount of %s failed"
+msgstr "размонтировать %s не удалось"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Размер по умолчанию: %s MB.  Тип файловой системы: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Размер по умолчанию оставит свободными %s MB"
+
+msgid "There is %s Meg available on the device"
+msgstr "Доступно %s MB на устройстве"
+
+msgid "Filesystem size %s Meg"
+msgstr "Размер файловой системы %s MB"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Создать файл %s типа %s размером %s MB"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Копирование %s MB в RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Имеется %4s Meg файлов, которые будут скрыты при сохранении home"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Имеется %4s Meg свободного места на устройстве сохранения home"

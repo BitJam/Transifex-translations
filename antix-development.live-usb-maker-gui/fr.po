@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>, 2016\n"
+"Language-Team: French (https://www.transifex.com/anticapitalista/teams/10162/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Interface graphique du créateur de Live-USB"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Système Live détecté. Choisir le mode de création du Live-USB"
+
+msgid "Select Mode"
+msgstr "Mode de sélection"
+
+msgid "Select USB Device"
+msgstr "Choisir un périphérique USB"
+
+msgid "Clone Mode"
+msgstr "Mode de clonage"
+
+msgid "Select ISO"
+msgstr "Choisir une image ISO"
+
+msgid "Clone Running Live System"
+msgstr "Cloner le système live en cours de fonctionnement"
+
+msgid "Information"
+msgstr "Informations"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr ""
+"Le fichier source n'est pas un fichier ISO. Veuillez sélectionner un autre "
+"fichier"
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Une interface graphique simple pour le créateur de Live-USB"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Aucun périphérique USB cible détecté. Veuillez insérer un périphérique avant"
+" de recommencer."
+
+msgid "License"
+msgstr "Licence"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Help"
+msgstr "Aide "
+
+msgid "Advanced"
+msgstr "Avancé"
+
+msgid "LiveUSB creation successful!"
+msgstr "Création du Live USB accomplie!"
+
+msgid "Operation stopped by user."
+msgstr "Opération arrêtée par l'utilisateur"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Un processus %s (utilisant le PID %s) est déjà en cours d'exécution"
+
+msgid "Please close that process before starting a new one"
+msgstr "Veuillez terminer ce processus avant d'en démarrer un nouveau"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Échec à l'obtention du verrou sur %s"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Fenêtre de progression fermée, mais la tâche ne s'est pas terminée. Voulez-"
+"vous continuer?"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"

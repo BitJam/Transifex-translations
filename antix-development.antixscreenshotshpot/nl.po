@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:52+0300\n"
+"PO-Revision-Date: 2011-11-05 20:36+0000\n"
+"Last-Translator: Hannes_Worst <hannesworst@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "antiXscreenshot"
+msgstr "antiXschermafdruk"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "Keep this screenshot?"
+msgstr "Schermafdruk behouden?"
+
+#: antixscreenshot.sh:69
+msgid "File extension was changed.\\nPlease try again."
+msgstr "Bestandsextensie is gewijzigd.\\nA.u.b. opnieuw proberen."
+
+#: antixscreenshot.sh:96
+msgid "Your screenshot has been saved."
+msgstr "Uw schermafdruk is opgeslagen."
+
+#: antixscreenshot.sh:107
+msgid "Region to capture"
+msgstr "Afdrukgebied"
+
+#: antixscreenshot.sh:110
+msgid "Full Screen"
+msgstr "Volledig scherm"
+
+#: antixscreenshot.sh:111
+msgid "Custom Area"
+msgstr "Aangepast gebied"
+
+#: antixscreenshot.sh:112
+msgid "Window"
+msgstr "Scherm"
+
+#: antixscreenshot.sh:116
+msgid "Name of image"
+msgstr "Naam van de afbeelding"
+
+#: antixscreenshot.sh:123
+msgid "File type"
+msgstr "Bestandssoort"
+
+#: antixscreenshot.sh:134
+msgid "Show save dialog"
+msgstr "Toon bewaar-dialoog"
+
+#: antixscreenshot.sh:136
+msgid "Choose directory"
+msgstr "Kies een map"
+
+#: antixscreenshot.sh:146
+msgid "Delay in seconds"
+msgstr "Uitstel in seconden"
+
+#: antixscreenshot.sh:153
+msgid "Multiple screenshots"
+msgstr "Meerdere schermafdrukken"
+
+#: antixscreenshot.sh:155
+msgid "Take another shot"
+msgstr "Nog een afdruk maken"
+
+#: antixscreenshot.sh:161
+msgid "Thumbnail for webpages"
+msgstr "Thumbnail voor webpagina's"
+
+#: antixscreenshot.sh:163
+msgid "Create a thumbnail"
+msgstr "Thumbnail aanmaken"
+
+#: antixscreenshot.sh:170
+msgid "Percentage (1-100)"
+msgstr "Percentage (1-100)"

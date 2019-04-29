@@ -1,0 +1,73 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Henry Oquist <henryoquist@comhem.se>, 2015,2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:01-0600\n"
+"PO-Revision-Date: 2017-12-31 17:14+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "Ber de flesta kvarvarande processerna att avsluta"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Nästan alla processer upphörde genast"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s Väntar på avslut %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr "Alla processer avslutades inom %s sekund(er)"
+
+msgid "Killing remaining processes"
+msgstr "Stoppar återstående processer"
+
+msgid "Unable to kill: %s"
+msgstr "Kan inte stoppa: %s"
+
+msgid "Unmount most filesystems"
+msgstr "Avmontera de flesta filsystemen"
+
+msgid "Disable swap"
+msgstr "Inaktivera swap"
+
+msgid "Kill any remaining processes"
+msgstr "Stoppa återstående processer"
+
+msgid "Failed to umount some filesystems"
+msgstr "Misslyckades med att avmontera en del filsystem"
+
+msgid "reboot"
+msgstr "starta om"
+
+msgid "poweroff"
+msgstr "stäng av"
+
+msgid "Ready to %s"
+msgstr "Färdig att %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "Ta bort skivan, stäng facket"
+
+msgid "and press ENTER to continue"
+msgstr "och tryck ENTER för att fortsätta"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "sekunder"
+
+msgid "Saving random seed"
+msgstr "Sparar random seed"

@@ -1,0 +1,78 @@
+# Translation for antiX Development: live-usb-save file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. "State" information are files saved at shutdown and restored at startup
+#. Like saving the state of a game.
+msgid "Restore state information"
+msgstr "Återställ lägesinformation"
+
+msgid "Save state information"
+msgstr "Spara lägesinformation"
+
+#. Save <user-name> file <file-name>
+msgid "Save %s file %s"
+msgstr "Spara %s fil %s"
+
+#. Restore <user-name> file <file-name>
+msgid "Restore %s file %s"
+msgstr "Återställ %s fil %s"
+
+#. "Save %s desktop %s" $(wq $user) $(wq $(cat $from))
+msgid "Save %s desktop %s"
+msgstr "Spara %s skrivbord %s"
+
+#. Restore <user-name> desktop to <window-manager-name>
+msgid "restore %s desktop to %s"
+msgstr "återställ %s skrivbord till %s"
+
+#. "general" (same on all machines) versus "machine specific"
+msgid "general"
+msgstr "allmän"
+
+#. "machine specific" versus "general" (same on all machines)
+msgid "machine specific"
+msgstr "maskin-specifik"
+
+#. Save <general|machine specific> state file <file-name>
+msgid "Save %s state file %s"
+msgstr "Spara %s lägesfil %s"
+
+#. Restore <general|machine specific> state file <file-name>
+msgid "Restore %s state file %s"
+msgstr "Återställ %s lägesfil %s"
+
+msgid "Reset file %s"
+msgstr "Återställ fil %s"
+
+#. Delete <general|machine specific> state file <file-name>
+msgid "Delete %s state file %s"
+msgstr "Ta bort %s lägesfil %s"
+
+msgid "Could not find UUID of boot device for remounting"
+msgstr "Kunde inte hitta boot-enhetens UUID för remounting"
+
+msgid "Will not save state information"
+msgstr "Kommer inte att spara lägesinformation"
+
+msgid "Could not find boot device for remounting"
+msgstr "Kunde inte hitta boot-enhet för återmontering"
+
+msgid "Could not remount boot device"
+msgstr "Kunde inte återmontera boot enheten"

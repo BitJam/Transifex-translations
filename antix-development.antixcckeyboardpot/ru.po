@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# Olga Yevseyeva <olga.oydesign@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 23:02+0300\n"
+"PO-Revision-Date: 2015-01-05 21:00+0000\n"
+"Last-Translator: Olga Yevseyeva <olga.oydesign@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/projects/p/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: antixcckeyboard.sh:15
+msgid "Keyboard Config"
+msgstr "Настройка клавиатуры"
+
+#: antixcckeyboard.sh:19
+msgid "<b>Choose a Language.</b>"
+msgstr "<b>Выберите язык.</b>"
+
+#: antixcckeyboard.sh:24
+msgid "British"
+msgstr "Английский (ГБ)"
+
+#: antixcckeyboard.sh:29
+msgid "French"
+msgstr "Французский"
+
+#: antixcckeyboard.sh:33
+msgid "German"
+msgstr "Немецкий"
+
+#: antixcckeyboard.sh:37
+msgid "Greek"
+msgstr "Греческий"
+
+#: antixcckeyboard.sh:41
+msgid "Italian"
+msgstr "Итальянский"
+
+#: antixcckeyboard.sh:45
+msgid "Norwegian"
+msgstr "Норвежский"
+
+#: antixcckeyboard.sh:49
+msgid "Portuguese"
+msgstr "Португальский язык"
+
+#: antixcckeyboard.sh:53
+msgid "Spanish"
+msgstr "Испанский"
+
+#: antixcckeyboard.sh:57
+msgid "Romanian"
+msgstr "Румынский"
+
+#: antixcckeyboard.sh:61
+msgid "US"
+msgstr "Английский (США)"
+
+#: antixcckeyboard.sh:68
+msgid "Close"
+msgstr "Закрыть"

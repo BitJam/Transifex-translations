@@ -1,0 +1,573 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# mahmut özcan <faradundamarti@yandex.com>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# mahmut özcan <mahmutozcan65@yahoo.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: 2017-07-13 21:55+0000\n"
+"Last-Translator: mahmut özcan <mahmutozcan65@yahoo.com>, 2018\n"
+"Language-Team: Turkish (https://www.transifex.com/anticapitalista/teams/10162/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Komut Satırı"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "Grafik Arayüzü"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "yukarı ok"
+
+msgid "down-arrow"
+msgstr "aşağı ok"
+
+msgid "page-up"
+msgstr "sayfa-yukarı"
+
+msgid "page-down"
+msgstr "sayfa-aşağı"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "Ana menüye geri git"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Komut Satırı Paket Kurucusu"
+
+msgid "Main Menu"
+msgstr "Ana Menü"
+
+msgid "Search for packages to mark or install"
+msgstr "İşaretlemek veya kurmak için paket arama"
+
+msgid "Search for antiX kernels"
+msgstr "antiX çekirdeklerini ara"
+
+msgid "Search for all kernels"
+msgstr "Tüm çekirdekleri ara"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Paket dizinini güncelle"
+
+msgid "Edit the repo source files"
+msgstr "Depo kaynak dosyalarını düzenle"
+
+msgid "Quit"
+msgstr "Çıkış"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr ""
+
+msgid "no pending upgrades"
+msgstr "bekleyen yükseltme yok"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr ""
+
+msgid "View or perform %s upgrade now"
+msgstr ""
+
+msgid "View or perform %s upgrades now"
+msgstr ""
+
+msgid "Upgrade %s package now"
+msgstr "%s paketini şimdi yükselt"
+
+msgid "Upgrade %s packages now"
+msgstr "%s paketini şimdi yükselt"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Yükseltilecek paketlerin listesini görüntüle "
+
+msgid "Ignore these upgrades for now"
+msgstr "Şu an bu güncellemeleri yoksay"
+
+msgid "View or install %s marked package"
+msgstr "%s işaretlenmiş paketi görüntüle veya kur"
+
+msgid "View or install %s marked packages"
+msgstr "%s işaretlenmiş paketi görüntüle veya kur"
+
+msgid "Edit Source Menu"
+msgstr "Kaynak Menüsünü Düzenle"
+
+msgid "Please select a source file to edit"
+msgstr "Lütfen düzenlemek için bir kaynak dosyası seçin"
+
+msgid "Could not find file %s to edit"
+msgstr "Düzenlemek için %s dosyası bulunamadı"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Ana menüye geri git"
+
+msgid "Search for packages"
+msgstr "Paketleri ara"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "tam ad eşleşmesi"
+
+msgid "exact name matches"
+msgstr "tam ad eşleşmeleri"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "Ön ad eşleşmesi"
+
+msgid "leading name matches"
+msgstr "Ön ad eşleşmeleri"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "herhangi bir ad eşleşmesi"
+
+msgid "any name matches"
+msgstr "herhangi bir ad eşleşmeleri"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "ad veya açıklama eşleşmesi"
+
+msgid "name or description matches"
+msgstr "ad veya açıklama eşleşmeleri"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "aramalar"
+
+msgid "No matches were found"
+msgstr "Eşleşme bulunamadı"
+
+msgid "Do you want to try a different search?"
+msgstr "Farklı bir arama denemek ister misiniz?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "kesin"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "önünde"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "herhangi bir ad"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "açıklama"
+
+msgid "Do a different search"
+msgstr "Farklı bir arama yap"
+
+msgid "Search Result Menu"
+msgstr "Arama Sonucu Menüsü"
+
+msgid "Please select an action"
+msgstr "Bir eylem seçin"
+
+msgid "What next?"
+msgstr "Sırada ne var?"
+
+msgid "%s packages were found"
+msgstr "%s paketleri bulundu"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+"Bir sonraki adımda, kaydırma yapabileceğiniz paketlerin bir listesi "
+"gösterilecektir"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Listeyi kaydırmak için %s, %s, %s ve %s kullan"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr ""
+
+msgid "Press %s to see the list"
+msgstr "Listeyi görmek için %se basın"
+
+msgid "Use %s to go to the main menu"
+msgstr "Ana menüye gitmek için %s'i kullanın"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Aynı aramayı tekrar etmek için %s kullan"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Yeni arama yapmak için %s kullan"
+
+msgid "Press %s to skip picking a package"
+msgstr "Paket seçimini atlamak için %s'e basın"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr ""
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Ana menüye gitmek için %s'i kullanın"
+
+msgid "Use %s to see the results again"
+msgstr "Sonuçları tekrar görmek için %s'i kullanın"
+
+msgid "Use %s to do a new search"
+msgstr "Yeni arama yapmak için %s'i kullanın"
+
+msgid "Invalid input.  Please try again"
+msgstr "Geçersiz giriş. Lütfen tekrar deneyin"
+
+msgid "The following numbers were out of range %s"
+msgstr ""
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Geçerli sayı verilmedi. Lütfen tekrar deneyin"
+
+msgid "Selected packages"
+msgstr "Seçili paketler"
+
+msgid "Could not find package number %s"
+msgstr ""
+
+msgid "Repeat the same search"
+msgstr "Aynı aramayı tekrar et"
+
+msgid "Search again"
+msgstr "Tekrar ara"
+
+msgid "Go back to main menu"
+msgstr "Ana menüye geri git"
+
+msgid "Now what?"
+msgstr "Şimdi ne olacak?"
+
+msgid "Do a new search"
+msgstr "Yeni bir arama yap"
+
+msgid "See search results again"
+msgstr "Arama sonuçlarına tekrar bakın"
+
+msgid "Return to main menu"
+msgstr "Ana menüye geri dön"
+
+msgid "Remove or Purge Menu"
+msgstr "Menüyü temizle veya kaldır"
+
+msgid "Please choose an action for this package"
+msgstr "Lütfen bu paket için bir eylem seçin"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+"Paketi kaldır  [paketi kaldır fakat yapılandırma dosyalarını kaldırma]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Paketi sil [paketi ve yapılandırma dosyalarını kaldır]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Paketi yeniden kur [güncel olsa bile]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Paketi kur [sadece güncel değilse]"
+
+msgid "The %s command failed"
+msgstr "%s komutu hatalı"
+
+msgid "Please enter the term you want to search for"
+msgstr "Lütfen aramak istediğiniz terimi girin"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr ""
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr ""
+
+msgid "Found"
+msgstr "Bulunan"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr ""
+
+msgid "Show more information about package %s"
+msgstr "%s paketi hakkında daha fazla bilgi göster"
+
+msgid "Uninstall package %s"
+msgstr "%s paketini kaldır"
+
+msgid "Unmark package %s"
+msgstr "%s paketinin işaretini kaldır"
+
+msgid "Mark package %s"
+msgstr "%s paketini işaretle"
+
+msgid "Install package %s"
+msgstr "%s paketini kur"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr ""
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr ""
+
+msgid "install selected uninstalled package %s"
+msgstr ""
+
+msgid "install %s selected uninstalled packages"
+msgstr ""
+
+msgid "Checking source files ..."
+msgstr "Kaynak dosyaları denetleniyor ..."
+
+msgid "Run %s now?"
+msgstr "%s şimdi çalışsın mı?"
+
+msgid "No list files were found"
+msgstr "Bulunan liste dosyası yok"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "Devam etmek için bir %s gereklidir"
+
+msgid "It appears that at least one list file is missing"
+msgstr "En az bir liste dosyası eksik görünüyor"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Muhtemelen %s'i şimdi çalıştırmalısınız"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr ""
+
+msgid "There was a problem running %s"
+msgstr ""
+
+msgid "Do you want to continue anyway"
+msgstr "Yine de devam etmek istiyor musunuz"
+
+msgid "Creating database ..."
+msgstr "... Veritabanı oluşturuluyor"
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "veritabanı üretimi"
+
+msgid "Updating database ..."
+msgstr "Veritabanı güncelleniyor ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "veritabanı güncelleme"
+
+msgid "Found %s dependencies"
+msgstr "%s bağımlılıkları bulundu"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr ""
+
+msgid "found %s dependencies"
+msgstr "%s bağımlılıkları bulundu"
+
+msgid "found %s unmet dependencies"
+msgstr ""
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Marking package %s"
+msgstr ""
+
+msgid "Unmarked %s package"
+msgstr ""
+
+msgid "Unmarked %s packages"
+msgstr ""
+
+msgid "Do you want to see more detailed information?"
+msgstr "Daha ayrıntılı bilgi görmek ister misiniz?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+
+msgid "Do you want to install this package now?"
+msgstr "Bu paketi şimdi kurmak istiyor musunuz?"
+
+msgid "Installing %s"
+msgstr "%s kuruluyor"
+
+msgid "Found %s un-installed marked packages"
+msgstr ""
+
+msgid "Nothing to install"
+msgstr "Kurulacak birşey yok"
+
+msgid "Install %s package"
+msgstr "%s paketini kur"
+
+msgid "Install %s packages"
+msgstr "%s paketlerini kur"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Install this package?"
+msgstr "Bu paket kurulsun mu?"
+
+msgid "Install these packages?"
+msgstr "Bu paketler kurulsun mu?"
+
+msgid "Install %s marked package"
+msgstr "%s işaretli paketi kur"
+
+msgid "Install all %s marked packages"
+msgstr "%s işaretli paketlerin hepsini kur"
+
+msgid "View %s marked package"
+msgstr "%s işaretlenmiş paketi görüntüle"
+
+msgid "View all %s marked packages"
+msgstr "%s işaretli paketlerin hepsini görüntüle"
+
+msgid "Unmark %s marked package"
+msgstr "%s işaretli paketin işaretini kaldır"
+
+msgid "Unmark all %s marked packages"
+msgstr "%s işaretli tüm paketlerin işaretini kaldır"
+
+msgid "View or Install Marked Packages"
+msgstr "İşaretlenmiş paketleri görüntüle veya kur"
+
+msgid "No marked packages were found"
+msgstr "İşaretli paket bulunamadı"
+
+msgid "Marked packages will add %s Meg"
+msgstr ""
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+
+msgid "Use %s to go the main menu"
+msgstr ""
+
+msgid "Use %s to do another search"
+msgstr ""
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr ""
+
+msgid "No suggestions were found!"
+msgstr "Hiçbir öneri bulunamadı!"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr ""
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Görünüm"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Tümünü görüntüle"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "Önerilen paketler"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr ""
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr ""
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Sonraki adıma atla (paketleri görüntüleme)"
+
+msgid "Please select which packages to view"
+msgstr "Lütfen hangi paketleri görüntüleyeceğinizi seçin"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr ""
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+
+msgid "See suggestions again"
+msgstr "Önerilere tekrar gözat"
+
+msgid "Marked %s previously unmarked packages"
+msgstr ""
+
+msgid "Unmarked all %s previously marked packages"
+msgstr ""
+
+msgid "%s package is still marked"
+msgstr ""
+
+msgid "%s packages are still marked"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr ""
+
+msgid "Unmark %s marked packages"
+msgstr ""
+
+msgid "Checking for package upgrades ..."
+msgstr ""
+
+msgid "There are %s packages that can be upgraded"
+msgstr ""
+
+msgid "There are no packages to upgrade"
+msgstr "Güncellenecek paket yok"
+
+msgid "System Upgrade Menu"
+msgstr "Sistem Yükseltme Menüsü"
+
+msgid "Exit"
+msgstr "Çıkış"

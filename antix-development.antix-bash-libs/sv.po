@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2017-09-20 00:16+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "varning"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Menar du verkligen Sluta?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "Y"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "y"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Tryck på <Enter> för att Fortsätta"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Försök igen"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "du skrev in: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "Är detta riktigt?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Skriv in en siffra"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr "(eller en bokstav)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Ditt val var tomt."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Du måste välja en siffra."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Ditt val %s var utanför området."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Fel"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Växlar till CLI mode."
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Standardval"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Tvinga kommandolinje-interface"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Tvinga kommandofönstrets färger att bli ljusa"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Tvinga GUI interface (vanligtvis aldrig behövt)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Visa denna enkla hjälp"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Tvinga kommandofönstrets färger att bli dämpade/svagare"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Stäng av kommandofönstrets färger"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Stäng av loggning"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Undertryck extra frågor och skrivande"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Låtsas som om yad inte finns"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Skriv mer"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Debug-alternativ"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Debug Pango markup sänt till yad"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Visa alla lower-case globals när det är färdigt"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Visa alla globals när det är färdigt"
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "option %s behöver ett argument"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "option %s ska inte ha ett agument"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "okänt argument %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "För många extra argument: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "För få argument. Behöver åtminstone %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "Väntade ett numeriskt värde efter %s parameter"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Vill du verkligen avbryta från %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Detta skript kan bara köras i en %s miljö. "
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "%s katalogen finns inte"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "visar att detta inte är en %s miljö."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Avslutar."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Var vänlig kör detta skript som root."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Variablerna %s är tomma"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Variabeln %s är tom"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "I %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Detta är ett fatalt fel"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Varning"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Programmet %s hittades inte så låsning kommer inte att ske."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Vill du fortsätta trots det?"
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Ett annat exemplar av %s körs."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Om du är säker på att det inte är så ta då bort filen:"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "och försök igen."
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "Kunde inte göra %s read-write"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Kunde inte skapa %s monteringspunkt."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "Kunde inte binda montering %s till %s."
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Kunde inte montera %s vid %s."
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "Kunde inte avmontera %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Konstigt. Filen %s finns inte."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "Filen %s kan inte monteras."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "storlek"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Ska det tas bort?"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Ta bort det"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Spara det"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Se info"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Avsluta"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Rensar"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Vad borde vi göra med %s?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Kvarlämnad efter en återgång. Kan vanligen tas bort."
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "En remaster du gjorde utan att starta om."
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Tidigare squashfs fil. Spara eller ta bort."
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "En ofullständig remaster."
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Välj en aktivitet:"
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Version info för"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "Ingen VID fil"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "Kunde inte montera %s"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "Konstigt. Kunde inte hitta en sträng som matchade \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Utse enheter att välja mellan"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Alla"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Monterad"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "Omonterad"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "enheter"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "OK"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Klicka på en enhet och sen på %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Enhet"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Montera"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Typ"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Etikett"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Storlek"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Fri"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Använd kommandot \"exit\" för att återvända till %s"

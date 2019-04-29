@@ -1,0 +1,206 @@
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-14 22:50+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: ca\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: cli-installer:9
+msgid "CL installer for $antiX"
+msgstr "Instalátor CL pro $antiX"
+
+#: cli-installer:10
+msgid "Version 2.02 2011/04/01"
+msgstr "Verze 2.02 2011/04/01"
+
+#: cli-installer:16
+msgid "Requirements for minimum installation:"
+msgstr "Požadavky pro minimální instalaci:"
+
+#: cli-installer:19
+msgid "antiX-full: hard-disk 2.3GB  RAM 64MB"
+msgstr "antiX-full: pevný disk 2.3GB RAM 64MB"
+
+#: cli-installer:21
+msgid "antiX-base: hard-disk 1.5GB  RAM 48MB"
+msgstr "antiX-base: pevný disk 1.5GB  RAM 48MB"
+
+#: cli-installer:23
+msgid "antiX-core: hard-disk 0.5GB  RAM 48MB"
+msgstr "antiX-core: pevný disk 0.5GB  RAM 48MB"
+
+#: cli-installer:27
+msgid "Usage: cli-installer [drive]"
+msgstr "Použití: cli-installer [disk]"
+
+#: cli-installer:28
+msgid "Where drive is the name of the drive antiX is to be installed on."
+msgstr "Kde disk je název disku, na který bude nainstalován antiX"
+
+#: cli-installer:29
+msgid "   For example: cli-installer sdb"
+msgstr "   Například: cli-installer sdb"
+
+#: cli-installer:30
+msgid "The default is correct if the computer has only one drive."
+msgstr "Výchozí je správné, pokud má počítač pouze jeden disk."
+
+#: cli-installer:34
+msgid "Pre-installation tips:"
+msgstr "Rady před instalací:"
+
+#: cli-installer:37
+msgid "Set language at the boot screen by pressing F2"
+msgstr "Jazyk nastavíte v obrazovce zavádění stisknutím F2"
+
+#: cli-installer:38
+msgid "or by adding the line lang=xx where xx is your language code."
+msgstr "nebo přidáním řádku lang=xx kde xx je Váš kód jazyka."
+
+#: cli-installer:39
+msgid "eg lang=gr for Greek."
+msgstr "např. lang=gr pro řečtinu."
+
+#: cli-installer:41
+msgid "Set timezone at the boot screen by pressing F3"
+msgstr "Časovou zónu nastavíte v obrazovce zavádění stisknutím F3"
+
+#: cli-installer:44
+msgid ""
+"Press F1 at the boot screen for Help and list of cheatcodes for live use."
+msgstr "Stiskněte F1 v obrazovce zavádění pro nápovědu a seznam čítů pro normální provoz."
+
+#: cli-installer:55
+msgid "/home partition (hda1, sda2, etc): "
+msgstr "oddíl /home (hda1, sda2, etc): "
+
+#: cli-installer:58
+msgid "$hdrv invalid. Retry:"
+msgstr "$hdrv je neplatné. Zkuste znovu:"
+
+#: cli-installer:67
+msgid "Root partition (hda1, sda2, etc): "
+msgstr "Odííl root (hda1, sda2, etc): "
+
+#: cli-installer:96
+msgid "$rdrv invalid. Retry"
+msgstr "$rdrv je neplatné. Zkuste znovu"
+
+#: cli-installer:109
+msgid "Available file systems for $1 are ext2, ext3, and ext4"
+msgstr "Dostupné souborové systémy pro $1 jsou ext2, ext3, a ext4"
+
+#: cli-installer:113
+msgid "Enter your choice (the default is ext3): "
+msgstr "Zadejte Váš výběr (výchozí je ext3): "
+
+#: cli-installer:122
+msgid "Ignore any 'barrier' lines"
+msgstr "Ignorovat všechny 'barierové' řádky"
+
+#: cli-installer:123
+msgid "$fs invalid. Retry:"
+msgstr "$fs je neplatné. Zkuste znovu:"
+
+#: cli-installer:135
+msgid "Passwords are not identical. Retry:"
+msgstr "Hesla se neshodují. Zkuste znovu:"
+
+#: cli-installer:154
+msgid "Invalid; retry:"
+msgstr "Neplatné; Zkuste znovu:"
+
+#: cli-installer:162
+msgid "Press Enter to exit this script."
+msgstr "Stiskněte Enter pro ukončení skriptu."
+
+#: cli-installer:168
+msgid "Please run this script as root."
+msgstr "Tento skript spusťte, prosím, jako root."
+
+#: cli-installer:176
+msgid "Do you want to repartition the disk (y/N)"
+msgstr "Chcete disk znovu rozdělit disk (y/N)"
+
+#: cli-installer:190
+msgid "Deleting the contents of the '/' partition."
+msgstr "Mažu obsah oddílu '/'."
+
+#: cli-installer:191
+msgid "This may take some time. Please wait...."
+msgstr "Toto může chváli trvat. Čekejte prosím..."
+
+#: cli-installer:197
+msgid "Use separate '/home' partition (y/N)"
+msgstr "Použít oddělený oddíl '/home'? (y/N)"
+
+#: cli-installer:204
+msgid "Is $hdrv a new '/home' partition (y/N)"
+msgstr "je $hdrv nový oddíl '/home'? (y/N)"
+
+#: cli-installer:223
+msgid "$antiX will now be copied to $rdrv."
+msgstr "$antiX bude nyní zkopírováno do $rdrv"
+
+#: cli-installer:260
+msgid "File copy done"
+msgstr "Kopírování souboru dokončeno"
+
+#: cli-installer:262
+msgid "Install GRUB on MBR (Y/n)"
+msgstr "Instalovat GRUB na MBR (Y/n)"
+
+#: cli-installer:268
+msgid "GRUB installed on ($grub)"
+msgstr "GRUB nainstalován na ($grub)"
+
+#: cli-installer:272
+msgid "Computer name (default is 'antiX1')? "
+msgstr "Jméno počítače (výchozí je 'antiX1')? "
+
+#: cli-installer:280
+msgid "Is this a remastered install (y/N)"
+msgstr "Je toto upravená instalace (y/N)"
+
+#: cli-installer:286
+msgid "Installation of antiX finished!"
+msgstr "Instalace antiX dokončena!"
+
+#: cli-installer:288
+msgid "Reboot computer without CD to start program. ('reboot')"
+msgstr "Restartujte počítač bez CD pro spuštění počítače. ('reboot')"
+
+#: cli-installer:294
+msgid "User name? "
+msgstr "Jméno uživatele? "
+
+#: cli-installer:298
+msgid "Note: $hdrv must contain a folder named '$name'."
+msgstr "Poznámka: $hdrv musí obsahovat složku s názvem '$name'."
+
+#: cli-installer:302
+msgid "Password for $name:"
+msgstr "Heslo pro $name:"
+
+#: cli-installer:305
+msgid "Password for root:"
+msgstr "Heslo pro root:"
+
+#: cli-installer:326
+msgid "Cleaning up"
+msgstr "Čištění"

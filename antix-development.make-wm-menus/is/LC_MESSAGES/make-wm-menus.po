@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Sveinn í Felli <sv1@fellsnet.is>, 2018-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic (http://www.transifex.com/anticapitalista/antix-development/language/is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+msgid "Terminal"
+msgstr "Skjáhermir"
+
+msgid "File Manager"
+msgstr "Skráarstjóri"
+
+msgid "Web Browser"
+msgstr "Netvafri"
+
+msgid "Editor"
+msgstr "Ritill"
+
+msgid "Personal"
+msgstr "Einka"
+
+msgid "Applications"
+msgstr "Forrit"
+
+msgid "Terminal Apps"
+msgstr "Skjáhermiforrit"
+
+msgid "Multimedia"
+msgstr "Margmiðlun"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD-skrifari"
+
+msgid "Music Player"
+msgstr "Tónlistarspilari"
+
+msgid "Network"
+msgstr "Netkerfi"
+
+msgid "Alpine Mail"
+msgstr "Alpine tölvupóstur"
+
+msgid "Browser elinks"
+msgstr "elinks vafri"
+
+msgid "Irssi Chat"
+msgstr "Irssi spjall"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom streymislesari"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Skrifstofuforrit"
+
+msgid "Organizer"
+msgstr "Skipulag"
+
+msgid "Word"
+msgstr "Orð"
+
+msgid "Update Menu"
+msgstr "Uppfæra valmynd"
+
+msgid "Desktop"
+msgstr "Skjáborð"
+
+msgid "Alternate Desktops"
+msgstr "Önnur skjáborð"
+
+msgid "Add Desktop"
+msgstr "Bæta við skjáborði"
+
+msgid "Wallpaper"
+msgstr "Bakgrunnsmynd"
+
+msgid "GTK Theme"
+msgstr "GTK þema"
+
+msgid "Desktop Defaults"
+msgstr "Sjálfgefin gildi skjáborðs"
+
+msgid "Session Settings"
+msgstr "Setustillingar"
+
+msgid "Session Settings Global"
+msgstr "Víðværar setustillingar"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel af/á"
+
+msgid "Conky on/off"
+msgstr "Conky af/á"
+
+msgid "Tools"
+msgstr "Verkfæri"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "MC File Manager"
+msgstr "MC skráastjóri"
+
+msgid "App Killer"
+msgstr "Hætta í forritum"
+
+msgid "Process Viewer"
+msgstr "Skoðun vinnsluferla"
+
+msgid "System Information"
+msgstr "Kerfisupplýsingar"
+
+msgid "Control Centre"
+msgstr "Stjórnborð"
+
+msgid "Help"
+msgstr "Hjálp"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "FAQ / Algengar spurningar um antiX"
+
+msgid "antiX-live How-To"
+msgstr "Hvernig á að nota antiX-live"
+
+msgid "Rox Manual"
+msgstr "Rox handbókin"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox hjálparskjöl"
+
+msgid "Fluxbox FAQ"
+msgstr "FAQ / Algengar spurningar um Fluxbox"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox wikisvæðið"
+
+msgid "Arch Wiki"
+msgstr "Arch wikisvæðið"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "FAQ / Algengar spurningar um IceWM"
+
+msgid "IceWM Manual"
+msgstr "IceWM handbókin"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Heimasíða"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Eldveggur"
+
+msgid "Partimage"
+msgstr "Disksneiðing"
+
+msgid "Man Pages"
+msgstr "Man-síður"
+
+msgid "Backup"
+msgstr "Öryggisafrit"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "RSS / Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Keyra"
+
+msgid "Fluxbox Settings"
+msgstr "Stillingar Fluxbox"
+
+msgid "Configuration"
+msgstr "Stillingar"
+
+msgid "Styles"
+msgstr "Stílar"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Stílar Fluxbox"
+
+msgid "Workspaces"
+msgstr "Vinnusvæði"
+
+msgid "Reconfigure"
+msgstr "Endurstilla"
+
+msgid "Restart"
+msgstr "Endurræsa"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "antiX Installer"
+msgstr "antiX uppsetning"
+
+msgid "Logout..."
+msgstr "Skrá út..."
+
+msgid "Restart JWM"
+msgstr "Endurræsa JWM"
+
+msgid "Log Out"
+msgstr "Skrá út"
+
+msgid "Home Folder"
+msgstr "Heimamappa"
+
+msgid "Browser"
+msgstr "Vafri"
+
+msgid "Unplug Removable Device"
+msgstr "Aftengja útskiptanlega tækið"
+
+msgid "Quit"
+msgstr "Hætta"

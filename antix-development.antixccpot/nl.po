@@ -1,0 +1,215 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: antixcc.sh:18
+msgid "Desktop"
+msgstr "Desktop"
+
+#: antixcc.sh:18
+msgid "System"
+msgstr "Systeem"
+
+#: antixcc.sh:18
+msgid "Network"
+msgstr "Netwerk"
+
+#: antixcc.sh:18
+msgid "Session"
+msgstr "Session"
+
+#: antixcc.sh:19
+msgid "Live"
+msgstr "Live"
+
+#: antixcc.sh:19
+msgid "Disks"
+msgstr "Opslagmedia"
+
+#: antixcc.sh:19
+msgid "Hardware"
+msgstr "Hardware"
+
+#: antixcc.sh:37
+msgid "Choose Wallpaper"
+msgstr "Kies Achtergrond"
+
+#: antixcc.sh:46
+msgid "Edit Fluxbox Settings"
+msgstr "Bewerk Fluxbox-Instellingen"
+
+#: antixcc.sh:55
+msgid "Edit System Monitor"
+msgstr "Bewerk Conky"
+
+#: antixcc.sh:66
+msgid "Change Gtk2 and Icon Themes"
+msgstr "Verander Gtk2- en Icoon-Themas"
+
+#: antixcc.sh:75
+msgid "Edit IceWM Settings"
+msgstr "IceWM instellingen bewerken"
+
+#: antixcc.sh:84
+msgid "Edit jwm Settings"
+msgstr "Jwm instellingen bewerken"
+
+#: antixcc.sh:102
+msgid "Manage Packages"
+msgstr "Pakketbeheer"
+
+#: antixcc.sh:111
+msgid "Configure System"
+msgstr "Systeem Configuratie"
+
+#: antixcc.sh:120
+msgid "Choose Startup Services"
+msgstr "Kies Opstartdiensten"
+
+#: antixcc.sh:131
+msgid "Manage Users"
+msgstr "Gebruikers-Beheer"
+
+#: antixcc.sh:140
+msgid "Edit Config Files"
+msgstr "Bewerk Config-Bestanden"
+
+#: antixcc.sh:149
+msgid "Set Date and Time"
+msgstr "Datum en Tijd"
+
+#: antixcc.sh:167
+msgid "Network Interfaces (ceni)"
+msgstr "Netwerkverbinding (ceni)"
+
+#: antixcc.sh:176
+msgid "Configure GPRS/UMTS Connection"
+msgstr "Configureer GPRS/UMTS-Verbinding"
+
+#: antixcc.sh:185
+msgid "Connect Wirelessly (wicd)"
+msgstr "Draadloze verbinding (wicd)"
+
+#: antixcc.sh:196
+msgid "Wireless (rutilt)"
+msgstr "Draadloze (rutilt)"
+
+#: antixcc.sh:205
+msgid "Configure Dial-Up Connection"
+msgstr "Configureer Inbelverbinding"
+
+#: antixcc.sh:214
+msgid "Manage Firewall"
+msgstr "Firewall Beheer"
+
+#: antixcc.sh:232
+msgid "Change Keyboard Layout"
+msgstr "Verander Toetsenbord Layout"
+
+#: antixcc.sh:241
+msgid "Change Slim Background"
+msgstr "Verander Slim-Achtergrond"
+
+#: antixcc.sh:250
+msgid "Set Screen Resolution"
+msgstr "Stel Schermresolutie In"
+
+#: antixcc.sh:261
+msgid "Edit Login Options"
+msgstr "Bewerk Aanmeld-Opties"
+
+#: antixcc.sh:270
+msgid "Set auto-login"
+msgstr "auto-login Configuratie"
+
+#: antixcc.sh:277
+msgid "After choosing a new theme, please logout/login to see the changes."
+msgstr "A.ub. afmelden/aanmelden na het kiezen van een nieuw thema om te veranderingen te bekijken"
+
+#: antixcc.sh:280
+msgid "Change cursor theme"
+msgstr "Verander Cursor-Thema"
+
+#: antixcc.sh:298
+msgid "RemasterCC"
+msgstr "RemasterCC"
+
+#: antixcc.sh:307
+msgid "Set up live persistence"
+msgstr "Live-persistentie instellen"
+
+#: antixcc.sh:318
+msgid "Save root persistence"
+msgstr "Root-persistentie opslaan"
+
+#: antixcc.sh:327
+msgid "Remaster"
+msgstr "Remaster"
+
+#: antixcc.sh:345
+msgid "Partition a Drive"
+msgstr "Partitioneer Schijf"
+
+#: antixcc.sh:354
+msgid "Mount Connected Devices"
+msgstr "Aangesloten Apparaten Opstarten"
+
+#: antixcc.sh:363
+msgid "Backup Your System"
+msgstr "Bewaar Systeem"
+
+#: antixcc.sh:374
+msgid "Image a Partition"
+msgstr "Partitie Weergeven"
+
+#: antixcc.sh:383
+msgid "Synchronize Directories"
+msgstr "Bestanden Afstemmen"
+
+#: antixcc.sh:392
+msgid "antiX2usb"
+msgstr "antiX2usb"
+
+#: antixcc.sh:410
+msgid "System Information"
+msgstr "Systeem-informatie"
+
+#: antixcc.sh:419
+msgid "Setup a Printer"
+msgstr "Stel Printer In"
+
+#: antixcc.sh:428
+msgid "Configure Sound System"
+msgstr "Geluidssysteem"
+
+#: antixcc.sh:439
+msgid "PC Information"
+msgstr "PC informatie"
+
+#: antixcc.sh:448
+msgid "Configure Mouse"
+msgstr "Muis Configuratie"
+
+#: antixcc.sh:457
+msgid "Adjust Mixer"
+msgstr "Instelling Wijzigen van Mixer"
+
+#: antixcc.sh:468
+msgid "Close"
+msgstr "Sluiten"

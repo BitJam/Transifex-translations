@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# sombreros <sebastiendebierre@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2011-11-02 21:01+0000\n"
+"Last-Translator: sombreros <sebastiendebierre@gmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Options de la souris"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Accélération de la souris"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Changer les mouvements de la souris"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Accélération (multiplicateur)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Seuil (Pixels)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Restaurer le mouvement par défaut"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Ordre des boutons"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Pas de changement"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Mise en page de gauche"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Mise en page de droite"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Taille du curseur"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Changer la taille du curseur"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Taille (en pixels)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Restaurer la taille par défaut"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Thème de curseur"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Après avoir choisi un nouveau thème, Veuillez\\n fermer la session/ouvrir la session pour voir les changements."
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Thème de curseur"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "La vitesse de la souris a changé."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "En utilisant la vitesse de la souris par défaut."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Maintenant, en utilisant la mise en page de gauche."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Maintenant, en utilisant la mise en page de droite."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "La taille du curseur a changé. Veuillez\\n fermer la session/ouvrir la session pour voir les changements."
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "La taille du curseur par défaut a été restaurée.\\nVeuillez fermer la session/ouvrir la session pour voir les changements."

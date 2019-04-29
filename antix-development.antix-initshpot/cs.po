@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2012-11-18 23:54+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "Naplňování adresáře %s"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "Neznámý jazyk lokalizace nabídky %s"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "Adresář %s nenalezen"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "Lokalizování nabídek do %s v %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "Zavedení %s má neplatný parametr %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "Nastavování %s na %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Špatný kód záložního serveru %s (očekávána dvě písmena)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "Lokalizování %s na záložní server %s"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "Nelze najít %s v %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "Nalezena výchozí plocha %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "Plocha %s není platná."
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "Platné volby jsou %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "Nastavování výchozí plochy na %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "Lokalizace/nastavení X-Windows"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "Povolování automatického připojení %s"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "Zákaz automatického připojování"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "Sestavování %s pomocí %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "Zákaz výměny fstab za provozu (his také zakáže automatické připojení)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "Povolení výměny fstab za provozu"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "Nastavení souboru %s"

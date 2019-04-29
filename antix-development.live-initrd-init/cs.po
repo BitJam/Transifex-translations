@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-08-21 19:30+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s zakázáno kvůli zastaralým zálohovacím skriptům a libům"
+
+msgid "The %s program took %s seconds"
+msgstr "%s program zabral %s vteřin"
+
+msgid "Detected %s init system"
+msgstr "Nalezen %s init systém"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Čekám %s vteřin na uspořádání sběrnic ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Zadejte bod(y) přerušení oddělené čárkami"
+
+msgid "Invalid %s value %s"
+msgstr "Naplatná %s hodnota %s"
+
+msgid "Set font to %s"
+msgstr "Nastavit písmo na %s"
+
+msgid "New screen width %s"
+msgstr "Nová šířka obrazovky %s"
+
+msgid "Welcome to %s"
+msgstr "Vítejte v %s"
+
+msgid "Current boot codes"
+msgstr "Aktuální zaváděcí kódy"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Pravděpodobně neznámé nebo chybné zaváděcí kódy"
+
+msgid "don't take this too seriously"
+msgstr "toto neberte příliš vážně"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Neznámá volba(y) v %s. Neznámá volba(y): %s"
+
+msgid "Loading all modules"
+msgstr "Načítání všech modulů"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Načítání modulů pro specifický hardvér ..."
+
+msgid "No %s devices found"
+msgstr "Žádná zařízení %s nebyla nalezena"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "Parametr %s blokuje zařízení %s"
+
+msgid "Even though device %s has %s"
+msgstr "I přesto, že zařízení %s má %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Odstraňte parametr zavedení %s, aby toto zařízení mohlo být skenováno"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Zařízení nalezeno ale nemohu najít %s soubor"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Zkusit znovu o %s vteřin %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Skenování %s zařízení. Hledám %s soubor(y) %s"
+
+msgid "Filtered devices %s"
+msgstr "Filtrovaná zařízení %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Hledat soubor(y) %s na zařízení(ch) %s"
+
+msgid "Found new device(s) %s"
+msgstr "Nalezeno(y) nové zařízení %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Zařízení %s je už připojeno na %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Zařízení %s připojeno. Připojeno zařizení %s na %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "zařízení %s systém souborů: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Hledat %s zařízení s %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Nalezena existující %s instalace"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Hledání diskových oddílů s nejméně %s volného místa. Prosím vyčkejte ..."
+
+msgid "quit"
+msgstr "Konec"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Přeete si prrovést %s instalaci na %s zařízení?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Provádí se %s instalce, mějte strpení prosím ..."
+
+msgid "copy %s to %s"
+msgstr "Kopírovat %s na %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "%s instalace byla úspěšná"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Nelze najít %s soubor %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Nelze připojit %s jako soubor %s"
+
+msgid "File %s not found on device %s"
+msgstr "Soubor %s nenalezen v zařízení %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Nesprávný mód šifrování %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Požadovaný šifrovací modul jádra %s nenalezen,"
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "Program %s nebyl nalezen. Nelze zašifrovat."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "Program %s je poškozen. Nelze zašifrovat."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Hledá se šifrovací jednotka s UUID %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "Nelze najít soubor %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Nelze najít soubory %s nebo %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Žádná zašifrovaná jednotka s UUID %s nebyla nalezena"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Hledání šifrovaného oddílu na jednotce %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Zašifrovaná jednotka %s neexistuje"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "Zašifrovaná jednotka %s není blokové zařízení"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Zašifrovaná jednotka %s není LUKS zařízení"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Zašifrovaná jednotka nalezena. Budete vyzváni k zadání hesla níže."
+
+msgid "Could not open LUKS device %s"
+msgstr "Nelze otevřít LUKS jednotlu %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Zašifrovaná jednotka %s na %s otevřena"
+
+msgid "Could not mount encrypted device"
+msgstr "Zašifrovanou jednotku nelze připojit"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Nelze najít soubor %s na oddílu"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Jste si jistí, že jste si heslo zapsali nebo zapamatovali? "
+
+msgid "press %s to continue"
+msgstr "stiskněte %s pro pokračování"
+
+msgid "Enter"
+msgstr "Zadat"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Měním šifrovací helso ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Prosím zadejte stávající heslo (jako text)"
+
+msgid "The entered passphrase does not match"
+msgstr "Zadané heslo není správné"
+
+msgid "Do you want to try again?"
+msgstr "Chcete to zkusit znovu?"
+
+msgid "Passphrase change aborted"
+msgstr "Změna hesla zrušena"
+
+msgid "Passphrase was not changed"
+msgstr "Heslo nebylo změněno"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Příprava na resetování hesla pri prvním spuštění ..."
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Reset neproběhl: soubor s heslem je prázdný"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Reset neproběhl: v souboru s heslem je nesprávné heslo"
+
+msgid "current phrase %s"
+msgstr "stávající fráze %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Budete vyzváni k zadání hesla dva krát"
+
+msgid "Searched devices: %s"
+msgstr "Prohledané zařízení: %s"
+
+msgid "Searched types: %s"
+msgstr "Prohledané typy: %s"
+
+msgid "All block devices: %s"
+msgstr "Všechny blokované zařízení: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Prosím spojte %s na %s"
+
+msgid "Kernel version mismatch"
+msgstr "Verze jádra se neshoduje"
+
+msgid "Kernel version %s"
+msgstr "Verze jádra %s"
+
+msgid "The module directory %s is missing"
+msgstr "Složka modulu %s chybí"
+
+msgid "Initializing random number generator ..."
+msgstr "Inicializuji Random number generator ..."
+
+msgid "Saving random seed"
+msgstr "Ukládání random seed"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Nelze připojit %s jako %s systém souborů"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Nenalezeno žádné %s v %s"
+
+msgid "Create %s failed"
+msgstr "Vytvoření %s zlyhalo"
+
+msgid "Found %s"
+msgstr "Nalezeno %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Ani %s a také %s není k dispozici "
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "%s systém souborů není k dispozici. Používám %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Vynucení použití %s k přízpůsobení existujícímu souboru rootfs"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "%s systém souborů není k dispozici. Nemohu použít %s soubor"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Povolit %s zálohu"
+
+msgid "Could not mount %s"
+msgstr "Nelze připojit %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Vytvořit %s na %s %s"
+
+msgid "check %s filesystem"
+msgstr "Zkontrolovat %s systém souborů"
+
+msgid "There were no errors on %s"
+msgstr "Na %s se nenašly žádné chyby"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Začátek"
+
+msgid "Skip Error: %s"
+msgstr "Chyba skriptu: %s"
+
+msgid "power off"
+msgstr "vypnout"
+
+msgid "reboot"
+msgstr "restartovat"
+
+msgid "Unknown command"
+msgstr "Neznámý příkaz"
+
+msgid "Please try again"
+msgstr "Prosím zkuste to znovu"
+
+msgid "Unmount successful"
+msgstr "Odpojení úspěšné"
+
+msgid "Press %s to %s"
+msgstr "Stlačte  %s pro %s"
+
+msgid "Will now %s the system"
+msgstr "Teď bude systém %s "
+
+msgid "Fatal Error"
+msgstr "Závažná chyba"
+
+msgid "Non-Fatal Error"
+msgstr "Nezávažná chyba"
+
+msgid "continue"
+msgstr "pokračujte"
+
+msgid "yes"
+msgstr "Ano"
+
+msgid "no"
+msgstr "Ne"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Musíte zadat odpověď %s nebo %s. Prosím zkuste to znovu"
+
+msgid "The default is"
+msgstr "Předvoleno je"
+
+msgid "default"
+msgstr "předvolené"
+
+msgid "Press <%s> for the default selection"
+msgstr "Stiskněte <%s> pro předvolený výběr"
+
+msgid "enter"
+msgstr "zadat"
+
+msgid "The number <%s> is out of range"
+msgstr "Množství %s je mimo rozsah"
+
+msgid "Current default"
+msgstr "Aktuální předvolené"
+
+msgid "Reset"
+msgstr "Resetovat"
+
+msgid "Keeping default %s"
+msgstr "Zachování předvolený %s"
+
+msgid "Previous default %s erased"
+msgstr "Předchozí předvolený %s vymazán"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s nastavit na %s"
+
+msgid "Default"
+msgstr "Předvolené"
+
+msgid "Select Language"
+msgstr "Vybrat jazyk"
+
+msgid "Languages are listed alphabetically"
+msgstr "Jazyky jsou seřazeny abecedně"
+
+msgid "Language"
+msgstr "Jazyk"
+
+msgid "Select number of console columns"
+msgstr "Vybrat počet sloupců konzole"
+
+msgid "Wider means a smaller font"
+msgstr "Širší znamená, že text bude menší  "
+
+msgid "Console columns"
+msgstr "Sloupce konzoly"
+
+msgid "Select Timezone"
+msgstr "Vybrat Časové pásmo"
+
+msgid "Timezones are listed by longitude"
+msgstr "Časová pásma jsou seřazena dle zeměpisné délky"
+
+msgid "Timezone"
+msgstr "Časové pásmo"
+
+msgid "Select Option"
+msgstr "Vybrat volbu"
+
+msgid "Only one option can be selected"
+msgstr "Pouze jedna volba může být vybrána"
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Select Mounting Option"
+msgstr "Vybrat možnost připojování"
+
+msgid "Automounting is enabled by default"
+msgstr "Automatické připojení povoleno jako předvolené"
+
+msgid "Mount"
+msgstr "Připojit"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Vybrat volbu zálohy Persistence"
+
+msgid "Persistence"
+msgstr "Persistence"
+
+msgid "Select font size"
+msgstr "Nastavit výšku písma"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Škálování písma v grafickém zobrazení. Předvolené je 1.0"
+
+msgid "Select Desktop"
+msgstr "Vyberte plochu"
+
+msgid "Desktop"
+msgstr "Pracovní plocha"
+
+msgid "Save these changes?"
+msgstr "Uložit změny?"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Please select %s device:"
+msgstr "Prosím vyberte %s zařízení:"
+
+msgid "reverse video"
+msgstr "přetočit video"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Diskové oddíly které nemohou být použity jsou vypsány ale nelze je vybrat."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "Omezující faktory jsou zvýrazněny v %s"
+
+msgid "The device %s already has label %s"
+msgstr "Zařízení %s již má popisek %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Aktualizovat popisek %s z %s na %s?"
+
+msgid "The device %s has no label"
+msgstr "Zařízení %s nemá žádný popisek"
+
+msgid "Give %s the label %s?"
+msgstr "Přidat %s popisek %s?"
+
+msgid "Label updated to %s"
+msgstr "Popisek aktualizován na %s"
+
+msgid "Valid %s"
+msgstr "Platné %s"
+
+msgid "Could not find device %s"
+msgstr "Nelze najít zařízení %s"
+
+msgid "Valid devices"
+msgstr "Platná zařízení"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s neshoda mezi %s a %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Kopírovat %s do prázdného %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s soubor nebyl nalezen %s"
+
+msgid "No %s found in file %s"
+msgstr "Žádný %s nenalezen v souboru %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Žádný %s nenalezen ale je tam %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Kontrola souborů %s v složce %s. Prosím buďte trpěliví ..."
+
+msgid "file: %s"
+msgstr "soubor: %s"
+
+msgid "result: %s"
+msgstr "výsledek: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Žádné kontrolní hodnoty %s nebyly nalezeny v %s. Nelze provést žádné %s testy."
+
+msgid "At least one %s checksum did not match"
+msgstr "Alespoň jedna %s kontrolní hodnota se neshodovala"
+
+msgid "Success!  The file passed"
+msgstr "Úspěch! Soubor prošel"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Úspěch! Všechny %s soubory prošly"
+
+msgid "Wait %s seconds"
+msgstr "Čekejte %s vteřin"
+
+msgid "copy %s file to RAM"
+msgstr "Kopírovat %s soubor do RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Kopírování souborů z %s do %s. Prosím buďte trpěliví ..."
+
+msgid "Size of original %12s"
+msgstr "Velikost originálu %12s"
+
+msgid "Size of copy %12s"
+msgstr "Velikost kopie %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Kopírování do RAM bylo úspěšné"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Připojit zálohové zařízení (ak bude potřeba)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr ""
+
+msgid "create %s persistence file"
+msgstr "vytvořit %s soubor zálohy"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr ""
+
+msgid "This default size will leave %s MiB free"
+msgstr ""
+
+msgid "Create %s file, manually or automatically"
+msgstr "Vytvořit %s soubor, manuálně nebo automaticky"
+
+msgid "create automatically"
+msgstr "vytvořit automaticky"
+
+msgid "create custom"
+msgstr "vytvořit uživatelem"
+
+msgid "Please select size of %s file"
+msgstr "Prosím vyberte velikost %s souboru"
+
+msgid "There is %s MiB available on the device"
+msgstr ""
+
+msgid "Filesystem size %s MiB"
+msgstr ""
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr ""
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr ""
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Prosím vyčkejte, kým se naleznou stávající diskové oddíly ..."
+
+msgid "persistence"
+msgstr "záloha"
+
+msgid "persist device"
+msgstr "zálohové zařízení"
+
+msgid "Enabled %s persistence"
+msgstr "Povolena %s záloha"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr ""
+
+msgid "mount persistence file %s at %s"
+msgstr "připojit zálohový soubor %s na %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Přejete si přesto povolit zálohu Home?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Zvláštní, nelze přesunout bod připojení homefs"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr ""
+
+msgid "There's not enough space to copy all the files"
+msgstr "Není dostatek místa na zkopírování všech souborů"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Přejete si zkopírovat soubory do zálohy Home?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Žádný %s soubor nenalezen. Přejmenovat %s na %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr ""
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Změnit velikost homefs. Kopírovat obsah %s do %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Kopírování sytému souborů Home. Prosím buďte trpěliví ..."
+
+msgid "Press <%s> to continue"
+msgstr "Stiskněte <%s> pro pokračování"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Zvolili jste VGA rozlišení %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Přejete si zachovat toto rozlišení pro následující přihlášení?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Nové nastavení VGA a jiné parametry zavádění systému se ted uloží"
+
+msgid "umount %s"
+msgstr "odpojit %s"
+
+msgid "umount of %s failed"
+msgstr "odpojení %s zlyhalo"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Předvolená velikost: %s MB. Systém souborů: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Předvolená velikost ponechá %s MB volného místa"
+
+msgid "There is %s Meg available on the device"
+msgstr "Na jednotce je dostuných %s MB"
+
+msgid "Filesystem size %s Meg"
+msgstr "Velikost systému souborů %s MB"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Vytvořit %s soubor typu %s a velikosti %s MB"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Kopírovat %s MB do RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "%4s MB souborů se uchová v záloze Home "
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "V souboru zálohy Home je %4s MB volného místa"

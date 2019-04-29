@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-27 02:09+0300\n"
+"PO-Revision-Date: 2014-03-13 00:54+0000\n"
+"Last-Translator: BitJam <BitJam@gmail.com>\n"
+"Language-Team: Hindi (http://www.transifex.com/projects/p/antix-development/language/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: block-advert.sh:80
+msgid "Empty ad list. No change made in /etc/hosts."
+msgstr ""
+
+#: block-advert.sh:110
+#, sh-format
+msgid "Loading  adlist from $domain"
+msgstr ""
+
+#: block-advert.sh:143
+msgid ""
+"Success - your settings have been changed.\\n\\nYour hosts file has been "
+"updated.\\nRestart your browser to see the changes."
+msgstr ""
+
+#: block-advert.sh:164
+msgid "Choose your preferred ad blocking service(s)"
+msgstr ""
+
+#: block-advert.sh:202
+msgid "No item selected"
+msgstr ""

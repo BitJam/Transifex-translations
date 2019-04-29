@@ -1,0 +1,725 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# Miroslav Sido <miro_redhawk@hotmail.com>, 2017
+# joyinko <joyinko@azet.sk>, 2017
+# Jaroslav Štefka <jaroslav.stefka1977@gmail.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: 2016-10-14 08:28+0000\n"
+"Last-Translator: Jaroslav Štefka <jaroslav.stefka1977@gmail.com>, 2018\n"
+"Language-Team: Slovak (https://www.transifex.com/anticapitalista/teams/10162/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Štartuje %s"
+
+msgid "The selected usb drive was %s"
+msgstr ""
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr ""
+
+msgid "Do you want to use it anyway?"
+msgstr ""
+
+msgid "Will use target device %s"
+msgstr ""
+
+msgid "Create an encrypted live-usb?"
+msgstr ""
+
+msgid "copying"
+msgstr ""
+
+msgid "Please enter the filename"
+msgstr ""
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr ""
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "zariadenie"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr ""
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr ""
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr ""
+
+msgid "Could not find device %s"
+msgstr "Zariadenie %s nenájdené"
+
+msgid "Customize language and timezone?"
+msgstr ""
+
+msgid "Encryption enabled"
+msgstr ""
+
+msgid "encrypted"
+msgstr ""
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr ""
+
+msgid "Ready to perform %s action on %s"
+msgstr ""
+
+msgid "Ready to perform %s actions on %s"
+msgstr ""
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Chcete začať?"
+
+msgid "install"
+msgstr ""
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr ""
+
+msgid "Will use initial passphrase %s"
+msgstr ""
+
+msgid "Make a full-featured live-usb"
+msgstr ""
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr ""
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr ""
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr ""
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr ""
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr ""
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr ""
+
+msgid "Clear the partition table on a usb device"
+msgstr ""
+
+msgid "Please select what action to perform"
+msgstr ""
+
+msgid "Please select the source for the new live-usb"
+msgstr ""
+
+msgid "The only usb drive detected was %s"
+msgstr ""
+
+msgid "A %s usb drive was detected"
+msgstr ""
+
+msgid "Do you want it included in the menu anyway"
+msgstr ""
+
+msgid "No available target usb devices were found"
+msgstr ""
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr ""
+
+msgid "Please select the target usb device"
+msgstr ""
+
+msgid "entire drive"
+msgstr ""
+
+msgid "main partition"
+msgstr ""
+
+msgid "bios partition"
+msgstr ""
+
+msgid "uefi partition"
+msgstr ""
+
+msgid "Already using over 90% of the device"
+msgstr ""
+
+msgid "Do you want to change how much of the device is used?"
+msgstr ""
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr ""
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr ""
+
+msgid "About to encrypt device %s"
+msgstr ""
+
+msgid "We want to overwrite the data on %s"
+msgstr ""
+
+msgid "Type in upper-case %s as suggested"
+msgstr ""
+
+msgid "You will be asked for the passphrase a third time"
+msgstr ""
+
+msgid "Failed to create encrypted device"
+msgstr ""
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr ""
+
+msgid "Failed to open encrypted device"
+msgstr ""
+
+msgid "Encryption successful"
+msgstr ""
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr ""
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr ""
+
+msgid "copy from %s to %s partition"
+msgstr ""
+
+msgid "files: %s"
+msgstr ""
+
+msgid "Error while copying files to main partition of live usb"
+msgstr ""
+
+msgid "Error while copying %s files"
+msgstr ""
+
+msgid "An error occurred unpacking the initrd"
+msgstr ""
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr ""
+
+msgid "Enable encryption in the live initrd"
+msgstr ""
+
+msgid "Disable encryption in the live initrd"
+msgstr ""
+
+msgid "Fix %s bug"
+msgstr ""
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr ""
+
+msgid "Not enough space on %s partition"
+msgstr "Na diskovom oddieli %s nie je dostatok miesta"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Na diskovom oddieli %s by zostalo menej ako %s MB"
+
+msgid "done"
+msgstr "Hotovo"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Zatvoriť"
+
+msgid "Please enter the name of the iso file"
+msgstr ""
+
+msgid "The live media is not mounted"
+msgstr "Live médium nie je pripojené"
+
+msgid "Current running kernel is %s"
+msgstr "Linuxové jadro - kernel v chode je %s"
+
+msgid "This is not a live-usb system"
+msgstr "Toto nie je Live-USB systém"
+
+msgid "Will use running live system"
+msgstr "Použije sa bežiaci Live systém"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "Zariadenie '%s' sa nejaví ako USB jednotka"
+
+msgid "Can't find first partition on device %s"
+msgstr "Na jednotke %s sa nepodarilo nájsť prvý diskový oddiel "
+
+msgid "Device %s is not a disk partition"
+msgstr "Zariadenie %s nie je diskovým oddielom"
+
+msgid "Will use live-usb device %s"
+msgstr "Použije sa Live-USB jednotka %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "Žiadny '%s' súbor v zložkách na '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "Na Live-USB sa nenachádza '%s' ani '%s'"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "%s súbor %s v zložke %s nájdený"
+
+msgid "Could not find initrd file: %s"
+msgstr "Nepodarilo sa nájsť súbor initrd: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Nájdené:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "Live linuxové jadro súhrn"
+
+msgid "total live kernels"
+msgstr "Live linuxové jadrá súhrn"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "predvolené Live linuxové jadro"
+
+msgid "default live kernels"
+msgstr "predvolené Live linuxové jadrá"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "staršie linuxové jadro"
+
+msgid "old live kernels"
+msgstr "staršie linuxové jadrá"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "nainštalované linuxové jadro súhrn"
+
+msgid "total installed kernels"
+msgstr "nainštalované linuxové jadrá súhrn"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "nové nainštalované linuxové jadro"
+
+msgid "new installed kernels"
+msgstr "nové nainštalované linuxové jadrá"
+
+msgid "Live kernels:"
+msgstr "Live linuxové jadrá:"
+
+msgid "Boot kernels:"
+msgstr "Linuxové jadrá pre štart systému:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "Bolo rozpoznané iba jedno novonainštalované linuxové jadro: "
+
+msgid "New installed kernels:"
+msgstr "Nové nainštalované linuxové jadrá:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Našlo sa %s nových linuxových jadier. Zobrazené je len najnovšie %s."
+
+msgid "No kernels were found in the boot directory"
+msgstr "V zložke zavádzača neboli nájdené žiadne linuxové jadrá"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "V zložke Live zavádzača neboli nájdené žiadne linuxové jadrá"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr ""
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr ""
+
+msgid "No new kernels were found"
+msgstr "Neboli nájdené žiadne linuxové jadrá"
+
+msgid "Can only update the initrd file"
+msgstr "Je možné iba zaktualizovať súbor initrd"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Pred aktualizáciou linuxového jadra musíte najskôr linuxové jadro "
+"nainštalovať a zremástrovať systém"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Neboli nájdené žiadne linuxové jadrá, ani vzorový súbor initrd"
+
+msgid "live kernel update"
+msgstr "aktualizácia Live linuxového jadra"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Aktuálne"
+
+msgid "New"
+msgstr "Nové"
+
+msgid "(new)"
+msgstr "(nové)"
+
+msgid "live kernel rollback"
+msgstr "návrat Live linuxového jadra"
+
+msgid "Old"
+msgstr "Staré"
+
+msgid "live initrd update"
+msgstr "aktualizácia Live initrd"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Aktualizovať súbor initrd"
+
+msgid "live modules update"
+msgstr "aktualizácia Live modulov"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Pridať initrd moduly"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr ""
+
+msgid "The current Live System on %s"
+msgstr "Aktuálny Live systém na %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Tento systém nie je Live-USB a žiadne USB zariadenie nebolo nájdené"
+
+msgid "Please select the system to update"
+msgstr "Prosím vyberte systém k aktualizácii"
+
+msgid "No update or rollback actions are available"
+msgstr "Nie je možné aktualizovať alebo navrátiť "
+
+msgid "Please select an action to perform"
+msgstr "Prosím vyberte čo chcete previesť"
+
+msgid "Update"
+msgstr "Aktualizovať"
+
+msgid "from"
+msgstr "z"
+
+msgid "Rollback"
+msgstr "Návrat"
+
+msgid "to"
+msgstr "do"
+
+msgid "Update initrd using file %s"
+msgstr ""
+
+msgid "Quit"
+msgstr "Koniec"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "V zložke zavádzača neboli nájdené žiadne nové linuxové jadrá"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "Jedno linuxové jadro v zhode s požadovanou verziou %s"
+
+msgid "Found one new kernel %s"
+msgstr "Bolo nájdné jendo nové linuxové jadro %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "Prosím vyberte nové linuxové jadro z tohto zoznamu"
+
+msgid "kernel"
+msgstr "linuxové jadro"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Kopírovanie initrd modulov pre linuxové jadro %s zlyhalo"
+
+msgid "No modules were copied to the initrd"
+msgstr "Do initrd neboli zkopírované žiadne moduly"
+
+msgid "Compressing ..."
+msgstr "Komprimovanie..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "inštalovať  %s"
+
+msgid "Overwriting backup"
+msgstr "Prepisovanie zálohy"
+
+msgid "Target file %s does not exist"
+msgstr "Cieľový súbor %s neexistuje"
+
+msgid "Could not find old %s file to roll back"
+msgstr "Starý %s súbor pre návrat sa nenašiel"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Návratiť %s na %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "vo fingovanom móde"
+
+msgid "Would you like to do a remaster now?"
+msgstr ""
+
+msgid "Ready to restart %s"
+msgstr ""
+
+msgid "Expected a parameter after: %s"
+msgstr "Je požadovaný parameter po: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Podozrivý argument po %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "Pozastavené na '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press <%s> to continue"
+msgstr ""
+
+msgid "Unknown command: %s"
+msgstr "Neznámy príkaz: %s"
+
+msgid "yes"
+msgstr "Ano"
+
+msgid "no"
+msgstr "Nie"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "Koniec"
+
+msgid "default"
+msgstr "predvolený"
+
+msgid "pretend mode"
+msgstr "fingovaný mód"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr ""
+
+msgid "entry"
+msgstr ""
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Stlačte <%s> pre predvolený %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr ""
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr ""
+
+msgid "Oops.  Please try again"
+msgstr ""
+
+msgid "You must enter a number"
+msgstr "Musíte zadať číslo"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Musíte zadať číslo a stlačiť <Enter>"
+
+msgid "The number '%s' is out of range"
+msgstr "Číslo '%s' je mimo povolený rozsah"
+
+msgid "Press '%s' again to quit"
+msgstr "Použite '%s' znovu pre ukončenie"
+
+msgid "You chose %s"
+msgstr "Zvolili ste %s"
+
+msgid "Please select the live boot directory"
+msgstr ""
+
+msgid "You entered: %s"
+msgstr "Zadali ste: %s"
+
+msgid "Is this correct?"
+msgstr "Je to správne?"
+
+msgid "(tab completion is enabled)"
+msgstr ""
+
+msgid "%s does not appear to be a file"
+msgstr ""
+
+msgid "Try again?"
+msgstr ""
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Zariadenie"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+msgid "Filesystem"
+msgstr "Systém súborov"
+
+msgid "Label"
+msgstr "Menovka"
+
+msgid "Model"
+msgstr "Model"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Klonovať tento Live systém"
+
+msgid "Copy from an ISO file"
+msgstr "Kopírovať z ISO súboru"
+
+msgid "Check md5 of the file %s?"
+msgstr "Zkontrolovať md5 súboru %s?"
+
+msgid "Checking md5 ..."
+msgstr "Kontrola md5 ..."
+
+msgid "Keep going anyway?"
+msgstr "Pokračovať aj napriek tomu?"
+
+msgid "The %s program failed!"
+msgstr "%s program zlyhal!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Súbor"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Verzia"
+
+msgid "Date"
+msgstr "Dátum"
+
+msgid "From"
+msgstr "Z"
+
+msgid "To"
+msgstr "Do"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Celkom"
+
+msgid "Used"
+msgstr "Použité"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Error"
+msgstr "Chyba"
+
+msgid "Warning"
+msgstr "Upozornenie"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr ""
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "%s proces (ktorý používa PID %s) je už spustený"
+
+msgid "Please close that process before starting a new one"
+msgstr "Prosím ukončite ten proces pred tým, než spustíte nový"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Zamknutie na %s zlyhalo"
+
+msgid "Creating new config file %s"
+msgstr "Vytváranie nového konfiguračného súboru %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Program %s nebol nájdený. Preskakuje sa %s."
+
+msgid "Could not find required program '%s'"
+msgstr "Požadovaný program '%s' nebol nájdený"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "%s zložka '%s' nie je prepisovateľná"
+
+msgid "Could not find iso file %s"
+msgstr "ISO súbor %s sa nepodarilo nájsť"
+
+msgid "Could not read iso file %s"
+msgstr "ISO súbor %s je nečitateľný"
+
+msgid "Could not mount iso file %s"
+msgstr "ISO súbor %s sa nepodarilo pripojiť"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distribúcia: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distribúcia: %s na %s"
+
+msgid "This script must be run as root"
+msgstr "Tento skript musíte spustiť ako Root "
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr ""
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr ""
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr ""

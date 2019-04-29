@@ -1,0 +1,728 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2016\n"
+"Language-Team: Greek (https://www.transifex.com/anticapitalista/teams/10162/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "το %s ξεκίνησε"
+
+msgid "The selected usb drive was %s"
+msgstr "επιλεγμένη μονάδα δίσκου USB %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr ""
+"Αυτή η συσκευή είναι γνωστό ότι προκαλεί σφάλματα κατά τη δημιουργία και την"
+" εκκίνηση"
+
+msgid "Do you want to use it anyway?"
+msgstr "Θέλετε να το χρησιμοποιήσετε ούτως ή άλλως;"
+
+msgid "Will use target device %s"
+msgstr "Θα χρησιμοποιήσει τη συσκευή προορισμού %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Δημιουργήστε ένα κρυπτογραφημένο live-usb"
+
+msgid "copying"
+msgstr "Αντιγραφή "
+
+msgid "Please enter the filename"
+msgstr "Παρακαλώ εισάγετε το όνομα του αρχείου"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "αρχείο"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "τη συσκευή"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "κλωνοποίηση"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "κατάλογος"
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "Θα χρησιμοποιήσει πηγή %s"
+
+msgid "Could not find device %s"
+msgstr "Δεν ήταν δυνατή η εύρεση συσκευής %s"
+
+msgid "Customize language and timezone?"
+msgstr "Προσαρμόστε τη γλώσσα και τη ζώνη ώρας"
+
+msgid "Encryption enabled"
+msgstr "Έχει ενεργοποιηθεί η κρυπτογράφηση"
+
+msgid "encrypted"
+msgstr "Κρυπτογραφημένο"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "Έτοιμος να κάνει το %s στη συσκευή %s από το %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "Έτοιμο να εκτελέσετε%s στο %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "Έτοιμο να εκτελέσετε%s στο %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Να προχωρήσουμε;"
+
+msgid "install"
+msgstr "εγκατάσταση"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr ""
+"Θα σας ζητηθεί να δημιουργήσετε μια φράση πρόσβασης κατά την πρώτη εκκίνηση"
+
+msgid "Will use initial passphrase %s"
+msgstr "Θα χρησιμοποιήσει την αρχική φράση πρόσβασης %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "Κάντε ένα πλήρως εξοπλισμένο live-usb"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Δημιουργήστε ένα κρυπτογραφημένο full-featured live-usb"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr ""
+"Δημιουργήστε ένα προσαρμοσμένο live-usb (περιλαμβάνει την επιλογή "
+"κρυπτογράφησης)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr ""
+"Ενημερώστε το λειτουργικό σύστημα σε ένα υπάρχον live-usb (πειραματικό)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Ενημέρωση UUID στις υπάρχουσες live-usb"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Ενημέρωση παράμετροι εκκίνησης των υφιστάμενων live-usb"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Επανεγκατάσταση legacy bootloader στις υπάρχουσες live-usb"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Καθαρίστε τον πίνακα διαμερισμάτων σε μια συσκευή USB"
+
+msgid "Please select what action to perform"
+msgstr "Παρακαλώ επιλέξτε ποια ενέργεια για να εκτελέσει"
+
+msgid "Please select the source for the new live-usb"
+msgstr "Επιλέξτε την πηγή για το νέο live-usb"
+
+msgid "The only usb drive detected was %s"
+msgstr "Η μοναδική μονάδα δίσκου USB που εντοπίστηκε ήταν %s"
+
+msgid "A %s usb drive was detected"
+msgstr "Έχει εντοπιστεί μια μονάδα USB %s"
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Θέλετε να συμπεριληφθεί στο μενού ούτως ή άλλως"
+
+msgid "No available target usb devices were found"
+msgstr "Δεν υπάρχουν διαθέσιμες συσκευές USB "
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "Βρέθηκε μόνο μια συσκευή usb %s"
+
+msgid "Please select the target usb device"
+msgstr "Επιλέξτε στόχο της συσκευής USB"
+
+msgid "entire drive"
+msgstr "ολόκληρο το δίσκο"
+
+msgid "main partition"
+msgstr "κύριο διαμέρισμα"
+
+msgid "bios partition"
+msgstr "κατάτμηση bios"
+
+msgid "uefi partition"
+msgstr "κατάτμηση uefi "
+
+msgid "Already using over 90% of the device"
+msgstr "Χρησιμοποιείται ήδη πάνω από το 90% της συσκευής"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Θέλετε να αλλάξετε το ποσότητα της συσκευής χρησιμοποιείται"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "Έχει οριστεί μέγεθος σε %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Παρακαλούμε επιλέξτε πόσος χώρος θα χρησιμοποιηθεί για τις κατατμήσεις live-"
+"usb"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Υποθέτοντας ότι πρόκειται για κρυπτογραφημένο live-usb"
+
+msgid "About to encrypt device %s"
+msgstr "Έτοιμος για κρυπτογράφηση της συσκευής %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "Θέλουμε να αντικαταστήσουμε τα δεδομένα στο %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Πληκτρολογήστε την κεφαλή %sόπως προτείνεται"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "Θα σας ζητηθεί η φράση πρόσβασης για τρίτη φορά"
+
+msgid "Failed to create encrypted device"
+msgstr "Αποτυχία δημιουργίας κρυπτογραφημένης συσκευής"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Θέλετε να δοκιμάσετε την εισαγωγή της νέας φράσης πρόσβασης τώρα;"
+
+msgid "Failed to open encrypted device"
+msgstr "Αποτυχία ανοίγματος κρυπτογραφημένης συσκευής"
+
+msgid "Encryption successful"
+msgstr "Η κρυπτογράφηση ήταν επιτυχής"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "Παρακαλώ περιμένετε ενώ γίνεται mount του οπτικό δίσκο στο %s"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Χρησιμοποιώντας κατάτμηση %s"
+
+msgid "copy from %s to %s partition"
+msgstr "αντιγραφή από %s σε διαμέρισμα %s"
+
+msgid "files: %s"
+msgstr "αρχεία: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr "Σφάλμα κατά την αντιγραφή αρχείων στο κύριο διαμέρισμα του live usb"
+
+msgid "Error while copying %s files"
+msgstr "Σφάλμα κατά την αντιγραφή αρχείων %s"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Παρουσιάστηκε σφάλμα κατά την αποσυσκευασία του initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr ""
+"Δεν μπόρεσε να προσθέσει όλα τα απαιτούμενα προγράμματα στο live initrd"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Ενεργοποιήστε την κρυπτογράφηση στο live initrd"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Απενεργοποιήστε την κρυπτογράφηση στο live initrd"
+
+msgid "Fix %s bug"
+msgstr "Επίλυση %sσφαλμάτων"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Δημιουργία κατάλογο syslinux από %s"
+
+msgid "Not enough space on %s partition"
+msgstr "Δεν υπάρχει αρκετός χώρος στο διαμέρισμα %s"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Λιγότερο από %s MiB θα παραμείνει στο διαμέρισμα %s"
+
+msgid "done"
+msgstr "Ολοκληρώθηκε"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Έξοδος "
+
+msgid "Please enter the name of the iso file"
+msgstr "Καταχωρίστε το όνομα του αρχείου iso"
+
+msgid "The live media is not mounted"
+msgstr "Τα  live media δεν έχουν τοποθετηθεί"
+
+msgid "Current running kernel is %s"
+msgstr "Τρέχουσα πυρήνα είναι %s"
+
+msgid "This is not a live-usb system"
+msgstr "Αυτό δεν είναι ένα σύστημα live-USB"
+
+msgid "Will use running live system"
+msgstr "Θα χρησιμοποιήσει τη λειτουργία σύστημα live"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "Η συσκευή '%s' δε φαίνεται να είναι μια συσκευή USB"
+
+msgid "Can't find first partition on device %s"
+msgstr "δε βρέθηκε το πρώτο διαμέρισμα στη συσκευή %s"
+
+msgid "Device %s is not a disk partition"
+msgstr "Συσκευή %s δεν είναι ένα διαμέρισμα δίσκου"
+
+msgid "Will use live-usb device %s"
+msgstr "Θα χρησιμοποιήσει live-usb %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "'%s' αρχείου δε βρέθηκε σε οποιονδήποτε κατάλογο στο '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr " δε βρέθηκε το αρχείο '%s' ή '%s' στο live-usb"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "βρέθηκε %s αρχείου %s στον κατάλογο %s"
+
+msgid "Could not find initrd file: %s"
+msgstr "δε βρέθηκε το αρχείο initrd: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "βρέθηκε:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "αριθμός των live πυρήνων"
+
+msgid "total live kernels"
+msgstr "αριθμός των live πυρήνων"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "προεπιλογή live πυρήνα"
+
+msgid "default live kernels"
+msgstr "προεπιλογή live πυρήνες"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "παλιό live πυρήνα"
+
+msgid "old live kernels"
+msgstr "παλιές live πυρήνες"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "αριθμός εγκατεστημένων πυρήνων"
+
+msgid "total installed kernels"
+msgstr "αριθμός εγκατεστημένων πυρήνων"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "νέο εγκατεστημένο πυρήνα"
+
+msgid "new installed kernels"
+msgstr "νέα εγκατεστημένων πυρήνων"
+
+msgid "Live kernels:"
+msgstr "Live πυρήνες"
+
+msgid "Boot kernels:"
+msgstr "Boot πυρήνες:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "Μόνο ένα νέο εγκατεστημένο πυρήνα βρέθηκε:"
+
+msgid "New installed kernels:"
+msgstr "Νέα εγκατεστημένους πυρήνες:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Υπάρχουν %s νέους πυρήνες. Δείχνουμε την πιο πρόσφατη %s."
+
+msgid "No kernels were found in the boot directory"
+msgstr "Δεν βρέθηκαν πυρήνες στον κατάλογο εκκίνησης"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "Δεν βρέθηκαν πυρήνες στο live κατάλογο εκκίνησης"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "Θα πρέπει να κάνετε ένα remaster πριν κάνετε μια ενημέρωση του πυρήνα"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "ΠΡΕΠΕΙ να κάνετε ένα remaster πριν κάνετε μια ενημέρωση του πυρήνα"
+
+msgid "No new kernels were found"
+msgstr "Δε βρέθηκαν νέους πυρήνες"
+
+msgid "Can only update the initrd file"
+msgstr "Να ενημερωθεί μόνο το αρχείο initrd"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Πρέπει να εγκαταστήσετε έναν πυρήνα και στη συνέχεια κάντε ένα ρεμίξ πριν "
+"μια ενημέρωση του πυρήνα"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Δε βρέθηκαν νέους πυρήνες και δεν υπάρχει αρχείο template initrd"
+
+msgid "live kernel update"
+msgstr "Live Update του πυρήνα"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Τρέχουσα"
+
+msgid "New"
+msgstr "Νέο"
+
+msgid "(new)"
+msgstr "(νέο)"
+
+msgid "live kernel rollback"
+msgstr " live επαναφορά του πυρήνα"
+
+msgid "Old"
+msgstr "Παλιό"
+
+msgid "live initrd update"
+msgstr "πυρήνας"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Ενημέρωση του initrd χρησιμοποιώντας το αρχείο"
+
+msgid "live modules update"
+msgstr "ενημέρωση live modules"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Προσθέστε initrd modules"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "Έτοιμος να κάνει την ακόλουθη %s"
+
+msgid "The current Live System on %s"
+msgstr "Η τρέχουσα Live System στο %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Το σύστημα δεν είναι ένα live-usb και δεν ανιχνεύθηκαν δίσκους usb"
+
+msgid "Please select the system to update"
+msgstr "Επιλέξτε το σύστημα για ενημέρωση"
+
+msgid "No update or rollback actions are available"
+msgstr "Ενέργειες ενημέρωσης ή επαναφοράς δεν είναι διαθέσιμες"
+
+msgid "Please select an action to perform"
+msgstr "Παρακαλώ επιλέξτε ποια ενέργεια για να εκτελέσει"
+
+msgid "Update"
+msgstr "Ενημέρωση"
+
+msgid "from"
+msgstr "από"
+
+msgid "Rollback"
+msgstr "Επαναφορά"
+
+msgid "to"
+msgstr "σε"
+
+msgid "Update initrd using file %s"
+msgstr "Ενημέρωση του initrd χρησιμοποιώντας το αρχείο %s"
+
+msgid "Quit"
+msgstr "Έξοδος "
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "Δεν βρέθηκαν νέους πυρήνες στον κατάλογο εκκίνησης"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "βρέθηκε έναν πυρήνα που ταιριάζει το ζητούμενο έκδοση %s"
+
+msgid "Found one new kernel %s"
+msgstr "Βρέθηκε έναν νέο πυρήνα %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "Επιλέξτε το νέο πυρήνα από αυτή τη λίστα"
+
+msgid "kernel"
+msgstr "πυρήνας"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Η αντιγραφή των initrd modules απέτυχε για τον πυρήνα %s"
+
+msgid "No modules were copied to the initrd"
+msgstr "Δεν αντιγράφηκαν ενότητες στο initrd"
+
+msgid "Compressing ..."
+msgstr "Γίνεται συμπίεση"
+
+#. install <filename>
+msgid "install %s"
+msgstr "Εγκατάσταση %s"
+
+msgid "Overwriting backup"
+msgstr "Αντικατάσταση του backup"
+
+msgid "Target file %s does not exist"
+msgstr "Το αρχείο προορισμού %s δεν υπάρχει"
+
+msgid "Could not find old %s file to roll back"
+msgstr "δε βρέθηκε το παλιό αρχείο %s για επαναφορά"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Επαναφορά %s σε %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "σε δοκιμαστική λειτουργία"
+
+msgid "Would you like to do a remaster now?"
+msgstr "Θα θέλατε να κάνετε ένα remaster τώρα;"
+
+msgid "Ready to restart %s"
+msgstr "Έτοιμος για επανεκκίνηση %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "Αναμένεται μια παράμετρος μετά: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Ύποπτες επιχείρημα μετά από %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "Παύση σε '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press <%s> to continue"
+msgstr "Πατήστε το <%s> για να συνεχίσετε"
+
+msgid "Unknown command: %s"
+msgstr "Άγνωστη εντολή: %s"
+
+msgid "yes"
+msgstr "ναι"
+
+msgid "no"
+msgstr "όχι"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "Έξοδος "
+
+msgid "default"
+msgstr "προεπιλογή"
+
+msgid "pretend mode"
+msgstr "δοκιμαστική λειτουργία"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "Η λειτουργία PRETEND ενεργοποιήθηκε"
+
+msgid "entry"
+msgstr "είσοδος"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Πατήστε <%s> για την προεπιλογή %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Χρήση %sγια βοήθεια, %sγια %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Χρησιμοποιήστε το %s να %s"
+
+msgid "Oops.  Please try again"
+msgstr "Παρακαλώ προσπαθήστε ξανά"
+
+msgid "You must enter a number"
+msgstr "Πρέπει να εισάγετε έναν αριθμό."
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Πρέπει να εισάγετε έναν αριθμό η πατήστε το πλήκτρο ENTER"
+
+msgid "The number '%s' is out of range"
+msgstr "Ο αριθμός '%s' είναι εκτός εμβέλειας"
+
+msgid "Press '%s' again to quit"
+msgstr "Πατήστε ξανά '%s' για έξοδο"
+
+msgid "You chose %s"
+msgstr "Επιλέξατε %s"
+
+msgid "Please select the live boot directory"
+msgstr "Επιλέξτε τον κατάλογο live boot"
+
+msgid "You entered: %s"
+msgstr "έχετε εισάγει: %s"
+
+msgid "Is this correct?"
+msgstr "Είναι σωστό?"
+
+msgid "(tab completion is enabled)"
+msgstr "(Η συμπλήρωση καρτελών είναι ενεργοποιημένη)"
+
+msgid "%s does not appear to be a file"
+msgstr "Το %s δε φαίνεται να είναι αρχείο"
+
+msgid "Try again?"
+msgstr "Δοκιμάστε ξανά"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Συσκευή"
+
+msgid "Size"
+msgstr "Μέγεθος"
+
+msgid "Filesystem"
+msgstr "Σύστημα αρχείων"
+
+msgid "Label"
+msgstr "Επιγραφή"
+
+msgid "Model"
+msgstr "Μοντέλο"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Κλωνοποίηση του live σύστημα"
+
+msgid "Copy from an ISO file"
+msgstr "Αντιγραφή από ένα αρχείο ISO"
+
+msgid "Check md5 of the file %s?"
+msgstr "Έλεγχος του MD5 του αρχείου %s"
+
+msgid "Checking md5 ..."
+msgstr "έλεγχος του MD5"
+
+msgid "Keep going anyway?"
+msgstr "Να συνεχίσουμε"
+
+msgid "The %s program failed!"
+msgstr "Το πρόγραμμα %s απέτυχε"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Αρχείο"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "Date"
+msgstr "Ημερομηνία"
+
+msgid "From"
+msgstr "από"
+
+msgid "To"
+msgstr "σε"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Σύνολο"
+
+msgid "Used"
+msgstr "Χρησιμοποιημένα"
+
+msgid "Extra"
+msgstr "Επιπλέον"
+
+msgid "Error"
+msgstr "Σφάλμα"
+
+msgid "Warning"
+msgstr "Προειδοποίηση "
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "Το %s διήρκεσε %s δευτερόλεπτα"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Μια διαδικασία %s (με χρήση PID %s) είναι ήδη σε λειτουργία"
+
+msgid "Please close that process before starting a new one"
+msgstr "Παρακαλώ κλείστε αυτή τη διαδικασία πριν από την έναρξη ενός νέου"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Αποτυχία για την απόκτηση κλειδώματος στο %s"
+
+msgid "Creating new config file %s"
+msgstr "Δημιουργία νέου αρχείου %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Δεν βρέθηκε το πρόγραμμα %s. Παράλειψη %s"
+
+msgid "Could not find required program '%s'"
+msgstr "Δεν βρέθηκε το απαιτούμενο πρόγραμμα '%s'"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "το %s κατάλογο '%s' δεν είναι εγγράψιμο"
+
+msgid "Could not find iso file %s"
+msgstr "Δεν βρέθηκε αρχείο ISO %s"
+
+msgid "Could not read iso file %s"
+msgstr "δεν μπορούσε να διαβάσει αρχεία iso %s"
+
+msgid "Could not mount iso file %s"
+msgstr "Δεν ήταν δυνατή η προσάρτηση αρχείο ISO %s"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Διανομή: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Διανομή: %s σε %s"
+
+msgid "This script must be run as root"
+msgstr "Το σενάριο θα πρέπει να εκτελεστεί ως root"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Πατήστε %sγια να επιλέξετε τον επιλεγμένο %s"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Χρήση %sγια βοήθεια, %s για ανασύνταξη, %sσε %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Χρησιμοποιήστε το %s για ανασύνθεση, %s για %s"

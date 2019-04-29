@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-30 13:49+0200\n"
+"PO-Revision-Date: 2014-12-30 12:11+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: add-start.py:71
+msgid "No line Selected:"
+msgstr "Не е Избран ред:"
+
+#: add-start.py:108
+msgid "line has been removed"
+msgstr "ред беше премахнат"
+
+#: add-start.py:113
+msgid "Remove Items"
+msgstr "Премахване на Предмети"
+
+#: add-start.py:122
+msgid "Line to Remove"
+msgstr "Ред за Премахване"
+
+#: add-start.py:133
+msgid "Remove"
+msgstr "Премахване"
+
+#: add-start.py:195
+msgid "command has been added"
+msgstr "команда беше добавена"
+
+#: add-start.py:208
+msgid "Add Items"
+msgstr "Добавете Предмети"
+
+#: add-start.py:227
+msgid "Sleep Time"
+msgstr "Време за Заспиване"
+
+#: add-start.py:238
+msgid "Add"
+msgstr "Добавете"
+
+#: add-start.py:297
+#, python-format
+msgid ""
+"There is no file ~/.%s/startup \n"
+"The session variable DESKTOP_CODE='%s' \n"
+"incorrectly matches your system"
+msgstr "Няма съществуващ файл ~/.%s/startup\nПромените на сесията DESKTOP_CODE='%s'\nнеправилно съвпада с вашата система"

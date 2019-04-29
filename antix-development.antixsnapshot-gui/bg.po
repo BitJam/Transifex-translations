@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-06 00:34+0300\n"
+"PO-Revision-Date: 2014-07-24 00:10+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixsnapshot-gui.sh:95
+msgid "There is no xserver running. Exiting..."
+msgstr "Няма X сървър, който да работи. Излизане..."
+
+#: antixsnapshot-gui.sh:96
+msgid "You need to be root\\! \\n\\nCannot continue."
+msgstr "Трябва да сте рут! Не може да се продалжи."
+
+#: antixsnapshot-gui.sh:98
+#, sh-format
+msgid ""
+"Are you ready to create a live installable snapshot of your system? \n"
+"This utility will create a bootable image that you can burn to CD. \n"
+"The image will be stored in $snapshot_dir.\n"
+"\n"
+"This is free software that comes with no warranty or guarantee of any type, \n"
+"including but not limited to express, implied, merchantability or fitness \n"
+"of purpose.\n"
+"\n"
+"Copyright:\n"
+"2012, 2013 anticapitalista@antiX@operamail.com \n"
+"2011, 2012 fsmithred@gmail.com \n"
+"(portions may be copyright Dean Linkous)"
+msgstr "Готов ли сте да създадете лайф инсталационен снепшот на вашата система?\nТози инструмент ще създаде бутващо изображение, което можете да запишете на CD.\nИзображението ще бъде съхранено в $snapshot_dir.\n\nТова е безплатен софтуер, който идва без абсолютно каквато и да била гаранция.\nвключително но не ограничено да показва косвено продаваемостта или цялостта\n\nна предназначение.\n\nАвторски права:\n2012, 2013 anticapitalista@antiX@operamail.com\n2011, 2012 fsmithred@gmail.com\n(части от авторките права могат да принадлежат на Dean Linkous)"
+
+#: antixsnapshot-gui.sh:112
+#, sh-format
+msgid "$TEXT1"
+msgstr "$ТЕКСТ1"
+
+#: antixsnapshot-gui.sh:120
+#, sh-format
+msgid ""
+"The graphical text editor is set to\n"
+"${gui_editor}, but it is not installed. Edit $configfile\n"
+"and set the gui_editor variable to the editor of your choice.\n"
+"(examples: /usr/bin/gedit, /usr/bin/leafpad)"
+msgstr "Графичния текстов редактор е настроен на\n${gui_editor}, но той не е инсталиран. Редактирайте $configfile\nи настройте gui_editor променливата на редактор по ваш избор.\n(примери: /usr/bin/gedit, /usr/bin/leafpad)"
+
+#: antixsnapshot-gui.sh:155
+#, sh-format
+msgid ""
+"* You have a saved copy of the system using $saved_size of space located at "
+"$work_dir/new-squashfs."
+msgstr ""
+
+#: antixsnapshot-gui.sh:160
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be saved at $work_dir/new-"
+"squashfs."
+msgstr ""
+
+#: antixsnapshot-gui.sh:162
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be created at $work_dir/new-"
+"squashfs and removed when this program finishes."
+msgstr ""
+
+#: antixsnapshot-gui.sh:219
+msgid ""
+"You will need plenty of free space. It is recommended that free space "
+"(Avail) in the partition that holds the work directory (probably \\"
+msgstr ""

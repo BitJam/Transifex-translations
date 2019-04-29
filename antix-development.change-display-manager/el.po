@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2013
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2013-01-25 18:07+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:16
+msgid "Change Display Manager"
+msgstr "Αλλαγή Διαχειριστή Οθόνης"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:18
+msgid "Change the display manager and then offer too restart X-windows."
+msgstr "Αλλαγή της προεπιλεγμένης επιφάνειας εργασίας και επανεκκινήστε το X-windows."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:24
+msgid "New display manager."
+msgstr "Νέος διαχειριστής οθόνης."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:25
+msgid "Pause between stopping and starting."
+msgstr "Παύση ανάμεσα στην διακοπή και την εκκίνηση του Χ."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:42
+msgid "Invalid deskcode: %s"
+msgstr "Μη έγκυρη κωδικούς επιφάνειας: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:44
+msgid "Valid choices: %s"
+msgstr "Έγκυρες επιλογές: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:46
+msgid "Found no Slim sessions"
+msgstr "Σύνδεση του SLiM δε βρέθηκε"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:52
+msgid "Set default window manager to: %s"
+msgstr "Ορίστε τον νέο διαχειριστή παραθύρων στο: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:54
+msgid "Do you want to restart X-windows now?  "
+msgstr "Θέλετε να επανεκκινήσετε το X-windows τώρα;  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:56
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Θα υπάρξει μία παύση για %s δευτερόλεπτα πριν εκκινήσει ο διαχειριστής παραθύρων X) "

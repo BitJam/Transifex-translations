@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Eadwine Rose <eadwine@gmail.com>, 2017\n"
+"Language-Team: Dutch (https://www.transifex.com/anticapitalista/teams/10162/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This program must be run as root"
+msgstr "Dit programma moet als root uitgevoerd worden"
+
+msgid "Could not get console width. Is the framebuffer enabled?"
+msgstr "Kon de consolebreedte niet ophalen. Is de framebuffer ingeschakeld?"
+
+msgid "No fonts found"
+msgstr "Geen fonts gevonden"
+
+msgid "Select the console width in characters"
+msgstr "Selecteer de consolebreedte in karakters"
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr ""
+"Druk: <Enter> om een font te selecteren, <q> om te stoppen, <h>voor hulp"
+
+msgid "Screen is %s chars wide"
+msgstr "Scherm is %s karakters breed"
+
+msgid "%s is %s chars wide"
+msgstr "%s is %s karakters breed"
+
+msgid "Select Console Width"
+msgstr "Selecteer Console Breedte"
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr "Scherm is %s karakters breed, font is %s"
+
+#. How many columns wide the screen is, and the font width
+msgid "columns"
+msgstr "kolommen"
+
+msgid "font width"
+msgstr "font breedte"
+
+msgid "Setting default font to %s"
+msgstr "Standaard font aan het instellen op %s"

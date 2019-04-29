@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: cyril cottet <cyrilusber2001@yahoo.fr>, 2017\n"
+"Language-Team: French (https://www.transifex.com/anticapitalista/teams/10162/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "Flèche haut"
+
+msgid "down-arrow"
+msgstr "Flèche bas"
+
+msgid "page-up"
+msgstr "Page suivante"
+
+msgid "page-down"
+msgstr "Page précédente"
+
+#. Keyboard keys: left-arrow, right-arrow
+msgid "left-arrow"
+msgstr "Flèche gauche"
+
+msgid "right-arrow"
+msgstr "Flèche droite"
+
+msgid "No controller found"
+msgstr "Aucun contrôleur détecté"
+
+msgid "You need to be root to run this script"
+msgstr "Vous devez être en root pour lancer ce script"
+
+msgid "Backlight Brightness Control"
+msgstr "Contrôle de la luminosité du rétroéclairage"
+
+msgid "Use <%s> and <%s> to adjust the brightness"
+msgstr "Utilisez <%s> et <%s> pour ajuster le niveau de luminosité"
+
+msgid "Use <%s> and <%s> for smaller steps"
+msgstr "Utilisez <%s> et <%s> pour de plus petits incréments"
+
+msgid "Use <%s> and <%s> for bigger steps"
+msgstr "Utilisez <%s> et <%s> pour de plus grands incréments"
+
+msgid "Press '%s' to quit"
+msgstr "Appuyez sur '%s' pour quitter"

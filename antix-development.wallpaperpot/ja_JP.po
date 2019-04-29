@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:20+EEST\n"
+"PO-Revision-Date: 2013-07-06 14:51+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/antix-development/language/ja_JP/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: wallpaper.py:42
+msgid "Note: you cannot change the color with rox desktop"
+msgstr ""
+
+#: wallpaper.py:43
+msgid "No file selected"
+msgstr ""
+
+#: wallpaper.py:44
+msgid "All Files"
+msgstr ""
+
+#: wallpaper.py:45
+msgid "Select background color"
+msgstr ""
+
+#: wallpaper.py:46
+msgid "antiX Wallpaper - help"
+msgstr ""
+
+#: wallpaper.py:47
+msgid ""
+"This is an antiX application for setting the wallpaper on the preinstalled "
+"window managers"
+msgstr ""
+
+#: wallpaper.py:48
+msgid "Static"
+msgstr ""
+
+#: wallpaper.py:49
+msgid "No Wallpaper"
+msgstr ""
+
+#: wallpaper.py:50
+msgid "Random Wallpaper"
+msgstr ""
+
+#: wallpaper.py:51
+msgid "Random Wallpaper Timed"
+msgstr ""
+
+#: wallpaper.py:52
+msgid "Options"
+msgstr ""
+
+#: wallpaper.py:53
+msgid "scale"
+msgstr ""
+
+#: wallpaper.py:54
+msgid "center"
+msgstr ""
+
+#: wallpaper.py:55
+msgid "fill"
+msgstr ""
+
+#: wallpaper.py:56
+msgid "Default Folder"
+msgstr ""
+
+#: wallpaper.py:57
+msgid "Default Color"
+msgstr ""
+
+#: wallpaper.py:58
+msgid "Open Image"
+msgstr ""

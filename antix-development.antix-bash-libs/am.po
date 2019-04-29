@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2018-02-07 15:32+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "ማስጠንቀቂያ"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "በ እርግጥ ላጥፋው?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "Y"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "y"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "ይጫኑ <Enter> ለ መቀጠል"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "እንደገና ይሞክሩ"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "እርስዎ አስገብተዋል: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "ይህ ትክክል ነው?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "ቁጥር ያስገቡ"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr " (ወይንም ፊደል)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "እርስዎ ምንም አልመረጡም"
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "እርስዎ ቁጥር መምረጥ አለብዎት"
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "የ እርስዎ ምርጫ %s ከ መጠን ውጪ ነው"
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "ስህተት"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "ወደ CLI ዘዴ በ መቀየር ላይ"
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "መደበኛ ምርጫ"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "የ ትእዛዝ መስመር ገጽታ ማስገደጃ"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "የ console ቀለም ወደ ደማቅ ማስገደጃ"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "GUI interface  ማስገደጃ (አብዛኛውን ጊዜ አያስፈልግም)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "ይህን ቀላል እርዳታ ማሳያ"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "የ console ቀለም ወደ ፈዛዛ ማስገደጃ"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "የ console ቀለም ማጥፊያ"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "መግቢያውን ማጥፊያ"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "ተጨማሪ ጥያቄ እና ማተሚያ ማመቂያ"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "yad እንደሌለ ይገምቱ"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "ተጨማሪ ማተሚያ"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "የ ማስተካከያ ምርጫ"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "የ Pango ጭማሪ ወደ yad የተላከውን ማስተካከያ"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "ሁሉንም lower-case አለም አቀፍ ማሳያ ማሳያ በሚጨርስ ጊዜ"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "አለም አቀፍ ማሳያ ማሳያ በሚጨርስ ጊዜ"
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "ምርጫው %s ክርክር ይፈልጋል "
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "ምርጫው %s ክርክር አይፈልግም"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "ያልታወቀ ክርክር %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "በርካታ ተጨማሪ ክርክር: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "ቢያንስ ትንሽ ክርክር ያስፈልጋል %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "የ ቁጥር ዋጋ ይጠበቃል ከ %s ደንብ በኋላ"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "እርስዎ በ እርግጥ ማጥፋት ይፈልጋሉ %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "ይህ ጽሁፍ መሄድ ያለበት እንደ %s አካባቢ ነው."
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "ይህ  %s ዳይሬክቶሪ አልተገኘም"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "ይህን ማሳየት %s አካባቢ አይደለም."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "በ መውጣት ላይ"
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "እባክዎን ይህን ፕሮግራም እንደ root ያስኪዱ"
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "ተለዋዋጭ %s ባዶ ነው"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "ተለዋዋጭ %s ባዶ ነው"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "በ %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "አደገኛ ስህተት ተፈጥሯል"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "ማስጠንቀቂያ"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "ፕሮግራሙ %s አልተገኘም ስለዚህ መቆለፍ አይቻልም"
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "እርስዎ ለማንኛውም መቀጠል ይፈልጋሉ?  "
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "ሌላ ኮፒ የ %s እየሄደ ነው"
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "እርስዎ እርግጠኛ ከሆኑ ፋይሉን ያጥፉት"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "እና እንደገና ይሞክሩ"
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "አልተቻለም %s ማንበብ-መጻፍ"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "መፍጠር አልተቻለም የ %s መጫኛ ነጥብ"
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "መጫኛ ማጣመር አልተቻለም %s ወደ %s."
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "መጫን አልተቻለም %s በ %s."
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "ማውረድ አልተቻለም %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "ያአልተለመደ ፋይል %s አልተገኘም"
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "ይህን ፋይል%s መጫን አልተቻለም"
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "መጠን"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "መጥፋት አለበት?"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "ላጥፋው"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "ላስቀምጠው"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "መረጃ መመልከቻ"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "ማጥፊያ"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "በ ማጽዳት ላይ"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "በዚህ ምን ልስራ %s ?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "ወደ ነበረበት ከ መመለስ የ ተረፈውን መደበኛ ማጥፊያ"
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "እርስዎ እንደገና የ ሰሩት እንደገና ሳያስነሱ"
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "ያለፈው squashfs file.  ማስቀመጫ ወይንም ማጥፊያ"
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "ያልተፈጸመ እንደገና መስሪያ"
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "ተግባር ይምረጡ:"
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "የ እትም መረጃ ለ"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "No VID file"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "መጫን አልተቻለም %s"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "ያልተለመደ ተመሳሳይ ሀረግ አልተገኘም \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "ከ የትኛው አካል ነው የሚመርጡት"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "ሁሉንም"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "ተጭኗል"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "ወርዷል"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "አካሎች"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "እሺ"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "ይጫኑ በ አካሉ ላይ እና ይጫኑ %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "አካል "
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "መጫኛ"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "አይነት"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "ምልክት"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "መጠን"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "ነፃ"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "ይጠቀሙ የ \"መውጫ\" ትእዛዝ ለ መመለስ ወደ %s"

@@ -1,0 +1,76 @@
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 00:36+0200\n"
+"PO-Revision-Date: 2012-11-19 04:39+0000\n"
+"Last-Translator: megatotoro <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-02 10:46+0000\n"
+
+#: unplugdrive.sh:54
+msgid ""
+"A removable drive with a mounted partition was not found.\n"
+"It is safe to unplug the drive(s)"
+msgstr "No se encontró una unidad removible con una partición montada.⏎ Se puede remover la unidad de manera segura"
+
+#: unplugdrive.sh:60
+#, sh-format
+msgid ""
+"The following are currently mounted:\n"
+"$removablelist\n"
+"Choose the drive(s) to be unplugged"
+msgstr "Las siguientes unidades se hallan montadas:d:⏎ $removablelist⏎ Escoja las unidades a extraer"
+
+#: unplugdrive.sh:62
+msgid ""
+"Nothing selected.\n"
+"Aborting without unmounting."
+msgstr "No se ha seleccionado nada.⏎ Abortando sin desmontar."
+
+#: unplugdrive.sh:84
+#, sh-format
+msgid ""
+"About to unmount:\n"
+"$summarylist\n"
+"Please confirm you wish to proceed."
+msgstr "Se desmontarán:⏎ $summarylist⏎ Por favor confirme que desea proceder."
+
+#: unplugdrive.sh:86
+msgid ""
+"Nothing has been unmounted.\n"
+"Aborting as requested with no action taken."
+msgstr "No se ha desmontado nada.⏎ Se abortará sin tomar ninguna otra acción."
+
+#: unplugdrive.sh:91
+msgid ""
+"Data is being written to devices.\n"
+"Please wait..."
+msgstr "Se está escribiendo en las unidades.⏎ Por favor espere... "
+
+#: unplugdrive.sh:114
+#, sh-format
+msgid ""
+"Mountpoint removal failed.\n"
+"\n"
+"A mountpoint remains present at:\n"
+"$mountpointerrorlist\n"
+"Check each mountpoint listed before unpluging the drive(s)."
+msgstr "Falló la remoción del punto de montaje.⏎ ⏎ Un punto de montaje se halla presente en:⏎ $mountpointerrorlist⏎ Revise cada punto de montaje listado antes de extraer las unidades."
+
+#: unplugdrive.sh:119
+#, sh-format
+msgid ""
+"Unmounted:\n"
+"$summarylist\n"
+"It is safe to unplug the drive(s)"
+msgstr "Se desmontó:⏎ $summarylist⏎ Se puede extraer con seguridad las unidades"

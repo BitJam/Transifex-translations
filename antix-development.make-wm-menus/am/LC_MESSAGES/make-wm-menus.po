@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Terminal"
+msgstr "ተርሚናል"
+
+msgid "File Manager"
+msgstr "የ ፋይል አስተዳዳሪ"
+
+msgid "Web Browser"
+msgstr "ዌብ መቃኛ"
+
+msgid "Editor"
+msgstr "ማረሚያ"
+
+msgid "Personal"
+msgstr "የ ግል"
+
+msgid "Applications"
+msgstr "መተግበሪያ"
+
+msgid "Terminal Apps"
+msgstr "ተርሚናል መተግበሪያ"
+
+msgid "Multimedia"
+msgstr "በርካታ መገናኛ"
+
+msgid "CD/DVD Writer"
+msgstr "ሲዲ/ዲቪዲ መጻፊያ"
+
+msgid "Music Player"
+msgstr "ሙዚቃ ማጫወቻ"
+
+msgid "Network"
+msgstr "ኔትዎርክ"
+
+msgid "Alpine Mail"
+msgstr "Alpine ደብዳቤ"
+
+msgid "Browser elinks"
+msgstr "elinks መቃኛ"
+
+msgid "Irssi Chat"
+msgstr "Irssi Chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom አንባቢ"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "ቢሮ"
+
+msgid "Organizer"
+msgstr "መደራጃ"
+
+msgid "Word"
+msgstr "ቃል"
+
+msgid "Update Menu"
+msgstr "ዝርዝር ማሻሻያ"
+
+msgid "Desktop"
+msgstr "ዴስክቶፕ"
+
+msgid "Alternate Desktops"
+msgstr "አማራጭ ዴስክቶፕ"
+
+msgid "Add Desktop"
+msgstr "ዴስክቶፕ መጨመሪያ"
+
+msgid "Wallpaper"
+msgstr "የ ግድግዳ ወረቀት"
+
+msgid "GTK Theme"
+msgstr "የ GTK ገፅታ"
+
+msgid "Desktop Defaults"
+msgstr "ዴስክቶፕ ነባር"
+
+msgid "Session Settings"
+msgstr "ክፍለ ጊዜ ማሰናጃ"
+
+msgid "Session Settings Global"
+msgstr "አለም አቀፍ ክፍለ ጊዜ ማሰናጃ"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel ማብሪያ/ማጥፊያ "
+
+msgid "Conky on/off"
+msgstr "ኮንኪ ማብሪያ/ማጥፊያ"
+
+msgid "Tools"
+msgstr "መሳሪያዎች"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "መፈለጊያ"
+
+msgid "MC File Manager"
+msgstr "MC የ ፋይል አስተዳዳሪ"
+
+msgid "App Killer"
+msgstr "መተግበሪያ መግደያ"
+
+msgid "Process Viewer"
+msgstr "ሂደት መመልከቻ"
+
+msgid "System Information"
+msgstr "የ ስርአት መረጃ"
+
+msgid "Control Centre"
+msgstr "መቆጣጠሪያ ማእከል"
+
+msgid "Help"
+msgstr "እርዳታ"
+
+msgid "antiX"
+msgstr "አንቲክ"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live How-To"
+
+msgid "Rox Manual"
+msgstr "የ Rox መምሪያ"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox Docs"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "የ IceWM መምሪያ"
+
+msgid "OSNews"
+msgstr "የ OS ዜና"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "ድህረ ገጽ"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Man Pages"
+
+msgid "Backup"
+msgstr "ተተኪ"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "ማስኬጃ"
+
+msgid "Fluxbox Settings"
+msgstr "የ Fluxbox ማሰናጃ "
+
+msgid "Configuration"
+msgstr "ማሰናጃ"
+
+msgid "Styles"
+msgstr "ዘዴዎች"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "የ Fluxbox ዘዴዎች"
+
+msgid "Workspaces"
+msgstr "የ ስራ ቦታ"
+
+msgid "Reconfigure"
+msgstr "እንደገና ማሰናጃ"
+
+msgid "Restart"
+msgstr "ዳግም ማስጀመሪያ"
+
+msgid "Exit"
+msgstr "መውጫ"
+
+msgid "antiX Installer"
+msgstr "አንቲክ መግጠሚያ"
+
+msgid "Logout..."
+msgstr "መውጫ..."
+
+msgid "Restart JWM"
+msgstr "JWM ዳግም ማስጀመሪያ "
+
+msgid "Log Out"
+msgstr "መውጫ"
+
+msgid "Home Folder"
+msgstr "የ ቤት ፎልደር"
+
+msgid "Browser"
+msgstr "መቃኛ"
+
+msgid "Unplug Removable Device"
+msgstr "የሚወልቅ አካል መለያያ"
+
+msgid "Quit"
+msgstr "ማጥፊያ"

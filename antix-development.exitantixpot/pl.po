@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 21:38+0300\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/antix-development/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: exitantix.sh:16 exitantix.sh:53
+msgid "Log Out"
+msgstr "Wyloguj"
+
+#: exitantix.sh:28
+msgid "Lock Screen"
+msgstr "Zablokuj ekran"
+
+#: exitantix.sh:36
+msgid "Hibernate"
+msgstr "Hibernuj"
+
+#: exitantix.sh:43
+msgid "Reboot"
+msgstr "Uruchom ponownie"
+
+#: exitantix.sh:61
+msgid "Suspend"
+msgstr "Uśpij"
+
+#: exitantix.sh:68
+msgid "Shutdown"
+msgstr "Wyłącz"
+
+#: exitantix.sh:76
+msgid "Close"
+msgstr "Zamknij"

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-03-13 00:54+0000\n"
+"Last-Translator: BitJam <BitJam@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/antix-development/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:16
+msgid "Change Display Manager"
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:18
+msgid "Change the display manager and then offer too restart X-windows."
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:24
+msgid "New display manager."
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:25
+msgid "Pause between stopping and starting."
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:42
+msgid "Invalid deskcode: %s"
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:44
+msgid "Valid choices: %s"
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:46
+msgid "Found no Slim sessions"
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:52
+msgid "Set default window manager to: %s"
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:54
+msgid "Do you want to restart X-windows now?  "
+msgstr ""
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-display-manager:56
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr ""

@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2013
+# Eduard Selma <selma@tinet.cat>, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2014-12-20 20:11+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "Poblant el directori% s"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "Menú localització d'idioma desconeguda %s"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "No s'ha trobat el directori %s"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "Localitzant els menús a %s en %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "Paràmetre d'arrencada %s no vàlids %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "S'està configurant %s a %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Bad codi mirror %s (esperat dues lletres)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "Localitzant %s a %s mirror"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "No s'ha trobat %s en %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "Trobat escriptori per omissió a %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "d'escriptori %s no és vàlid."
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "Opcions vàlides son %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "S'està configurant escriptori per omissió a %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "Localitzant/configurant X-Windows"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "Habilitat muntatge automàtic %s"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "Inhabilitant muntatge automàtic"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "Creant %s amb %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "Desactivació de fstab connexió en calent (seu també desactivarà automount)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "Habilitació de connexió en calent fstab"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "Configurant el fitxer %s"

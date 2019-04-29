@@ -1,0 +1,52 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2016
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2015
+# ふうせん Fu-sen.｜BALLOON, 2014
+# ふうせん Fu-sen. | BALLOON a.k.a. Fu-sen., 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 14:28-0600\n"
+"PO-Revision-Date: 2017-09-26 04:26+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Customizing services"
+msgstr "サービスのカスタマイズ"
+
+msgid "Enabling %s service"
+msgstr ""
+
+msgid "Disabling %s service"
+msgstr ""
+
+msgid "Enabling %s services"
+msgstr "%s サービスを有効化"
+
+msgid "Disabling %s services"
+msgstr "%s サービスを無効化"
+
+msgid "Disabling some services %s"
+msgstr "次のサービスを無効化 %s"
+
+msgid "Disabling %s services %s"
+msgstr "%s サービスを無効化 %s"
+
+msgid "Disabling network services %s"
+msgstr "ネットワークサービスを無効化 %s"
+
+msgid "Disabling more services %s"
+msgstr "追加サービスを無効化 %s"
+
+msgid "Disabling NFS server %s"
+msgstr "NFS サーバーを無効化 %s"

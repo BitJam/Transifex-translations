@@ -1,0 +1,698 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2014
+# Eadwine Rose, 2015-2017
+# ko <ko.bros@gmail.com>, 2015
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2017-10-29 06:13+0000\n"
+"Last-Translator: Eadwine Rose\n"
+"Language-Team: Dutch (http://www.transifex.com/anticapitalista/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s uitgeschakeld wegens verouderde persistentie scripts en libs"
+
+msgid "The %s program took %s seconds"
+msgstr "Het %s programma nam %s seconden in beslag"
+
+msgid "Detected %s init system"
+msgstr "Het %s init systeem werd aangetroffen"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Wacht %s seconden om bussen tot rust te laten komen ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Geef breekpunt(en) aan gescheiden door comma's"
+
+msgid "Invalid %s value %s"
+msgstr "Ongeldige %s optie %s"
+
+msgid "Set font to %s"
+msgstr "Font instellen naar %s "
+
+msgid "New screen width %s"
+msgstr "Nieuwe scherm breedte %s"
+
+msgid "Welcome to %s"
+msgstr "Welkom bij %s"
+
+msgid "Current boot codes"
+msgstr "Huidige boot codes"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Mogelijk onbekende of verkeerd geschreven boot-codes"
+
+msgid "don't take this too seriously"
+msgstr "neem dit niet te serieus"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Onbekende optie(s) in %s. Onbekende optie(s): %s"
+
+msgid "Loading all modules"
+msgstr "Laden van alle modules"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Laden van hardware specifieke modules ..."
+
+msgid "No %s devices found"
+msgstr "Geen %s apparaten gevonden "
+
+msgid "The %s parameter is blocking device %s"
+msgstr "De %s parameter blokkeert het apparaat %s"
+
+msgid "Even though device %s has %s"
+msgstr "Alhoewel device %s heeft %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Verwijder de %s boot parameter zodat het apparaat kan worden gescand"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Device gevonden, maar kon geen %s bestand vinden op het device"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Opnieuw proberen gedurende %s seconden %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Scan %s devices.  Zoek naar %s bestand(en) %s"
+
+msgid "Filtered devices %s"
+msgstr "Gefilterde apparaten %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Zoek naar bestanden %s op device(s) %s"
+
+msgid "Found new device(s) %s"
+msgstr "Nieuw apparaat aangetroffen %s "
+
+msgid "Device %s is already mounted at %s"
+msgstr "Apparaat %s is al aangekoppeld aan %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "%s device gekoppeld.  Device %s gekoppeld aan %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s device filesysteem:  %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Zoeken naar apparaat %s met %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Trof bestaande %s installatie aan"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Zoek naar partities met tenminste %s vrije ruimte.  Even geduld svp ..."
+
+msgid "quit"
+msgstr "stop"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Wil je een %s installatie doen op het %s device?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Bezig met %s installatie, even geduld a.u.b. .."
+
+msgid "copy %s to %s"
+msgstr "Kopieer %s naar %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "De %s installatie is geslaagd"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Kon bestand %s niet vinden %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Kon %s niet als een %s bestand aankoppelen"
+
+msgid "File %s not found on device %s"
+msgstr "Bestand %s niet gevonden op device %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Ongeldige versleutelmodus %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Vereiste versleutel kernel module %s niet gevonden."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "Het programma %s is niet gevonden. Kan niet versleutelen."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "Het programma %s is kapot. Kan niet versleutelen."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Zoeken naar versleuteld apparaat met uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "Kon bestand %s niet vinden "
+
+msgid "Could not find files %s or %s"
+msgstr "Kon bestanden %s of %s niet vinden"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Geen versleuteld apparaat met uuid %s gevonden"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Controleren voor versleutelde partitie op apparaat %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Versleuteld apparaat %s bestaat niet"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "Versleuteld apparaat %s is geen block device"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Versleuteld apparaat %s is geen LUKS device"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Versleuteld apparaat gevonden.  U wordt gevraagd hier onder uw wachtwoordzin in te vullen."
+
+msgid "Could not open LUKS device %s"
+msgstr "Kon LUKS device %s niet openen"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Versleuteld apparaat %s op %s geopend"
+
+msgid "Could not mount encrypted device"
+msgstr "Kon versleuteld apparaat niet aankoppelen"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Kon bestand %s niet vinden op versleutelde partitie"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Weet u zeker dat u de wachtwoordzin heeft opgeschreven of onthouden?"
+
+msgid "press %s to continue"
+msgstr "druk op %s om verder te gaan"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Veranderen versleutelings wachtwoordzin ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Voer a.u.b. de huidige wachtwoordzin in (in duidelijke tekst)"
+
+msgid "The entered passphrase does not match"
+msgstr "De opgegeven wachtwoordzin komt niet overeen"
+
+msgid "Do you want to try again?"
+msgstr "WIlt u het opnieuw proberen?"
+
+msgid "Passphrase change aborted"
+msgstr "Wachtwoordzin verandering afgebroken"
+
+msgid "Passphrase was not changed"
+msgstr "Wachtwoordzin is niet veranderd"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Voorbereiden voor wachtwoordzin eerste boot reset"
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Reset afgebroken: wachtwoordzin bestand is leeg"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Reset afgebroken: verkeerde wachtwoordzin in wachtwoordzin bestand"
+
+msgid "current phrase %s"
+msgstr "huidige zin %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "U zult gevraagd worden twee keer een nieuwe wachtwoordzin in te voeren"
+
+msgid "Searched devices: %s"
+msgstr "Doorzochte devices: %s"
+
+msgid "Searched types: %s"
+msgstr "Onderzochte soorten: %s"
+
+msgid "All block devices: %s"
+msgstr "Alle block devices: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Aub contact %s opnemen bij %s"
+
+msgid "Kernel version mismatch"
+msgstr "Verkeerde kernel versie"
+
+msgid "Kernel version %s"
+msgstr "Kernel versie %s"
+
+msgid "The module directory %s is missing"
+msgstr "De module folder %s is niet aanwezig"
+
+msgid "Initializing random number generator ..."
+msgstr "Initialiseren random number generator  ..."
+
+msgid "Saving random seed"
+msgstr "Opslaan willekeurige seed"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Kon %s niet koppelen als %s bestandssysteem"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Geen %s gevonden in %s"
+
+msgid "Create %s failed"
+msgstr "%s aanmaken mislukt"
+
+msgid "Found %s"
+msgstr "%s gevonden"
+
+msgid "Neither %s nor %s is available"
+msgstr "Noch %s noch %s is beschikbaar"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "Het %s bestandssysteem is niet beschikbaar. Gebruik %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Forceer gebruik van %s om met bestaand rootfs bestand overeen te komen"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "Het %s bestandssysteem is niet beschikbaar. Kan dit %s bestand niet gebruiken"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "%s persistentie instellen"
+
+msgid "Could not mount %s"
+msgstr "Kon %s niet aankoppelen"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "%s Aanmaken op %s %s"
+
+msgid "check %s filesystem"
+msgstr "kontroleer %s bestandssysteem"
+
+msgid "There were no errors on %s"
+msgstr "Er waren geen fouten op %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Begin"
+
+msgid "Skip Error: %s"
+msgstr "Skip fout: %s"
+
+msgid "power off"
+msgstr "afsluiten"
+
+msgid "reboot"
+msgstr "herstarten"
+
+msgid "Unknown command"
+msgstr "Onbekend commando"
+
+msgid "Please try again"
+msgstr "Probeer het a.u.b opnieuw"
+
+msgid "Unmount successful"
+msgstr "Ontkoppelen geslaagd"
+
+msgid "Press %s to %s"
+msgstr "Druk op %s om %s"
+
+msgid "Will now %s the system"
+msgstr "Het systeem zal nu %s worden"
+
+msgid "Fatal Error"
+msgstr "Fatale Fout"
+
+msgid "Non-Fatal Error"
+msgstr "Niet-fatale fout"
+
+msgid "continue"
+msgstr "doorgaan"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nee"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Je moet antwoorden %s of %s.  Probeer het opnieuw"
+
+msgid "The default is"
+msgstr "De standaard is "
+
+msgid "default"
+msgstr "standaard"
+
+msgid "Press <%s> for the default selection"
+msgstr "Druk <%s> voor de standaard keuze"
+
+msgid "enter"
+msgstr "druk op <enter>"
+
+msgid "The number <%s> is out of range"
+msgstr "Het nummer <%s> ligt buiten het keuzebereik"
+
+msgid "Current default"
+msgstr "Huidige standaard"
+
+msgid "Reset"
+msgstr "Terugstellen"
+
+msgid "Keeping default %s"
+msgstr "Standaard behouden %s"
+
+msgid "Previous default %s erased"
+msgstr "Voormalige standaard %s gewist"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s ingesteld als %s"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Select Language"
+msgstr "Selecteer taal"
+
+msgid "Languages are listed alphabetically"
+msgstr "Talen worden alfabetisch weergegeven"
+
+msgid "Language"
+msgstr "Taal"
+
+msgid "Select number of console columns"
+msgstr "Selecteer aantal console kolommen"
+
+msgid "Wider means a smaller font"
+msgstr "Breder betekent een kleiner font"
+
+msgid "Console columns"
+msgstr "Console kolommen"
+
+msgid "Select Timezone"
+msgstr "Kies de Tijdzone"
+
+msgid "Timezones are listed by longitude"
+msgstr "Tijdzones worden weergegeven per lengtegraad"
+
+msgid "Timezone"
+msgstr "Tijdzone"
+
+msgid "Select Option"
+msgstr "Kies Optie"
+
+msgid "Only one option can be selected"
+msgstr "Slechts een optie kan worden gekozen"
+
+msgid "Options"
+msgstr "Opties"
+
+msgid "Select Mounting Option"
+msgstr "Selecteer Koppel Optie"
+
+msgid "Automounting is enabled by default"
+msgstr "Automatisch koppelen is standaard ingeschakeld"
+
+msgid "Mount"
+msgstr "Aankoppelen"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Kies de Persistence Optie"
+
+msgid "Persistence"
+msgstr "Persistentie"
+
+msgid "Select font size"
+msgstr "Selecteer font grootte"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Schaal fonts in grafisch display. Standaard is 1.0"
+
+msgid "Select Desktop"
+msgstr "Kies Desktop"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Save these changes?"
+msgstr "Deze wijzigingen opslaan?"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Please select %s device:"
+msgstr "Gelieve %s device te kiezen:"
+
+msgid "reverse video"
+msgstr "reverse video"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Onbruikbare partities zijn wel aangegeven maar kunnen niet gekozen worden."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "De beperkende factoren zijn duidelijk aangegeven in %s "
+
+msgid "The device %s already has label %s"
+msgstr "het device %s draagt al label %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Update het label op %s van %s naar %s?"
+
+msgid "The device %s has no label"
+msgstr "het device %s heeft geen label"
+
+msgid "Give %s the label %s?"
+msgstr "Geef %s het label %s?"
+
+msgid "Label updated to %s"
+msgstr "Label bijgewerkt naar %s"
+
+msgid "Valid %s"
+msgstr "Geldig %s"
+
+msgid "Could not find device %s"
+msgstr "Kon device %s niet vinden"
+
+msgid "Valid devices"
+msgstr "Geldige apparaten"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s komt niet overeen tussen %s en %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Kopieer %s naar lege %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s bestand niet gevonden %s"
+
+msgid "No %s found in file %s"
+msgstr "Geen %s gevonden in bestand %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Geen %s gevonden, maar er is wel een %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Kontroleer %s van bestanden in de %s folder.  Even geduld aub ..."
+
+msgid "file: %s"
+msgstr "bestand: %s"
+
+msgid "result: %s"
+msgstr "resultaat: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Er werden geen %s checksums gevonden in %s. Kan geen enkele %s test uitvoeren"
+
+msgid "At least one %s checksum did not match"
+msgstr "Ten minste 1 %s checksum kwam niet overeen"
+
+msgid "Success!  The file passed"
+msgstr "Succes!  Het bestand voldeed"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Succes!  Alle %s bestanden voldeden"
+
+msgid "Wait %s seconds"
+msgstr "Wacht %s seconden"
+
+msgid "copy %s file to RAM"
+msgstr "kopieer %s bestand naar RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Zal bestanden van %s naar %s kopieren. Aub even geduld ..."
+
+msgid "Size of original %12s"
+msgstr "Grootte van originele %12s"
+
+msgid "Size of copy %12s"
+msgstr "Grootte van kopie %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Kopiëren naar RAM geslaagd"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Koppel persistence device (indien nodig)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "Niet genoeg ruime op Live apparaat om %s bestand te creëren van %s MiB"
+
+msgid "create %s persistence file"
+msgstr "Creeer %s persistence bestand"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Standdard grootte: %s MiB. Bestandsysteem type: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Deze standaardgrootte zal %s MiB vrije ruimte opleveren"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Maak het %s bestand aan, handmatig of automatisch"
+
+msgid "create automatically"
+msgstr "creeer automatisch"
+
+msgid "create custom"
+msgstr "creeer niet-standaard"
+
+msgid "Please select size of %s file"
+msgstr "Aub grootte van %s bestand selecteren"
+
+msgid "There is %s MiB available on the device"
+msgstr "Er is %s MiB beschikbaar op het apparaat"
+
+msgid "Filesystem size %s MiB"
+msgstr "bestandsysteem grootte %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Creëer %s bestand van type %s en grootte %s MiB"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Waarschuwing: dit kan enkele minuten per Gigabyte duren op een %s bestandssysteem"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Aub wachten tot de bestaande partities worden aangetroffen ..."
+
+msgid "persistence"
+msgstr "persistence"
+
+msgid "persist device"
+msgstr "Apparaat met persistentie"
+
+msgid "Enabled %s persistence"
+msgstr "%s persistence is aangezet"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Kopieer %s MiB naar RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "Koppel persistence bestand %s op %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Wilt u home persistentie toch inschakelen?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Vreemd, kon het homefs koppelpunt niet verplaatsen"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Er is %4s MiB aan bestanden die verborgen zullen worden bij home persistentie"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Er is %4s MiB vrij op het home persistentie apparaat"
+
+msgid "There's not enough space to copy all the files"
+msgstr "Er is niet genoeg ruimte om alle bestanden te kopiëren"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Wilt u de bestanden naar het home persistentie apparaat kopiëren?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Geen %s bstand gevonden.  Hernoem %s naar %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Heb %s MiB vrij. Benodigd %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Wijzig de grootte van home bestandsysteem.  Kopieer de inhoud van %s naar %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Kopieer het home bestandsysteem. Aub even geduld ...."
+
+msgid "Press <%s> to continue"
+msgstr "Druk op <%s> om verder te gaan"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Het lijkt dat u VGA resolutie %s heeft geselecteerd"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Wilt u deze resolutie opslaan voor volgende keren opstarten?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Zal de nieuwe VGA instelling en uw andere opstartgegevens opslaan"
+
+msgid "umount %s"
+msgstr "%s ontkoppelen"
+
+msgid "umount of %s failed"
+msgstr "ontkoppeling van %s mislukt"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Standdard grootte: %s Meg. Bestandsysteem type: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Deze standaardgrootte zal %s Meg vrije ruimte opleveren"
+
+msgid "There is %s Meg available on the device"
+msgstr "Er is %s Meg ruimte beschikbaar op het device"
+
+msgid "Filesystem size %s Meg"
+msgstr "bestandsysteem grootte %s Meg"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Creeer %s bestand van het type %s en grootte %s Meg"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Kopier %s Megabytes naar het RAM"
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Er zijn %4s Meg aan bestanden die verborgen zullen worden bij home persistentie"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Er zijn %4s Meg vrij op het home persistentie apparaat"

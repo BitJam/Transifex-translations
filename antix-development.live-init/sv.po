@@ -1,0 +1,154 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2012,2014-2016,2018
+# Henry Oquist <henryoquist@comhem.se>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-01-01 14:46+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Lokalisering/anpassning X-Windows"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Avaktivera splash (fbcondecor) inuti Virtual Box"
+
+msgid "Creating missing %s file"
+msgstr "Skapar saknad %s fil"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Ingen standard-användare %s hittad i systemet."
+
+msgid "Mounting all devices"
+msgstr "Monterar alla enheter"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Ogiltig %s option %s"
+
+msgid "Automount disabled"
+msgstr "Automount avstängd"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Aktivera fstab hotplugging"
+
+msgid "Automount enabled"
+msgstr "Automount möjliggjord"
+
+msgid "Bad fstab option %s"
+msgstr "Dålig fstab option %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Menyns lokalisering-språk okänt %s"
+
+msgid "Directory not found %s"
+msgstr "Katalog ej hittad %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Lokalisera menyer till %s i %s"
+
+msgid "Setting %s to %s"
+msgstr "Inställning %s till %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Dålig mirror kod %s (väntade två bokstäver)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Lokaliserar source repos använder %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Antar att %s är inställd på %s tid"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Tar bort tidigare autogenererad %s fil"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Stänger av säkert läge på grund av KMS %s video hårdvara"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Låter X server som standard använda %s drivrutin"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Tvingar X-Windows att använda standard mode"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Anpassar %s fil med %s"
+
+msgid "Using X to make xorg.conf"
+msgstr "Använder X skapa xorg.conf"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Tvingar %s acceleration på %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Tvingar %s drivrutin på %s"
+
+msgid "Creating file %s"
+msgstr "Skapa fil %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Letar efter hårdvaruspecifika videomoduler..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Hittade %s videomodul(er) %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Hittade %s kärn-moduler..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Hittade %s videodrivrutin"
+
+msgid "Setting Conky width to %s"
+msgstr "Ställer in Conkys bredd på %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Ogiltig %s boot parameter %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Dålig fördröjningsparameter för skrivbordet %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "Ställer in skrivbords-fördröjningen på %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Ställer in terminalens timeout för blankning på %s minute(r)"
+
+msgid "Creating issue file for %s"
+msgstr "Skapar issue fil för %s"
+
+msgid "Files already exist under %s"
+msgstr "Filerna finns redan under %s"
+
+msgid "Not creating or populating %s"
+msgstr "Skapar inte eller fyller %s"
+
+msgid "Populating %s directory"
+msgstr "Fyll %s katalog"
+
+msgid "Setting desktop theme to %s"
+msgstr "Ställer in skrivbordstemat på %s"

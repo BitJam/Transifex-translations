@@ -1,0 +1,696 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Eduard Selma <selma@tinet.cat>, 2014-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-08-21 19:28+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s desactivat degut a scripts i LIBs de persistència obsolets "
+
+msgid "The %s program took %s seconds"
+msgstr "El programa %s ha usat %s segons "
+
+msgid "Detected %s init system"
+msgstr "Detectat el sistema init %s "
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Esperant %s segons per estabilitzar els busos..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Entreu el(s) punt(s) de ruptura separats per comes "
+
+msgid "Invalid %s value %s"
+msgstr "%s té un valor no vàlid %s"
+
+msgid "Set font to %s"
+msgstr "Font configurada a %s"
+
+msgid "New screen width %s"
+msgstr "Nova amplada de pantalla %s"
+
+msgid "Welcome to %s"
+msgstr "Benvinguts a %s "
+
+msgid "Current boot codes"
+msgstr "Codis d'arrencada actuals "
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Codis d'arrencada possiblement desconeguts o malformats "
+
+msgid "don't take this too seriously"
+msgstr "no li doneu massa importància "
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Opció(ns) desconeguda(es) a a %s. Opció(ns) desconeguda/(es): %s "
+
+msgid "Loading all modules"
+msgstr "Carregant tots els mòduls "
+
+msgid "Loading hardware specific modules ..."
+msgstr "Carregant els mòduls específics de maquinari ... "
+
+msgid "No %s devices found"
+msgstr "No s'ha(n) trobat %s dispositiu(s) "
+
+msgid "The %s parameter is blocking device %s"
+msgstr "El paràmetre %s està bloquejant el dispositiu %s "
+
+msgid "Even though device %s has %s"
+msgstr "Tot i que el dispositiu %s té %s "
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Elimineu el paràmetre d'arrencada %s per permetre que s'escanegi aquest dispositiu "
+
+msgid "Device found but could not find %s file on device"
+msgstr "S'ha trobat el dispositiu però no conté el fitxer %s "
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Torneu-ho a provar %s després de %s "
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Escanejats %s dispositius. Cercant %s fitxer(s) %s "
+
+msgid "Filtered devices %s"
+msgstr "Filtrats %s dispositius "
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Cercant %s fitxer(s) al(s) dispositiu(s) %s "
+
+msgid "Found new device(s) %s"
+msgstr "Trobat(s) nou(s) dispositiu(s) %s "
+
+msgid "Device %s is already mounted at %s"
+msgstr "El dispositiu %s ja està muntat a %s "
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Muntat el dispositiu %s. Muntat el dispositiu %s a %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "Sistema de fitxers de %s: %s "
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Cerca dispositius %s amb %s "
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "S'ha trobat la instal·lació existent %s "
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Cercant particions amb %s lliure com a mínim. Si us plau, espereu..."
+
+msgid "quit"
+msgstr "surt"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Voleu fer una instal·lació %s al dispositiu %s?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Fent la instal·lació %s, si us plau, tingueu paciència... "
+
+msgid "copy %s to %s"
+msgstr "còpia %s a %s "
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "S'ha fet la instal·lació %s amb èxit "
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "No es troba(en) %s fitxer(s) %s "
+
+msgid "Could not mount %s as a %s file"
+msgstr "No s'ha pogut muntar %s com un fitxer %s"
+
+msgid "File %s not found on device %s"
+msgstr "No es troba el fitxer %s al dispositiu %s "
+
+msgid "Invalid encryption mode %s"
+msgstr "Mode d'encriptació %s no vàlid"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "No he trobat el mòdul d'encriptació de kernel %s."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "No he trobat el programa %s. No es pot encriptar."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "El programa %s està malmès. No es pot encriptar."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Cercant el dispositiu encriptat amb UUID %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "No trobo el fitxer %s "
+
+msgid "Could not find files %s or %s"
+msgstr "No he trobat els fitxers %s o %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "No he trobat el dispositiu encriptat amb UUID %s"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Cercant la partició encriptada al dispositiu %s..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "El dispositiu encriptat %sno existeix"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "El dispositiu encriptat %s no és un dispositiu de blocs"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "El dispositiu encriptat %s no és un dispositiu LUKS "
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Trobat el dispositiu encriptat. Se us demanarà la vostra contrasenya a sota."
+
+msgid "Could not open LUKS device %s"
+msgstr "No he pogut obrir el dispositiu LUKS %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Obert el dispositiu encriptat %s a %s "
+
+msgid "Could not mount encrypted device"
+msgstr "No he pogut muntar el dispositiu encriptat"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "No he pogut trobar el fitxer %s a la partició encriptada "
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Esteu segur d'haver pres nota o memoritzat la nova contrasenya?"
+
+msgid "press %s to continue"
+msgstr "premeu %s per continuar"
+
+msgid "Enter"
+msgstr "Entreu "
+
+msgid "Changing encryption passphrase ..."
+msgstr "Canviant la contrasenya d'encriptació ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Si us plau, entreu la contrasenya actual (en text clar)"
+
+msgid "The entered passphrase does not match"
+msgstr "La contrasenya que heu entrat no coincideix "
+
+msgid "Do you want to try again?"
+msgstr "Voleu tornar a provar-ho? "
+
+msgid "Passphrase change aborted"
+msgstr "Cancel·lat el canvi de contrasenya"
+
+msgid "Passphrase was not changed"
+msgstr "No s'ha canviat la contrasenya"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Preparant el restabliment de la primera arrencada amb contrasenya"
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Cancel·lat el restabliment: el fitxer de contrasenya està buit"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Cancel·lat el restabliment: contrasenya errònia al fitxer de contrasenya"
+
+msgid "current phrase %s"
+msgstr "frase actual %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Se us demanarà entrar una nova contrasenya dues vegades"
+
+msgid "Searched devices: %s"
+msgstr "Dispositius cercats: %s "
+
+msgid "Searched types: %s"
+msgstr "Tipus cercats: %s "
+
+msgid "All block devices: %s"
+msgstr "Tots els dispositius de blocs: %s "
+
+msgid "Please contact %s at %s"
+msgstr "Si us plau, contacteu %s a %s "
+
+msgid "Kernel version mismatch"
+msgstr "La versió del kernel no es correspon "
+
+msgid "Kernel version %s"
+msgstr "Versió del kernel %s "
+
+msgid "The module directory %s is missing"
+msgstr "No es troba el directori de mòduls %s "
+
+msgid "Initializing random number generator ..."
+msgstr "Inicialitzant el generador de números aleatoris..."
+
+msgid "Saving random seed"
+msgstr "Desant la llavor aleatòria"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "No es pot muntar %s com a sistema de fitxers %s "
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "No s'ha trobat %s a %s "
+
+msgid "Create %s failed"
+msgstr "Ha fallat la creació de %s "
+
+msgid "Found %s"
+msgstr "S'ha trobat %s "
+
+msgid "Neither %s nor %s is available"
+msgstr "No es troba %s ni %s "
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "No he trobat el sistema de fitxers %s. S'usarà %s "
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Es força l'ús de %s per aparellar amb el fitxer rootfs actual "
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "No he trobat els sistema de fitxers %s. No es pot usar aquest fitxer %s "
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Habilita la persistència de %s "
+
+msgid "Could not mount %s"
+msgstr "No es pot muntar %s "
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Crea %s a %s %s "
+
+msgid "check %s filesystem"
+msgstr "comprova el sistema de fitxers %s "
+
+msgid "There were no errors on %s"
+msgstr "No s'han trobat errors a %s "
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Comença "
+
+msgid "Skip Error: %s"
+msgstr "Ignora l'error: %s "
+
+msgid "power off"
+msgstr "apaga "
+
+msgid "reboot"
+msgstr "arrenca de nou"
+
+msgid "Unknown command"
+msgstr "Ordre desconeguda"
+
+msgid "Please try again"
+msgstr "Torneu a provar-ho"
+
+msgid "Unmount successful"
+msgstr "Desmuntatge correcte  "
+
+msgid "Press %s to %s"
+msgstr "Premeu %s per %s "
+
+msgid "Will now %s the system"
+msgstr "Ara es %s el sistema"
+
+msgid "Fatal Error"
+msgstr "Error fatal"
+
+msgid "Non-Fatal Error"
+msgstr "Error no fatal"
+
+msgid "continue"
+msgstr "continua"
+
+msgid "yes"
+msgstr "sí"
+
+msgid "no"
+msgstr "no"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Heu de contestar %s o %s. Si us plau, torneu-ho a provar. "
+
+msgid "The default is"
+msgstr "El valor per omissió és "
+
+msgid "default"
+msgstr "per omissió "
+
+msgid "Press <%s> for the default selection"
+msgstr "Premeu <%s> per al valor per omissió "
+
+msgid "enter"
+msgstr "enter"
+
+msgid "The number <%s> is out of range"
+msgstr "El número <%s> està fora de l'interval "
+
+msgid "Current default"
+msgstr "Actual per omissió "
+
+msgid "Reset"
+msgstr "Inicialitza "
+
+msgid "Keeping default %s"
+msgstr "Es manté %s per omissió "
+
+msgid "Previous default %s erased"
+msgstr "S'ha esborrat l'anterior %s per omissió "
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s definit com a %s "
+
+msgid "Default"
+msgstr "Per omissió "
+
+msgid "Select Language"
+msgstr "Trieu Idioma "
+
+msgid "Languages are listed alphabetically"
+msgstr "Les llengües es llisten per ordre alfabètic "
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Select number of console columns"
+msgstr "Seleccioneu el nombre de columnes del terminal"
+
+msgid "Wider means a smaller font"
+msgstr "Més ample significa caràcters més petits"
+
+msgid "Console columns"
+msgstr "Columnes del terminal"
+
+msgid "Select Timezone"
+msgstr "Trieu el fus horari "
+
+msgid "Timezones are listed by longitude"
+msgstr "Els fusos horaris es llisten per longitud "
+
+msgid "Timezone"
+msgstr "Zona horària "
+
+msgid "Select Option"
+msgstr "Trieu una opció "
+
+msgid "Only one option can be selected"
+msgstr "Només es pot triar una opció "
+
+msgid "Options"
+msgstr "Opcions "
+
+msgid "Select Mounting Option"
+msgstr "Seleccioneu l'opció de muntatge "
+
+msgid "Automounting is enabled by default"
+msgstr "S'ha activat l'automuntatge per omissió"
+
+msgid "Mount"
+msgstr "Munta "
+
+msgid "automount|mount=*"
+msgstr "automunta|munta=*"
+
+msgid "Select Persistence Option"
+msgstr "Trieu l'opció de persistència "
+
+msgid "Persistence"
+msgstr "Persistència "
+
+msgid "Select font size"
+msgstr "Trieu la mida del tipus de lletra "
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Escala del tipus de lletra a la pantalla. Per omissió és 1.0 "
+
+msgid "Select Desktop"
+msgstr "Trieu l'escriptori "
+
+msgid "Desktop"
+msgstr "Escriptori"
+
+msgid "Save these changes?"
+msgstr "Desar els canvis? "
+
+msgid "Save"
+msgstr "Desa "
+
+msgid "Please select %s device:"
+msgstr "Si us plau, seleccioneu el dispositiu %s: "
+
+msgid "reverse video"
+msgstr "vídeo invers "
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Les particions que no es poden usar també es llisten, però no es poden seleccionar. "
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "Els factors limitadors estan realçats a %s "
+
+msgid "The device %s already has label %s"
+msgstr "El dispositiu %s ja té l'etiqueta %s "
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Actualitzo l'etiqueta a %s de %s a %s?"
+
+msgid "The device %s has no label"
+msgstr "El dispositiu %s no té etiqueta "
+
+msgid "Give %s the label %s?"
+msgstr "Poso a %s l'etiqueta %s?"
+
+msgid "Label updated to %s"
+msgstr "Etiqueta actualitzada a %s "
+
+msgid "Valid %s"
+msgstr "%s vàlid "
+
+msgid "Could not find device %s"
+msgstr "No s'ha trobat el dispositiu %s "
+
+msgid "Valid devices"
+msgstr "Dispositius vàlids"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s diferències entre %s i %s "
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Copia %s al %s buit "
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "Fitxer %s no trobat %s "
+
+msgid "No %s found in file %s"
+msgstr "No s'ha trobat %s al fitxer %s "
+
+msgid "No %s found but there is a %s"
+msgstr "No s'ha trobat %s però hi ha un %s "
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Comprova %s de fitxers al directori %s. Tingueu paciència... "
+
+msgid "file: %s"
+msgstr "fitxer: %s "
+
+msgid "result: %s"
+msgstr "resultat: %s "
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "No s'han trobat sumes de verificació %s a %s. No es poden fer comprovacions de %s. "
+
+msgid "At least one %s checksum did not match"
+msgstr "Com a mínim, una suma de verificació %s no coincideix "
+
+msgid "Success!  The file passed"
+msgstr "Èxit! El fitxer ha passat "
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Èxit! Tots els fitxers %s han passat "
+
+msgid "Wait %s seconds"
+msgstr "Espereu uns %s segons "
+
+msgid "copy %s file to RAM"
+msgstr "copia %s fitxer(s) a la RAM "
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Es copiaran fitxers de %s a %s. Si us plau, espereu ..."
+
+msgid "Size of original %12s"
+msgstr "Mida de l'original %12s "
+
+msgid "Size of copy %12s"
+msgstr "Mida de la còpia %12s "
+
+msgid "Copy to RAM succeeded"
+msgstr "Copiat a la RAM amb èxit"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "Munta el dispositiu de persistència (si cal) "
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "No hi ha prou espai al dispositiu autònom per crear %s fitxer(s) amb mida de %s MiB."
+
+msgid "create %s persistence file"
+msgstr "crea %s fitxer(s) de persistència "
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Mida per omissió: %s MiB. Sistema de fitxers: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Aquesta mida per omissió deixarà %s MiB lliures"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Crea el fitxer %s, manualment o automàticament "
+
+msgid "create automatically"
+msgstr "crea automàticament "
+
+msgid "create custom"
+msgstr "crea a mida "
+
+msgid "Please select size of %s file"
+msgstr "Si us plau, trieu la mida del fitxer %s "
+
+msgid "There is %s MiB available on the device"
+msgstr "Hi ha %s MiB disponibles al dispositiu"
+
+msgid "Filesystem size %s MiB"
+msgstr "Mida del sistema de fitxers %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Creant %s fitxer(s) de tipus %s i mida %s MiB"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Atenció: això necessita alguns minuts per Gigabyte en un sistema de fitxers %s"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Si us plau, espereu mentre trobo les particions actuals..."
+
+msgid "persistence"
+msgstr "persistència "
+
+msgid "persist device"
+msgstr "dispositiu persistent"
+
+msgid "Enabled %s persistence"
+msgstr "Activa la persistència %s"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Copiant %s MiB a la RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "munta el fitxer de persistència %s a %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Voleu activar igualment la persistència del directori d'usuari?"
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "És estrany, no s'ha pogut moure el punt de muntatge de homefs "
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Hi ha %4s MiB de fitxers amagats a causa de la persistència de home"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Hi ha %4sMiB lliures al dispositiu de persistència home"
+
+msgid "There's not enough space to copy all the files"
+msgstr "No hi ha prou espai per copiar tots els fitxers "
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Voleu copiar els fitxers al directori d'usuari del dispositiu persistent?"
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "No s'ha trobat el fitxer %s. Es canvia el nom de %s a %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Hi ha %s MiB lliures. En cal %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Redimensiona homefs. Copia el contingut de %s a %s "
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Copiant el sistema de fitxers d'usuari. Si us plau, tingueu paciència..."
+
+msgid "Press <%s> to continue"
+msgstr "Premeu %s per continuar"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Sembla que heu triat resolució VGA %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Voleu desar aquesta resolució per futures arrencades?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Es desarà la nova resolució VGA i els altres paràmetres d'arrencada"
+
+msgid "umount %s"
+msgstr "desmunta %s "
+
+msgid "umount of %s failed"
+msgstr "el desmuntatge de %s ha fallat. "
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Mida per omissió: %s MB. Tipus de sistema de fitxers: %s "
+
+msgid "This default size will leave %s Meg free"
+msgstr "Aquesta mida per omissió deixarà %s MB lliures "
+
+msgid "There is %s Meg available on the device"
+msgstr "Hi ha %s MB lliures al dispositiu "
+
+msgid "Filesystem size %s Meg"
+msgstr "La mida del sistema de fitxers és de %s MB "
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Crea %s fitxer(s) del tipus %s amb una mida de %s MB "
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Copiant %s MB a la RAM..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Hi ha %4s MB de fitxers que quedaran amagats per la persistència d'usuari "
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Hi ha %4s MB lliures al dispositiu de persistència d'usuari "

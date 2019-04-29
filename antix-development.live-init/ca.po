@@ -1,0 +1,156 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2013,2016
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Eduard Selma <selma@tinet.cat>, 2014-2017
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2017-11-09 17:41+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Localitzant/configurant X-Window"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Desactivant splash (fbcondecor) a VirtualBox "
+
+msgid "Creating missing %s file"
+msgstr "Creant el fitxer absent %s "
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "No s'ha trobat l'usuari per omissió %s al sistema. "
+
+msgid "Mounting all devices"
+msgstr "Muntant tots els dispositius"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Opció %s no vàlida %s"
+
+msgid "Automount disabled"
+msgstr "Desactivat l'automuntatge "
+
+msgid "Enabling fstab hotplugging"
+msgstr "Activació de la connexió en calent de fstab"
+
+msgid "Automount enabled"
+msgstr "Activat l'automuntatge "
+
+msgid "Bad fstab option %s"
+msgstr "Opció de fstab errònia %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Llengua de localització del menú %s desconeguda"
+
+msgid "Directory not found %s"
+msgstr "No s'ha trobat el directori %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Localitzant els menús a %s a %s"
+
+msgid "Setting %s to %s"
+msgstr "S'està configurant %s a %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Codi de rèplica %s erroni (s'esperaven dues lletres) "
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Localitzant els dipòsits font usant %s "
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Se suposa que %s està configurat a l'hora de %s"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Eliminant el fitxer previ auto-generat %s"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Desactivant el mode segur a causa del KMS %s de maquinari de vídeo"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Permet que el X server per omissió usi el controlador %s "
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Forçant X-Window a usar el mode per omissió"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Configurant el fitxer %s amb %s"
+
+msgid "Using X to make xorg.conf"
+msgstr "Usant X per crear xorg.conf "
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Forçant l'acceleració %s a %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Forçant el controlador %s a %s"
+
+msgid "Creating file %s"
+msgstr "Creant el fitxer %s "
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Escanejant cercant mòduls de vídeo per a maquinari específic..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "S'ha(n) trobat %s mòdul(s) de vídeo %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "S'ha(n) trobat %s mòdul(s) de kernel... "
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "S'ha trobat el controlador de vídeo %s"
+
+msgid "Setting Conky width to %s"
+msgstr "Amplada de Conky fixada a %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Paràmetre d'arrencada %s no vàlid %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Paràmetre de retard de l'escriptori incorrecte %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "Retard de l'escriptori fixat a %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Temps d'espera del terminal en negre configurat a %s minut(s)"
+
+msgid "Creating issue file for %s"
+msgstr "Creant fitxer d'edició per %s "
+
+msgid "Files already exist under %s"
+msgstr "Els fitxers ja hi són a %s"
+
+msgid "Not creating or populating %s"
+msgstr "No es crea ni pobla %s"
+
+msgid "Populating %s directory"
+msgstr "Poblant el directori %s"
+
+msgid "Setting desktop theme to %s"
+msgstr "Definint el tema d'escriptori com a %s"

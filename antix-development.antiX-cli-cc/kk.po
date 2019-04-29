@@ -1,0 +1,310 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2017\n"
+"Language-Team: Kazakh (https://www.transifex.com/anticapitalista/teams/10162/kk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "antiX Command-Line Control Centre"
+msgstr ""
+
+msgid ""
+"Press: <Enter> to select an option, <b> back to main, <q> to quit, <h> for "
+"help"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "antiX Live Commands"
+msgstr ""
+
+msgid "Audio/Visual Commands"
+msgstr ""
+
+msgid "System Tools"
+msgstr ""
+
+msgid "System Information"
+msgstr "Жүйелік ақпарат"
+
+msgid "Console Utilities"
+msgstr ""
+
+msgid "Internet Applications"
+msgstr ""
+
+msgid "Office Applications"
+msgstr ""
+
+msgid "Configuration Files"
+msgstr ""
+
+msgid "Logout / Installer"
+msgstr ""
+
+msgid "Logout / Reboot"
+msgstr ""
+
+msgid "Audio/Visual menu"
+msgstr ""
+
+msgid "Internet Tools & Apps"
+msgstr ""
+
+msgid "Live System Centre"
+msgstr ""
+
+msgid "Office and Other"
+msgstr ""
+
+msgid "Logout / Install"
+msgstr ""
+
+msgid "Quit"
+msgstr "Шығу"
+
+msgid "Would do action %s"
+msgstr ""
+
+msgid "Install this distro on a hard drive"
+msgstr ""
+
+msgid "Reboot the system"
+msgstr ""
+
+msgid "Powerdown the system"
+msgstr ""
+
+msgid "See if sound is working"
+msgstr ""
+
+msgid "Select which sound card to use"
+msgstr ""
+
+msgid "simple sound mixer"
+msgstr ""
+
+msgid "Audio Player"
+msgstr ""
+
+msgid "Stop mocp Audio Player"
+msgstr ""
+
+msgid "Video Player"
+msgstr ""
+
+msgid "YouTube audio-only jukebox"
+msgstr ""
+
+msgid "Poor Man's Radio Player"
+msgstr ""
+
+#. add_cmd burniso                  "cd/dvd burner"
+msgid "Image viewer"
+msgstr ""
+
+msgid "Pdf viewer"
+msgstr ""
+
+msgid "cd/dvd burner"
+msgstr ""
+
+msgid "Install new packages (like Synaptic)"
+msgstr ""
+
+#. add_cmd smxi                  $"System maintenance tool"
+msgid "Install nvidia non-free graphics drivers (for X)"
+msgstr ""
+
+msgid "Check and undelete disk partitions"
+msgstr ""
+
+msgid "Choose startup services"
+msgstr ""
+
+msgid "Set date and time"
+msgstr ""
+
+msgid "Partition block device %s"
+msgstr ""
+
+msgid "Monitor and control processes"
+msgstr ""
+
+msgid "Hardware and OS information"
+msgstr ""
+
+msgid "Other system information"
+msgstr ""
+
+msgid "Show memory usage"
+msgstr ""
+
+msgid "Information about mounted partitions"
+msgstr ""
+
+msgid "List all block (disk) partitions"
+msgstr ""
+
+msgid "List currently installed kernel modules"
+msgstr ""
+
+msgid "List major system components"
+msgstr ""
+
+msgid "List attached USB devices"
+msgstr ""
+
+msgid "Display messages from the kernel"
+msgstr ""
+
+msgid "View information about various commands"
+msgstr ""
+
+msgid "View and edit disk partitions"
+msgstr ""
+
+msgid "X Server Log File"
+msgstr ""
+
+msgid "Live Boot Log File"
+msgstr ""
+
+msgid "Make a full featured antiX or MX live-usb"
+msgstr ""
+
+msgid "Make a "
+msgstr ""
+
+msgid "Update live kernel"
+msgstr ""
+
+msgid "Remaster live system"
+msgstr ""
+
+msgid "Save dynamic root persistence"
+msgstr ""
+
+msgid "Configure dynamic root persistence"
+msgstr ""
+
+msgid "Create live persistence files"
+msgstr ""
+
+msgid "Adjust the brightness of the backlight"
+msgstr ""
+
+msgid "Choose the console background"
+msgstr ""
+
+msgid "Choose the console font"
+msgstr ""
+
+msgid "Display all possible console text colors"
+msgstr ""
+
+#. add_cmd space-evaders         $"Arcade type game"
+msgid "Excerpts from the Tao of Programming"
+msgstr ""
+
+msgid "Lock the virtual consoles"
+msgstr ""
+
+msgid "Set up wired/wireless"
+msgstr ""
+
+msgid "Show network status"
+msgstr ""
+
+msgid "Test if network is connected"
+msgstr ""
+
+msgid "Test network bandwidth"
+msgstr ""
+
+msgid "Show all network connections and ports"
+msgstr ""
+
+msgid "Manage network profiles"
+msgstr ""
+
+msgid "Weather forecast"
+msgstr ""
+
+msgid "Email client"
+msgstr ""
+
+msgid "Web browser (text mode)"
+msgstr ""
+
+#. add_cmd links2           $"Web browser (text mode)"
+msgid "Web browser (graphics mode)"
+msgstr ""
+
+msgid "Chat client"
+msgstr ""
+
+msgid "RSS/Atom feed reader"
+msgstr ""
+
+msgid "BitTorrent client"
+msgstr ""
+
+msgid "Midnight commander file manager"
+msgstr ""
+
+msgid "Word Processor"
+msgstr ""
+
+msgid "Calendar/Schedule"
+msgstr ""
+
+msgid "Simple text editor"
+msgstr ""
+
+msgid "Advanced text editor"
+msgstr ""
+
+msgid "File system table"
+msgstr ""
+
+msgid "X Windows Configuration"
+msgstr ""
+
+msgid "SLiM Graphical login manager"
+msgstr ""
+
+msgid "Installed bootloader"
+msgstr ""
+
+msgid "Live usb BIOS bootloader"
+msgstr ""
+
+msgid "Live usb UEFI bootloader"
+msgstr ""
+
+msgid "Remaster Exclude List"
+msgstr ""
+
+msgid "Snapshot Exclude List"
+msgstr ""
+
+msgid "Remaster Exclude List 2"
+msgstr ""
+
+msgid "Persist Save Exclude List"
+msgstr ""

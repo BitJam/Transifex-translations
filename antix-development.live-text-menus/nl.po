@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Eadwine Rose, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2017-10-11 04:55+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/anticapitalista/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Check integrity of the live media"
+msgstr "Controleer integriteit van de live media"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Controleer LiveUSB en persistente ext2/3/4 bestandssystemen"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Kopieer het gecomprimeerde bestandssysteem naar RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Beëindig opstarten van een LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Beëindig opstarten van een harde schijf"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Alle usb-2 apparaten uitschakelen tijdens opstarten"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Laat het systeem helpen de klokinstellingen vast te stellen"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Hardware klok gebruikt UTC (Enkel-linux systemen)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Hardware klok gebruikt lokale tijd (Windows systemen)"
+
+msgid "Change passwords before booting"
+msgstr "Wijzig wachtwoorden voor het opstarten"
+
+msgid "Enable wicd service on startup"
+msgstr "Schakel wicd service in bij het opstarten"
+
+msgid "Disable wicd service on startup"
+msgstr "Schakel wicd service uit bij het opstarten"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Schakel LiveUSB-Opslag optie uit (enkel LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Schakel LiveUSB-Opslag optie in (enkel LiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Sla enkele bestanden op over het herstarten (enkel LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Geen bestanden over herstarten opslaan (enkel LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Automatisch apparaten koppelen als ze aangesloten worden"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "De-activeren van alle extra koppelingen en automatisch koppelen"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Snel. Slaat root en home op (gebruikt RAM, slaat op bij uitschakelen)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Snel. Slaat enkel root op (gebruikt RAM, slaat op bij uitschakelen)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Langzaam. Slaat root en home op (geen RAM gebruik, constant opslaan)"
+
+msgid "Only home persistence"
+msgstr "Enkel home persistentie"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Spaarzaam met zowel root en home persistentie"
+
+msgid "Frugal with only root persistence"
+msgstr "Spaarzaam met enkel root persistentie"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Spaarzaam met home en statische root persistentie"
+
+msgid "Frugal with only home persistence"
+msgstr "Spaarzaam met enkel home persistentie"
+
+msgid "Only Frugal, no persistence"
+msgstr "Enkel spaarzaam, geen persistentie"
+
+msgid "Yes (default)"
+msgstr "Ja (standaard)"
+
+msgid "No"
+msgstr "Nee"

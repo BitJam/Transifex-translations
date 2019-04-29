@@ -1,0 +1,153 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-03-26 18:14+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "ቋንቋ/ማሰናጃ X-Windows"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr ""
+
+msgid "Creating missing %s file"
+msgstr "የጎደለ %s ፋይል በ መፍጠር ላይ"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "ምንም ነባር ተጠቃሚ %s በ ስራቱ ውስጥ አልተገኘም"
+
+msgid "Mounting all devices"
+msgstr "ሁሉንም አካል መጫኛ"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "ዋጋ የሌለው %s ምርጫ %s"
+
+msgid "Automount disabled"
+msgstr "በራሱ መጫኛ ማሰናከያ"
+
+msgid "Enabling fstab hotplugging"
+msgstr "fstab hotplugging በ ማስቻል ላይ"
+
+msgid "Automount enabled"
+msgstr "በራሱ መጫኛ ማሰቻያ"
+
+msgid "Bad fstab option %s"
+msgstr "መጥፎ የ fstab ምርጫ %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "ያልታወቀ ዝርዝር ቋንቋ ማሰናጃ %s"
+
+msgid "Directory not found %s"
+msgstr "ዳይሬክቶሪ አልተገኘም %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "የ ቋንቋ ዝርዝር ለ %s በ %s"
+
+msgid "Setting %s to %s"
+msgstr "ማሰናጃ %s ለ %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "መጥፎ አንፀባራቂ ኮድ %s (ሁለት ፊደል)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "የ ቋንቋ ምንጭ ማጠራቀሚያ ይጠቀማል %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "ይህ ይገመታል %s እንደ ተሰናዳ ለ %s ጊዜ"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "በ ቅድሚያ በራሱ-የ መነጨ %s ፋይል በ ማስወገድ ላይ"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "በ ጥንቃቄ ዘዴ በ ማስወገድ ላይ ምክንያቱም ለ KMS %s ቪዲዮ ጠንካራ አካል"
+
+msgid "Letting X server default to using %s driver"
+msgstr ""
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "X-Windows ነባር ዘዴ እንዲጠቀም ማስገደጃ"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "ማሰናጃ %s ፋይል በ %s"
+
+msgid "Using X to make xorg.conf"
+msgstr ""
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "ማስገደጃ %s ፍጥነት በ %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "ማስገደጃ %s driver በ %s"
+
+msgid "Creating file %s"
+msgstr "ፋይል መፍጠሪያ %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "የ ጠንካራ አካሎች መግለጫ ክፍል በ ማሰስ ላይ  ..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "ተገኝቷል %s የ ቪዲዮ ክፍል(ሎች) %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "ተገኝቷል %s የ ከረኔል ክፍል ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "ተገኝቷል %s የ ቪዲዮ driver"
+
+msgid "Setting Conky width to %s"
+msgstr "የ ኮንኪ ስፋት ማሰናጃ ለ %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "ዋጋ የሌለው %s ማስነሻ ደንብ %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "መጥፎ ዴስክቶፕ ማዘግያ ደንብ %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "ዴስክቶፕ ማዘግያ ማሰናጃ ለ %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr ""
+
+msgid "Creating issue file for %s"
+msgstr "የ ውጤት ፋይል በ መፍጠር ላይ ለ %s"
+
+msgid "Files already exist under %s"
+msgstr "ፋይሉ ቀደም ብሎ በዚህ ስር ነበር %s"
+
+msgid "Not creating or populating %s"
+msgstr ""
+
+msgid "Populating %s directory"
+msgstr ""
+
+msgid "Setting desktop theme to %s"
+msgstr "የ ዴስክቶፕ ገጽታ ማሰናጃ %s"

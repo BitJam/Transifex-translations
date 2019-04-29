@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# cyril cottet <cyrilusber2001@yahoo.fr>, 2017
+# Franck Vazifranky <vazifranky@gmail.com>, 2016
+# Geoff Gigg <geoffgigg@hotmail.com>, 2016
+# Jonathan Chevalier <jonathan.chevalier@icloud.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2017-11-24 16:46+0000\n"
+"Last-Translator: cyril cottet <cyrilusber2001@yahoo.fr>\n"
+"Language-Team: French (http://www.transifex.com/anticapitalista/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Aucun périphérique ou carte son détecté"
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Une seule carte son a été détectée."
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "Carte son par défaut actuelle %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Quitter"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Veuillez choisir une carte son"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Carte son réglée sur %s"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Test son"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Souhaitez-vous tester la carte son?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "Test du son pendant 6 secondes"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Le test a réussi"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Connexion au périphérique choisi réussie)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Le test a échoué"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Connexion au périphérique choisi impossible)"

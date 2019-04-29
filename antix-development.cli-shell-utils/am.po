@@ -1,0 +1,717 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: samson <sambelet@yahoo.com>, 2018\n"
+"Language-Team: Amharic (https://www.transifex.com/anticapitalista/teams/10162/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "በ ማስጀመር ላይ %s"
+
+msgid "The selected usb drive was %s"
+msgstr "የ ተመረጠው የ usb አካል ይህ ነው %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr "ይህ አካል ስህተት ይፈጥራል በሚፈጥሩ እና በሚያስነሱ ጊዜ"
+
+msgid "Do you want to use it anyway?"
+msgstr "እርስዎ ለማንኛውም መጠቀም ይፈልጋሉ?  "
+
+msgid "Will use target device %s"
+msgstr "የታለመውን አካል ይጠቀማል %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "የ ተመሰጠረ  በ ቀጥታ-usb ልፍጠር?"
+
+msgid "copying"
+msgstr "ኮፒ በ ማድረግ ላይ"
+
+msgid "Please enter the filename"
+msgstr "እባክዎን የ ፋይል ስም ያስገቡ"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "ፋይል"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "አካል "
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "ማባዣ"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "ዳይሬክቶሪ "
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "ምንጩን ይጠቀማል %s"
+
+msgid "Could not find device %s"
+msgstr "አካሉን ማግኘት አልተቻለም %s"
+
+msgid "Customize language and timezone?"
+msgstr "ቋንቋ እና የ ሰአት ክልል ማስተካከያ"
+
+msgid "Encryption enabled"
+msgstr "መመስጠሪያ አስችለዋል"
+
+msgid "encrypted"
+msgstr "ተመስጥሯል"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "ለ መስራት ዝግጁ ነው %s በ አካሉ ላይ %s በ %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "ለ መስራት ዝግጁ ነው %s ተግባሩን በ %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "ለ መስራት ዝግጁ ነው %s ተግባሩን በ %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "እንጀምር?"
+
+msgid "install"
+msgstr "መግጠሚያ"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr "እርስዎ የ ማለፊያ ሀረግ እንዲፈጥሩ ይጠየቃሉ በ መጀመሪያ ሲያስነሱ"
+
+msgid "Will use initial passphrase %s"
+msgstr "የ ማስጀመሪያ ማለፊያ ሀረግ ይጠቀማል %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "ሙሉ-ገጽታ ያለው በ ቀጥታ-usb መፍጠሪያ"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "የ ተመሰጠረ ሙሉ-ገጽታ ያለው በ ቀጥታ-usb መፍጠሪያ"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr "በ ቀጥታ-usb ማስተካከያ መፍጠሪያ (የ መመስጠሪያ ምርጫ ያካትታል)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr "በ ቀጥታ-usb ላይ ያለውን OS ማሻሻያ (ለ ሙከራ)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "በ ቀጥታ-usb ላይ ያለውን UUIDs ማሻሻያ"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "በ ቀጥታ-usb ላይ ያለውን የ ማስነሻ ደንብ ማሻሻያ"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "እንደገና መግጠሚያ የ legacy ማስነሻ መጫኛ በ ነበረው በ ቀጥታ-usb ላይ"
+
+msgid "Clear the partition table on a usb device"
+msgstr "በ ቀጥታ-usb አካል ላይ ያለ ክፍልፋይ ማጽጃ"
+
+msgid "Please select what action to perform"
+msgstr "እባክዎን ምን ተግባር እንደሚፈጸም ይምረጡ"
+
+msgid "Please select the source for the new live-usb"
+msgstr "እባክዎን ምንጭ ለ የ usb አካል ይምረጡ"
+
+msgid "The only usb drive detected was %s"
+msgstr "የ ተገኘው የ usb አካል ይህ ነው %s"
+
+msgid "A %s usb drive was detected"
+msgstr "ይህ %s የ usb አካል ተገኝቷል "
+
+msgid "Do you want it included in the menu anyway"
+msgstr "እርስዎ ለማንኛውም ዝርዝር ማካተት ይፈልጋሉ?  "
+
+msgid "No available target usb devices were found"
+msgstr "ምንም ዝግጁ የ usb አካል አልተገኘም"
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr ""
+
+msgid "Please select the target usb device"
+msgstr "እባክዎን የ ታለመውን የ usb አካል ይምረጡ"
+
+msgid "entire drive"
+msgstr "በ ጠቅላላ አካሉ"
+
+msgid "main partition"
+msgstr "ዋናው ክፍልፋይ"
+
+msgid "bios partition"
+msgstr "bios ክፍልፋይ"
+
+msgid "uefi partition"
+msgstr "uefi ክፍልፋይ"
+
+msgid "Already using over 90% of the device"
+msgstr "የ አካሉን 90% ቀደም ብለው ተጠቅመውበታል"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "እርስዎ አካሉ ምን ያህል እንደተጠቀሙ መቀየር ይፈልጋሉ?"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "መጠን ማሰናጃ ለ %s (%s ሜባ)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr "እባክዎን ምን ያህል ቦታ ለ የ usb አካል ክፍልፋይ መጠቀም እንደሚፈልጉ ይምረጡ"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "የ ተመሰጠረ  በ ቀጥታ-usb እንደሆን ይገመታል"
+
+msgid "About to encrypt device %s"
+msgstr "አካል ስለ መመስጠር %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "እርስዎ ዳታው ላይ ደርበው መጻፍ ይፈልጋሉ በ %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "ይጻፉ በ upper-case %s እንደ ተመከሩታ"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "እርስዎ ሶስት ጊዜ የ ማለፊያ ሀረግ እንዲያስገቡ ይጠየቃሉ "
+
+msgid "Failed to create encrypted device"
+msgstr "የ ተመሰጠረ አካል መፍጠር አልተቻለም"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "እርስዎ የ ማለፊያ ሀረግ አሁን ማስገባት ይፈልጋሉ?"
+
+msgid "Failed to open encrypted device"
+msgstr "የ ተመሰጠረ አካል መክፈት አልተቻለም"
+
+msgid "Encryption successful"
+msgstr "መመስጠር ተሳክቷል"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "እባክዎን ይቆዩ የ ኦፕቲካል ዲስክ እስከሚጫን ድረስ %s"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "ይጠቀሙ %s ክፍልፋይ"
+
+msgid "copy from %s to %s partition"
+msgstr "ኮፒ ማድረጊያ ከ %s ወደ %s ክፍልፋይ"
+
+msgid "files: %s"
+msgstr "ፋይሎች: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr "ፋይሎች ወደ ዋናው በ ቀጥታ usb ክፍልፋይ ኮፒ ሲደረጉ ስህተት ተፈጥሯል"
+
+msgid "Error while copying %s files"
+msgstr "ፋይሎች ኮፒ ሲደረጉ ስህተት %s ተፈጥሯል"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "initrd በሚራገፍ ጊዜ ስህተት ተፈጥሯል"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr "የሚፈለገውን ፕሮግራም መጨመር አልተቻለም ወደ በ ቀጥታ initrd"
+
+msgid "Enable encryption in the live initrd"
+msgstr "በ ቀጥታ initrd ውስጥ መመስጠሪያ ማስቻያ"
+
+msgid "Disable encryption in the live initrd"
+msgstr "በ ቀጥታ initrd ውስጥ መመስጠሪያ ማሰናከያ"
+
+msgid "Fix %s bug"
+msgstr "ችግር %s መጠገኛ"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "የ syslinux ዳይሬክቶሪ መፍጠሪያ ከ %s"
+
+msgid "Not enough space on %s partition"
+msgstr "በ ክፍልፋዩ ላይ በቂ ነፃ ቦታ %s የለም"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "ከዚህ ያነሰ %s ሜባ ቦታ ይቀራል በ %s ክፍልፋይ ላይ"
+
+msgid "done"
+msgstr "ጨርሷል"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "መውጫ"
+
+msgid "Please enter the name of the iso file"
+msgstr "እባክዎን የ iso ፋይል ስም ያስገቡ"
+
+msgid "The live media is not mounted"
+msgstr "በ ቀጥታ መገናኛ አልተጫነም"
+
+msgid "Current running kernel is %s"
+msgstr "አሁኑ እየሄደ ያለው ከረኔል ይህ ነው %s"
+
+msgid "This is not a live-usb system"
+msgstr "ይህ በ ቀጥታ-usb ስርአት አይደለም "
+
+msgid "Will use running live system"
+msgstr "የሚሄደውን በ ቀጥታ ስርአት ይጠቀማል"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "ይህ %s የ usb አካል አይደለም"
+
+msgid "Can't find first partition on device %s"
+msgstr "በ አካሉ ላይ ፍልፋይ አልተገኘም %s"
+
+msgid "Device %s is not a disk partition"
+msgstr "ይህ አካል %s የ ዲስክ ክፍልፋይ አይደለም"
+
+msgid "Will use live-usb device %s"
+msgstr "በ ቀጥታ-usb አካል ይጠቀማል %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "አይ %s ፋይል ተገኝቷል ማንኛውም ዳይሬክቶሪ ውስጥ%s"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "ማግኘት አልተቻለም  %s' ወይንም ' %s በ ቀጥታ-usb ላይ"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "ፋይል %s ተገኝቷል %sዳይሬክቶሪ ውስጥ%s"
+
+msgid "Could not find initrd file: %s"
+msgstr "ማግኘት አልተቻለም initrd ፋይል: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "ተገኝቷል:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "ጠቅላላ በ ቀጥታ ከረኔል "
+
+msgid "total live kernels"
+msgstr "ጠቅላላ በ ቀጥታ ከረኔል "
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "ነባር በ ቀጥታ ከረኔል "
+
+msgid "default live kernels"
+msgstr "ነባር በ ቀጥታ ከረኔል "
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "አሮጌ በ ቀጥታ ከረኔል "
+
+msgid "old live kernels"
+msgstr "አሮጌ በ ቀጥታ ከረኔል "
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "ጠቅላላ የ ተገጠመ ከረኔል "
+
+msgid "total installed kernels"
+msgstr "ጠቅላላ የ ተገጠመ ከረኔል "
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "አዲስ የ ተገጠመ ከረኔል "
+
+msgid "new installed kernels"
+msgstr "አዲስ የ ተገጠመ ከረኔል "
+
+msgid "Live kernels:"
+msgstr "በ ቀጥታ ከረኔል "
+
+msgid "Boot kernels:"
+msgstr "ማስነሻ ከረኔል"
+
+msgid "Only one new installed kernel was found:"
+msgstr "አንድ አዲስ የ ተገጠመ ከረኔል ተገናኝቷል  "
+
+msgid "New installed kernels:"
+msgstr "አዲስ የ ተገጠመ ከረኔል "
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "ይህ %s አዲስ ከረኔል ነው:የሚታየው በጣም የ ቅርብ ጊዜ ነው %s."
+
+msgid "No kernels were found in the boot directory"
+msgstr "ምንም አዲስ ከረኔል በ ማስነሻ ውስጥ አልተገኘም"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "ምንም አዲስ ከረኔል በ ቀጥታ ማስነሻ ዳይሬክቶሪ ውስጥ አልተገኘም"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "እርስዎ እንደገና መስራት አለብዎት ከረኔል ከ ማሻሻልዎት በፊት"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "እርስዎ እንደገና መስራት አለብዎት ከረኔል ከ ማሻሻልዎት በፊት"
+
+msgid "No new kernels were found"
+msgstr "ምንም አዲስ ከረኔል አልተገኘም"
+
+msgid "Can only update the initrd file"
+msgstr "የ initrd ፋይል ብቻ ማሻሻያ"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr "እርስዎ ከረኔል ከ ማሻሻል አለብዎት እና ከዛ እንደገና ከረኔል ከ ማሻሻል መስራት አለብዎት"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "ምንም አዲስ ከረኔል አልተገኘም እና የ initrd ፋይል ቴምፕሌት አልተገኘም"
+
+msgid "live kernel update"
+msgstr "በ ቀጥታ ከረኔል ማሻሻያ"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "የ አሁኑ"
+
+msgid "New"
+msgstr "አዲስ"
+
+msgid "(new)"
+msgstr "(አዲስ)"
+
+msgid "live kernel rollback"
+msgstr "በ ቀጥታ ከረኔል ወደ ኋላ መመለሻ"
+
+msgid "Old"
+msgstr "አሮጌ"
+
+msgid "live initrd update"
+msgstr "በ ቀጥታ initrd ማሻሻያ"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "ፋይል በ መጠቀም initrd ማሻሻያ"
+
+msgid "live modules update"
+msgstr "በ ቀጥታ ክፍል ማሻሻያ"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "የ initrd ክፍሎች መጨመሪያ"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "ይህን ለ መስራት ዝግጁ ነው %s"
+
+msgid "The current Live System on %s"
+msgstr "የ አሁኑ በ ቀጥታ ስርአት ይህ ነው በ %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "ስርአቱ በ ቀጥታ-usb አይደለም እና ምንም የ usb አካል አልተገኘም"
+
+msgid "Please select the system to update"
+msgstr "እባክዎን ለ ማሻሻል ስርአት ይምረጡ"
+
+msgid "No update or rollback actions are available"
+msgstr "ምንም ማሻሻያ ወይንም እንደ ነበር መመለስ ዝግጁ አይደለም"
+
+msgid "Please select an action to perform"
+msgstr "እባክዎን ተግባር ይምረጡ ለ መፈጸም"
+
+msgid "Update"
+msgstr "ማሻሻያ"
+
+msgid "from"
+msgstr "ከ"
+
+msgid "Rollback"
+msgstr "ወደ ኋላ መመለሻ"
+
+msgid "to"
+msgstr "ለ"
+
+msgid "Update initrd using file %s"
+msgstr "ፋይል በ መጠቀም initrd ማሻሻያ %s"
+
+msgid "Quit"
+msgstr "ማጥፊያ"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "ምንም አዲስ ከረኔል በ ቀጥታ ማስነሻ ዳይሬክቶሪ ውስጥ አልተገኘም"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "የ ተጠየቀውን እትም የሚመሳሰል አንድ ከረኔል ተገኝቷል %s"
+
+msgid "Found one new kernel %s"
+msgstr "አንድ አዲስ ከረኔል ተገኝቷል %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "እባክዎን አዲስ ከረኔል ከ ዝርዝር ውስጥ ይምረጡ"
+
+msgid "kernel"
+msgstr "ከረኔል"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "የ initrd ክፍል ኮፒ ማድረግ ወደ ከረኔል አልተሳካም %s"
+
+msgid "No modules were copied to the initrd"
+msgstr "ምንም ክፍል ኮፒ አልተደረገም ወደ initrd"
+
+msgid "Compressing ..."
+msgstr "በ ማመቅ ላይ ..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "መግጠሚያ %s"
+
+msgid "Overwriting backup"
+msgstr "ተተኪ ደርቦ በ መጻፍ ላይ"
+
+msgid "Target file %s does not exist"
+msgstr "የ ታለመው ፋይል %s አልተገኘም"
+
+msgid "Could not find old %s file to roll back"
+msgstr "ማግኘት አልተቻለም %s አሮጌውን ፋይል ወደ ኋላ ለ መመለስ"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "ወደ ኋላ ለ መመለሻ %s ወደ %s "
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "በ ማስመሰያ ዘዴ"
+
+msgid "Would you like to do a remaster now?"
+msgstr "አሁን እንደገና መስራት ይፈልጋሉ?"
+
+msgid "Ready to restart %s"
+msgstr "እንደገና ለ ማስጀመር ዝግጁ ነው %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "በኋላ የሚጠበቀው ደንብ: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "አጠራጣሪ ክርክር በ %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "ተቋርጧል በ '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "ማስገቢያ"
+
+msgid "Press <%s> to continue"
+msgstr "ይጫኑ <%s> ለ መቀጠል"
+
+msgid "Unknown command: %s"
+msgstr "ያልታወቀ ትእዛዝ: %s"
+
+msgid "yes"
+msgstr "አዎ"
+
+msgid "no"
+msgstr "አይ"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "ማጥፊያ"
+
+msgid "default"
+msgstr "ነባር"
+
+msgid "pretend mode"
+msgstr "በ ማስመሰያ ዘዴ"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "የ ማስመሰያ ዘዴ አስችለዋል"
+
+msgid "entry"
+msgstr "ማስገቢያ"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "ይጫኑ <%s> ለ ነባር %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "ይጠቀሙ %s ለ እርዳታ %s ለ %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "ይጠቀሙ %s ለ %s"
+
+msgid "Oops.  Please try again"
+msgstr "ውይ! እንደገና ይሞክሩ"
+
+msgid "You must enter a number"
+msgstr "እርስዎ ቁጥር ማስገባት አለብዎት"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "እርስዎ ቁጥር ማስገባት አለብዎት ወይንም ይጫኑ <Enter>"
+
+msgid "The number '%s' is out of range"
+msgstr "ይህ ቁጥር '%s' ከ መጠን ውጪ ነው"
+
+msgid "Press '%s' again to quit"
+msgstr "ይጫኑ '%s' እንደገና ለ ማጥፋት"
+
+msgid "You chose %s"
+msgstr "እርስዎ መርጠዋል %s"
+
+msgid "Please select the live boot directory"
+msgstr "እባክዎን በ ቀጥታ የ ማስነሻ ዳይሬክቶሪ ይምረጡ"
+
+msgid "You entered: %s"
+msgstr "እርስዎ አስገብተዋል: %s"
+
+msgid "Is this correct?"
+msgstr "ይህ ትክክል ነው?"
+
+msgid "(tab completion is enabled)"
+msgstr "(tab መጨረሻ አስችለዋል )"
+
+msgid "%s does not appear to be a file"
+msgstr "%s ይህ ፋይል አይደለም"
+
+msgid "Try again?"
+msgstr "እንደገና ልሞክር?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "አካል "
+
+msgid "Size"
+msgstr "መጠን"
+
+msgid "Filesystem"
+msgstr "የ ፋይል ስርአት"
+
+msgid "Label"
+msgstr "ምልክት"
+
+msgid "Model"
+msgstr "ዘዴ"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "ይህን በ ቀጥታ ስርአት ማባዣ"
+
+msgid "Copy from an ISO file"
+msgstr "ከ ISO ፋይል ኮፒ ማድረጊያ"
+
+msgid "Check md5 of the file %s?"
+msgstr "የ ፋይል md5 ልመርምር%s?"
+
+msgid "Checking md5 ..."
+msgstr "md5  በ መመርመር ላይ ..."
+
+msgid "Keep going anyway?"
+msgstr "ለማንኛውም ልቀጥል?"
+
+msgid "The %s program failed!"
+msgstr "ይህ %s ፕሮግራም ወድቋል!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "ፋይል"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "እትም"
+
+msgid "Date"
+msgstr "ቀን"
+
+msgid "From"
+msgstr "ከ"
+
+msgid "To"
+msgstr "ለ"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "ጠቅላላ"
+
+msgid "Used"
+msgstr "ይጠቀሙ"
+
+msgid "Extra"
+msgstr "ተጨማሪ"
+
+msgid "Error"
+msgstr "ስህተት"
+
+msgid "Warning"
+msgstr "ማስጠንቀቂያ"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s ወስዷል %s ሰከንዶች"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "ይህ %s ሂደት (using PID %s) እየሄደ ነው"
+
+msgid "Please close that process before starting a new one"
+msgstr "እባክዎን ይህን ሂደት ይዝጉ ሌላ አዲስ ከ መጀመርዎት በፊት"
+
+msgid "Failed to obtain lock on %s"
+msgstr "መቆለፍ አልተቻለም በ %s"
+
+msgid "Creating new config file %s"
+msgstr "አዲስ ማሰናጃ ፋይል በ መፍጠር ላይ %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "ፕሮግራም ማግኘት አልተቻለም %s በ መዝለል ላይ %s"
+
+msgid "Could not find required program '%s'"
+msgstr "የሚፈለገውን ፕሮግራም ማግኘት አልተቻለም '%s'"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "በዚህ %s ዳይሬክቶሪ '%s' ላይ መጻፍ አይቻልም"
+
+msgid "Could not find iso file %s"
+msgstr "የ iso ፋይል ማግኘት አልተቻለም %s"
+
+msgid "Could not read iso file %s"
+msgstr "የ iso ፋይል ማንበብ አልተቻለም %s"
+
+msgid "Could not mount iso file %s"
+msgstr "የ iso ፋይል መጫን አልተቻለም %s"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distro: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distro: %s በ %s"
+
+msgid "This script must be run as root"
+msgstr "ይህ ጽሁፍ መሄድ ያለበት እንደ root ነው"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "ይጫኑ %s tየ ደመቀውን ለ መምረጥ %s"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "ይጠቀሙ %s ለ እርዳታ %s እንደገና ለ መሳያ %s ለ %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "ይጠቀሙ %s እንደገና ለ መሳያ %s ለ %s"

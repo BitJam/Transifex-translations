@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# prolinux ukrainian <prolinux@ukr.net>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2019-01-04 21:39+0000\n"
+"Last-Translator: prolinux ukrainian <prolinux@ukr.net>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/anticapitalista/antix-development/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Не знайдено жодних звукових пристроїв"
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Знайдено лише одну звукову карту."
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "Поточна стандартна це %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Вийти"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Будь ласка оберіть звукову карту"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Звукова карта встановлена в %s"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Перевірка звуку"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Бажаєте перевірити чи звук працює?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "Перевірка звуку до 6 секунд"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Тест успішний"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Неможливо приєднатися до обраного пристрою)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Тест невдалий"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Неможливо приєднатися до обраного пристрою)"

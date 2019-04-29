@@ -1,0 +1,32 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: Amharic (Ethiopia) (https://www.transifex.com/anticapitalista/teams/10162/am_ET/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am_ET\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. grid_color_scheme light
+msgid "Select a Background Theme"
+msgstr ""
+
+msgid ""
+"Press: <Enter> to use new theme, <q> to quit, <e> to edit, <h> for help"
+msgstr ""
+
+msgid "Current theme"
+msgstr ""
+
+msgid "FB Background Themes"
+msgstr ""

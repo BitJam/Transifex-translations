@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:25+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Swedish (http://www.transifex.com/anticapitalista/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Check integrity of the live media"
+msgstr "Kontrollera live-mediums integritet"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Kontrollera LiveUSB och persistens ext2/3/4 filsystem"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Kopiera det komprimerade filsystemet till RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Slutför start från en LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Slutför start från en hårddisk"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Koppla från alla usb-2 enheter vid start"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Få hjälp av systemet att avgöra klockans inställning"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Hårdvaru-klockan använder UTC (Endast Linuxsystem)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Hårdvaru-klocka använder lokal tid (Windows system)"
+
+msgid "Change passwords before booting"
+msgstr "Ändra lösenord före start"
+
+msgid "Enable wicd service on startup"
+msgstr "Aktivera wicd service vid start"
+
+msgid "Disable wicd service on startup"
+msgstr "Stäng av wicd service vid start"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Stäng av LiveUSB-lagringsfunktionen (Endast LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Använd LiveUSB-lagringsfunktionen (Endast LiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Spara en del filer vid omstarter (Endast LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Spara inte filer vid omstarter (Endast LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Montera enheter automatiskt när de pluggas in"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Stäng av all extra montering och automontering"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Snabb. Sparar root och home (använder RAM, spara vid avstängning)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Snabb. Sparar enbart root (använder RAM, sparar vid avstängning)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Långsam. Sparar root och home (ingen RAM-användning, sparar alltid)"
+
+msgid "Only home persistence"
+msgstr "Bara home-persistens"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal med både root och home-persistens"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal med enbart root persistens"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal med home och statisk root-persistens"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal med endast home-persistens"
+
+msgid "Only Frugal, no persistence"
+msgstr "Bara Frugal, ingen persistens"
+
+msgid "Yes (default)"
+msgstr "Ja (standard)"
+
+msgid "No"
+msgstr "Nej"

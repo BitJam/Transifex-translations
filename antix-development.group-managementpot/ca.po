@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Eduard Selma <selma@tinet.cat>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:18+EEST\n"
+"PO-Revision-Date: 2014-11-17 13:11+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: group-management:40
+msgid "The password cannot contain spaces"
+msgstr "La contrasenya no pot contenir espais"
+
+#: group-management:41
+msgid "You need to enter a password"
+msgstr "Cal que introduïu una contrasenya "
+
+#: group-management:42
+msgid "First and second password must be identical"
+msgstr "Les dues contrasenyes han de ser idèntiques "
+
+#: group-management:43 group-management:47
+msgid "No group Selected:"
+msgstr "No s'ha triat cap grup: "
+
+#: group-management:44
+msgid "You must choose a group"
+msgstr "Cal que trieu un grup"
+
+#: group-management:45
+msgid "Password Management"
+msgstr "Administració de Contrasenyes"
+
+#: group-management:46
+msgid "Choose group"
+msgstr "Trieu un grup "
+
+#: group-management:48
+msgid "group Password"
+msgstr "Contrasenya del grup "
+
+#: group-management:49
+msgid "password"
+msgstr "contrasenya "
+
+#: group-management:50
+msgid "password again"
+msgstr "un altre cop la contrasenya "
+
+#: group-management:51
+msgid "Passwords"
+msgstr "Contrasenyes"
+
+#: group-management:52
+msgid "The groupname cannot contain spaces"
+msgstr "El nom de grup no pot contenir espais "
+
+#: group-management:53
+msgid "You need to enter a groupname"
+msgstr "Cal que introduïu un nom de grup "
+
+#: group-management:54
+msgid "Add groups"
+msgstr "Afegeix grups "
+
+#: group-management:55
+msgid "Enter groupname"
+msgstr "introduïu el nom de grup "
+
+#: group-management:56
+msgid "Group Password"
+msgstr "Contrasenya de grup "
+
+#: group-management:57
+msgid "Set Password"
+msgstr "Defineix la contrasenya "
+
+#: group-management:58
+msgid "Users"
+msgstr "Usuaris "
+
+#: group-management:59
+msgid "Add group"
+msgstr "Afegeix grup "
+
+#: group-management:60
+msgid "Users to Group"
+msgstr "Usuaris del grup "
+
+#: group-management:61
+msgid "Repair group"
+msgstr "Repara grup "
+
+#: group-management:62
+msgid "group Removal"
+msgstr "Eliminació de grup"
+
+#: group-management:63
+msgid ""
+"Notice!\n"
+"        All of the users in this group will be \n"
+"        logged, unless completely remove\n"
+"        is checked."
+msgstr "Atenció!\n        Tots els usuaris d'aquest grup \n        estaran registrats, llevat que trieu\n        l'eliminació completa."
+
+#: group-management:69
+msgid "Remove group"
+msgstr "Elimina el grup"
+
+#: group-management:70
+msgid "No group Recoverable:"
+msgstr "No es pot recuperar el grup:"
+
+#: group-management:71
+msgid "There are no records of a recoverable group."
+msgstr "No hi ha registres de cap grup recuperable."
+
+#: group-management:72
+msgid "Recover group"
+msgstr "Recupera un grup "
+
+#: group-management:73
+msgid ""
+"Notice!\n"
+"        A group can only be recovered if the group\n"
+"        has not been completely removed!"
+msgstr "Atenció!\n        Només es pot recuperar un grup si aquest\n        no s'ha eliminat completament!"
+
+#: group-management:76
+msgid "Select Group"
+msgstr "Trieu el Grup"
+
+#: group-management:77
+msgid "You MUST be root to use this application!"
+msgstr "Cal ser administrador per usar aquesta aplicació!"

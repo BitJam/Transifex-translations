@@ -1,0 +1,71 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:01-0600\n"
+"PO-Revision-Date: 2018-02-01 15:18+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "ቀሪ ሂደት በ ማጥፋት ላይ"
+
+msgid "Almost all processes terminated immediately"
+msgstr "ሁሉንም ቀሪ ሂደት በ ማጥፋት ላይ"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s ለ ማቋረጥ በ መጠበቅ ላይ %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr "ሁሉም ሂደት ይጨረሳል በ %s ሰከንድ(ዶች)"
+
+msgid "Killing remaining processes"
+msgstr "ቀሪ ሂደት በ ማጥፋት ላይ"
+
+msgid "Unable to kill: %s"
+msgstr "ማጥፋት አልተቻለም: %s"
+
+msgid "Unmount most filesystems"
+msgstr "የ ፋይል ስርአት ማውረጃ"
+
+msgid "Disable swap"
+msgstr "swap ማሰናከያ"
+
+msgid "Kill any remaining processes"
+msgstr "ቀሪ ሂደት በ ማጥፋት ላይ"
+
+msgid "Failed to umount some filesystems"
+msgstr "አንዳንድ የ ፋይል ስርአት ማውረድ አልተቻለም"
+
+msgid "reboot"
+msgstr "ዳግም ማስጀመሪያ"
+
+msgid "poweroff"
+msgstr "ሐይል ማጥፊያ"
+
+msgid "Ready to %s"
+msgstr "ዝግጁ ነው ለ %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "እባክዎን ዲስኩን ያስወግዱ እና ትሪውን ይዝጉ"
+
+msgid "and press ENTER to continue"
+msgstr "እና ማስገቢያውን ይጫኑ ለ መቀጠል"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "ሰከንዶች"
+
+msgid "Saving random seed"
+msgstr "seed በ ደፈናው በ ማቀመጥ ላይ"

@@ -1,0 +1,577 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Vladimir O <vldoduv@yandex.ru>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: 2017-07-13 21:55+0000\n"
+"Last-Translator: Vladimir O <vldoduv@yandex.ru>, 2018\n"
+"Language-Team: Russian (https://www.transifex.com/anticapitalista/teams/10162/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Из командной строки"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "С графическим интерфейсом"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "Стрелка вверх"
+
+msgid "down-arrow"
+msgstr "Стрелка вниз"
+
+msgid "page-up"
+msgstr "Страница вверх"
+
+msgid "page-down"
+msgstr "Страница вниз"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "Вернуться в главное меню"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Инсталлятор пакетов из командной строки"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Search for packages to mark or install"
+msgstr "Поиск пакетов для пометки или установки"
+
+msgid "Search for antiX kernels"
+msgstr "Поиск antiX ядер ОС"
+
+msgid "Search for all kernels"
+msgstr "Поиск всех ядер ОС"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Обновление индекса пакетов"
+
+msgid "Edit the repo source files"
+msgstr "Редактировать файлы источников репозиториев"
+
+msgid "Quit"
+msgstr "Выход"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Все %s рекомендованных пакетов %s были установлены"
+
+msgid "no pending upgrades"
+msgstr "Нет ожидающих обновлений"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Просмотр списка из %s рекомендованных пакетов %s"
+
+msgid "View or perform %s upgrade now"
+msgstr "Просмотр или установка %s обновлений"
+
+msgid "View or perform %s upgrades now"
+msgstr "Просмотр или установка %s обновлений"
+
+msgid "Upgrade %s package now"
+msgstr "Обновление %s пакетов сейчас"
+
+msgid "Upgrade %s packages now"
+msgstr "Обновление %s пакетов сейчас"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Просмотр списка пакетов готовых к обновлению"
+
+msgid "Ignore these upgrades for now"
+msgstr "Игнорировать эти обновления на текущий момент"
+
+msgid "View or install %s marked package"
+msgstr "Просмотр или установка %s отмеченных пакетов"
+
+msgid "View or install %s marked packages"
+msgstr "Просмотр или установка %s отмеченных пакетов"
+
+msgid "Edit Source Menu"
+msgstr "Редактирование меню источников"
+
+msgid "Please select a source file to edit"
+msgstr "Пожалуйста, выберите файл источника для редактирования"
+
+msgid "Could not find file %s to edit"
+msgstr "Не удалось найти файл %s для редактирования"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Вернуться в главное меню"
+
+msgid "Search for packages"
+msgstr "Поиск пакетов"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "точное совпадение наименования"
+
+msgid "exact name matches"
+msgstr "точные совпадения наименований"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "совпадение по началу наименования"
+
+msgid "leading name matches"
+msgstr "совпадения по началам наименований"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "любое совпадение наименования"
+
+msgid "any name matches"
+msgstr "любые совпадения наименований"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "совпадение наименования или описания"
+
+msgid "name or description matches"
+msgstr "совпадения наименований или описаний"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "поиск"
+
+msgid "No matches were found"
+msgstr "Нет найденных совпадений"
+
+msgid "Do you want to try a different search?"
+msgstr "Вы хотите попробовать другой поиск?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "точное"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "по началу"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "любое совпадение"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "описание"
+
+msgid "Do a different search"
+msgstr "Выполнить новый поиск"
+
+msgid "Search Result Menu"
+msgstr "Меню результатов поиска"
+
+msgid "Please select an action"
+msgstr "Пожалуйста, выберите действие"
+
+msgid "What next?"
+msgstr "Что дальше?"
+
+msgid "%s packages were found"
+msgstr "%s пакетов найдено"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+"На следующем шаге отобразится список пакетов, который можно пролистать"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Используйте %s, %s, %s и %s для прокрутки списка"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr "Поместите нужный пакет около низа и затем нажмите %s для продолжения"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Ввод"
+
+msgid "Press %s to see the list"
+msgstr "Нажмите %s, чтобы увидеть список"
+
+msgid "Use %s to go to the main menu"
+msgstr "Используйте %s для перехода в главное меню"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Используйте %s для повторения этого поиска"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Используйте %s для нового поиска"
+
+msgid "Press %s to skip picking a package"
+msgstr "Нажмите %s для пропуска отбора пакета"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+"Или введите номера тех пакетов, которые Вы хотите отметить или установить"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Используйте %s для указания диапазона чисел"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Используйте %s для перехода в главное меню"
+
+msgid "Use %s to see the results again"
+msgstr "Используйте %s чтобы снова показать результаты"
+
+msgid "Use %s to do a new search"
+msgstr "Используйте %s для выполнения нового поиска"
+
+msgid "Invalid input.  Please try again"
+msgstr "Некорректный ввод. Пожалуйста, повторите снова"
+
+msgid "The following numbers were out of range %s"
+msgstr "Следующие числа выходят за диапазон %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Нет допустимых чисел. Пожалуйста, попробуйте снова"
+
+msgid "Selected packages"
+msgstr "Выбранные пакеты"
+
+msgid "Could not find package number %s"
+msgstr "Не удалось найти пакет номер %s"
+
+msgid "Repeat the same search"
+msgstr "Повторить этот поиск"
+
+msgid "Search again"
+msgstr "Повторный поиск"
+
+msgid "Go back to main menu"
+msgstr "Вернуться в главное меню"
+
+msgid "Now what?"
+msgstr "Что теперь?"
+
+msgid "Do a new search"
+msgstr "Выполнить новый поиск"
+
+msgid "See search results again"
+msgstr "Снова показать результаты поиска"
+
+msgid "Return to main menu"
+msgstr "Вернуться в главное меню"
+
+msgid "Remove or Purge Menu"
+msgstr "Меню удаления или очистки"
+
+msgid "Please choose an action for this package"
+msgstr "Пожалуйста, выберите действие для этого пакета"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+"Деинсталлировать пакет [удаляет пакет, но оставляет конфигурационные файлы]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Очистить пакет [удаляет пакет И конфигурационные файлы]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Повторно установить пакет [даже актуальную версию]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Установить пакет [только если версия устарела]"
+
+msgid "The %s command failed"
+msgstr "Команда %s завершилась с ошибкой"
+
+msgid "Please enter the term you want to search for"
+msgstr "Пожалуйста, введите слово, которое хотите найти"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "Поддерживаются стандартные шаблоны подстановки %s и %s"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "Используйте пустую строку или %s для возврата в главное меню"
+
+msgid "Found"
+msgstr "Найдено"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Посмотреть %s %s результатов"
+
+msgid "Show more information about package %s"
+msgstr "Показать больше сведений о пакете %s"
+
+msgid "Uninstall package %s"
+msgstr "Деинсталлировать пакет %s"
+
+msgid "Unmark package %s"
+msgstr "Снять пометку с пакета %s"
+
+msgid "Mark package %s"
+msgstr "Отметить пакет %s"
+
+msgid "Install package %s"
+msgstr "Установить пакет %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Отметить выбранный, деинсталлированный пакет %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Отметить %s выбранных, деинсталлированных пакетов"
+
+msgid "install selected uninstalled package %s"
+msgstr "Установить выбранный деинсталлированный пакет %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "установка %s выделенных неустановленных пакетов"
+
+msgid "Checking source files ..."
+msgstr "Проверка файлов источников ..."
+
+msgid "Run %s now?"
+msgstr "Выполнить %s сейчас?"
+
+msgid "No list files were found"
+msgstr "Не найдено файлов списков"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "Для продолжения требуется %s"
+
+msgid "It appears that at least one list file is missing"
+msgstr "Похоже что как минимум один файл списков отсутствует"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Вероятно Вам следует выполнить %s сейчас"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Выполняю %s"
+
+msgid "There was a problem running %s"
+msgstr "Произошла ошибка при выполнении %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Вы хотите продолжить?"
+
+msgid "Creating database ..."
+msgstr "Создаю базу данных ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "база данных генерируется"
+
+msgid "Updating database ..."
+msgstr "Обновляю базу данных ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "обновление базы данных"
+
+msgid "Found %s dependencies"
+msgstr "Найдено %s зависимостей"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Отметить %s не инсталлированных зависимостей"
+
+msgid "found %s dependencies"
+msgstr "найдено %s зависимостей"
+
+msgid "found %s unmet dependencies"
+msgstr "найдено %s неудовлетворенных зависимостей"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "Пакет и неудовлетворенные зависимости прибавят %s МБ"
+
+msgid "Marking package %s"
+msgstr "Отмечая пакет %s"
+
+msgid "Unmarked %s package"
+msgstr "Неотмеченный %s пакет"
+
+msgid "Unmarked %s packages"
+msgstr "Сняты отметки с %s пакетов"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Вы хотите получить более детальную информацию?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+"найдено %s неудовлетворенных зависимостей, которые тоже будут инсталлированы"
+
+msgid "Do you want to install this package now?"
+msgstr "Вы хотите сейчас установить этот пакет?"
+
+msgid "Installing %s"
+msgstr "Устанавливается %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Найдено %s деинсталлированных помеченных пакетов"
+
+msgid "Nothing to install"
+msgstr "Нечего устанавливать"
+
+msgid "Install %s package"
+msgstr "Установить %s пакет"
+
+msgid "Install %s packages"
+msgstr "Установить %s пакеты"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "Пакеты и неудовлетворенные зависимости добавят %s МБ"
+
+msgid "Install this package?"
+msgstr "Установить этот пакет?"
+
+msgid "Install these packages?"
+msgstr "Установить эти пакеты?"
+
+msgid "Install %s marked package"
+msgstr "Установить %s помеченный пакет"
+
+msgid "Install all %s marked packages"
+msgstr "Установить все %s помеченных пакетов"
+
+msgid "View %s marked package"
+msgstr "Просмотр %s помеченного пакета"
+
+msgid "View all %s marked packages"
+msgstr "Просмотр всех %s помеченных пакетов"
+
+msgid "Unmark %s marked package"
+msgstr "Снять метку для %s помеченного пакета"
+
+msgid "Unmark all %s marked packages"
+msgstr "Снять метки для всех %s помеченных пакетов"
+
+msgid "View or Install Marked Packages"
+msgstr "Просмотр или установка помеченных пакетов"
+
+msgid "No marked packages were found"
+msgstr "Нет найдено помеченных пакетов"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Помеченные пакеты добавят %s МБ"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+"На следующем шаге отобразится список пакетов, который можно пролистать"
+
+msgid "Use %s to go the main menu"
+msgstr "Используйте %s для перехода в главное меню"
+
+msgid "Use %s to do another search"
+msgstr "Используйте %s для выполнения другого поиска"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "Рекомендованные пакеты %s"
+
+msgid "No suggestions were found!"
+msgstr "Не найдено рекомендаций"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Проверьте файл %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Вид"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Просмотреть все"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "Рекомендованные пакеты"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "пакеты со звездочками"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "пакеты без звездочек"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Переход к следующему шагу (не просматривая пакеты)"
+
+msgid "Please select which packages to view"
+msgstr "Пожалуйста, выберите пакеты для просмотра"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "%s пакетов было найдено (%s не инсталлированных)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Нажмите %s для просмотра списка, %s для перехода в главное меню, %s для "
+"повторения поиска"
+
+msgid "See suggestions again"
+msgstr "Снова показать рекомендации"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "Помечено %s пакетов, для которых ранее сняли пометку"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Снята отметка для всех %s ранее помеченных пакетов"
+
+msgid "%s package is still marked"
+msgstr "Пакет %s все еще помечен"
+
+msgid "%s packages are still marked"
+msgstr "%s пакетов все еще помечено"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Пометить пакет %s непомеченный и не инсталлированный"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Пометить %s непомеченных и не инсталлированных пакетов"
+
+msgid "Unmark %s marked packages"
+msgstr "Снять пометку с %s помеченных пакетов"
+
+msgid "Checking for package upgrades ..."
+msgstr "Проверка обновлений пакетов"
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Имеется %s пакетов, для которых доступны обновления"
+
+msgid "There are no packages to upgrade"
+msgstr "Нет пакетов с доступными обновлениями"
+
+msgid "System Upgrade Menu"
+msgstr "Меню обновления системы"
+
+msgid "Exit"
+msgstr "Выход"

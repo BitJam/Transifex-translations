@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+# megatotoro <jratlsv2@racsa.co.cr>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-04 16:27+EEST\n"
+"PO-Revision-Date: 2013-12-23 03:10+0000\n"
+"Last-Translator: megatotoro <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: add-start:38
+msgid "No line Selected:"
+msgstr "No se seleccionó ninguna línea:"
+
+#: add-start:39
+msgid "line has been removed"
+msgstr "la línea ha sido removida"
+
+#: add-start:40
+msgid "Remove Items"
+msgstr "Remover ítemes"
+
+#: add-start:41
+msgid "Remove"
+msgstr "Remover"
+
+#: add-start:42
+msgid "You need to enter a command"
+msgstr "Debe ingresar una orden"
+
+#: add-start:43
+msgid "command has been added"
+msgstr "La orden ha sido agregada"
+
+#: add-start:44
+msgid "Add Items"
+msgstr "Agregar ítemes"
+
+#: add-start:45
+msgid "Command"
+msgstr "Orden"
+
+#: add-start:46
+msgid "Sleep Time"
+msgstr "Tiempo de inactividad"
+
+#: add-start:47
+msgid "Add"
+msgstr "Agregar"
+
+#: add-start:48
+msgid "Changing start for:"
+msgstr "Cambiando el inicio de:"
+
+#: add-start:49
+msgid ""
+"There is no file ~/.%s/startup \n"
+"The session variable DESKTOP_CODE='%s' \n"
+"incorrectly matches your system"
+msgstr "No hay ningún archivo ~/.%s/startup \nLa variable de sesión DESKTOP_CODE='%s' \nno concuerda con su sistema"

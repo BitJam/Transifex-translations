@@ -1,0 +1,156 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2012
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-05 21:38-0600\n"
+"PO-Revision-Date: 2017-10-11 04:55+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Lokalizace/nastavení X-Windows"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Zakazování splash (fbcondecor) ve Virtual Box"
+
+msgid "Creating missing %s file"
+msgstr "Vytváření chybějícího %ssouboru "
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Nebyl nalezen žádný předvolený uživatel %s."
+
+msgid "Mounting all devices"
+msgstr "Připájení všech zařízení"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Naplatná %s volba %s"
+
+msgid "Automount disabled"
+msgstr "Automatické připojení zakázáno"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Povolení výměny fstab za provozu"
+
+msgid "Automount enabled"
+msgstr "Automatické připojení povoleno"
+
+msgid "Bad fstab option %s"
+msgstr "Špatná volba fstab %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Neznámý jazyk lokalizace nabídky %s"
+
+msgid "Directory not found %s"
+msgstr "Adresář %s nenalezen"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Lokalizování nabídek do %s v %s"
+
+msgid "Setting %s to %s"
+msgstr "Nastavování %s na %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Špatný kód záložního serveru %s (očekávána dvě písmena)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Lokalizování zdrojových repozitářů pomocí %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Předpoklad %s je nastaven na %s čas"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Odstraňování předešlého automaticky vygenerovaného %s souboru"
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Zakazováni safe módu kvůli KMS %s grafické kartě"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Povoluji předvolené volbě X serveru použití %s ovladače"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Donucuji X-Windows k použití předvoleného módu"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Konfigurace %s souboru s %s"
+
+msgid "Using X to make xorg.conf"
+msgstr ""
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Nucená  %s akcelerace na %s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Nucený %s ovladač na %s"
+
+msgid "Creating file %s"
+msgstr "Vytváření souboru %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Skenování grafických modulů pro specifický hardvér ..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Nalezen %s video modul(y) %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Nalezeny %s moduly jádra ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Nalezen %s grafický ovladač"
+
+msgid "Setting Conky width to %s"
+msgstr "Nastavování šířky Conky na %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Neplatný %s parametr zavedení systému %s"
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Nesprávný parametr %s pro pozdržení plochy  "
+
+msgid "Setting desktop delay to %s"
+msgstr "Natavení pozdržení plochy na %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Natavení času vypnutí konzoly na %s minut(y)"
+
+msgid "Creating issue file for %s"
+msgstr "Vytváření souboru chyb pro %s"
+
+msgid "Files already exist under %s"
+msgstr "Soubory již existují pod %s"
+
+msgid "Not creating or populating %s"
+msgstr "Nevytvářený nebo osídlený %s "
+
+msgid "Populating %s directory"
+msgstr "Naplňování adresáře %s"
+
+msgid "Setting desktop theme to %s"
+msgstr "Nastavování motivu plochy na %s"

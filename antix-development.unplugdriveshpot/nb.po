@@ -1,0 +1,76 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 00:36+0200\n"
+"PO-Revision-Date: 2012-12-03 16:51+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/projects/p/antix-development/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-02 10:46+0000\n"
+
+#: unplugdrive.sh:54
+msgid ""
+"A removable drive with a mounted partition was not found.\n"
+"It is safe to unplug the drive(s)"
+msgstr "En flyttbar enhet med en tilkoblet partisjon ble ikke funnet.\nDet er trygt å koble fra enheten(e)"
+
+#: unplugdrive.sh:60
+#, sh-format
+msgid ""
+"The following are currently mounted:\n"
+"$removablelist\n"
+"Choose the drive(s) to be unplugged"
+msgstr "De følgende er tilkoblet nå:\n$removablelist\nVelg enhet(er) som skal kobles fra"
+
+#: unplugdrive.sh:62
+msgid ""
+"Nothing selected.\n"
+"Aborting without unmounting."
+msgstr "Ingenting valgt.\nAvslutter uten å koble fra."
+
+#: unplugdrive.sh:84
+#, sh-format
+msgid ""
+"About to unmount:\n"
+"$summarylist\n"
+"Please confirm you wish to proceed."
+msgstr "Klar til å koble fra:\n$summarylist\nvenligst bekreft at du ønsker å fortsette."
+
+#: unplugdrive.sh:86
+msgid ""
+"Nothing has been unmounted.\n"
+"Aborting as requested with no action taken."
+msgstr "Ingenting har blitt frakoblet.\nAvslutter uten å gjøre noe."
+
+#: unplugdrive.sh:91
+msgid ""
+"Data is being written to devices.\n"
+"Please wait..."
+msgstr "Data blir skrevet til enheten(e).\nVenligst vent..."
+
+#: unplugdrive.sh:114
+#, sh-format
+msgid ""
+"Mountpoint removal failed.\n"
+"\n"
+"A mountpoint remains present at:\n"
+"$mountpointerrorlist\n"
+"Check each mountpoint listed before unpluging the drive(s)."
+msgstr "Fjerning av tilkoblingspunkt feilet.\n\nEt tilkoblingspunkt gjenstår ved:\n$mountpointerrorlist\nUndersøk hvert tilkoblingspunkt før du kobler fra enheten(e)."
+
+#: unplugdrive.sh:119
+#, sh-format
+msgid ""
+"Unmounted:\n"
+"$summarylist\n"
+"It is safe to unplug the drive(s)"
+msgstr "Frakoblet:\n$summarylist\nDet er trygt å koble fra enheten(e)."

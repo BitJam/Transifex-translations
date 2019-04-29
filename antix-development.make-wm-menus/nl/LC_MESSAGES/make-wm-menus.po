@@ -1,0 +1,269 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2015
+# ko <ko.bros@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Dutch (http://www.transifex.com/anticapitalista/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Terminalvenster"
+
+msgid "File Manager"
+msgstr "Bestandsbeheerder"
+
+msgid "Web Browser"
+msgstr "Internet-browser"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Personal"
+msgstr "Persoonlijk"
+
+msgid "Applications"
+msgstr "Toepassingen"
+
+msgid "Terminal Apps"
+msgstr "Terminal Applicaties"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD Writer"
+
+msgid "Music Player"
+msgstr "Muziek speler"
+
+msgid "Network"
+msgstr "Netwerk"
+
+msgid "Alpine Mail"
+msgstr "Alpine mail"
+
+msgid "Browser elinks"
+msgstr "Browser elinks"
+
+msgid "Irssi Chat"
+msgstr "Irssi Chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom reader"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Office"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Update Menu"
+msgstr "Menu updaten"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Alternate Desktops"
+msgstr "Alternatieve Desktop omgeving"
+
+msgid "Add Desktop"
+msgstr "Voeg Desktop toe"
+
+msgid "Wallpaper"
+msgstr "Desktopachtergrond "
+
+msgid "GTK Theme"
+msgstr "GTK Theme "
+
+msgid "Desktop Defaults"
+msgstr "Desktop standaardinstellingen"
+
+msgid "Session Settings"
+msgstr "Sessie instellingen"
+
+msgid "Session Settings Global"
+msgstr "Algemene sessie instellingen"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel aan/uit"
+
+msgid "Conky on/off"
+msgstr "Conky aan/uit"
+
+msgid "Tools"
+msgstr "Gereedschap"
+
+msgid "Nano"
+msgstr "Nano "
+
+msgid "Ted"
+msgstr "Ted "
+
+msgid "Search"
+msgstr "Zoeken"
+
+msgid "MC File Manager"
+msgstr "MC File Manager "
+
+msgid "App Killer"
+msgstr "Afschieten"
+
+msgid "Process Viewer"
+msgstr "Process bekijken"
+
+msgid "System Information"
+msgstr "Systeem-informatie"
+
+msgid "Control Centre"
+msgstr "Controle Centrum"
+
+msgid "Help"
+msgstr "Help"
+
+msgid "antiX"
+msgstr "antiX "
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ "
+
+msgid "antiX-live How-To"
+msgstr "antiX-line How-to"
+
+msgid "Rox Manual"
+msgstr "Rox Handleiding"
+
+msgid "Fluxbox"
+msgstr "Fluxbox "
+
+msgid "Fluxbox Docs"
+msgstr "Documentatie"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ "
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki "
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki "
+
+msgid "IceWM"
+msgstr "IceWM "
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ "
+
+msgid "IceWM Manual"
+msgstr "IceWM Handleiding "
+
+msgid "OSNews"
+msgstr "OSNews "
+
+msgid "JWM"
+msgstr "JWM "
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux "
+
+msgid "Firewall"
+msgstr "Firewall "
+
+msgid "Partimage"
+msgstr "Partimage "
+
+msgid "Man Pages"
+msgstr "Handleidingen"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Irssi"
+msgstr "Irssi "
+
+msgid "mc"
+msgstr "mc "
+
+msgid "mocp"
+msgstr "mocp "
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom "
+
+msgid "Torrent"
+msgstr "Torrent "
+
+msgid "Run"
+msgstr "Uitvoeren"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox"
+
+msgid "Configuration"
+msgstr "Configuratie"
+
+msgid "Styles"
+msgstr "Stijlen"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles "
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox stijlen"
+
+msgid "Workspaces"
+msgstr "Workspaces"
+
+msgid "Reconfigure"
+msgstr "Opnieuw configureren"
+
+msgid "Restart"
+msgstr "Herstart"
+
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "antiX Installer"
+msgstr "Installeren"
+
+msgid "Logout..."
+msgstr "Afmelden"
+
+msgid "Restart JWM"
+msgstr "Herstarten JWM"
+
+msgid "Log Out"
+msgstr "Afmelden"
+
+msgid "Home Folder"
+msgstr "Home folder"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Unplug Removable Device"
+msgstr "Ontkoppel het verwijderbare device"
+
+msgid "Quit"
+msgstr "Afmelden"

@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Geoff Gigg <geoffgigg@hotmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Terminal"
+msgstr "Терминал"
+
+msgid "File Manager"
+msgstr "Файловый менеджер"
+
+msgid "Web Browser"
+msgstr "Браузер"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "Personal"
+msgstr "Личное"
+
+msgid "Applications"
+msgstr "Приложения"
+
+msgid "Terminal Apps"
+msgstr "Терминальные приложения"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "CD/DVD Writer"
+msgstr "Запись CD/DVD"
+
+msgid "Music Player"
+msgstr "Музыкальный плеер"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Alpine Mail"
+msgstr "Почта Alpine"
+
+msgid "Browser elinks"
+msgstr "Браузер elinks"
+
+msgid "Irssi Chat"
+msgstr "Чат Irssi"
+
+msgid "RSS/Atom Reader"
+msgstr "Читалка RSS/Atom"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Organizer"
+msgstr "Органайзер"
+
+msgid "Word"
+msgstr "Текстовый редактор"
+
+msgid "Update Menu"
+msgstr "Обновить меню"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Alternate Desktops"
+msgstr "Переключить оконные менеджеры"
+
+msgid "Add Desktop"
+msgstr "Добавить рабочий стол"
+
+msgid "Wallpaper"
+msgstr "Обои"
+
+msgid "GTK Theme"
+msgstr "Тема GTK"
+
+msgid "Desktop Defaults"
+msgstr "Оконный менеджер по умолчанию"
+
+msgid "Session Settings"
+msgstr "Параметры сессии"
+
+msgid "Session Settings Global"
+msgstr "Глобальные параметры сессии"
+
+msgid "RoxPanel on/off"
+msgstr "Вкл/Выкл панель ROX"
+
+msgid "Conky on/off"
+msgstr "Вкл/Выкл Conky"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "MC File Manager"
+msgstr "Файловый менеджер MC"
+
+msgid "App Killer"
+msgstr "Принудительно завершить"
+
+msgid "Process Viewer"
+msgstr "Просмотрщик процессов"
+
+msgid "System Information"
+msgstr "Информация о системе"
+
+msgid "Control Centre"
+msgstr "Центр управления"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live How-To"
+
+msgid "Rox Manual"
+msgstr "Rox Руководство"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox Документация"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "IceWM Руководство"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Домашняя страница"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Брандмауэр"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Страницы Руководства"
+
+msgid "Backup"
+msgstr "Резервное копирование"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Выполнить"
+
+msgid "Fluxbox Settings"
+msgstr "Настройки Fluxbox"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Styles"
+msgstr "Стили"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Стили Fluxbox"
+
+msgid "Workspaces"
+msgstr "Рабочие места"
+
+msgid "Reconfigure"
+msgstr "Перенастройка"
+
+msgid "Restart"
+msgstr "Перезапуск"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "antiX Installer"
+msgstr "Установщик antiX"
+
+msgid "Logout..."
+msgstr "Завершение сеанса..."
+
+msgid "Restart JWM"
+msgstr "Перезапуск JWM"
+
+msgid "Log Out"
+msgstr "Выход из сеанса"
+
+msgid "Home Folder"
+msgstr "Домашняя папка"
+
+msgid "Browser"
+msgstr "Браузер"
+
+msgid "Unplug Removable Device"
+msgstr "Извлечь съемное устройство"
+
+msgid "Quit"
+msgstr "Выход"

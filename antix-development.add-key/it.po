@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Guybrush88 <erpizzo@alice.it>, 2014
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 18:58+0200\n"
+"PO-Revision-Date: 2014-12-30 13:32+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/projects/p/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: add-key.py:70
+msgid "No line Selected:"
+msgstr "Nessuna linea selezionata:"
+
+#: add-key.py:145
+msgid "line has been removed"
+msgstr "la linea è stata rimossa"
+
+#: add-key.py:166
+msgid "Remove Items"
+msgstr "Rimuovi elementi"
+
+#: add-key.py:175
+msgid "Line to Remove"
+msgstr "Linea da rimuovere"
+
+#: add-key.py:186
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: add-key.py:297
+msgid "That key combination has been used"
+msgstr "Quella combinazione di tasti è già stata usata"
+
+#: add-key.py:336
+msgid "command has been added"
+msgstr "il comando è stato aggiunto"
+
+#: add-key.py:349
+msgid "Add Items"
+msgstr "Aggiungi elementi"
+
+#: add-key.py:358
+msgid "Select first key:"
+msgstr "Seleziona la prima chiave:"
+
+#: add-key.py:367
+msgid "Select second key:"
+msgstr "Seleziona la seconda chiave:"
+
+#: add-key.py:377
+msgid "third key (letter or number)"
+msgstr "terza chiave (lettere o numeri)"
+
+#: add-key.py:386
+msgid "Add"
+msgstr "Aggiungi"
+
+#: add-key.py:411
+msgid "add-key"
+msgstr "agg.-chiave"
+
+#: add-key.py:421
+msgid "Changing keys for: "
+msgstr "Cambio chiave per:"
+
+#: add-key.py:444
+#, python-format
+msgid ""
+"There is no file ~/.%s/keys \n"
+" The session's DESKTOP_CODE='%s' \n"
+" incorrectly matches your system"
+msgstr "Non c'è alcun file ~/.%s/keys \nIl codice di sessione DESKTOP_CODE='%s' \nnon si combina correttamente con il tuo sistema"

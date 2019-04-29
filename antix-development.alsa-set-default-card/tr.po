@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# mahmut özcan <faradundamarti@yandex.com>, 2016
+# mahmut özcan <mahmutozcan65@yahoo.com>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2017-11-13 16:43+0000\n"
+"Last-Translator: mahmut özcan <mahmutozcan65@yahoo.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/anticapitalista/antix-development/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Ses kartı/aygıtı bulunamadı"
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Sadece bir ses kartı bulundu"
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "Şimdiki öntanımlı %s dir"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Çıkış"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Lütfen ses kartını seçin"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Ses kartı %s'e ayarlı"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Ses deneme"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Sesin çalışıp çalışmadığını denemek ister misiniz?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "6 saniyeye kadar ses deneniyor"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Deneme başarılı"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Seçilen aygıta bağlanabildi)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Deneme başarısız"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Seçilen aygıta bağlanılamıyor)"

@@ -1,0 +1,850 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-13 11:53+0300\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Polish (http://www.transifex.com/projects/p/antix-development/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#: MInstall#1
+msgid "No"
+msgstr "Não"
+
+#: MInstall#2
+msgid "Yes"
+msgstr "Sim"
+
+#: MInstall#3
+msgid ""
+"The home directory for %1 already exists.Would you like to reuse the old "
+"home directory?"
+msgstr "O diretório home para %1 já existe. Você gostaria de reutilizar o diretório home antigo?"
+
+#: MInstall#4
+msgid "Other"
+msgstr "Outros"
+
+#: MInstall#5
+msgid ""
+"You must choose a root partition.\n"
+"The root partition must be at 1.5 GB."
+msgstr "Você deve escolher uma partição root.\nA partição root deve ser de ao menos 1,5 GB."
+
+#: MInstall#6
+msgid "Sorry, unable to set user password."
+msgstr "Desculpe, incapaz de estabelecer a senha do usuário."
+
+#: MInstall#7
+msgid ""
+"Failed to write antiX to destination.\n"
+"Returning to Step 1."
+msgstr "A escrita do antiX na destinação falhou.\nRetornando ao Passo 1."
+
+#: MInstall#8
+msgid ""
+"Sorry, failed to delete old home directory. Before proceeding, \n"
+"you'll have to select a different username."
+msgstr "Desculpe, apagar o diretório home antigo falhou. Antes de prosseguir\nvocê deverá selecionar um nome de usuário diferente."
+
+#: MInstall#9
+msgid ""
+"Failed to prepare chosen partitions.\n"
+"Returning to Step 1."
+msgstr "O preparo das partições selecionadas falhou.\nRetornando ao Passo 1."
+
+#: MInstall#10
+msgid ""
+"The user password entries do\n"
+"not match.  Please try again."
+msgstr "As senhas do usuário não combinam.\nPor favor, tente de novo."
+
+#: MInstall#11
+msgid ""
+"<p><b>Adjusting Your Sound Mixer</b><br/>antiX attempts to configure the "
+"sound mixer for you but sometimes it will be necessary for you to turn up "
+"volumes and unmute channels in the mixer in order to hear sound.</p> <p>The "
+"mixer shortcut is located in the tray. Click on it to open the mixer. </p>"
+msgstr "<p><b>Ajustando o Misturador de Som</b><br/>O antiX procura configurar o misturador de som para você, mas às vezes é necessário que você aumente o volume ou retire do mudo canais no misturador para que possa ouvir o som.</p> <p>O atalho ao misturador está localizado na bandeja. Clique nele para abrir o misturador.</p>"
+
+#: MInstall#12
+msgctxt "MInstall#12"
+msgid "Ready to install antiX filesystem"
+msgstr "Pronto para instalar o sistema de arquivos do antiX"
+
+#: MInstall#13
+msgid "Creating required partitions"
+msgstr "Criando as partições necessárias"
+
+#: MInstall#14
+msgid ""
+"antiX is installing, are you \n"
+"sure you want to Close now?"
+msgstr "O antiX está sendo instalado, você \ntem certeza de que quer Encerrar agora?"
+
+#: MInstall#15
+msgid "Desktop firewall"
+msgstr "Interface gráfica do firewall"
+
+#: MInstall#16
+msgid ""
+"Sorry your computer name needs to be\n"
+"at least 2 characters long. You'll have to\n"
+"select a different name before proceeding."
+msgstr "Desculpe, o nome da máquina deve ter\nao menos 2 caracteres. Você deve escolher\num nome diferente antes de prosseguir."
+
+#: MInstall#17
+msgid "Preparing required partitions"
+msgstr "Preparando as partições necessárias"
+
+#: MInstall#18
+msgid "Ok to format and destroy all data on %1 for the /home partition?"
+msgstr "Ok para formatar e destruir todos os dados em %1 para a partição /home?"
+
+#: MInstall#19
+msgid "Mounting the /home partition"
+msgstr "Montando a partição /home"
+
+#: MInstall#20
+msgid "Ok to reuse (no reformat) %1 as the /home partition?"
+msgstr "Ok para reutilizar (sem reformatar) %1 como partição /home?"
+
+#: MInstall#21
+msgid "Formatting swap partition"
+msgstr "Formatando a partição swap"
+
+#: MInstall#22
+msgid "title %1 at %2"
+msgstr "title %1 em %2"
+
+#: MInstall#23
+msgid ""
+"The installation and configuration is incomplete.\n"
+"Do you really want to stop now?"
+msgstr "A instalação e a configuração estão incompletas.\nVocê realmente deseja interromper agora?"
+
+#: MInstall#24
+msgid ""
+"<p><b>Common Services to Enable</b><br/>Select any of the these common "
+"services that you might need with your system configuration and the services"
+" will be started automatically when you start antiX.</p>"
+msgstr "<p><b>Serviços Comuns a Ativar</b><br/>Selecione quaisquer serviços que possa precisar e eles serão iniciados automaticamente quando o antiX iniciar.</p>"
+
+#: MInstall#25
+msgid "title antiX at %1, previous kernel (if any)\n"
+msgstr "title antiX em %1, kernel prévio (se houver)\n"
+
+#: MInstall#26
+msgid ""
+"The user name needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer name before proceeding."
+msgstr "O nome do usuário necessita ter pelo\nmenos 2 caracteres. Por favor, escolha\num nome de usuário mais longo antes de prosseguir."
+
+#: MInstall#27
+msgid ""
+"<p><b>Repairing Your Installation</b><br/>If antiX stops working from the "
+"hard drive, sometimes it's possible to fix the problem by booting from CD "
+"and running one of the utilities in System Configuration or by using one of "
+"the regular Linux tools to repair the system.</p><p>You can also use your "
+"antiX CD to recover data from MS-Windows systems!</p>"
+msgstr "<p><b>Reparando Sua Instalação</b><br/>Se o antiX parar de funcionar pelo disco rígido, às vezes é possível reparar o problema iniciando pelo CD e executando alguma das ferramentas da Configuração do Sistema ou usando uma das ferramentas para reparo regulares do Linux.</p><p>Você pode também utilizar o CD do antiX para recuperar dados de sistemas com MS-Windows!</p>"
+
+#: MInstall#28
+msgid "Finish"
+msgstr "Encerrar"
+
+#: MInstall#29
+msgid ""
+"The root password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "A senha de root necessita ter ao menos\n2 caracteres. Por favor, escolha uma senha\nmais longa antes de prosseguir."
+
+#: MInstall#30
+msgid "Dialup, adsl, and pptp support"
+msgstr "Suporte a conexão discada, adsl e pptp"
+
+#: MInstall#31
+msgid ""
+"Sorry your computer domain needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Desculpe, o domínio da sua máquina deve conter\nao menos 2 caracteres. Você deve escolher um\nnome diferente antes de prosseguir."
+
+#: MInstall#32
+msgctxt "MInstall#32"
+msgid "Next >"
+msgstr "Próximo >"
+
+#: MInstall#33
+msgid "Bluetooth wireless device support"
+msgstr "Suporte a dispositivo de rede-sem-fio Bluetooth"
+
+#: MInstall#34
+msgid ""
+"Ok to use (no format) \n"
+"%1 as the / (root) partition?"
+msgstr "Ok para usar (sem formatar) \n%1 como partição / (root)?"
+
+#: MInstall#35
+msgid ""
+"Sorry that name is in use.\n"
+"Please select a different name.\n"
+msgstr "Desculpe, este nome está em uso.\nPor favor, escolha um nome diferente.\n"
+
+#: MInstall#36
+msgid "Fixing configuration"
+msgstr "Reparando a configuração"
+
+#: MInstall#37
+msgid ""
+"<p><b>Getting Help</b><br/>Basic information about antiX Linux is at "
+"http://antix.mepis.com. There are volunteers to help you at the antiX Forum,"
+" http://antix.freeforums.org.</p><p>If you ask for help, please remember to "
+"describe your problem and your computer in some detail. Usually statements "
+"like 'it didn't work' are not helpful.</p>"
+msgstr ""
+
+#: MInstall#38
+msgid ""
+"Sorry, installing GRUB failed. This may be due to a change in the disk "
+"formatting. You can uncheck GRUB and finish installing antiX, then reboot to"
+" the CD and repair the installation with the reinstall GRUB function."
+msgstr "Desculpe, a instalação do GRUB falhou. Isso pode se dever a uma mudança na formatação do disco. Você pode desmarcar o GRUB e finalizar a instalação do antiX e em seguida reiniciar pelo CD e reparar a instalação com a função de reinstalação do GRUB."
+
+#: MInstall#39
+msgid ""
+"Sorry your workgroup needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Desculpe, o seu grupo de trabalho deve ter\nao menos 2 caracteres. Você deve escolher\num nome diferente antes de prosseguir."
+
+#: MInstall#40
+msgid ""
+"<p><b>Select Boot Method</b><br/>antiX uses the GRUB bootloader to boot "
+"antiX and MS-Windows. If you have other versions of Linux already installed "
+"on your computer, GRUB will not be automatically configured to boot them. "
+"You will have to add them manually to the /boot/grub/menu.lst file.</p><p>If"
+" you install GRUB here, by default it is placed in the Master Boot Record of"
+" your boot drive and replaces whatever boot loader you may have been using "
+"before. This is normal.</p><p>If you choose to install GRUB at root instead "
+"of MBR, then GRUB will be installed at the beginning of the root partition. "
+"In most cases, this will allow you to start GRUB from a third party "
+"bootloader. This option is for experts only.</p><p>The use initrd option "
+"will allow a special software called initrd to preload extra drivers, "
+"restore from suspend to disk, and start the splash screen earlier. Its use "
+"is recommended, but not mandatory. </p><p>If you do not select the Install "
+"GRUB checkbox, GRUB will not be installed at this time. You can install GRUB"
+" later by using the Reinstall GRUB function in the antiX Utilities. "
+"Reinstall GRUB will also give you the option to install GRUB on a floppy "
+"disk.</p>"
+msgstr "<p><b>Escolha o Método de Inicialização</b><br/>O antiX usa o gerenciador de inicialização GRUB para iniciar o antiX  e o MS-Windows. Se você possuir outras versões do Linux instaladas, o GRUB não será automaticamente configurado para iniciá-las. Você terá de adicioná-las manualmente ao arquivo /boot/grub/menu.lst.</p><p>Se você instalar o GRUB aqui, por padrão ele será instalado no MBR do seu disco de boot e substituirá qualquer inicializador que você pudesse estar usando. Isso é normal.</p><p>Se você escolher por instalar o GRUB em root ao invés do MBR então o GRUB será instalado no começo da partição root. Na maioria dos casos isso permitirá a você iniciar o GRUB por um outro inicializador. Esta opção é somente para usuários experientes.</p><p>A opção por usar initrd permitirá que um programa especial chamado initrd carregue drivers extras, recupere da suspensão no disco e inicie a tela de splash mais cedo. Seu uso é recomendável mas não obrigatório. </p><p>Se você não selecionar a caixa Instalar GRUB, o GRUB não será instalado agora. Você poderá instalar o GRUB mais tarde pela função Reinstalar GRUB nas Ferramentas do antiX. Reinstalar GRUB lhe dará ainda a opção de instalar o GRUB num disquete.</p>"
+
+#: MInstall#41
+msgid ""
+"The partition you selected for /home, appears to be a MS-Windows partition."
+"  Are you sure you want to reformat this partition?"
+msgstr "A partição que você selecionou para /home parece ser do tipo MS Windows.  Você tem certeza de que quer reformatá-la?"
+
+#: MInstall#42
+msgid ""
+"The partition you selected for root, appears to be a MS-Windows partition.  "
+"Are you sure you want to reformat this partition?"
+msgstr "A partição que você escolheu para root parece ser uma partição tipo MS Windows.  Você tem certeza de que quer reformatá-la?"
+
+#: MInstall#43
+msgid "Copying new system"
+msgstr "Copiando o novo sistema"
+
+#: MInstall#44
+msgid "Formatting the /home partition"
+msgstr "Formatando a partição /home"
+
+#: MInstall#45
+msgid ""
+"Failed to delete old antiX on destination.\n"
+"Returning to Step 1."
+msgstr "Apagar o antiX antigo na destinação falhou.\nRetornando ao Passo 1."
+
+#: MInstall#46
+msgid ""
+"Sorry, failed to save old home directory. Before proceeding,\n"
+"you'll have to select a different username or\n"
+"delete a previously saved copy of your home directory."
+msgstr "Desculpe, salvar o diretório home antigo falhou. Antes de prosseguir\nvocê deverá selecionar um nome de usuário diferente ou\napagar uma cópia do seu antigo diretório home previamente salva."
+
+#: MInstall#47
+msgid ""
+"<p><b>Computer Identity</b><br/>The computer name is a common unique name "
+"which will identify your computer if it is on a network. The computer domain"
+" is unlikely to be used unless your ISP or local network requires "
+"it.</p><p>The SaMBa Server needs to be activated if you want to use it to "
+"share some of your directories or printer with a local computer that is "
+"running MS-Windows or Mac OSX.</p>"
+msgstr "<p><b>Identidade da Máquina</b><br/>O nome da máquina é um nome específico que permitirá identificar o seu computador em uma rede. O domínio do computador dificilmente será usado a menos que o seu provedor de Internet ou rede local o exijam.</p><p>O Servidor Samba deve ser ativado se você quiser utilizá-lo para compartilhar alguns de seus diretórios ou uma impressora com um computador local que esteja rodando MS-Windows ou Mac OSX.</p>"
+
+#: MInstall#48
+msgid "Printing"
+msgstr "Impressão"
+
+#: MInstall#49
+msgid "Sorry, failed to name user directory."
+msgstr "Desculpe, a nomeação do diretório do usuário falhou."
+
+#: MInstall#50
+msgid ""
+"The user password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "A senha do usuário necessita ter pelo menos\n2 caracteres. Por favor, escolha uma senha\nmais longa antes de prosseguir."
+
+#: MInstall#51
+msgid ""
+"Local web server \n"
+"with php and perl support"
+msgstr "Servidor web local \ncom suporte a php e perl"
+
+#: MInstall#52
+msgid "Deleting old system"
+msgstr "Apagando o sistema antigo"
+
+#: MInstall#53
+msgid "Creating system directories"
+msgstr "Criando diretórios do sistema"
+
+#: MInstall#54
+msgid "Sorry, failed to create user directory."
+msgstr "Desculpe, a criação do diretório do usuário falhou."
+
+#: MInstall#55
+msgid "title antiX at %1, kernel %2\n"
+msgstr "title antiX em %1, kernel %2\n"
+
+#: MInstall#56
+msgid ""
+"Would you like to save the old home directory\n"
+"and create a new home directory?"
+msgstr "Você gostaria de salvar o diretório home antigo\ne criar um diretório home novo?"
+
+#: MInstall#57
+msgid ""
+"antiX installation and configuration is complete.\n"
+"To use the new installation, reboot without the CD.\n"
+"Do you want to reboot now?"
+msgstr "A instalação e a configuração do antiX estão completas.\nPara usar a nova instalação reinicie o computador sem o CD.\nVocê quer reiniciar agora?"
+
+#: MInstall#58
+msgid ""
+"The root password entries do\n"
+" not match.  Please try again."
+msgstr "As senhas de root não combinam.\nPor favor, tente de novo."
+
+#: MInstall#59
+msgid "Formatting home partition"
+msgstr "Formatando a partição home"
+
+#: MInstall#60
+msgid "Ok to format and use the entire disk (%1) for antiX?"
+msgstr "Ok para formatar e usar o disco (%1) inteiro para o antiX?"
+
+#: MInstall#61
+msgid "Formatting root partition"
+msgstr "Formatando a partição root"
+
+#: MInstall#62
+msgid ""
+"<p><b>Congratulations!</b><br/>You have completed the installation of antiX "
+"Linux.</p><p><b>Finding Applications</b><br/>There are hundreds of excellent"
+" applications installed with antiX. The best way to learn about them is to "
+"browse through the Menu and try them. Many of the apps were developed "
+"specifically for the icewm/fluxbox environment. These are shown in the main "
+"menus. Other Linux applications can be found in Menu > Applications</p><p>In"
+" addition antiX includes many standard linux applications that are run only "
+"from the commandline and therefore do not show up in Menu.</p>"
+msgstr "<p><b>Parabéns</b><br/>Você completou a instalação do Linux antiX.</p><p><b>Encontrando Programas</b><br/>Há centenas de excelentes aplicações instaladas com o antiX. A melhor maneira de aprender sobre elas é navegar pelo Menu e experimentá-las. Muitas delas foram desenvolvidas especificamente para o ambiente IceWM/Fluxbox. Estas estão nos menus principais. Outras aplicações Linux podem ser encontradas em Menu > Aplicativos.</p><p>O antiX inclui ainda muitas aplicações Linux padrão que são executadas pela linha de comando e, portanto, não aparecem no Menu.</p>"
+
+#: MInstall#63
+msgid "Sorry, failed to set ownership of user directory."
+msgstr "Desculpe, a atribuição de propriedade do diretório do usuário falhou."
+
+#: MInstall#64
+msgid "Linux and OSX printer service"
+msgstr "Serviço de impressora para Linux e OSX"
+
+#: MInstall#65
+msgid ""
+"<p><b>Special Thanks</b><br/>My thanks to everyone who has chosen to support"
+" antiX with their time, money, suggestions, work, praise, ideas, promotion, "
+"and/or encouragement.</p><p>Without you there would be no antiX "
+"Linux.</p><p>anticapitalista</p>"
+msgstr "<p><b>Agradecimentos</b><br/>Meus agradecimentos a todos que escolheram apoiar o antiX com seu tempo, dinheiro, sugestões, trabalho, louvores, ideias, promoção e/ou encorajamento.</p><p>Sem vocês não haveria o Linux antiX.</p><p>anticapitalista</p>"
+
+#: MInstall#66
+msgid ""
+"<p><b>General Instructions</b><br/>BEFORE PROCEEDING, CLOSE ALL OTHER APPLICATIONS.</p><p>On each page, please read the instructions, make your selections, and then click on Next when you are ready to proceed. You will be prompted for confirmation before any destructive actions are performed.</p><p>Core versions of antiX require about 1 GB of space, Base versions about 1.5GB and Full versions of antiX require about 3 GB of space. 5 GB or more is preferred.You can use the entire disk or you can put antiX on existing partitions. </p><p>If you are using PC type hardware, run GParted from here if you need to modify some partitions before doing a custom install. If you are using Apple hardware, you must never use parted or GParted on your boot drive. Instead you must setup your partitions and boot manager in OSX before installing antiX.</p><p>The ext2, ext3, ext4, jfs, xfs, btrfs and reiserfs Linux filesystems are supported and ext4 is recommended. </\n"
+"p><p><b>Partition Requirements</b><br/>A linux-swap partition is highly recommended. Your RAM memory plus swap space must be at least 128MB. A larger size can improve system performance but you should not need more than 512MB of swap space unless you develop software or edit video files or run a database server.</p><p>A separate linux /home (pronounced home) partition is recommended and should be at least 200MB and preferably as large as possible. This is where your work will be stored. A separate home partition will make it easier to backup, upgrade or reinstall antiX in the future.A linux / ( pronounced root) partition is required. It needs to be at least 800 MB for Core versions of antiX and 1.5 GB for Base versions and 2.7GB for Full versions of antiX and it must be larger if you do not have a separate home partition. This is where additional applications will be stored and where the Linux kernel and drivers may be compiled. If you will be installing and/or testing a lot of applications, you should make this partition larger but, unless you test a lot software, it is unlikely you would need more than 5GB in this partition.</p><p><b>Auto-install Using Entire Disk</b><br/>The selected disk will be reformatted to ext4 and the installer will partition the disk as antiX prefers. Optionally you may request that a portion of the disk is left free if possible, for example so you can install a second OS later.</p><p><b>Custom Install on Existing Partitions</b><br/>antiX will be installed on the existing partitions you choose. If the disk isn't already partitioned appropriately, you can modify the partitions here with GParted.  If you have modified the partitions, it is best to reboot the system before continuing with the installation.  Do NOT use parted or GParted if you are installing on an Apple computer boot drive.</p><p><b>Upgrading</b><br/>To upgrade an existing Linux installation, choose to install on existing partitions and then choose to preserve the data in /home.</p>"
+msgstr ""
+
+#: MInstall#67
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the swap partition?"
+msgstr "Ok para formatar e destruir todos os dados em \n%1 para a partição swap?"
+
+#: MInstall#68
+msgid "Mounting the / (root) partition"
+msgstr "Montando a partição / (root)"
+
+#: MInstall#69
+msgid ""
+"<p><b>Keep Your Copy of antiX Up-to-date</b><br/>For antiX information and "
+"updates please visit http://antix.freeforums.org. </p>"
+msgstr "<p><b>Mantenha sua Cópia do antiX Atualizada</b><br/>Para informações e atualizações do antiX, visite http://antix.freeforums.org. </p>"
+
+#: MInstall#70
+msgid ""
+"<p><b>Localization Defaults</b><br/>Set the default keyboard and locale.  "
+"These will apply unless, they are overridden later by the "
+"user.</p><p><b>Configure Clock</b><br/>If you have an Apple or a pure Unix "
+"computer, by default the system clock is set to GMT or Universal Time.  In "
+"this case, check the box for 'System clock uses GMT.'</p>The CD boots with "
+"the timezone preset to EST. To change the timezone, after you reboot into "
+"the new installation, right click on the clock in the Panel and select "
+"Adjust Date & Time...</p>"
+msgstr "<p><b>Padrão de Localização</b><br/>Defina o teclado e a localização padrões.  Estes vigorarão a menos que sejam modificados posteriormente pelo usuário.</p><p><b>Configurar Relógio</b><br/>Se seu computador é Apple ou Linux puro, por padrão o relógio do sistema é configurado em GMT ou Hora Universal.  Neste caso, marque a caixa 'Relógio do sistema usa GMT.'</p>O CD inicia com o fuso da Hora Oficial de Brasília. Para mudá-lo, depois de entrar na nova instalação, clique com o botão direito do mouse no relógio do Painel e selecione Ajustar Data & Hora...</p>"
+
+#: MInstall#71
+msgid "Sorry, creating menu.lst failed. Root filesystem may be faulty."
+msgstr "Desculpe, a criação do menu.lst falhou. O sistema de arquivos root pode estar defeituoso."
+
+#: MInstall#72
+msgid ""
+"<p><b>Limitations</b><br/>Remember, this software is provided AS-IS with no "
+"warranty what-so-ever. It's solely your responsibility to backup your data "
+"before proceeding.</p><p><b>Choose Partitions</b><br/>antiX requires a root "
+"partition. The swap partition is optional but highly recommended. If you "
+"want to use the Suspend-to-Disk feature of antiX, you will need a swap "
+"partition that is larger than your physical memory size.</p><p>If you choose"
+" a separate /home partition it will be easier for you to upgrade in the "
+"future, but this will not be possible if you are upgrading from an "
+"installation that does not have a separate home "
+"partition.</p><p><b>Upgrading</b><br/>To upgrade from an existing Linux "
+"installation, select the same home partition as before and check the "
+"preference to preserve data in /home.</p><p>If you are preserving an "
+"existing /home directory tree located on your root partition, the installer "
+"will not reformat the root partition. As a result, the installation will "
+"take much longer than usual.</p><p><b>Preferred Filesystem Type</b><br/>For "
+"antiX Linux, you may choose to format the partitions as ext2, ext3, ext4, "
+"jfs, xfs, btrfs or reiser. </p><p><b>Bad Blocks</b><br/>If you choose ext2, "
+"ext3 or ext4 as the format type, you have the option of checking and "
+"correcting for badblocks on the drive. The badblock check is very time "
+"consuming, so you may want to skip this step unless you suspect that your "
+"drive has badblocks.</p>"
+msgstr "<p><b>Limitações</b><br/>Lembre-se, este programa é oferecido NO ESTADO, sem qualquer garantia. É de responsabilidade exclusivamente sua o backup de seus dados antes de prosseguir.</p><p><b>Escolher Partições</b><br/>O antiX requer uma partição root. A partição swap é opcional mas altamente recomendável. Se você quiser utilizar o modo Suspender-no-Disco do antiX, você precisará de uma partição swap maior que a memória física de seu equipamento.</p><p>Se você escolher uma partição /home separada, será mais simples para você atualizar o sistema para uma versão superior no futuro. Mas se você está atualizando uma instalação que não tem a partição /home separada, separá-la não será possível.</p><p><b>Atualização</b><br/>Para atualizar uma instalação Linux existente, selecione a partição home atual e marque a preferência para preservar os dados em /home.</p><p>Se você está preservando um diretório árvore /home localizado na sua partição root, o instalador não reformatará essa partição. Como resultado, a instalação demorará muito mais que de costume.</p><p><b>Sistema de Arquivos Preferido</b><br/>Para o Linux antiX, você poderá escolher por formatar as partições como ext2, ext3, ext4, jfs, xfs, btrfs ou reiserfs. </p><p><b>Blocos Defeituosos</b><br/>Se você escolher ext2, ext3 ou ext4 como o tipo de formatação, você terá a opção de checagem e correção de blocos defeituosos no disco. Essa checagem é muito demorada, portanto talvez você queira pular essa etapa se você não suspeitar que o disco tenha blocos defeituosos.</p>"
+
+#: MInstall#73
+msgid ""
+"Failed to create required partitions.\n"
+"Returning to Step 1."
+msgstr "A criação das partições necessárias falhou.\nRetornando ao Passo 1."
+
+#: MInstall#74
+msgid "Sorry, unable to set root password."
+msgstr "Desculpe, incapaz de estabelecer a senha de root."
+
+#: MInstall#75
+msgid "GRUB installed ok."
+msgstr "Instalação do GRUB ok."
+
+#: MInstall#76
+msgid "Ok to install GRUB bootloader at %1 ?"
+msgstr "Ok para instalar o gerenciador de boot GRUB em %1 ?"
+
+#: MInstall#77
+msgid "title antiX at %1, newest kernel\n"
+msgstr "title antiX em %1, kernel mais recente\n"
+
+#: MInstall#78
+msgid "Networking"
+msgstr "Rede"
+
+#: MInstall#79
+msgid "Network connection"
+msgstr "Conectar rede"
+
+#: MInstall#80
+msgid "Hardware"
+msgstr "Hardware"
+
+#: MInstall#81
+msgid "Would you like to delete the old home directory for %1?"
+msgstr "Você gostaria de apagar o diretório home antigo em %1?"
+
+#: MInstall#82
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the / (root) partition?"
+msgstr "Ok para formatar e destruir todos os dados em \n%1 para a partição / (root)?"
+
+#: MInstall#83
+msgid ""
+"You've chosen to not use, save or delete the old home directory.\n"
+"Before proceeding, you'll have to select a different username."
+msgstr "Você escolheu não usar, salvar ou apagar o diretório home antigo.\nAntes de prosseguir você deverá selecionar um nome de usuário diferente."
+
+#: MInstall#84
+msgid ""
+"<p><b>Default User Login</b><br/>The root user is similar to the "
+"Administrator user in some other operating systems. You should not use the "
+"root user as your daily user account. Please enter the name for a new "
+"(default) user account that you will use on a daily basis. If needed, you "
+"can add other user accounts later. </p><p><b>Passwords</b><br/>Enter a new "
+"password for your default user account and for the root account. Each "
+"password must be entered twice.</p>"
+msgstr "<p><b>Login do Usuário Padrão</b><br/>O usuário root é similar ao usuário Administrador em outros sistemas operacionais. Você não deve usá-lo como sua conta do dia-a-dia. Por favor, informe o nome para uma nova conta de usuário (padrão) que será usada no dia-a-dia. Se necessário for, você poderá acrescentar novos usuários posteriormente. </p><p><b>Senhas</b><br/>Informe novas senhas para as contas de usuário padrão e root. Cada senha deve ser teclada duas vezes.</p>"
+
+#: MInstall#85
+msgid ""
+"<p><b>Installation in Progress</b><br/>antiX is installing.  For a fresh "
+"install, this will probably take 3-20 minutes, depending on the speed of "
+"your system and the size of any partitions you are reformatting.</p><p>If "
+"you click the Abort button, the installation will be stopped as soon as "
+"possible.</p>"
+msgstr "<p><b>Instalação em Andamento</b><br/>O antiX está sendo instalado. Uma instalação original geralmente leva de 3 a 20 min, dependendo da velocidade do seu equipamento e do tamanho das partições a serem formatadas.</p><p>Se você clicar no botão Abortar, a instalação será interrompida o quanto antes.</p>"
+
+#: MInstall#86
+msgid "Formatting the / (root) partition"
+msgstr ""
+
+#: MInstall#87
+msgctxt "MInstall#87"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Suporte o antiX</b><br/>O antiX é suportado por pessoas como você. Algumas ajudam outras no fórum de apoio - http://antix.freeforums.org, traduzem arquivos de ajuda para diferentes línguas, fazem sugestões, escrevem a documentação ou ajudam a testar novos programas.</p>"
+
+#: MeInstall#1
+msgid "MB "
+msgstr "MB "
+
+#: MeInstall#2
+msgid "MBR"
+msgstr "MBR"
+
+#: MeInstall#3
+msgid "Tips"
+msgstr "Dicas"
+
+#: MeInstall#4
+msgid "ext3"
+msgstr "ext3"
+
+#: MeInstall#5
+msgid "root"
+msgstr "root"
+
+#: MeInstall#6
+msgid "Preserve data in /home (if upgrading)"
+msgstr "Preservar dados em /home (se estiver atualizando)"
+
+#: MeInstall#7
+msgid "System clock uses LOCAL"
+msgstr "Relógio do sistema usa LOCAL"
+
+#: MeInstall#8
+msgid "Abort"
+msgstr "Abortar"
+
+#: MeInstall#9
+msgid "Alt+A"
+msgstr "Alt+A"
+
+#: MeInstall#10
+msgid "Alt+B"
+msgstr "Alt+B"
+
+#: MeInstall#11
+msgid "Alt+K"
+msgstr "Alt+K"
+
+#: MeInstall#12
+msgid "Alt+N"
+msgstr "Alt+N"
+
+#: MeInstall#13
+msgid "Alt+X"
+msgstr "Alt+X"
+
+#: MeInstall#14
+msgid "MeInstall"
+msgstr "MeInstall"
+
+#: MeInstall#15
+msgid "1a. Choose disk for installation"
+msgstr "1a. Escolha o disco para a instalação"
+
+#: MeInstall#16
+msgid "3. Installation in progress"
+msgstr "3. Instalação em andamento"
+
+#: MeInstall#17
+msgctxt "MeInstall#17"
+msgid "Ready to install antiX filesystem"
+msgstr "Pronto para instalar o sistema de arquivos do antiX"
+
+#: MeInstall#18
+msgid "Workgroup:"
+msgstr "Grupo de trabalho:"
+
+#: MeInstall#19
+msgid "Computer name:"
+msgstr "Nome da máquina:"
+
+#: MeInstall#20
+msgid "1c. Select type of installation"
+msgstr "1c. Selecione o tipo de instalação"
+
+#: MeInstall#21
+msgid "8b. Root (administrator) Account"
+msgstr "8b. Conta Root (administrador)"
+
+#: MeInstall#22
+msgid "5. Common Services to Enable"
+msgstr "5. Ativação de Serviços Comuns"
+
+#: MeInstall#23
+msgid "swap partition:"
+msgstr "Partição swap:"
+
+#: MeInstall#24
+msgid "Locale:"
+msgstr "Localização:"
+
+#: MeInstall#25
+msgid "Confirm root password:"
+msgstr "Confirme a senha de root:"
+
+#: MeInstall#26
+msgid "Filesystem type:"
+msgstr "Tipo de sistema de arquivos:"
+
+#: MeInstall#27
+msgid ""
+"<p>antiX is an independent linux distribution based on Debian Testing.</p> "
+"<p>antiX uses some components from MEPIS Linux which are released under an "
+"Apache free license. Some MEPIS components have been modified for antiX.</p>"
+" <p>Enjoy using antiX.</p>"
+msgstr "<p>O antiX é uma distribuição Linux independente baseada no Debian Testing.</p> <p>O antiX usa alguns componentes do Linux MEPIS que estão sob a licença 'Apache free'. Alguns componentes do MEPIS foram modificados para o antiX.</p> <p>Aproveite bem o antiX.</p>"
+
+#: MeInstall#28
+msgid "< Back"
+msgstr "< Voltar"
+
+#: MeInstall#29
+msgid "Default user login name:"
+msgstr "Nome de autenticação do usuário padrão:"
+
+#: MeInstall#30
+msgid "Check for badblocks (takes longer)"
+msgstr "Verificar blocos defeituosos (demora mais)"
+
+#: MeInstall#31
+msgid "Reminders"
+msgstr "Lembretes"
+
+#: MeInstall#32
+msgid "2a. Choose partitions"
+msgstr "2a. Escolha as partições"
+
+#: MeInstall#33
+msgid "1b. Rearrange disk partitions (optional)"
+msgstr "1b. Rearranje as partições do disco (opcional)"
+
+#: MeInstall#34
+msgid "Terms of Use"
+msgstr "Termos de Uso"
+
+#: MeInstall#35
+msgid "7a. Localization Defaults"
+msgstr "7a. Padrões de Localização"
+
+#: MeInstall#36
+msgctxt "MeInstall#36"
+msgid "Next >"
+msgstr "Próximo >"
+
+#: MeInstall#37
+msgid "antiXgrp"
+msgstr "antiXgrp"
+
+#: MeInstall#38
+msgid "Run GParted..."
+msgstr "Executar Gparted..."
+
+#: MeInstall#39
+msgid "antiX1"
+msgstr "antiX1"
+
+#: MeInstall#40
+msgid "I have read the Terms"
+msgstr "Eu concordo com os Termos"
+
+#: MeInstall#41
+msgctxt "MeInstall#41"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Suporte o antiX</b><br/>O antiX é suportado por pessoas como você. Algumas ajudam outras no fórum de apoio - http://antix.freeforums.org, traduzem arquivos de ajuda para diferentes línguas, fazem sugestões, escrevem a documentação ou ajudam a testar novos programas.</p>"
+
+#: MeInstall#42
+msgid "example.dom"
+msgstr "exemplo.dom"
+
+#: MeInstall#43
+msgid "6. Computer Network Names"
+msgstr "6. Nome da Máquina para Redes"
+
+#: MeInstall#44
+msgid "Leave free space up to:"
+msgstr "Deixar espaço livre até:"
+
+#: MeInstall#45
+msgid "Use disk:"
+msgstr "Usar o disco:"
+
+#: MeInstall#46
+msgid "Install on:"
+msgstr "Instalar em:"
+
+#: MeInstall#47
+msgid "4. Select Boot Method"
+msgstr "4. Selecione o Método de Inicialização"
+
+#: MeInstall#48
+msgid "use initrd (recommended)"
+msgstr "usar initrd (recomendável)"
+
+#: MeInstall#49
+msgid "Description"
+msgstr "Descrição"
+
+#: MeInstall#50
+msgid "username"
+msgstr "nome do usuário"
+
+#: MeInstall#51
+msgid "Service"
+msgstr "Serviço"
+
+#: MeInstall#52
+msgid "8a. Default User Account"
+msgstr "8a. Conta do Usuário Padrão"
+
+#: MeInstall#53
+msgid "Run partition tool..."
+msgstr "Execute a ferramenta de partição..."
+
+#: MeInstall#54
+msgid "Show passwords"
+msgstr "Mostrar senhas"
+
+#: MeInstall#55
+msgid "/home partition:"
+msgstr "Partição /home:"
+
+#: MeInstall#56
+msgid "Auto-install using entire disk "
+msgstr "Autoinstalação usando o disco inteiro "
+
+#: MeInstall#57
+msgid "Default user password:"
+msgstr "Senha do usuário padrão:"
+
+#: MeInstall#58
+msgid "reiserfs"
+msgstr "reiserfs"
+
+#: MeInstall#59
+msgid "SaMBa Server for MS Networking"
+msgstr "Servidor SaMBa para redes MS"
+
+#: MeInstall#60
+msgid "Root password:"
+msgstr "Senha de root:"
+
+#: MeInstall#61
+msgid "2b. Preferences"
+msgstr "2b. Preferências"
+
+#: MeInstall#62
+msgid "Custom install on existing partitions"
+msgstr "Instalação personalizada em partições existentes"
+
+#: MeInstall#63
+msgid "System boot disk:"
+msgstr "Disco de boot do sistema:"
+
+#: MeInstall#64
+msgid "Confirm user password:"
+msgstr "Confirme a senha do usuário:"
+
+#: MeInstall#65
+msgid "/ (root) partition:"
+msgstr "Partição / (root):"
+
+#: MeInstall#66
+msgid "Modify partitions:"
+msgstr "Modificar partições:"
+
+#: MeInstall#67
+msgid "Computer domain:"
+msgstr "Domínio do computador:"
+
+#: MeInstall#68
+msgid "7b. Configure Clock"
+msgstr "7b. Configurar o Relógio"
+
+#: MeInstall#69
+msgid "7c. Timezone Settings"
+msgstr "7c. Selecione seu fuso horário"
+
+#: MeInstall#70
+msgid "Timezone:"
+msgstr "Fuso horário:"
+
+#: MeInstall#71
+msgid "Install GRUB for antiX and Windows"
+msgstr "Instalar o GRUB para o antiX e o Windows"
+
+#: MeInstall#72
+msgid "Keyboard:"
+msgstr "Teclado:"
+
+#: MeMain#1
+msgid "Help"
+msgstr "Ajuda"
+
+#: MeMain#2
+msgid "Close"
+msgstr "Encerrar"
+
+#: MeMain#3
+msgid "antiX Install"
+msgstr "Instalador do antiX"
+
+#: QApplication#1
+msgid "You must run this app as root."
+msgstr "Você deve executar este programa como root."

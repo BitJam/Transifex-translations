@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# scootergrisen, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:57+0000\n"
+"Last-Translator: scootergrisen, 2018\n"
+"Language-Team: Danish (https://www.transifex.com/anticapitalista/teams/10162/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "<Enter> select option, <q> return to Main, <h> help"
+msgstr "<Enter> vælg valgmulighed, <q> tilbage til hoved, <h> hjælp"
+
+msgid "<Enter> select option, <q> quit, <h> help"
+msgstr "<Enter> vælg valgmulighed, <q> afslut, <h> hjælp"
+
+msgid "Return to main menu"
+msgstr "Vend tilbage til hovedmenu"
+
+msgid "Are you SURE you want to %s (y/N) "
+msgstr "Er du SIKKER på, at du vil %s (j/N) "
+
+msgid "File not found %s"
+msgstr "Filen blev ikke fundet %s"
+
+msgid "Cannot write to file %s"
+msgstr "Kan ikke skrive til filen %s"
+
+msgid "There are too many %s lines to fit on the screen all at once."
+msgstr "Der er for mange %s-linjer til at de kan være på skærmen samtidigt."
+
+msgid "Therefore the %s will be sent to the 'less' program."
+msgstr "Derfor sendes %s til 'less'-programmet."
+
+msgid "You can scroll the %s with the arrow keys, <page-up>, and <page-down>."
+msgstr "Du kan rulle til %s med piletasterne, <page-up> og <page-down>."
+
+msgid "Use <Home> to go to the beginning and <End> to go to the end"
+msgstr ""
+"Brug <Home> for at gå til begyndelsen og <End> for at gå til slutningen"
+
+msgid "Press 'q' when you are done.  Use 'h' for help and many more commands."
+msgstr ""
+"Tryk på 'q' når du er færdig. Brug 'h' for hjælp og mange andre kommandoer."

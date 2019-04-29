@@ -1,0 +1,579 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Greek (https://www.transifex.com/anticapitalista/teams/10162/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Γραμμή εντολών"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "επάνω βέλος"
+
+msgid "down-arrow"
+msgstr "κάτω βέλος "
+
+msgid "page-up"
+msgstr "σελίδα-πάνω"
+
+msgid "page-down"
+msgstr "σελίδα-κάτω"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "επιστροφή στο κύριο μενού"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Command Line Package Installer"
+
+msgid "Main Menu"
+msgstr "Κυρίως μενού"
+
+msgid "Search for packages to mark or install"
+msgstr "Αναζήτηση πακέτων που θα επισημανθούν ή θα εγκατασταθούν"
+
+msgid "Search for antiX kernels"
+msgstr "Αναζήτηση πυρήνων antiX"
+
+msgid "Search for all kernels"
+msgstr "Αναζήτηση όλων των πυρήνων"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Ενημέρωση λίστας πακέτων"
+
+msgid "Edit the repo source files"
+msgstr "Επεξεργαστείτε τα αρχεία προέλευσης των repo"
+
+msgid "Quit"
+msgstr "Έξοδος "
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Όλα %sτα προτεινόμενα %sπακέτα έχουν εγκατασταθεί"
+
+msgid "no pending upgrades"
+msgstr "δεν υπάρχουν εκκρεμείς αναβαθμίσεις"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Προβολή λίστας %sπροτεινόμενων %s πακέτων"
+
+msgid "View or perform %s upgrade now"
+msgstr "Προβολή ή εκτέλεση %sαναβάθμισης τώρα"
+
+msgid "View or perform %s upgrades now"
+msgstr "Προβολή ή εκτέλεση %sαναβαθμίσεων τώρα"
+
+msgid "Upgrade %s package now"
+msgstr "Αναβαθμίστε το πακέτο %sτώρα"
+
+msgid "Upgrade %s packages now"
+msgstr "Αναβαθμίστε τα πακέτα %sτώρα"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Προβολή λίστας πακέτων προς αναβάθμιση"
+
+msgid "Ignore these upgrades for now"
+msgstr "Αγνοήστε αυτές τις αναβαθμίσεις για τώρα"
+
+msgid "View or install %s marked package"
+msgstr "Προβάλετε ή εγκαταστήστε το επιλεγμένο πακέτο %s"
+
+msgid "View or install %s marked packages"
+msgstr "Προβολή ή εγκατάσταση επισημασμένων πακέτων %s"
+
+msgid "Edit Source Menu"
+msgstr "Επεξεργασία μενού προέλευσης"
+
+msgid "Please select a source file to edit"
+msgstr "Επιλέξτε ένα αρχείο προέλευσης για επεξεργασία"
+
+msgid "Could not find file %s to edit"
+msgstr "Δεν ήταν δυνατή η εύρεση αρχείου %sγια επεξεργασία"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "επιστροφή στο κύριο μενού"
+
+msgid "Search for packages"
+msgstr "Αναζήτηση πακέτων"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "αντιστοιχία ακριβούς ονόματος"
+
+msgid "exact name matches"
+msgstr "ακριβείς αντιστοιχίσεις ονόματος"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "κορυφαίο όνομα"
+
+msgid "leading name matches"
+msgstr "το κορυφαίο όνομα ταιριάζει"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "οποιοδήποτε όνομα"
+
+msgid "any name matches"
+msgstr "το οποιοδήποτε όνομα ταιριάζει"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "όνομα ή περιγραφή"
+
+msgid "name or description matches"
+msgstr "το όνομα ή η περιγραφή ταιριάζει"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "αναζητήσεις"
+
+msgid "No matches were found"
+msgstr "Δεν βρέθηκαν"
+
+msgid "Do you want to try a different search?"
+msgstr "Θέλετε να δοκιμάσετε διαφορετική αναζήτηση;"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "ακριβής"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "κύριος"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "οποιοδήποτε όνομα"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "περιγραφή"
+
+msgid "Do a different search"
+msgstr "Κάντε διαφορετική αναζήτηση"
+
+msgid "Search Result Menu"
+msgstr "Μενού αποτελεσμάτων αναζήτησης"
+
+msgid "Please select an action"
+msgstr "Επιλέξτε μια ενέργεια"
+
+msgid "What next?"
+msgstr "Ποιο είναι το επόμενο?"
+
+msgid "%s packages were found"
+msgstr " %sπακέτα βρέθηκαν"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+"Στο επόμενο βήμα θα εμφανιστεί μια λίστα με πακέτα που μπορείτε να "
+"μετακινηθείτε"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Χρησιμοποιήστε %s,%s,%s, και %sγια να μετακινηθείτε στη λίστα"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+"Τοποθετήστε το πακέτο που θέλετε κοντά στο κάτω μέρος και στη συνέχεια "
+"πατήστε για να συνεχίσετε"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press %s to see the list"
+msgstr "Πατήστε %sγια να δείτε τη λίστα"
+
+msgid "Use %s to go to the main menu"
+msgstr "Χρησιμοποιήστε το %sγια να μεταβείτε στο κύριο μενού"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Χρησιμοποιήστε το %sγια να επαναλάβετε την ίδια αναζήτηση"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Χρησιμοποιήστε το %sγια να κάνετε νέα αναζήτηση"
+
+msgid "Press %s to skip picking a package"
+msgstr "Πατήστε %sγια να παραλείψετε την επιλογή ενός πακέτου"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+"Ή εισάγετε τον αριθμό κάθε πακέτου που θέλετε να επισημάνετε ή να "
+"εγκαταστήσετε"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Χρησιμοποιήστε το %sγια να υποδείξετε ένα εύρος αριθμών"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Χρησιμοποιήστε το %sγια να μεταβείτε στο κύριο μενού"
+
+msgid "Use %s to see the results again"
+msgstr "Χρησιμοποιήστε το %sγια να δείτε ξανά τα αποτελέσματα"
+
+msgid "Use %s to do a new search"
+msgstr "Χρησιμοποιήστε το %sγια να κάνετε νέα αναζήτηση"
+
+msgid "Invalid input.  Please try again"
+msgstr "Μη έγκυρο. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα"
+
+msgid "The following numbers were out of range %s"
+msgstr "Οι παρακάτω αριθμοί ήταν εκτός εμβέλειας %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Δεν δόθηκαν έγκυροι αριθμοί. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα"
+
+msgid "Selected packages"
+msgstr "επιλεγμένα πακέτων"
+
+msgid "Could not find package number %s"
+msgstr "Δεν ήταν δυνατή η εύρεση αριθμού πακέτου %s"
+
+msgid "Repeat the same search"
+msgstr "Επαναλάβετε την ίδια αναζήτηση"
+
+msgid "Search again"
+msgstr "Αναζητήστε ξανά"
+
+msgid "Go back to main menu"
+msgstr "επιστροφή στο κύριο μενού"
+
+msgid "Now what?"
+msgstr "Και τώρα τι?"
+
+msgid "Do a new search"
+msgstr "Κάντε νέα αναζήτηση"
+
+msgid "See search results again"
+msgstr "Δείτε ξανά τα αποτελέσματα αναζήτησης"
+
+msgid "Return to main menu"
+msgstr "επιστροφή στο κύριο μενού"
+
+msgid "Remove or Purge Menu"
+msgstr "Αφαίρεση ή καθαρισμός μενού"
+
+msgid "Please choose an action for this package"
+msgstr "Επιλέξτε μια ενέργεια για αυτό το πακέτο"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+"Απεγκατάσταση πακέτου [αφαίρεση του πακέτου αλλά όχι τα αρχεία ρυθμίσεων "
+"του]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr ""
+"Καθαρισμός του πακέτο [αφαίρεση του πακέτου ΚΑΙ τα αρχεία ρυθμίσεων του]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Επανεγκαταστήστε το πακέτο [ακόμα και αν είναι ενημερωμένο]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Εγκαταστήστε το πακέτο [μόνο αν δεν είναι ενημερωμένο]"
+
+msgid "The %s command failed"
+msgstr "Η εντολή %sαπέτυχε"
+
+msgid "Please enter the term you want to search for"
+msgstr "Εισαγάγετε τον όρο που θέλετε να αναζητήσετε"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "μπαλαντέρ %sκαι %sλειτουργούν "
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr ""
+"Χρησιμοποιήστε μια κενή συμβολοσειρά ή %sγια να επιστρέψετε στο κύριο μενού"
+
+msgid "Found"
+msgstr "βρέθηκε"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Προβολή %s%sαποτελέσματα"
+
+msgid "Show more information about package %s"
+msgstr "Δείτε περισσότερες πληροφορίες σχετικά με το πακέτο %s"
+
+msgid "Uninstall package %s"
+msgstr "Απεγκατάσταση πακέτου %s"
+
+msgid "Unmark package %s"
+msgstr "Ξεμπλοκάρισμα πακέτου %s"
+
+msgid "Mark package %s"
+msgstr "Επισημάνετε το πακέτο %s"
+
+msgid "Install package %s"
+msgstr "Εγκατάσταση του πακέτο %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Επισημάνετε το επιλεγμένο, αποεγκατεστημένο πακέτο %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Επισημάνετε τα επιλεγμένα, αποεγκατεστημένα πακέτα %s"
+
+msgid "install selected uninstalled package %s"
+msgstr "εγκατάσταση επιλεγμένου πακέτου %s που δεν έχει εγκατασταθεί"
+
+msgid "install %s selected uninstalled packages"
+msgstr "εγκατάσταση επιλεγμένα πακέτα %sπου δεν έχουν εγκατασταθεί"
+
+msgid "Checking source files ..."
+msgstr "Έλεγχος αρχείων προέλευσης ..."
+
+msgid "Run %s now?"
+msgstr "Εκτελέστε %sτώρα;"
+
+msgid "No list files were found"
+msgstr "Δεν βρέθηκαν αρχεία λίστας"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "Απαιτείται ένα %sγια να συνεχιστεί"
+
+msgid "It appears that at least one list file is missing"
+msgstr "Φαίνεται ότι λείπει τουλάχιστον ένα αρχείο λίστας"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Πιθανόν να τρέχετε το %s τώρα"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Κάνοντας %s"
+
+msgid "There was a problem running %s"
+msgstr "Παρουσιάστηκε πρόβλημα κατά την εκτέλεση %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Θέλετε να συνεχίσετε ούτως ή άλλως"
+
+msgid "Creating database ..."
+msgstr "Δημιουργία βάσης δεδομένων ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "δημιουργία βάσεων δεδομένων"
+
+msgid "Updating database ..."
+msgstr "Ενημέρωση βάσης δεδομένων ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "ενημέρωση βάσης δεδομένων"
+
+msgid "Found %s dependencies"
+msgstr "Βρέθηκαν %sεξαρτήσεις"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Επισήμανση %sαπεγκατεστημένων εξαρτήσεων"
+
+msgid "found %s dependencies"
+msgstr "βρέθηκαν %sεξαρτήσεις"
+
+msgid "found %s unmet dependencies"
+msgstr "βρήκαν %sανυπόστατες εξαρτήσεις"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "Αυτό το πακέτο και οι ανεξάρτητες εξαρτήσεις θα προσθέσουν %sMeg"
+
+msgid "Marking package %s"
+msgstr "Επισημάνετε το πακέτο %s"
+
+msgid "Unmarked %s package"
+msgstr "Μη επισημασμένο πακέτο %s"
+
+msgid "Unmarked %s packages"
+msgstr "Μη επισημασμένα πακέτα %s"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Θέλετε να δείτε πιο λεπτομερείς πληροφορίες;"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr "βρήκαν %sανεκμετάλλευτες εξαρτήσεις που θα εγκατασταθούν επίσης"
+
+msgid "Do you want to install this package now?"
+msgstr "Θέλετε να εγκαταστήσετε αυτό το πακέτο τώρα;"
+
+msgid "Installing %s"
+msgstr "Εγκατάσταση %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Βρέθηκαν %sεγκατεστημένα πακέτα με σήμανση"
+
+msgid "Nothing to install"
+msgstr "Τίποτα για εγκατάσταση"
+
+msgid "Install %s package"
+msgstr "Εγκατάσταση %s πακέτο"
+
+msgid "Install %s packages"
+msgstr "Εγκατάσταση %sπακέτων"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "Τα πακέτα και οι μη ικανοποιημένες εξαρτήσεις θα προσθέσουν %sMeg"
+
+msgid "Install this package?"
+msgstr "Να εγκαταστήστε αυτό το πακέτο;"
+
+msgid "Install these packages?"
+msgstr "Να εγκαταστήστε αυτά τα πακέτα;"
+
+msgid "Install %s marked package"
+msgstr "Εγκατάσταση %s σημειωμένο πακέτο"
+
+msgid "Install all %s marked packages"
+msgstr "Εγκατάσταση όλων των σημειωμένων πακέτων %s"
+
+msgid "View %s marked package"
+msgstr "Προβολή επισημασμένου πακέτου %s"
+
+msgid "View all %s marked packages"
+msgstr "Προβολή επισημασμένων πακέτων %s"
+
+msgid "Unmark %s marked package"
+msgstr " Μην επισήμανση του επισημασμένου πακέτου %s"
+
+msgid "Unmark all %s marked packages"
+msgstr "Μην επισήμανση όλων των επισημασμένων πακέτων %s"
+
+msgid "View or Install Marked Packages"
+msgstr "Προβολή ή εγκατάσταση επισημασμένων πακέτων"
+
+msgid "No marked packages were found"
+msgstr "Δεν βρέθηκαν επισημασμένα πακέτα"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Τα επισημασμένα πακέτα θα προσθέσουν %sMeg"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+"Στο επόμενο βήμα θα εμφανιστεί μια λίστα πακέτων που μπορείτε να "
+"μετακινηθείτε"
+
+msgid "Use %s to go the main menu"
+msgstr "Χρησιμοποιήστε το %sγια να μεταβείτε στο κύριο μενού"
+
+msgid "Use %s to do another search"
+msgstr "Χρησιμοποιήστε το %sγια να κάνετε μια άλλη αναζήτηση"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "Προτεινόμενα πακέτα %s"
+
+msgid "No suggestions were found!"
+msgstr "Δεν βρέθηκαν!"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Ελέγξτε για το αρχείο %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Άποψη"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Προβολή όλων"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "προτεινόμενα πακέτα"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "πακέτα αστεριών"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "πακέτα μηδέν αστέρων"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Μετάβαση στο επόμενο βήμα (μην προβάλλετε πακέτα)"
+
+msgid "Please select which packages to view"
+msgstr "Επιλέξτε ποια πακέτα θέλετε να δείτε"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "βρήκαν %sπακέτα (απεγκαταστάθηκαν %s)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Πατήστε %sγια να δείτε τη λίστα, %sγια να μεταβείτε στο κύριο μενού, %sγια "
+"να πραγματοποιήσετε ξανά αναζήτηση"
+
+msgid "See suggestions again"
+msgstr "Δείτε τις προτάσεις ξανά"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "Επισημάνθηκαν %s πακέτα που δεν είχαν επισημανθεί προηγουμένως"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Μη επισημάνετε όλα τα πακέτα %sπου έχουν ήδη επισημανθεί"
+
+msgid "%s package is still marked"
+msgstr "το %sπακέτο εξακολουθεί να είναι επισημασμένο"
+
+msgid "%s packages are still marked"
+msgstr "τα %s πακέτα εξακολουθούν να είναι επισημασμένα"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Επισημάνετε %sμη επισημασμένο, μη εγκατεστημένο πακέτο"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Επισημάνετε %sμη επισημασμένα, μη εγκατεστημένα πακέτα"
+
+msgid "Unmark %s marked packages"
+msgstr "Μη επισημάνετε %sεπισημασμένων πακέτων"
+
+msgid "Checking for package upgrades ..."
+msgstr "Έλεγχος αναβαθμίσεων πακέτων ..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Υπάρχουν %s πακέτα που μπορούν να αναβαθμιστούν"
+
+msgid "There are no packages to upgrade"
+msgstr "Δεν υπάρχουν πακέτα για αναβάθμιση"
+
+msgid "System Upgrade Menu"
+msgstr "Μενού αναβάθμισης συστήματος"
+
+msgid "Exit"
+msgstr "Έξοδος "

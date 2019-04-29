@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:19+EEST\n"
+"PO-Revision-Date: 2011-10-27 11:12+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Macedonian (http://www.transifex.com/projects/p/antix-development/language/mk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: mk\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;\n"
+
+#: user-management:40
+msgid "The password cannot contain spaces"
+msgstr ""
+
+#: user-management:41
+msgid "You need to enter a password"
+msgstr ""
+
+#: user-management:42
+msgid "First and second password must be identical"
+msgstr ""
+
+#: user-management:43
+msgid "No User Selected:"
+msgstr ""
+
+#: user-management:44
+msgid "You must choose a user"
+msgstr ""
+
+#: user-management:45
+msgid "Choose User"
+msgstr ""
+
+#: user-management:46
+msgid "User Password"
+msgstr ""
+
+#: user-management:47
+msgid "User Login"
+msgstr ""
+
+#: user-management:48
+msgid "Set as Default User"
+msgstr ""
+
+#: user-management:49
+msgid "Set User for Automatic Login"
+msgstr ""
+
+#: user-management:50
+msgid "The username cannot contain spaces"
+msgstr ""
+
+#: user-management:51
+msgid "You need to enter a username"
+msgstr ""
+
+#: user-management:52
+msgid "Enter Username"
+msgstr ""
+
+#: user-management:53
+msgid "User Shell"
+msgstr ""
+
+#: user-management:54
+msgid "No Shell Selected:"
+msgstr ""
+
+#: user-management:55
+msgid "You need to choose a shell"
+msgstr ""
+
+#: user-management:56
+msgid "Password Manager"
+msgstr ""
+
+#: user-management:57
+msgid "password"
+msgstr ""
+
+#: user-management:58
+msgid "password again"
+msgstr ""
+
+#: user-management:59
+msgid "Passwords"
+msgstr ""
+
+#: user-management:60
+msgid "Add Users"
+msgstr ""
+
+#: user-management:61
+msgid "Add User"
+msgstr ""
+
+#: user-management:62
+msgid "Set Password"
+msgstr ""
+
+#: user-management:63
+msgid "Users"
+msgstr ""
+
+#: user-management:64
+msgid "User Repair"
+msgstr ""
+
+#: user-management:65
+msgid "Repair User"
+msgstr ""
+
+#: user-management:67
+msgid "User Removal"
+msgstr ""
+
+#: user-management:68
+msgid ""
+"Notice!\n"
+"        All of the users files will remain in their \n"
+"        home directory, unless completely remove\n"
+"        is checked. \n"
+"        Even so, it is recomended that the\n"
+"        files be backed up!"
+msgstr ""
+
+#: user-management:76
+msgid "Remove User"
+msgstr ""
+
+#: user-management:77
+msgid "Recover User"
+msgstr ""
+
+#: user-management:78
+msgid ""
+"Notice!\n"
+"        A user can only be recovered if the user\n"
+"        has not been completely removed!"
+msgstr ""
+
+#: user-management:81
+msgid "The list of configs need to be empty or your own configs"
+msgstr ""
+
+#: user-management:82
+msgid "You MUST be root to use this application!"
+msgstr ""
+
+#: user-management:83
+msgid ""
+"Warning!\n"
+"        Attempting a user repair may restore more\n"
+"        programs to original settings than you intend!\n"
+"        It is highly recommended that you first do a\n"
+"        backup of all files in your home directory."
+msgstr ""

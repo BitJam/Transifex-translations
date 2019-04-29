@@ -1,0 +1,373 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2012-12-02 00:31+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: usr/local/bin/remaster.sh:41
+msgid "This script needs to use squashfs-tools package, shall I install it?"
+msgstr "Aquest script necessita el paquet squashfs-tools; l'instal·lem ara?"
+
+#: usr/local/bin/remaster.sh:43
+msgid "Squshfs-tools is a required package. Script aborted."
+msgstr "Cal el paquet squashfs-tools. Script interromput."
+
+#: usr/local/bin/remaster.sh:56
+msgid "Error installing required package. Script aborted."
+msgstr "Error instal·lant el paquet necessari. Script interromput."
+
+#: usr/local/bin/remaster.sh:85
+msgid "Are you ready to start building the ISO?"
+msgstr "Esteu a punt per a conçar a generar la ISO?"
+
+#: usr/local/bin/remaster.sh:87
+msgid ""
+"OK, to remaster later on, run this script with \"build-iso\" argument, like "
+"this"
+msgstr "D'acord per a remasteritzar més endavant. Executeu aquest script amb l'argument \"build-iso\", com això"
+
+#: usr/local/bin/remaster.sh:99
+msgid ""
+"Enter the host path (i.e. /home/username) in which you want to remaster your"
+" project"
+msgstr "Introduïu el camí vers l'amfitrió (ex: /home/nomdusuari) a on voleu remasteritzar el vostre projecte"
+
+#: usr/local/bin/remaster.sh:106
+msgid "Error creating \"remaster\" directory. Script aborted."
+msgstr "Error creant el directori \"remaster\". Script interromput."
+
+#: usr/local/bin/remaster.sh:114
+msgid ""
+"Enter the host path (i.e. /mnt/hda5/home/username) in which you want to "
+"remaster your project."
+msgstr "Introduïu el camí vers l'amfitrió (ex: /mnt/hda5/home/nomdusuari) a on voleu remasteritzar el vostre projecte"
+
+#: usr/local/bin/remaster.sh:115
+msgid ""
+"When remastering from harddisk you need to specify a different partition "
+"than the one you remaster"
+msgstr "Quan remasteritzeu des d'un disc dur, necessiteu especificar una partició diferent de la que remasteritzeu"
+
+#: usr/local/bin/remaster.sh:127
+msgid "Could not mount"
+msgstr "No es pot muntar"
+
+#: usr/local/bin/remaster.sh:139
+msgid "Error: the remaster directory already exists, please use another path"
+msgstr "Error: el directori del remaster ja hi és, indiqueu-ne un altre"
+
+#: usr/local/bin/remaster.sh:144
+msgid ""
+"Now using left-hand layout.Error: the directory was not created, please try "
+"again"
+msgstr "Usant ara la disposició esquerra. Error: el directori no s'ha creat, proveu-ho un altre cop"
+
+#: usr/local/bin/remaster.sh:147
+msgid "The project will be created in ... directory"
+msgstr "El projecte es crearà al directori ..."
+
+#: usr/local/bin/remaster.sh:149
+msgid "Okay, we have added a \"remaster\" subdirectory to your host path."
+msgstr "D'acord, s'ha afegit un subdirectori \"remaster\" al camí de l'amfitrió"
+
+#: usr/local/bin/remaster.sh:157
+msgid "This script will remaster"
+msgstr "Aquest script remasteritzarà"
+
+#: usr/local/bin/remaster.sh:159
+msgid "Enter the path of your optical drive with the MEPIS CD (i.e. /dev/hdc)"
+msgstr "Indiqueu el camí vers al vostre disc òptic amb el CD MEPIS (ex: /dev/hdc)"
+
+#: usr/local/bin/remaster.sh:160
+msgid ""
+"Or enter the complete path to a MEPIS iso on your hard disk (i.e. "
+"/path_to_iso/mepis.iso)"
+msgstr "O entreu el camí complet vers al ISO MEPIS al vostre disc dur (ex: /cami_vers_iso/mepis.iso)"
+
+#: usr/local/bin/remaster.sh:164
+msgid "Path or file doesn't exist, please try again"
+msgstr "No s'ha trobat el camí, proveu-ho un altre cop"
+
+#: usr/local/bin/remaster.sh:171
+msgid "Creating directory structure for this operation"
+msgstr "Creant l'estructura de directors per aquesta operació"
+
+#: usr/local/bin/remaster.sh:173
+msgid "...directory to mount CD on"
+msgstr "... directori on cal muntar el CD"
+
+#: usr/local/bin/remaster.sh:174
+msgid "...directory for old squashfs"
+msgstr "... directori per a l'squashfs anterior"
+
+#: usr/local/bin/remaster.sh:175
+msgid "...directory for new squashfs"
+msgstr "... directori per al nou squashfs"
+
+#: usr/local/bin/remaster.sh:176
+msgid "...directory for new iso"
+msgstr "... directori per a la nova ISO"
+
+#: usr/local/bin/remaster.sh:177
+msgid "mounting original CD to..."
+msgstr "muntant el CD original a ..."
+
+#: usr/local/bin/remaster.sh:181
+msgid "Copying mounted squashfs to ... (takes some time)"
+msgstr "Copiant el squashfs nou a ... (cal un cert temps)"
+
+#: usr/local/bin/remaster.sh:194
+msgid "Could not mount the CD image, do you want to try again"
+msgstr "No s'ha pogut muntar la imatge de CD, voleu provar-ho un altre cop"
+
+#: usr/local/bin/remaster.sh:206
+msgid "Copying live CD files to..."
+msgstr "Copiant els fitxers de CD autònom a ..."
+
+#: usr/local/bin/remaster.sh:213
+msgid "Mounting original squashfs to..."
+msgstr "Muntant l'squashfs original a ..."
+
+#: usr/local/bin/remaster.sh:217
+msgid "Error mounting squashfs file. ...is probable not a ... file."
+msgstr "Error muntant el fitxer squashfs. ... probablement no és un fitxer ... ."
+
+#: usr/local/bin/remaster.sh:218
+msgid "Cleaning up, removing \"remaster\" directory."
+msgstr "Netejant, esborrant el directori \"remaster\"."
+
+#: usr/local/bin/remaster.sh:229
+msgid "Enter the path to the remaster directory (e.g., /home/username):"
+msgstr "Entreu el camí per al directori del remaster (ex: /home/nomdusuari)"
+
+#: usr/local/bin/remaster.sh:233
+msgid "\"remaster\" directory not found in that path, please try again"
+msgstr "No s'ha trobat el directori del \"remaster\" en aquest camí, torneu-ho a provar"
+
+#: usr/local/bin/remaster.sh:279
+msgid "Do you want to remove..."
+msgstr "Voleu eliminar ..."
+
+#: usr/local/bin/remaster.sh:302
+msgid "Chrooting into your..."
+msgstr "Fent chroot al vostre ..."
+
+#: usr/local/bin/remaster.sh:303
+msgid ""
+"You should now be in the environment you want to remaster. To check please "
+"type \"ls\" - you should see a root directory tree."
+msgstr "Ara hauríeu d'estar a l'entorn que voleu remasteritzar. Per comprovar-ho, marqueu \"ls\". Hauríeu de veure l'arrel de l'arbre de directoris ."
+
+#: usr/local/bin/remaster.sh:304
+msgid "When done please type \"exit\" or press CTRL-D"
+msgstr "En acabar, teclegeu \"exit\" o premeu Ctrl-D\n\t"
+
+#: usr/local/bin/remaster.sh:326
+msgid "Cleaning chroot environment..."
+msgstr "Netejant l'entorn de chroot ..."
+
+#: usr/local/bin/remaster.sh:328
+msgid "Exiting chroot."
+msgstr "Sortint de chroot."
+
+#: usr/local/bin/remaster.sh:333
+msgid "This is your current version file:"
+msgstr "Aquest és el fitxer de la vostra versió actual:\n\t"
+
+#: usr/local/bin/remaster.sh:338
+msgid "Would you like to amend your version file?"
+msgstr "Voleu esmenar el vostre fitxer de versió ?"
+
+#: usr/local/bin/remaster.sh:349
+msgid "The ISO file will be placed by default in ... directory."
+msgstr "El fitxer ISO es desarà per omissió al directori ..."
+
+#: usr/local/bin/remaster.sh:350
+msgid "Is that OK?"
+msgstr "Esteu d'acord?"
+
+#: usr/local/bin/remaster.sh:353
+msgid ""
+"Enter the path (i.e. /home/username) in which you want to place your ISO "
+"file"
+msgstr "Introduïu el camí on voleu desar el vostre fitxer ISO (ex: /home/nomdusuari)"
+
+#: usr/local/bin/remaster.sh:359
+msgid "...doesn't exist, create?"
+msgstr "... no hi és, voleu crear-lo?"
+
+#: usr/local/bin/remaster.sh:363
+msgid "Error: the directory was not created, please try again"
+msgstr "Error: no s'ha pogut crear el directori, torneu a provar-ho\n\t"
+
+#: usr/local/bin/remaster.sh:365
+msgid "The path will be..."
+msgstr "El camí serà ..."
+
+#: usr/local/bin/remaster.sh:375
+msgid "Enter the name of the ISO file (default: remastered.iso)"
+msgstr "Introduïu el nom del fitxer ISO (per omissió: remastered.iso)"
+
+#: usr/local/bin/remaster.sh:383
+msgid "File exists, overwrite?"
+msgstr "El fitxer ja hi és, el voleu sobreescriure?"
+
+#: usr/local/bin/remaster.sh:391
+msgid ""
+"Good. We are now creating your iso. Sit back and relax, this takes some time"
+" (some 20 minutes on an AMD +2500 for a 680MB iso)."
+msgstr "Bé. Ara es crearà la vostra ISO. Asseieu-vos i poseu-vos tranquils, cal un cert temps (uns 20 minuts en eun AMD +2500 per una imatge ISO de 680 MB)"
+
+#: usr/local/bin/remaster.sh:394
+msgid "Error making squashfs file. Script aborted."
+msgstr "Error fent el fitxer squashfs. Script interromput."
+
+#: usr/local/bin/remaster.sh:405
+msgid "Done. You will find your very own remastered home-made Linux here:"
+msgstr "Fet. Trobareu el vostre propi Linux casolà remasteritzat aquí:"
+
+#: usr/local/bin/remaster.sh:409
+msgid "ISO building failed."
+msgstr "Ha fallat la creació de la ISO"
+
+#: usr/local/bin/remaster.sh:418
+msgid "File size ="
+msgstr "Mida del fitxer ="
+
+#: usr/local/bin/remaster.sh:420
+msgid "you can burn this file on a business-card CD, or a larger medium"
+msgstr "Podeu gravar aquest fitxer en un CD tipus \"carta de crèdit\" o més gran"
+
+#: usr/local/bin/remaster.sh:422
+msgid "you can burn this file on a Mini CD, or a larger medium"
+msgstr "Modeu gravar aquest fitxer en un Mini-CD, o més gran"
+
+#: usr/local/bin/remaster.sh:424
+msgid "you can burn this file on a 650 MB / 74 Min. CD, or a larger medium"
+msgstr "Podeu gravar aquest fitxer en un CD de 650MB / 74 min, o més gran."
+
+#: usr/local/bin/remaster.sh:426
+msgid "you can burn this file on a 700 MB / 80 Min. CD, or a larger medium"
+msgstr "Podeu gravar aquest fitxer en un CD de 700 MB / 80 min, o més gran."
+
+#: usr/local/bin/remaster.sh:428
+msgid "this is too big for a CD, burn it on a DVD"
+msgstr "és massa gran per a un CD, graveu-ho en un DVD"
+
+#: usr/local/bin/remaster.sh:430
+msgid "this is too big for a 4.7 GB DVD, burn it on a dual-layer DVD"
+msgstr "ÉS massa gran per a un DVD de 4,7 GB, graveu-ho en un CD de doble capa."
+
+#: usr/local/bin/remaster.sh:432
+msgid "the file is probably too big to burn even on a dual-layer DVD"
+msgstr "aquest fitxer potser és massa gran fins i tot per a un DVD de doble capa."
+
+#: usr/local/bin/remaster.sh:447
+msgid ""
+"You started the script with \"--from-hdd\" option, you need to run the "
+"script from a Live CD"
+msgstr "Heu engegat l'script amb l'opció \"--from-hdd\", cal que executeu aquest script des d'un CD autònom"
+
+#: usr/local/bin/remaster.sh:454
+msgid "You have two choices here:"
+msgstr "Aquí teniu dues opcions:"
+
+#: usr/local/bin/remaster.sh:455
+msgid ""
+"1. Remaster a generic Live CD -- you'll lose your user account(s), you have "
+"to use Live CD's default accounts and passwords, /home partition or "
+"directory will not be included in resulting ISO."
+msgstr "1. Remasteritzar un CD autònom -- perdreu el(s) vostre(s) compte(s) d'usuari, cal usar els comptes i contrasenyes del CD autònom, i la partició /home no s'inclourà a la ISO resultant."
+
+#: usr/local/bin/remaster.sh:456
+msgid ""
+"2. Remaster a custom Live CD -- you'll keep your own account(s) and paswords in the new Live CD\n"
+" (WARNING! NOT WORKING PROPERLY YET!) "
+msgstr "2. Remasteritzar un CD autònom personalitzat --mantindreu el(s) vostre(s) propis compte(s) i contrasenyes al nou CD\n(ATENCIÓ! ENCARA NO FUNCIONA PROU BÉ!) "
+
+#: usr/local/bin/remaster.sh:457
+msgid "Please enter your choice: 1 or 2"
+msgstr "Si us plau, entreu la vostra opció: 1 o 2"
+
+#: usr/local/bin/remaster.sh:479
+msgid ""
+"This option DOESN'T completely work yet. To log in in the resulting Live CD "
+"you need to:"
+msgstr "Aquesta opció encara no funciona del tot. Per a registrar-vos al CD resultant us caldrà:"
+
+#: usr/local/bin/remaster.sh:480
+msgid "1. boot the Live CD using \"aufs\" option"
+msgstr "1. Arrencar el CD autònom usant l'opció \"aufs\""
+
+#: usr/local/bin/remaster.sh:481
+msgid ""
+"2. press CTRL-ALT-F1, log in as root and execute this command: \"mount "
+"--bind /aufs/home /home\""
+msgstr "2. Prémer Ctrl-Alt-F1, registrar-vos com a usuari principal i executar l'ordre: \"mount --bind /aufs/home /home\""
+
+#: usr/local/bin/remaster.sh:482
+msgid "3. run: \"/etc/init.d/kdm restart\""
+msgstr "3. Executar: \"/etc/init.d/kdm restart\""
+
+#: usr/local/bin/remaster.sh:487
+msgid "Enter the partition that you want to remaster (e.g., hda3)"
+msgstr "Indiqueu la partició que vulgueu remasteritzar (ex: hda3)"
+
+#: usr/local/bin/remaster.sh:496
+msgid "Do you have /home on a different partition?"
+msgstr "El directori /home és a una partició diferent?"
+
+#: usr/local/bin/remaster.sh:498
+msgid "Enter /home partition (e.g., hda4)"
+msgstr "Entreu la partició /home (ex: hda4)"
+
+#: usr/local/bin/remaster.sh:511
+msgid "Could not mount ... partition, retry?"
+msgstr "No es pot muntar la partició ... , reintentar?"
+
+#: usr/local/bin/remaster.sh:520
+msgid "You need to be root to execute this script."
+msgstr "Cal ser usuari principal per a executar aquest script."
+
+#: usr/local/bin/remaster.sh:527
+msgid ""
+"This remastering process uses the \"squashfs\" file system which doesn't "
+"seem to be installed on your system. Without it we cannot proceed. Run ..."
+msgstr "El procés de remasterització usa el sistema de fitxers \"squashfs\" que sembla que no està instal·lat al vostre sistema. Sense ell no es pot continuar. Executeu ..."
+
+#: usr/local/bin/remaster.sh:528
+msgid ""
+"If you do have the package installed you might need to run this command "
+"\"modprobe squashfs\" before running this script"
+msgstr "Si teniu el paquet instal·lat potser us cal executar l'ordre \"modprobe squashfs\" abans d'executar aquest script."
+
+#: usr/local/bin/remaster.sh:529
+msgid "Script aborted."
+msgstr "Script interromput."
+
+#: usr/local/bin/remaster.sh:550
+msgid "Unrecognized option:"
+msgstr "Opció desconeguda:"
+
+#: usr/local/bin/remaster.sh:571
+msgid "Do you want to chroot to ... to add/remove programs?"
+msgstr "Voleu fer chroot a ... abans d'afegir/eliminar programes?"
+
+#: usr/local/bin/remaster.sh:573
+msgid ""
+"WARNING!!! You are chrooting to ..., any changes in the chroot environment "
+"will affect the actual hard disk installation."
+msgstr "COMPTE!!! Aneu a fer chroot a ... , qualsevol canvi a l'entorn de chroot afectarà la vostra instal·lació actual al disc dur."

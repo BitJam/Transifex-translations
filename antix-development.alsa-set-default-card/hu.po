@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tamas Szarvas <szarvy@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2018-01-08 18:52+0000\n"
+"Last-Translator: Tamas Szarvas <szarvy@gmail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/anticapitalista/antix-development/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Nem található hangeszköz."
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Csak egy hangkártya található."
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "A jelenlegi alapértelmezett: %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Kilépés"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Kérem, válasszon hangkártyát!"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "A %s hangkártya beállítva"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Hangteszt"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Szeretné tesztelni a hangot?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "Hang tesztelése több mint 6 másodpercig"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Teszt sikeres"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Sikerült csatlakozni a kiválasztott eszközhöz)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Teszt sikertelen"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Nem sikerült csatlakozni a kiválasztott eszközhöz)"

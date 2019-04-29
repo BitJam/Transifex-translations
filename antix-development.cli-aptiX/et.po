@@ -1,0 +1,565 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Estonian (https://www.transifex.com/anticapitalista/teams/10162/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr ""
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr ""
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr ""
+
+msgid "down-arrow"
+msgstr ""
+
+msgid "page-up"
+msgstr ""
+
+msgid "page-down"
+msgstr ""
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr ""
+
+msgid "antiX Command Line Package Installer"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "Search for packages to mark or install"
+msgstr ""
+
+msgid "Search for antiX kernels"
+msgstr ""
+
+msgid "Search for all kernels"
+msgstr ""
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr ""
+
+msgid "Edit the repo source files"
+msgstr ""
+
+msgid "Quit"
+msgstr "Lülita välja"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr ""
+
+msgid "no pending upgrades"
+msgstr ""
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr ""
+
+msgid "View or perform %s upgrade now"
+msgstr ""
+
+msgid "View or perform %s upgrades now"
+msgstr ""
+
+msgid "Upgrade %s package now"
+msgstr ""
+
+msgid "Upgrade %s packages now"
+msgstr ""
+
+msgid "View a list of packages to be upgraded"
+msgstr ""
+
+msgid "Ignore these upgrades for now"
+msgstr ""
+
+msgid "View or install %s marked package"
+msgstr ""
+
+msgid "View or install %s marked packages"
+msgstr ""
+
+msgid "Edit Source Menu"
+msgstr ""
+
+msgid "Please select a source file to edit"
+msgstr ""
+
+msgid "Could not find file %s to edit"
+msgstr ""
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr ""
+
+msgid "Search for packages"
+msgstr ""
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr ""
+
+msgid "exact name matches"
+msgstr ""
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr ""
+
+msgid "leading name matches"
+msgstr ""
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr ""
+
+msgid "any name matches"
+msgstr ""
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr ""
+
+msgid "name or description matches"
+msgstr ""
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr ""
+
+msgid "No matches were found"
+msgstr ""
+
+msgid "Do you want to try a different search?"
+msgstr ""
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr ""
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr ""
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr ""
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr ""
+
+msgid "Do a different search"
+msgstr ""
+
+msgid "Search Result Menu"
+msgstr ""
+
+msgid "Please select an action"
+msgstr ""
+
+msgid "What next?"
+msgstr ""
+
+msgid "%s packages were found"
+msgstr ""
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr ""
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr ""
+
+msgid "Press %s to see the list"
+msgstr ""
+
+msgid "Use %s to go to the main menu"
+msgstr ""
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr ""
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr ""
+
+msgid "Press %s to skip picking a package"
+msgstr ""
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr ""
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr ""
+
+msgid "Use %s to see the results again"
+msgstr ""
+
+msgid "Use %s to do a new search"
+msgstr ""
+
+msgid "Invalid input.  Please try again"
+msgstr ""
+
+msgid "The following numbers were out of range %s"
+msgstr ""
+
+msgid "No valid numbers were given.  Please try again"
+msgstr ""
+
+msgid "Selected packages"
+msgstr ""
+
+msgid "Could not find package number %s"
+msgstr ""
+
+msgid "Repeat the same search"
+msgstr ""
+
+msgid "Search again"
+msgstr ""
+
+msgid "Go back to main menu"
+msgstr ""
+
+msgid "Now what?"
+msgstr ""
+
+msgid "Do a new search"
+msgstr ""
+
+msgid "See search results again"
+msgstr ""
+
+msgid "Return to main menu"
+msgstr ""
+
+msgid "Remove or Purge Menu"
+msgstr ""
+
+msgid "Please choose an action for this package"
+msgstr ""
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+
+msgid "Purge package [remove package AND its config files]"
+msgstr ""
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr ""
+
+msgid "Install package [only if it is not up to date]"
+msgstr ""
+
+msgid "The %s command failed"
+msgstr ""
+
+msgid "Please enter the term you want to search for"
+msgstr ""
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr ""
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr ""
+
+msgid "Found"
+msgstr ""
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr ""
+
+msgid "Show more information about package %s"
+msgstr ""
+
+msgid "Uninstall package %s"
+msgstr ""
+
+msgid "Unmark package %s"
+msgstr ""
+
+msgid "Mark package %s"
+msgstr ""
+
+msgid "Install package %s"
+msgstr ""
+
+msgid "Mark selected, uninstalled package %s"
+msgstr ""
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr ""
+
+msgid "install selected uninstalled package %s"
+msgstr ""
+
+msgid "install %s selected uninstalled packages"
+msgstr ""
+
+msgid "Checking source files ..."
+msgstr ""
+
+msgid "Run %s now?"
+msgstr ""
+
+msgid "No list files were found"
+msgstr ""
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr ""
+
+msgid "It appears that at least one list file is missing"
+msgstr ""
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr ""
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr ""
+
+msgid "There was a problem running %s"
+msgstr ""
+
+msgid "Do you want to continue anyway"
+msgstr ""
+
+msgid "Creating database ..."
+msgstr ""
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr ""
+
+msgid "Updating database ..."
+msgstr ""
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr ""
+
+msgid "Found %s dependencies"
+msgstr ""
+
+msgid "Marking %s uninstalled dependencies"
+msgstr ""
+
+msgid "found %s dependencies"
+msgstr ""
+
+msgid "found %s unmet dependencies"
+msgstr ""
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Marking package %s"
+msgstr ""
+
+msgid "Unmarked %s package"
+msgstr ""
+
+msgid "Unmarked %s packages"
+msgstr ""
+
+msgid "Do you want to see more detailed information?"
+msgstr ""
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+
+msgid "Do you want to install this package now?"
+msgstr ""
+
+msgid "Installing %s"
+msgstr ""
+
+msgid "Found %s un-installed marked packages"
+msgstr ""
+
+msgid "Nothing to install"
+msgstr ""
+
+msgid "Install %s package"
+msgstr ""
+
+msgid "Install %s packages"
+msgstr ""
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Install this package?"
+msgstr ""
+
+msgid "Install these packages?"
+msgstr ""
+
+msgid "Install %s marked package"
+msgstr ""
+
+msgid "Install all %s marked packages"
+msgstr ""
+
+msgid "View %s marked package"
+msgstr ""
+
+msgid "View all %s marked packages"
+msgstr ""
+
+msgid "Unmark %s marked package"
+msgstr ""
+
+msgid "Unmark all %s marked packages"
+msgstr ""
+
+msgid "View or Install Marked Packages"
+msgstr ""
+
+msgid "No marked packages were found"
+msgstr ""
+
+msgid "Marked packages will add %s Meg"
+msgstr ""
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+
+msgid "Use %s to go the main menu"
+msgstr ""
+
+msgid "Use %s to do another search"
+msgstr ""
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr ""
+
+msgid "No suggestions were found!"
+msgstr ""
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr ""
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr ""
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr ""
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr ""
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr ""
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr ""
+
+msgid "Skip to the next step (don't view packages)"
+msgstr ""
+
+msgid "Please select which packages to view"
+msgstr ""
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr ""
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+
+msgid "See suggestions again"
+msgstr ""
+
+msgid "Marked %s previously unmarked packages"
+msgstr ""
+
+msgid "Unmarked all %s previously marked packages"
+msgstr ""
+
+msgid "%s package is still marked"
+msgstr ""
+
+msgid "%s packages are still marked"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr ""
+
+msgid "Unmark %s marked packages"
+msgstr ""
+
+msgid "Checking for package upgrades ..."
+msgstr ""
+
+msgid "There are %s packages that can be upgraded"
+msgstr ""
+
+msgid "There are no packages to upgrade"
+msgstr ""
+
+msgid "System Upgrade Menu"
+msgstr ""
+
+msgid "Exit"
+msgstr "Lülita välja"

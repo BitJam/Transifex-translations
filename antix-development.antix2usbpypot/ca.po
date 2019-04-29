@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Eduard Selma <selma@tinet.cat>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 01:51+EEST\n"
+"PO-Revision-Date: 2015-01-27 17:30+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: antix2usb.py:41
+msgid "not found."
+msgstr "no trobat."
+
+#: antix2usb.py:42
+msgid "Warning"
+msgstr "Atenció  "
+
+#: antix2usb.py:43
+msgid ""
+"No removable USB device has been detected.\n"
+"\\ Plug in the USB key and retry."
+msgstr "No s'ha detectat cap dispositiu USB.\n\\ Endolleu el dispositiu USB i torneu a provar-ho."
+
+#: antix2usb.py:44 antix2usb.py:61
+msgid "No ISO file selected!"
+msgstr "No s'ha seleccionat cap fitxer ISO! "
+
+#: antix2usb.py:45
+msgid "Cannot access file %s"
+msgstr "No es pot accedir al fitxer %s "
+
+#: antix2usb.py:46
+msgid ""
+"File '%s' does not fit \n"
+"in %s MB partition"
+msgstr "El fitxer '%s' no cap a \nla partició de %s MB "
+
+#: antix2usb.py:47
+msgid "Required size: %d MB"
+msgstr "Mida necessària: %d MB "
+
+#: antix2usb.py:48
+msgid ""
+"You need extra space for %s persistence file in the partition.\n"
+"\n"
+"\\ Estimated minimum partition size is %d MB"
+msgstr "Necessiteu espai addicional per al fitxer de persistència %s a la partició.\n\n\\ La mida mínima estimada de la partició és de %d MB"
+
+#: antix2usb.py:49
+msgid ""
+"You need extra space for root and home persistence files in the partition.\n"
+"\n"
+"Estimated minimum partition size is %d MB"
+msgstr "Cal espai addicional per a la persistència d'arrel i home a la partició.\n\nLa mida mínima estimada de la partició és de %d MB"
+
+#: antix2usb.py:51
+msgid "No device selected"
+msgstr "No s'ha seleccionat cap dispositiu "
+
+#: antix2usb.py:52
+msgid "Device %s appears to be mounted on %s\n"
+msgstr "Sembla que el dispositiu %s està muntat a %s\n"
+
+#: antix2usb.py:53
+msgid "Unmount the device and prevent any application\n"
+msgstr "Desmunteu el dispositiu i eviteu que cap aplicació\n"
+
+#: antix2usb.py:54
+msgid "to auto-mount it.\n"
+msgstr "el munti automàticament.\n"
+
+#: antix2usb.py:55
+msgid "ISO files"
+msgstr "fitxers ISO"
+
+#: antix2usb.py:56
+msgid "Installing..."
+msgstr "Instal·lant... "
+
+#: antix2usb.py:57
+msgid "Dry test: command: [%s]"
+msgstr "Prova segura: ordre: [%s]"
+
+#: antix2usb.py:58
+msgid "Sorry, Cannot find help file."
+msgstr "Ho sento, no trobo el fitxer d'ajuda."
+
+#: antix2usb.py:59
+msgid ""
+"\n"
+"Process interrupted by user.\n"
+msgstr "\nProcés aturat per l'usuari\n"
+
+#: antix2usb.py:60
+msgid "Are you sure you want to quit?"
+msgstr "Esteu segurs de voler sortir? "
+
+#: antix2usb.py:62
+msgid "Selected file does not look like an ISO file."
+msgstr "El fitxer seleccionat no sembla un fitxer ISO."
+
+#: antix2usb.py:63
+msgid ""
+"Ready to install <b>%s\n"
+"</b>"
+msgstr "A punt per instal·lar <b>%s\n</b>"
+
+#: antix2usb.py:64
+msgid ""
+"on device <b>%s</b>\n"
+"\n"
+msgstr "al dispositiu <b>%s</b>\n\n"
+
+#: antix2usb.py:65
+msgid "Installation will use full device.\n"
+msgstr "La instal·lació usarà tot el dispositiu.\n"
+
+#: antix2usb.py:66
+msgid "Format: <b>%s</b>.\n"
+msgstr "Format: <b>%s</b>.\n"
+
+#: antix2usb.py:67
+msgid "Installation will use <b>%d MB</b> on device.\n"
+msgstr "La instal·lació usarà <b>%d MB</b> al dispositiu.\n"
+
+#: antix2usb.py:68
+msgid "Format of the partition: <b>%s</b>\n"
+msgstr "Format de la partició: <b>%s</b>\n"
+
+#: antix2usb.py:69
+msgid "A persistent root file system will be created.\n"
+msgstr "Es crearà un sistema de fitxers persistent de l'arrel.\n"
+
+#: antix2usb.py:70
+msgid "A persistent home file system will be created.\n"
+msgstr "Es crearà un sistema de fitxers persistent de home.\n"
+
+#: antix2usb.py:71
+msgid "Persistent root and home file sytems will be created.\n"
+msgstr "Es crearan sistemes de fitxers persistents de l'arrel i de home.\n"
+
+#: antix2usb.py:72
+msgid "The Live USB device will boot using <b>%s</b> bootloader.\n"
+msgstr "El dispositiu USB autònom arrencarà usant el carregador d'arrencada <b>%s</b>.\n"
+
+#: antix2usb.py:73
+msgid ""
+"\n"
+"<b>All data existing on the device will be erased.</b>"
+msgstr "\n<b>S'esborraran totes les dades existents al dispositiu.</b>"
+
+#: antix2usb.py:74
+msgid "Calling terminate..."
+msgstr "Cridant la terminació..."
+
+#: antix2usb.py:75
+msgid ""
+"Process completed.\n"
+"You can close the application."
+msgstr "S'ha acabat el procés.\nPodeu tancar l'aplicació."
+
+#: antix2usb.py:76
+msgid "You need root privileges to run this script."
+msgstr "Cal tenir privilegis d'administrador per executar aquest script."
+
+#: antix2usb.py:77
+msgid ""
+"Cannot proceed. The script %s\n"
+" is not present in the path. "
+msgstr " No es pot continuar. El script %s\n no està present al camí. "
+
+#: antix2usb.py:78
+msgid "Sorry."
+msgstr "Ho sento. "
+
+#: antix2usb.py:79
+msgid ""
+"Cannot proceed. The resource file %s\n"
+" is not accessible."
+msgstr "No es pot continuar. El fitxer de recursos %s\nno és accessible."

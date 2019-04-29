@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Eadwine Rose, 2014
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:18+EEST\n"
+"PO-Revision-Date: 2014-06-26 10:11+0000\n"
+"Last-Translator: ko <ko.bros@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: group-management:40
+msgid "The password cannot contain spaces"
+msgstr "Het wachtwoord kan geen spaties bevatten"
+
+#: group-management:41
+msgid "You need to enter a password"
+msgstr "U moet een wachtwoord invoeren"
+
+#: group-management:42
+msgid "First and second password must be identical"
+msgstr "Eerste en tweede wachtwoord moeten identiek zijn"
+
+#: group-management:43 group-management:47
+msgid "No group Selected:"
+msgstr "Geen groep geselecteerd:"
+
+#: group-management:44
+msgid "You must choose a group"
+msgstr "U moet een groep kiezen"
+
+#: group-management:45
+msgid "Password Management"
+msgstr "Wachtwoord-beheer"
+
+#: group-management:46
+msgid "Choose group"
+msgstr "Kies groep"
+
+#: group-management:48
+msgid "group Password"
+msgstr "Groepswachtwoord"
+
+#: group-management:49
+msgid "password"
+msgstr "wachtwoord"
+
+#: group-management:50
+msgid "password again"
+msgstr "wachtwoord opnieuw"
+
+#: group-management:51
+msgid "Passwords"
+msgstr "Wachtwoorden"
+
+#: group-management:52
+msgid "The groupname cannot contain spaces"
+msgstr "De groepsnaam mag geen spaties bevatten"
+
+#: group-management:53
+msgid "You need to enter a groupname"
+msgstr "U moet een groepsnaam invoeren"
+
+#: group-management:54
+msgid "Add groups"
+msgstr "Groepen toevoegen"
+
+#: group-management:55
+msgid "Enter groupname"
+msgstr "Voer groepsnaam in"
+
+#: group-management:56
+msgid "Group Password"
+msgstr "Groepswachtwoord"
+
+#: group-management:57
+msgid "Set Password"
+msgstr "Stel wachtwoord in"
+
+#: group-management:58
+msgid "Users"
+msgstr "Gebruikers"
+
+#: group-management:59
+msgid "Add group"
+msgstr "Groep toevoegen"
+
+#: group-management:60
+msgid "Users to Group"
+msgstr "Gebruikers naar Groep"
+
+#: group-management:61
+msgid "Repair group"
+msgstr "Repareer groep"
+
+#: group-management:62
+msgid "group Removal"
+msgstr "Verwijderen van Groep"
+
+#: group-management:63
+msgid ""
+"Notice!\n"
+"        All of the users in this group will be \n"
+"        logged, unless completely remove\n"
+"        is checked."
+msgstr "Let op!\nAlle gebruikers in deze groep worden\ngelogd, tenzij compleet verwijderen\nis aangevinkt."
+
+#: group-management:69
+msgid "Remove group"
+msgstr "Verwijder groep"
+
+#: group-management:70
+msgid "No group Recoverable:"
+msgstr "Geen groep herstelbaar:"
+
+#: group-management:71
+msgid "There are no records of a recoverable group."
+msgstr "Er bestaat geen records van een herstelbare Groep"
+
+#: group-management:72
+msgid "Recover group"
+msgstr "Herstel groep"
+
+#: group-management:73
+msgid ""
+"Notice!\n"
+"        A group can only be recovered if the group\n"
+"        has not been completely removed!"
+msgstr "Let op!\nEen groep kan alleen hersteld worden als de groep\nniet volledig is verwijderd!"
+
+#: group-management:76
+msgid "Select Group"
+msgstr "Selecteer Groep"
+
+#: group-management:77
+msgid "You MUST be root to use this application!"
+msgstr "U MOET root zijn om deze toepassing te gebruiken!"

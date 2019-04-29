@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# cyril cottet <cyrilusber2001@yahoo.fr>, 2017
+# Geoff Gigg <geoffgigg@hotmail.com>, 2016
+# Jonathan Chevalier <jonathan.chevalier@icloud.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:29+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: French (http://www.transifex.com/anticapitalista/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Default"
+msgstr "Par défaut"
+
+msgid "Check integrity of the live media"
+msgstr "Vérifier l'integrité du média live"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Vérifier les systèmes de fichiers LiveUSB et persistants de type ext2/3/4"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Copier vers la RAM le système compressé de fichiers"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Fin du démarrage depuis un LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Fin du démarrage depuis un disque dur"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Désactiver tous les périphériques usb-2 pendant le démarrage"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Faire le système aider à déterminer le réglage de l'horloge"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "L'horloge interne se sert de UTC (systèmes n'ayant que de Linux )"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "L'horloge interne se sert de l'heure locale (systèmes Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Changer de mots de passe avant de démarrer"
+
+msgid "Enable wicd service on startup"
+msgstr "Activer le service wicd au démarrage"
+
+msgid "Disable wicd service on startup"
+msgstr "Désactiver le service wicd au démarrage"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Désactiver la fonctionnalité du stockage LiveUSB (LiveUSB seulement)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Activer la fonctionnalité du stockage LiveUSB (LiveUSB seulement)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Conservez quelques fichiers à travers les redémarrages (LiveUSB uniquement)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Ne conservez pas les fichiers à travers les redémarrages (LiveUSB uniquement)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Monter les périphériques automatiquement lors de leurs branchement"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Désactiver le montage - et le montage automatique - additionnel quelconque"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Rapide. Il conserve la racine et le répertoire personnel. (Il emploie de RAM et sauvegarde lors de l'arrêt)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Rapide. Il ne conserve que de la racine. (Il emploie de RAM et sauvegarde lors de l'arrête.)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Lent. Il conserve la racine et le répertoire personnel (aucun usage de RAM, il sauvegarde constamment)"
+
+msgid "Only home persistence"
+msgstr "Persistance du répertoire personnel uniquement"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal avec la persistance et de la racine et du répertoire personel"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal avec la persistance de la racine uniquement"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal avec la persistance du répertoire personnel et de la racine statique"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal avec la persistance du répertoire personnel uniquement"
+
+msgid "Only Frugal, no persistence"
+msgstr "Seulement Frugal , pas de persistance"
+
+msgid "Yes (default)"
+msgstr "Oui (par défaut)"
+
+msgid "No"
+msgstr "Non"

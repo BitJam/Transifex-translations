@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:17+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/projects/p/antix-development/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: phonebookantix.sh:17
+msgid "Phonebook"
+msgstr ""
+
+#: phonebookantix.sh:30
+msgid "Show All Contacts"
+msgstr "Показати всі контакти"
+
+#: phonebookantix.sh:39
+msgid "Add a New Contact"
+msgstr "Додати новий контакт"
+
+#: phonebookantix.sh:51
+msgid "Search for a Contact"
+msgstr "Пошук контакту"
+
+#: phonebookantix.sh:60
+msgid "Remove a Contact"
+msgstr "Вилучити контакт"
+
+#: phonebookantix.sh:70
+msgid "Close"
+msgstr "Закрити"

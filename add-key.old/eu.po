@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-06-29 17:08+EEST\n"
+"PO-Revision-Date: 2011-10-27 11:07+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Basque (http://www.transifex.com/projects/p/antix-development/language/eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: add-key:36
+msgid "No line Selected:"
+msgstr ""
+
+#: add-key:37
+msgid "line has been removed"
+msgstr ""
+
+#: add-key:38
+msgid "Remove Items"
+msgstr ""
+
+#: add-key:39
+msgid "Line to Remove"
+msgstr ""
+
+#: add-key:40
+msgid "Remove"
+msgstr ""
+
+#: add-key:41
+msgid "Select first key:"
+msgstr ""
+
+#: add-key:42
+msgid "You need to enter a valid first key"
+msgstr ""
+
+#: add-key:43
+msgid "Select second key:"
+msgstr ""
+
+#: add-key:44
+msgid "You need to enter a valid second key"
+msgstr ""
+
+#: add-key:45
+msgid "third key letter or number"
+msgstr ""
+
+#: add-key:46
+msgid "You need to enter a valid third key"
+msgstr ""
+
+#: add-key:47
+msgid "You need to enter a valid command"
+msgstr ""
+
+#: add-key:48
+msgid "That key combination has been used"
+msgstr ""
+
+#: add-key:49
+msgid "command has been added"
+msgstr ""
+
+#: add-key:50
+msgid "Add Items"
+msgstr ""
+
+#: add-key:51
+msgid "Changing keys for:"
+msgstr ""
+
+#: add-key:52
+msgid ""
+"There is no file ~/.%s/keys \n"
+"The session's DESKTOP_CODE='%s' \n"
+"incorrectly matches your system"
+msgstr ""
+
+#: add-key:53
+msgid "add-key has run into an error,\\nplease rerun and correct the error!"
+msgstr ""
+
+#: add-key:54
+msgid "add-key has successfully completed"
+msgstr ""

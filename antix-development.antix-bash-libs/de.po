@@ -1,0 +1,392 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2014
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+# Jerry Bond, 2015
+# Jerry Bond, 2015
+# q a, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2018-10-18 16:28+0000\n"
+"Last-Translator: delix02\n"
+"Language-Team: German (http://www.transifex.com/anticapitalista/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "Warnung"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Wirklich beenden?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "Y"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "y"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Drücken Sie <Enter> um fortzufahren"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Erneut versuchen"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "Sie haben eingegeben: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "Ist das richtig?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Geben Sie eine Zahl ein"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr " (oder einen Buchstaben)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Ihre Auswahl war leer."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Sie müssen eine Nummer auswählen."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Ihre Auswahl %s war außerhalb des Bereichs."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Fehler"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Umschalten auf den CLI-Modus"
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Standard Optionen"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Erzwinge Befehlsschnittstelle"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Erzwinge helle Konsolenfarbe"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Erzwinge GUI-Schnittstelle (wird in der Regel nie gebraucht)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "zeigt diesen simplen Hilfetext "
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Erzwinge gedämpfte/gedimmte Konsolenfarbe"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Ausschalten der Konsolenfarbe (für schwarz-weiß Text)"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Ausschalten der Protokollierung"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Unterdrücken zusätzlicher Fragen und Ausgaben"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Vorgeben, daß yad nicht vorhanden ist"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Mehr und ausführlicher ausgeben"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Debug / Fehlersuche Optionen"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Debug Pango markup gesendet an yad"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Zeige alle Kleinbuchstaben-globals am Ende"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Zeige alle globals am Ende "
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "option %s erfodert ein Argument"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "option %s ist kein Argument"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "unbekanntes Argument %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Zu viele zusätzliche Argumente: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Zu wenig Argumente. Mindestens erforderlich %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "Erwartet einen numerischen Wert nach dem Parameter %s"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Wollen Sie wirklich aufhören %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Dieses Skript nur in einer %s Umgebung ausgeführt werden."
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "Das Verzeichnis %s existiert nicht"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "angezeigt, dies ist nicht eine %s Umgebung."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Wird beendet."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Bitte dieses Skript als root ausführen."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Variablen %s sind leer"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Variable %s ist leer"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "In %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Dies ist ein schwerwiegender Fehler, führt zu Programmabbruch"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Warnung"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Das Programm %s wurde nicht gefunden, so dass die Verriegelung nicht passiert."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Möchten Sie trotzdem fortfahren?"
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Eine andere Instanz von %s läuft zur Zeit auch."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Wenn Sie sich sicher sind, dass dies nicht so ist, kann die Datei gelöscht werden."
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "und versuchen Sie es erneut."
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "Konnte nicht %s lesen und schreiben"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Der %s Einhängepunkt (mount) konnte nicht erstellt werden."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "Konnte nicht mount --bind %s auf %s erstellen"
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Konnte %s auf %s nicht einhängen"
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "Kann nicht aushängen (umount)  %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Seltsam & krass: Datei %s tut nicht existieren."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "die Datei %s kann nicht eingehängt (mount) werden."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "Größe"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Soll es gelöscht werden?"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Lösche es"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Speichere es"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Info betrachten"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Beenden"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Räume auf"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Was soll mit %s gemacht werden?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Von einem Rollback übrig. Normalerweise zu löschen."
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "Ein remaster ohne Neustart zu machen."
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Vorherige squashfs Datei. Speichern oder Löschen."
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "Ein unvollständiges Remaster."
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Wählen Sie eine Aktion:"
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Versions-Info für"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "Keine VID-Datei"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "%s konnte nicht eingebunden werden"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "Seltsam. Konnte nicht finden einen passenden String \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Wählen Sie, welche Geräte zur Auswahl stehen"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Alle"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Eingehängt"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "Ausgehängt"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "Geräte"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "OK"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Klicken Sie auf ein Gerät und treffen %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Gerät"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Einhängen"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Typ"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Größe"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Frei"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Verwenden Sie \"exit\" und betätigen Return zur Rückkehr %s"

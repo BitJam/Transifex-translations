@@ -1,0 +1,51 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2017-11-15 15:35+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Customizing services"
+msgstr "Προσαρμογή των υπηρεσιών"
+
+msgid "Enabling %s service"
+msgstr "Ενεργοποίηση των υπηρεσιών %s"
+
+msgid "Disabling %s service"
+msgstr "Απενεργοποίηση υπηρεσιών %s "
+
+msgid "Enabling %s services"
+msgstr "Ενεργοποίηση των υπηρεσιών %s"
+
+msgid "Disabling %s services"
+msgstr "Απενεργοποίηση των υπηρεσιών %s "
+
+msgid "Disabling some services %s"
+msgstr "Απενεργοποίηση μερικών υπηρεσιών %s "
+
+msgid "Disabling %s services %s"
+msgstr "Απενεργοποίηση %s υπηρεσιών %s "
+
+msgid "Disabling network services %s"
+msgstr "Απενεργοποίηση δικτύου %s "
+
+msgid "Disabling more services %s"
+msgstr "Απενεργοποίηση περισσότερες υπηρεσίες %s"
+
+msgid "Disabling NFS server %s"
+msgstr "Απενεργοποίηση NFS server %s "

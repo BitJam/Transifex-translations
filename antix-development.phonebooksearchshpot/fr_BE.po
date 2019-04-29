@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:19+0300\n"
+"PO-Revision-Date: 2014-03-30 17:17+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: French (Belgium) (http://www.transifex.com/projects/p/antix-development/language/fr_BE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_BE\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: phonebooksearch.sh:16
+msgid "Phonebook"
+msgstr ""
+
+#: phonebooksearch.sh:18
+msgid "Enter a name to find:"
+msgstr ""
+
+#: phonebooksearch.sh:27
+msgid "Close"
+msgstr ""
+
+#: phonebooksearch.sh:33
+msgid "Search"
+msgstr ""
+
+#: phonebooksearch.sh:35
+msgid "Search Results"
+msgstr ""

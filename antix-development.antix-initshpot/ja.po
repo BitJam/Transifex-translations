@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2014-06-04 03:50+0000\n"
+"Last-Translator: BALLOON a.k.a. Fu-sen.\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "居住フォルダ %s"
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "メニューの言語 %s が存在しません"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "ディレクトリ %s が存在しません"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "メニューの言語設定を %s へ設定 %s "
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "起動パラメータ %s が不正です %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "設定 %s → %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "ミラーコード %s が不正です (2文字以上)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "%s を言語設定します %s ミラー"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "%s が見つかりません %s"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "デフォルトデスクトップ %s を見つけました"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "デスクトップ %s を有効にできません"
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "%s を選択しました"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "デフォルトデスクトップを設定: %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "X window の設定"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "自動マウント %s を有効"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "自動マウントしない"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "ビルド中 %s / %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "fstab ホットプラグを無効 (自動マウントされません)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "fstab ホットプラグを有効"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "ファイル %s の設定"

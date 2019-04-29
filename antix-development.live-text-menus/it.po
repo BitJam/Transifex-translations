@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Michele Iezzi <miki1965@gmail.com>, 2018
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-03-10 20:28+0000\n"
+"Last-Translator: Michele Iezzi <miki1965@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/anticapitalista/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Check integrity of the live media"
+msgstr "Controlla l'integrità dell'unità live"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Controlla il filesystems ext2/3/4 della LiveUSB e della persistenza"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Copia il file system compresso sulla RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Completa il boot da una Live USB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Completa il boot da un Hard Drive"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Disabilita tutti i dispositivi usb-2 durante il boot"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Disporre di aiuto dal sistema nell'impostazione dell'orologio"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "L'orologio Hardware usa UTC (su sistemi esclusivamente Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "L'orologio Hardware usa l'ora locale (su sistemi Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Cambiare le passwords prima di avviare il boot"
+
+msgid "Enable wicd service on startup"
+msgstr "Attiva il servizio, di connessione rete, wicd all'avvio"
+
+msgid "Disable wicd service on startup"
+msgstr "Non abilitare il servizio wicd all'avvio"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Disabilita la funzione LiveUSB con capacità di memorizzare dati (solo per LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Abilita la funzione LiveUSB con capacità di memorizzare dati (solo per LiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Salvare le modifiche di alcuni file anche dopo il reboot (solo per LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Non salvare le modifiche di alcuni file anche dopo il reboot (solo per LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Mount automatico dei dispositivi con l'inserimento"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Disabilitare tutti i montaggi extra e il montaggio automatico"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Veloce. Salva root e la home (usa la RAM, salva allo spegnimento)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Veloce. Salva solo root (usa la RAM, salva allo spegnimento)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Lento. Salva root e la home (non usa la RAM, salva costantemente)"
+
+msgid "Only home persistence"
+msgstr "Solo persistenza della home"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugale con persistenza sia di root che della home"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugale con persistenza solo di root"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugale con persistenza della home e di root in modalità statica"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugale con persistenza solo della home"
+
+msgid "Only Frugal, no persistence"
+msgstr "Esclusivamente Frugale, senza persistenza."
+
+msgid "Yes (default)"
+msgstr "Si (default)"
+
+msgid "No"
+msgstr "No"

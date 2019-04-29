@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# scootergrisen, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-12-26 08:30+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Check integrity of the live media"
+msgstr "Tjek integritet af livemediet"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Tjek LiveUSB og vedvarende ext2/3/4-filsystemer"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Kopiér det komprimeret filsystem til RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Færdig med at opstarte fra en LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Færdig med at opstarte fra en harddisk"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Deaktivér alle usb-2-enheder under opstart"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Få systemet til at hjælpe med at fastslå urets indstilling"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Hardwarens ur bruger UTC (kun til Linux-systemer)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Hardwarens ur bruger lokal tid (Windows-systemer)"
+
+msgid "Change passwords before booting"
+msgstr "Skift adgangskoder inden opstart"
+
+msgid "Enable wicd service on startup"
+msgstr "Aktivér wicd-tjeneste ved opstart"
+
+msgid "Disable wicd service on startup"
+msgstr "Deaktivér wicd-tjeneste ved opstart"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Deaktivér LiveUSB-lager-funktionalitet (kun LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Aktivér LiveUSB-lager-funktionalitet (kun LiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Gem nogen filer henover genstarter (kun LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Gem ikke filer henover genstarter (kun LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Monter automatisk enheder når de sættes i"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Deaktivér al ekstra montering og automontering"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Hurtig. Gemmer rod og hjem (bruger RAM, gemmes ved nedlukning)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Hurtig. Gemmer kun rod (bruger RAM, gemmes ved nedlukning)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Langsom. Gemmer rod og hjem (ingen anvendelse af RAM, gemmes konstant)"
+
+msgid "Only home persistence"
+msgstr "Kun vedvarenhed for hjem"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Sparsommelig med vedvarenhed af både rod og hjem"
+
+msgid "Frugal with only root persistence"
+msgstr "Sparsommelig kun med vedvarenhed af rod"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Sparsommelig med vedvarenhed af hjem og statisk rod"
+
+msgid "Frugal with only home persistence"
+msgstr "Sparsommelig kun med vedvarenhed af hjem"
+
+msgid "Only Frugal, no persistence"
+msgstr "Kun sparsommelig, ingen vedvarenhed"
+
+msgid "Yes (default)"
+msgstr "Ja (standard)"
+
+msgid "No"
+msgstr "Nej"

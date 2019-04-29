@@ -1,0 +1,725 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# Вячеслав Волошин <vol_vel@mail.ru>, 2017
+# Vladimir O <vldoduv@yandex.ru>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: 2016-10-14 08:28+0000\n"
+"Last-Translator: Vladimir O <vldoduv@yandex.ru>, 2018\n"
+"Language-Team: Russian (https://www.transifex.com/anticapitalista/teams/10162/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Запуск %s"
+
+msgid "The selected usb drive was %s"
+msgstr "Выбранный usb накопитель был %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr "Это устройство порождает ошибки при создании и загрузке"
+
+msgid "Do you want to use it anyway?"
+msgstr "Все равно хотите его использовать?"
+
+msgid "Will use target device %s"
+msgstr "Буду использовать для устройства назначения %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Создать шифрованный live-usb?"
+
+msgid "copying"
+msgstr "копирование"
+
+msgid "Please enter the filename"
+msgstr "Пожалуйста, введите имя файла"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "файл"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "устройство"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "клонирование"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "каталог"
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "Будет использовать источник %s"
+
+msgid "Could not find device %s"
+msgstr "Не удалось найти устройство %s"
+
+msgid "Customize language and timezone?"
+msgstr "Настроить язык и часовой пояс?"
+
+msgid "Encryption enabled"
+msgstr "Шифрование включено"
+
+msgid "encrypted"
+msgstr "зашифрованный"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "Готов создать %s на устройстве %s путем %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "Готов выполнить действие %s на %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "Готов выполнить действия %s на %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Начнем?"
+
+msgid "install"
+msgstr "установка"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr "Вам предложат ввести парольную фразу при первой загрузке"
+
+msgid "Will use initial passphrase %s"
+msgstr "Будет использована изначальная парольная фраза %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "Создать полнофункциональный live-usb"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Создать шифрованный полнофункциональный live-usb"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr "Создать пользовательский live-usb (включая опцию шифрования)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr "Обновить ОС на существующем live-usb (экспериментальный)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Обновить идентификаторы UUID в существующем live-usb"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Обновить параметры загрузки в существующем live-usb"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Переустановить устаревший загрузчик в существующем live-usb"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Очистить таблицу разделов на usb накопителе"
+
+msgid "Please select what action to perform"
+msgstr "Пожалуйста, выберите действие для выполнения"
+
+msgid "Please select the source for the new live-usb"
+msgstr "Пожалуйста, выберите источник для нового live-usb"
+
+msgid "The only usb drive detected was %s"
+msgstr "Единственный определившийся накопитель - это %s"
+
+msgid "A %s usb drive was detected"
+msgstr "%s usb накопитель был определен"
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Хотите все равно включить его в меню"
+
+msgid "No available target usb devices were found"
+msgstr "Не обнаружено ни одного целевого usb устройства"
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "Только одно целевое usb устройство было найдено %s"
+
+msgid "Please select the target usb device"
+msgstr "Пожалуйста, выберите целевое usb устройство"
+
+msgid "entire drive"
+msgstr "весь диск"
+
+msgid "main partition"
+msgstr "основной раздел"
+
+msgid "bios partition"
+msgstr "раздел bios"
+
+msgid "uefi partition"
+msgstr "uefi раздел"
+
+msgid "Already using over 90% of the device"
+msgstr "Уже использовано более 90% устройства"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Вы хотите изменить, сколько будет использовано на устройстве?"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "Установлен размер в %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Пожалуйста, выберите, сколько места использовать для разделов live-usb"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Предполагая, что это шифрованный live-usb"
+
+msgid "About to encrypt device %s"
+msgstr "Собираюсь зашифровать устройство %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "Будем перезаписывать данные на %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Наберите как рекомендовано в верхнем регистре %s"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "Вас попросят ввести парольную фразу в третий раз"
+
+msgid "Failed to create encrypted device"
+msgstr "Не удалось создать шифрованное устройство"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Хотите сейчас попробовать ввести новую парольную фразу?"
+
+msgid "Failed to open encrypted device"
+msgstr "Не удалось открыть шифрованное устройство"
+
+msgid "Encryption successful"
+msgstr "Шифрование завершилось успешно"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "Пожалуйста, подождите, монтируется оптический диск на %s"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Использование %s создания разделов"
+
+msgid "copy from %s to %s partition"
+msgstr "Скопировать из %s в %s раздел"
+
+msgid "files: %s"
+msgstr "файлы: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr "Ошибка при копировании файлов в главный раздел live usb"
+
+msgid "Error while copying %s files"
+msgstr "Ошибка при копировании %s файлов"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Произошла ошибка при распаковке initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr "Не удалось добавить все необходимые программы к live initrd"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Включить шифрование в live initrd"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Отключить шифрование в live initrd"
+
+msgid "Fix %s bug"
+msgstr "Исправить %s ошибку"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Создать syslinux каталог из %s"
+
+msgid "Not enough space on %s partition"
+msgstr "Не хватает места на %s разделе"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Менее чем %s MiB останется на %s раздел"
+
+msgid "done"
+msgstr "готово"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Please enter the name of the iso file"
+msgstr "Пожалуйста, введите имя файла ISO"
+
+msgid "The live media is not mounted"
+msgstr "Носитель не смонтирован"
+
+msgid "Current running kernel is %s"
+msgstr "Текущее исполняемое ядро - %s"
+
+msgid "This is not a live-usb system"
+msgstr "Это не live-usb система"
+
+msgid "Will use running live system"
+msgstr "Будет использоваться запускаемая live система"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "Устройство '%s' не является usb устройством"
+
+msgid "Can't find first partition on device %s"
+msgstr "Невозможно найти первый раздел на %s"
+
+msgid "Device %s is not a disk partition"
+msgstr "Устройство %s не является дисковым разделом"
+
+msgid "Will use live-usb device %s"
+msgstr "Будет использоваться live-usb устройство %s"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "Не найден '%s' файл ни в одном каталоге на '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "Не удалось найти '%s' или '%s' на live-usb"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "Найдено %s файлов %s в каталоге %s"
+
+msgid "Could not find initrd file: %s"
+msgstr "Не удалось найти initrd файл: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Найдено:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "полное live ядро"
+
+msgid "total live kernels"
+msgstr "полных live ядер"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "live ядро по умолчанию"
+
+msgid "default live kernels"
+msgstr "live ядер по умолчанию"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "старое live ядро "
+
+msgid "old live kernels"
+msgstr "старых live ядер"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "всего установленное ядро"
+
+msgid "total installed kernels"
+msgstr "всего установленных ядер"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "новое установленное ядро"
+
+msgid "new installed kernels"
+msgstr "новых установленных ядер"
+
+msgid "Live kernels:"
+msgstr "Live ядра:"
+
+msgid "Boot kernels:"
+msgstr "Загрузочные ядра:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "Только одно новое установленное ядро было найдено:"
+
+msgid "New installed kernels:"
+msgstr "Новые установленные ядра:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Имеются %s новых ядер.  Показаны только %s последних."
+
+msgid "No kernels were found in the boot directory"
+msgstr "Не найдено ядер в boot каталоге"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "Не найдено ядер в live boot каталоге"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "Следует сделать ремастер перед обновлением ядра"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "Вы ОБЯЗАНЫ сделать ремастер перед обновлением ядра"
+
+msgid "No new kernels were found"
+msgstr "Не было найдено новых ядер"
+
+msgid "Can only update the initrd file"
+msgstr "Можно только обновить initrd файл"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Вы должны установить ядро, а затем сделать ремастеринг перед обновлением "
+"ядра"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Новые ядра не обнаружены, и нет ни одного шаблона initrd файла"
+
+msgid "live kernel update"
+msgstr "обновление live ядра"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Текущий"
+
+msgid "New"
+msgstr "Новое"
+
+msgid "(new)"
+msgstr "(новое)"
+
+msgid "live kernel rollback"
+msgstr "откат live ядра"
+
+msgid "Old"
+msgstr "Старое"
+
+msgid "live initrd update"
+msgstr "обновление live initrd"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Обновление Initrd с помощью файла"
+
+msgid "live modules update"
+msgstr "обновление live модулей"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Добавить initrd модули"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "Готово к выполнению следующего %s"
+
+msgid "The current Live System on %s"
+msgstr "Текущая Live система на %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Система не является live-usb, и не обнаружены usb устройства"
+
+msgid "Please select the system to update"
+msgstr "Пожалуйста, выберите систему для обновления"
+
+msgid "No update or rollback actions are available"
+msgstr "Недоступны действия обновления или отката"
+
+msgid "Please select an action to perform"
+msgstr "Пожалуйста, выберите действие для выполнения"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "from"
+msgstr "с"
+
+msgid "Rollback"
+msgstr "Откат"
+
+msgid "to"
+msgstr "на"
+
+msgid "Update initrd using file %s"
+msgstr "Обновление initrd с помощью файла %s"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "Не найдено каких-либо новых ядер в boot каталоге"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "Найдено одно ядро, соответствующее запрошенной версии %s"
+
+msgid "Found one new kernel %s"
+msgstr "Найдено одно новое ядро %s"
+
+msgid "Please select the new kernel from this list"
+msgstr "Пожалуйста, выберите новое ядро из этого списка"
+
+msgid "kernel"
+msgstr "ядро"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Копирование initrd модулей не удалось для ядра %s"
+
+msgid "No modules were copied to the initrd"
+msgstr "Модули не были скопированы в initrd"
+
+msgid "Compressing ..."
+msgstr "Сжатие ..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "устанавливается %s"
+
+msgid "Overwriting backup"
+msgstr "Перезапись резервной копии"
+
+msgid "Target file %s does not exist"
+msgstr "Целевой файл %s не существует"
+
+msgid "Could not find old %s file to roll back"
+msgstr "Не удалось найти старый %s файл для отката"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Откат с %s на %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "в режиме симуляции"
+
+msgid "Would you like to do a remaster now?"
+msgstr "Желаете сделать ремастер сейчас?"
+
+msgid "Ready to restart %s"
+msgstr "Готов к перезапуску %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "Ожидается параметр после: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Сомнительный аргумент после %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "Приостановлено на '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press <%s> to continue"
+msgstr "Нажмите <%s> чтобы продолжить"
+
+msgid "Unknown command: %s"
+msgstr "Неизвестная команда: %s"
+
+msgid "yes"
+msgstr "да"
+
+msgid "no"
+msgstr "нет"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "выход"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "pretend mode"
+msgstr "режим симуляции"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "ВКЛЮЧЕН РЕЖИМ ПРИТВОРЕНИЯ"
+
+msgid "entry"
+msgstr "запись"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Нажмите <%s> для выбора по умолчанию %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Используйте %s для помощи, %s для %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Используйте %s для %s"
+
+msgid "Oops.  Please try again"
+msgstr "Ой. Попробуйте еще раз"
+
+msgid "You must enter a number"
+msgstr "Вы должны ввести число"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Вы должны ввести число или нажать <Enter>"
+
+msgid "The number '%s' is out of range"
+msgstr "Число '%s' вне диапазона"
+
+msgid "Press '%s' again to quit"
+msgstr "Нажмите '%s' еще раз для выхода"
+
+msgid "You chose %s"
+msgstr "Вы выбрали %s"
+
+msgid "Please select the live boot directory"
+msgstr "Пожалуйста выберите директорию live boot"
+
+msgid "You entered: %s"
+msgstr "Вы ввели: %s"
+
+msgid "Is this correct?"
+msgstr "Это правильно?"
+
+msgid "(tab completion is enabled)"
+msgstr "(завершение по Таб включено)"
+
+msgid "%s does not appear to be a file"
+msgstr "%s не похоже на файл"
+
+msgid "Try again?"
+msgstr "Попробовать снова?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Filesystem"
+msgstr "Файловая система"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Model"
+msgstr "Модель"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Клонировать эту live систему"
+
+msgid "Copy from an ISO file"
+msgstr "Копировать из ISO файла"
+
+msgid "Check md5 of the file %s?"
+msgstr "Проверить md5 файла %s?"
+
+msgid "Checking md5 ..."
+msgstr "Проверка md5 ..."
+
+msgid "Keep going anyway?"
+msgstr "Продолжать в любом случае?"
+
+msgid "The %s program failed!"
+msgstr "%s программа не выполнена!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Файл"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Версия"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "From"
+msgstr "С"
+
+msgid "To"
+msgstr "На"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Всего"
+
+msgid "Used"
+msgstr "Использовано"
+
+msgid "Extra"
+msgstr "Дополнительно"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s заняло %s секунд"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Процесс %s (использующий PID %s) уже выполняется"
+
+msgid "Please close that process before starting a new one"
+msgstr "Пожалуйста, закройте этот процесс, прежде чем начать новый"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Не удалось получить блокировку %s"
+
+msgid "Creating new config file %s"
+msgstr "Создание нового файла конфигурации %s"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Не удалось найти программу %s. Пропуск %s."
+
+msgid "Could not find required program '%s'"
+msgstr "Не удалось найти нужную программу '%s'"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "%s каталог '%s' не для записи"
+
+msgid "Could not find iso file %s"
+msgstr "Не удалось найти iso файл %s"
+
+msgid "Could not read iso file %s"
+msgstr "Не удалось прочесть iso файл %s"
+
+msgid "Could not mount iso file %s"
+msgstr "Не удалось монтировать iso файл %s"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Дистрибутив: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Дистрибутив: %s в %s"
+
+msgid "This script must be run as root"
+msgstr "Этот сценарий должен быть запущен от root"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Нажмите %s для выбора подсвеченной %s"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Нажмите %s для помощи, %s для перерисовки, %s для %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Нажмите %s для перерисовки, %s для %s"

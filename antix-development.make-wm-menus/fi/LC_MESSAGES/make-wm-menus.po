@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# En Kerro <inactive+ekeimaja@transifex.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: En Kerro <inactive+ekeimaja@transifex.com>\n"
+"Language-Team: Finnish (http://www.transifex.com/anticapitalista/antix-development/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Pääte"
+
+msgid "File Manager"
+msgstr "Kotihakemisto"
+
+msgid "Web Browser"
+msgstr "Internet-selain"
+
+msgid "Editor"
+msgstr "Toimittaja"
+
+msgid "Personal"
+msgstr "Oma"
+
+msgid "Applications"
+msgstr "Sovellukset"
+
+msgid "Terminal Apps"
+msgstr "Päätesovellukset"
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "CD/DVD Writer"
+msgstr ""
+
+msgid "Music Player"
+msgstr "Musiikkisoitin"
+
+msgid "Network"
+msgstr "Verkko"
+
+msgid "Alpine Mail"
+msgstr "Alpine sähköpostisovellus"
+
+msgid "Browser elinks"
+msgstr ""
+
+msgid "Irssi Chat"
+msgstr ""
+
+msgid "RSS/Atom Reader"
+msgstr ""
+
+msgid "rTorrent"
+msgstr ""
+
+msgid "Office"
+msgstr "Toimisto"
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Työpöytä"
+
+msgid "Alternate Desktops"
+msgstr ""
+
+msgid "Add Desktop"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "GTK Theme"
+msgstr ""
+
+msgid "Desktop Defaults"
+msgstr "Työpöydän oletukset"
+
+msgid "Session Settings"
+msgstr ""
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr ""
+
+msgid "Conky on/off"
+msgstr "Conky päälle/pois"
+
+msgid "Tools"
+msgstr "Työkalut"
+
+msgid "Nano"
+msgstr ""
+
+msgid "Ted"
+msgstr ""
+
+msgid "Search"
+msgstr "Etsi"
+
+msgid "MC File Manager"
+msgstr ""
+
+msgid "App Killer"
+msgstr ""
+
+msgid "Process Viewer"
+msgstr ""
+
+msgid "System Information"
+msgstr "Tiedot järjestelmään"
+
+msgid "Control Centre"
+msgstr "Ohjauskeskus"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "antiX"
+msgstr ""
+
+msgid "antiX FAQ"
+msgstr "antiX UKK"
+
+msgid "antiX-live How-To"
+msgstr ""
+
+msgid "Rox Manual"
+msgstr "Rox Käyttöohje"
+
+msgid "Fluxbox"
+msgstr ""
+
+msgid "Fluxbox Docs"
+msgstr ""
+
+msgid "Fluxbox FAQ"
+msgstr ""
+
+msgid "Fluxbox Wiki"
+msgstr ""
+
+msgid "Arch Wiki"
+msgstr ""
+
+msgid "IceWM"
+msgstr ""
+
+msgid "IceWM FAQ"
+msgstr "IceWM UKK"
+
+msgid "IceWM Manual"
+msgstr "IceWM Käyttöohje"
+
+msgid "OSNews"
+msgstr ""
+
+msgid "JWM"
+msgstr ""
+
+msgid "Homepage"
+msgstr "Kotisivu"
+
+msgid "WM - Puppy-Linux"
+msgstr ""
+
+msgid "Firewall"
+msgstr "Palomuuri"
+
+msgid "Partimage"
+msgstr ""
+
+msgid "Man Pages"
+msgstr "Ohjesivut"
+
+msgid "Backup"
+msgstr "Varmuuskopio"
+
+msgid "Irssi"
+msgstr ""
+
+msgid "mc"
+msgstr ""
+
+msgid "mocp"
+msgstr ""
+
+msgid "Rss/Atom"
+msgstr ""
+
+msgid "Torrent"
+msgstr "Vertaisverkko"
+
+msgid "Run"
+msgstr "Suorita"
+
+msgid "Fluxbox Settings"
+msgstr ""
+
+msgid "Configuration"
+msgstr "Konfiguraatio"
+
+msgid "Styles"
+msgstr ""
+
+msgid "~/.fluxbox/styles"
+msgstr ""
+
+msgid "Fluxbox Styles"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "Reconfigure"
+msgstr ""
+
+msgid "Restart"
+msgstr "Käynnistä uudelleen"
+
+msgid "Exit"
+msgstr "Lopeta"
+
+msgid "antiX Installer"
+msgstr "Asenna"
+
+msgid "Logout..."
+msgstr "Kirjaudu ulos"
+
+msgid "Restart JWM"
+msgstr "Käynnistä uudelleen JWM"
+
+msgid "Log Out"
+msgstr "Kirjaudu ulos"
+
+msgid "Home Folder"
+msgstr "Kotihakemisto"
+
+msgid "Browser"
+msgstr "Nettiselaimella"
+
+msgid "Unplug Removable Device"
+msgstr "Irrota poistettava laite"
+
+msgid "Quit"
+msgstr "Lopeta"

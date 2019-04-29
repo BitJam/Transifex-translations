@@ -1,0 +1,78 @@
+# Translation for antiX Development: live-usb-save file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Eduard Selma <selma@tinet.cat>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. "State" information are files saved at shutdown and restored at startup
+#. Like saving the state of a game.
+msgid "Restore state information"
+msgstr "Restaura la informació d'estat "
+
+msgid "Save state information"
+msgstr "Desa la informació d'estat "
+
+#. Save <user-name> file <file-name>
+msgid "Save %s file %s"
+msgstr "Desa el fitxer %s %s"
+
+#. Restore <user-name> file <file-name>
+msgid "Restore %s file %s"
+msgstr "Restaura el fitxer %s %s"
+
+#. "Save %s desktop %s" $(wq $user) $(wq $(cat $from))
+msgid "Save %s desktop %s"
+msgstr "Desa l'escriptori %s a %s "
+
+#. Restore <user-name> desktop to <window-manager-name>
+msgid "restore %s desktop to %s"
+msgstr "restaura l'escriptori %s a %s"
+
+#. "general" (same on all machines) versus "machine specific"
+msgid "general"
+msgstr "general"
+
+#. "machine specific" versus "general" (same on all machines)
+msgid "machine specific"
+msgstr "específic de la màquina"
+
+#. Save <general|machine specific> state file <file-name>
+msgid "Save %s state file %s"
+msgstr "Desa %s fitxer(s) d'estat %s "
+
+#. Restore <general|machine specific> state file <file-name>
+msgid "Restore %s state file %s"
+msgstr "Restaura %s fitxer(s) d'estat %s "
+
+msgid "Reset file %s"
+msgstr "Iniçialitza el fitxer %s "
+
+#. Delete <general|machine specific> state file <file-name>
+msgid "Delete %s state file %s"
+msgstr "Esborra %s fitxer(s) d'estat %s"
+
+msgid "Could not find UUID of boot device for remounting"
+msgstr "No s'ha trobat el UUID del dispositiu d'arrencada per tornar a muntar."
+
+msgid "Will not save state information"
+msgstr "No es desarà la informació d'estat "
+
+msgid "Could not find boot device for remounting"
+msgstr "No es troba el dispositiu d'arrencada per remuntar "
+
+msgid "Could not remount boot device"
+msgstr "No s'ha pogut tornar a muntar el dispositiu d'arrencada "

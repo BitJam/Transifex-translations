@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Miroslav Sido <miro_redhawk@hotmail.com>, 2017
+# joyinko <joyinko@azet.sk>, 2017
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: 2016-11-16 21:44+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>, 2017\n"
+"Language-Team: Slovak (https://www.transifex.com/anticapitalista/teams/10162/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Tvorba Live-USB"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Bol detekovaný Live systém. Vyberte mód tvorby Live-USB"
+
+msgid "Select Mode"
+msgstr "Vyberte mód"
+
+msgid "Select USB Device"
+msgstr "Vyberte jednotku USB"
+
+msgid "Clone Mode"
+msgstr "Mód Klon"
+
+msgid "Select ISO"
+msgstr "Vyberte ISO súbor"
+
+msgid "Clone Running Live System"
+msgstr "Klon bežiaceho Live systému"
+
+msgid "Information"
+msgstr "Informácia"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "Zdroj nie je súbor ISO. Prosím vyberte iný súbor."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Jednoduché grafické rozhranie pre tvorbu Live-USB"
+
+msgid "Version"
+msgstr "Verzia"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Nebola rozpoznaná cieľová USB jednotka. Prosím pripojte zariadenie a skúste "
+"to znovu "
+
+msgid "License"
+msgstr "Licencia"
+
+msgid "Apply"
+msgstr "Použiť"
+
+msgid "Close"
+msgstr "Zatvoriť"
+
+msgid "About"
+msgstr "O Programe"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "Advanced"
+msgstr "Pokročilé"
+
+msgid "LiveUSB creation successful!"
+msgstr "Live-USB bolo úspešne vytvorené!"
+
+msgid "Operation stopped by user."
+msgstr "Akcia prerušená užívateľom."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "%s proces (ktorý používa PID %s) je už spustený"
+
+msgid "Please close that process before starting a new one"
+msgstr "Prosím ukončite ten proces pred tým, než spustíte nový"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Zamknutie na %s zlyhalo"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Zavreli ste okno procesu, ale úloha ešte nebola dokončená. Chcete "
+"pokračovať?"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "No"
+msgstr "Nie"

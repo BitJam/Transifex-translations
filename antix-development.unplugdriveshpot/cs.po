@@ -1,0 +1,76 @@
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 00:36+0200\n"
+"PO-Revision-Date: 2012-01-04 20:16+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-02 10:46+0000\n"
+
+#: unplugdrive.sh:54
+msgid ""
+"A removable drive with a mounted partition was not found.\n"
+"It is safe to unplug the drive(s)"
+msgstr "Vyjmutelný disk s připojeným oddílem nebyla nalezena.\nJe bezpečné jednotky vyjmout"
+
+#: unplugdrive.sh:60
+#, sh-format
+msgid ""
+"The following are currently mounted:\n"
+"$removablelist\n"
+"Choose the drive(s) to be unplugged"
+msgstr "Následující je v současnosti připojeno:\n$removablelist\nZvolte  jednotky k vyjmutí"
+
+#: unplugdrive.sh:62
+msgid ""
+"Nothing selected.\n"
+"Aborting without unmounting."
+msgstr "Nic nevybráno.\nPřerušení bez odpojení."
+
+#: unplugdrive.sh:84
+#, sh-format
+msgid ""
+"About to unmount:\n"
+"$summarylist\n"
+"Please confirm you wish to proceed."
+msgstr "Bude odpojeno:\n$summarylist\nPotvrďte prosím, že si přejete pokračovat."
+
+#: unplugdrive.sh:86
+msgid ""
+"Nothing has been unmounted.\n"
+"Aborting as requested with no action taken."
+msgstr "Nic nebylo odpojeno.\nNa požádání přerušeno bez žádné změny."
+
+#: unplugdrive.sh:91
+msgid ""
+"Data is being written to devices.\n"
+"Please wait..."
+msgstr "Na zařízení jsou zapisována data.\nPočkejte prosím..."
+
+#: unplugdrive.sh:114
+#, sh-format
+msgid ""
+"Mountpoint removal failed.\n"
+"\n"
+"A mountpoint remains present at:\n"
+"$mountpointerrorlist\n"
+"Check each mountpoint listed before unpluging the drive(s)."
+msgstr "Odstranění bodu připojení selhalo.\n\nBod zůstává přítomen na:\n$mountpointerrorlist\nZkontrolujte každý bod připojení v seznamu před odpojením jednotek."
+
+#: unplugdrive.sh:119
+#, sh-format
+msgid ""
+"Unmounted:\n"
+"$summarylist\n"
+"It is safe to unplug the drive(s)"
+msgstr "Nepřipojeno:\n$summarylist\nJe bezpečné jednotky odpojit"

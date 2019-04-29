@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 18:58+0200\n"
+"PO-Revision-Date: 2014-12-30 12:11+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: add-key.py:70
+msgid "No line Selected:"
+msgstr "Δεν επιλέξατε καμία γραμμή: "
+
+#: add-key.py:145
+msgid "line has been removed"
+msgstr "γραμμή έχει αφαιρεθεί "
+
+#: add-key.py:166
+msgid "Remove Items"
+msgstr "Αφαίρεση "
+
+#: add-key.py:175
+msgid "Line to Remove"
+msgstr "Γραμμή για αφαίρεση"
+
+#: add-key.py:186
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: add-key.py:297
+msgid "That key combination has been used"
+msgstr "Αυτός ο συνδυασμός πλήκτρων έχει χρησιμοποιηθεί "
+
+#: add-key.py:336
+msgid "command has been added"
+msgstr "Η εντολή έχει προστεθεί."
+
+#: add-key.py:349
+msgid "Add Items"
+msgstr "Προσθήκη Ειδών "
+
+#: add-key.py:358
+msgid "Select first key:"
+msgstr "Επιλέξτε το πρώτο κλειδί: "
+
+#: add-key.py:367
+msgid "Select second key:"
+msgstr "Επιλέξτε το δεύτερο κλειδί: "
+
+#: add-key.py:377
+msgid "third key (letter or number)"
+msgstr "τρίτο κλειδί (γράμμα ή αριθμό) "
+
+#: add-key.py:386
+msgid "Add"
+msgstr "Προσθήκη "
+
+#: add-key.py:411
+msgid "add-key"
+msgstr "add-key "
+
+#: add-key.py:421
+msgid "Changing keys for: "
+msgstr "Αλλαγή κλειδιά για: "
+
+#: add-key.py:444
+#, python-format
+msgid ""
+"There is no file ~/.%s/keys \n"
+" The session's DESKTOP_CODE='%s' \n"
+" incorrectly matches your system"
+msgstr "Δεν υπάρχει αρχείο ~/.%s/keys\nΤο DESKTOP_CODE της συνόδου='%s\nδεν ταιριάζει με το σύστημά σας"

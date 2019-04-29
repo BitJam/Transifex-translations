@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Juan Miguel Pascual <frikidune@gmail.com>, 2017\n"
+"Language-Team: Spanish (https://www.transifex.com/anticapitalista/teams/10162/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "This program must be run as root"
+msgstr "Este programa debe ejecutarse como root"
+
+msgid "Could not get console width. Is the framebuffer enabled?"
+msgstr ""
+"Podría no hallar la anchura de consola. ¿Está el framebuffer activado?"
+
+msgid "No fonts found"
+msgstr "No se han encontrado fuentes"
+
+msgid "Select the console width in characters"
+msgstr "Selecciona la anchura de consola en caracteres"
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr "Pulsa: <Enter> para seleccionar fuente <q> salir, <h> ayuda"
+
+msgid "Screen is %s chars wide"
+msgstr "La pantalla es %s caracteres de ancho"
+
+msgid "%s is %s chars wide"
+msgstr "%s es %s caracteres de ancho"
+
+msgid "Select Console Width"
+msgstr "Selecciona anchura de consola"
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr "La pantalla es %s caracteres de ancho, la fuente es %s"
+
+#. How many columns wide the screen is, and the font width
+msgid "columns"
+msgstr "columnas"
+
+msgid "font width"
+msgstr "ancho de fuente"
+
+msgid "Setting default font to %s"
+msgstr "Configuración por defecto de fuente a %s"

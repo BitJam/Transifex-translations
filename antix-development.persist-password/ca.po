@@ -1,0 +1,58 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2013
+# Eduard Selma <selma@tinet.cat>, 2015
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr "PERILL! %s CONTRASENYA INSEGURA! %s"
+
+msgid "It appears that root persistence was recently enabled."
+msgstr "Sembla que la persistència de root s'ha activat fa poc. "
+
+msgid "The default password for the %s account is not secure."
+msgstr "La contrasenya per omissió per al compte %s és insegura."
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr "Era suficient per a un CD autònom, però no ho és prou per a protegir un sistema persistent."
+
+msgid "Please provide a more secure password."
+msgstr "Si us plau, proposeu una contrasenya més segura."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr "Una bona contrasenya té 8 o més caràcters i conté lletres, números i signes de puntuació."
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Ho sento per les molèsties que això causa."
+
+msgid "username: %s"
+msgstr "Nom d'usuari: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr "La contrasenya %s no ha canviat. Proveu-ho un altre cop."
+
+msgid "Changing password for account %s as requested"
+msgstr "Canviant la contrasenya per al compte %s tal com s'ha demanat "
+
+msgid "by use of the %s boot parameter."
+msgstr "per ús del paràmetre d'arrencada %s. "

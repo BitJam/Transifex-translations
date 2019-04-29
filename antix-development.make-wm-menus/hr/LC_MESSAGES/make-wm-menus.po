@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Ivica  Kolić <ikoli@yahoo.com>\n"
+"Language-Team: Croatian (http://www.transifex.com/anticapitalista/antix-development/language/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "Terminal"
+msgstr "Terminál"
+
+msgid "File Manager"
+msgstr "Složka"
+
+msgid "Web Browser"
+msgstr "Preglednik"
+
+msgid "Editor"
+msgstr "Tekst"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Applications"
+msgstr "Aplikacija"
+
+msgid "Terminal Apps"
+msgstr ""
+
+msgid "Multimedia"
+msgstr "Multimedija"
+
+msgid "CD/DVD Writer"
+msgstr ""
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Network"
+msgstr "Mreža"
+
+msgid "Alpine Mail"
+msgstr ""
+
+msgid "Browser elinks"
+msgstr ""
+
+msgid "Irssi Chat"
+msgstr ""
+
+msgid "RSS/Atom Reader"
+msgstr ""
+
+msgid "rTorrent"
+msgstr ""
+
+msgid "Office"
+msgstr "Ured"
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Plocha"
+
+msgid "Alternate Desktops"
+msgstr ""
+
+msgid "Add Desktop"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "GTK Theme"
+msgstr ""
+
+msgid "Desktop Defaults"
+msgstr ""
+
+msgid "Session Settings"
+msgstr ""
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr ""
+
+msgid "Conky on/off"
+msgstr ""
+
+msgid "Tools"
+msgstr "Alati"
+
+msgid "Nano"
+msgstr ""
+
+msgid "Ted"
+msgstr ""
+
+msgid "Search"
+msgstr "Pretraga"
+
+msgid "MC File Manager"
+msgstr ""
+
+msgid "App Killer"
+msgstr ""
+
+msgid "Process Viewer"
+msgstr ""
+
+msgid "System Information"
+msgstr "Informacije o sustavu"
+
+msgid "Control Centre"
+msgstr "Ovládací centrum"
+
+msgid "Help"
+msgstr "Pomoć"
+
+msgid "antiX"
+msgstr ""
+
+msgid "antiX FAQ"
+msgstr ""
+
+msgid "antiX-live How-To"
+msgstr ""
+
+msgid "Rox Manual"
+msgstr ""
+
+msgid "Fluxbox"
+msgstr ""
+
+msgid "Fluxbox Docs"
+msgstr ""
+
+msgid "Fluxbox FAQ"
+msgstr ""
+
+msgid "Fluxbox Wiki"
+msgstr ""
+
+msgid "Arch Wiki"
+msgstr ""
+
+msgid "IceWM"
+msgstr ""
+
+msgid "IceWM FAQ"
+msgstr ""
+
+msgid "IceWM Manual"
+msgstr ""
+
+msgid "OSNews"
+msgstr ""
+
+msgid "JWM"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "WM - Puppy-Linux"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Partimage"
+msgstr ""
+
+msgid "Man Pages"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Irssi"
+msgstr ""
+
+msgid "mc"
+msgstr ""
+
+msgid "mocp"
+msgstr ""
+
+msgid "Rss/Atom"
+msgstr ""
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr ""
+
+msgid "Fluxbox Settings"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Styles"
+msgstr ""
+
+msgid "~/.fluxbox/styles"
+msgstr ""
+
+msgid "Fluxbox Styles"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "Reconfigure"
+msgstr ""
+
+msgid "Restart"
+msgstr "Ponovno pokreni"
+
+msgid "Exit"
+msgstr "Zatvori"
+
+msgid "antiX Installer"
+msgstr "Instalacija"
+
+msgid "Logout..."
+msgstr "Odhlášení"
+
+msgid "Restart JWM"
+msgstr "Restartování JWM"
+
+msgid "Log Out"
+msgstr "Odhlášení"
+
+msgid "Home Folder"
+msgstr "Složka"
+
+msgid "Browser"
+msgstr "Preglednik"
+
+msgid "Unplug Removable Device"
+msgstr ""
+
+msgid "Quit"
+msgstr "Zatvori"

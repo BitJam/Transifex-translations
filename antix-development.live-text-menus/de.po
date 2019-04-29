@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Eugen Brodski <eugen.brodski@web.de>, 2016
+# q a, 2016
+# Vinzenz Vietzke <vinz@vinzv.de>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2019-01-17 21:05+0000\n"
+"Last-Translator: Michael Brandtner <brandtner_michael@yahoo.de>\n"
+"Language-Team: German (http://www.transifex.com/anticapitalista/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Voreinstellung"
+
+msgid "Check integrity of the live media"
+msgstr "Prüfe die Integrität der Live-Medien"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "prüfen von LiveUSB und Persistenz auf ext2/3/4 Dateisystemen"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Kopiere das komprimierte Dateisystem nach RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Das Urladen (boot) von Live-USB zuendeführen"
+
+msgid "Finish booting from a hard drive"
+msgstr "Urladen von Festplatte abgeschlossen"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Deaktiviere alle USB2-Anschlüsse während des Bootvorgangs"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Lasse das Linux-System die Uhr stellen"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Hardware-Uhr läuft auf UTC ('Greenwich Zeitzone') (für Linux-Systeme ohne Windows Benutzung)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Hardware-Uhr nutzt lokale Zeit (besser mit Windows-Systemem)"
+
+msgid "Change passwords before booting"
+msgstr "Ändere Passwörter (\"demo\") vor dem Bootvorgang"
+
+msgid "Enable wicd service on startup"
+msgstr "Wicd-Dienst beim Start aktivieren"
+
+msgid "Disable wicd service on startup"
+msgstr "Wicd-Dienst beim Start deaktivieren"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Abschalten des Live-USB-Speicher Features (nur im Live-USB möglich, nicht von DVD)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Einschalten des LiveUSB-Speicher features (nur im LiveUSB möglich)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Speicherung von Dateien zwischen den Sitzungen ermöglichen (nur bei LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Keine Speicherung von Dateien zwischen den Sitzungen (nur bei LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Datenträger beim Einlegen automatisch einhängen"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Alle zusätzlichen und Auto-mount Operationen abschalten"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Schnell. /home und / (\"root\") speichern (Zwischenspeichern im RAM, Permanentspeichern vor dem Runterfahren)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Schnell. nur / (\"root\") speichern (Zwischenspeichern im RAM, Permanentspeichern vor dem Runterfahren)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Langsamer. /home und / (\"root\") speichern (kein Zwischenspeichern im RAM sondern laufend direkt Permanentspeichern)"
+
+msgid "Only home persistence"
+msgstr "Nur Home-Persistenz (kein /)"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal mit Root- und Home-Persistenz"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal mit nur Root-Persistenz"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal mit Home- und statischer Root-Persistenz"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal mit nur Home-Persistenz"
+
+msgid "Only Frugal, no persistence"
+msgstr "Frugal ohne Persistenz"
+
+msgid "Yes (default)"
+msgstr "Ja (voreingestellt)"
+
+msgid "No"
+msgstr "Nein"

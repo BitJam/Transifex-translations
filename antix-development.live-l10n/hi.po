@@ -1,0 +1,40 @@
+# Translation for antiX Development: live-L10n file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Panwar108 <caspian7pena@gmail.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-11-03 19:27-0600\n"
+"PO-Revision-Date: 2018-04-16 14:43+0000\n"
+"Last-Translator: Panwar108 <caspian7pena@gmail.com>\n"
+"Language-Team: Hindi (http://www.transifex.com/anticapitalista/antix-development/language/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing console and timezone"
+msgstr "कंसोल व समय क्षेत्र का स्थानीयकरण किया जा रहा है"
+
+msgid "Setting timezone and localtime to %s"
+msgstr "समय क्षेत्र व स्थानीय समय %s सेट किया जा रहा है"
+
+msgid "Unknown time zone %s"
+msgstr "अज्ञात समय क्षेत्र %s"
+
+msgid "Recreate symlink %s"
+msgstr "symlink %s पुनः बनाएँ"
+
+msgid "Setting hostname to %s"
+msgstr "होस्ट नाम %s सेट किया जा रहा है"
+
+msgid "Setting locale to %s"
+msgstr "स्थानिकी %s सेट किया जा रहा है"
+
+msgid "Configuring console for a %s keymap"
+msgstr "कंसोल को %s कुंजीपटल के अनुसार विन्यस्त किया जा रहा है"

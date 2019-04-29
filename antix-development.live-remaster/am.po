@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-22 19:22-0600\n"
+"PO-Revision-Date: 2018-02-23 02:45+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: bin/live-remaster:29
+msgid ""
+"Create a new compressed file system saving all of the changes you have made "
+"to the system."
+msgstr "አዲስ የ ታመቀ ፋይል መፍጠሪያ እና ማስቀመጫ ሁሉንም እርስዎ የ ፈጠሩትን ለውጦች በ ስርአቱ ላይ"
+
+#: bin/live-remaster:35
+msgid "Extra options for"
+msgstr "ተጨማሪ ምርጫዎች ለ"
+
+#: bin/live-remaster:36
+msgid "Make a smaller linuxfs.new.  NOT deleted when done."
+msgstr ""
+
+#: bin/live-remaster:37
+msgid "Use %s instead of prompting user for title."
+msgstr ""
+
+#: bin/live-remaster:38
+msgid "Make a general-purpose remaster."
+msgstr ""
+
+#: bin/live-remaster:39
+msgid "Make a personalized remaster."
+msgstr " የ እርስዎን የ ግል ማሰናጃ እንደገና ማሰናጃ"
+
+#: bin/live-remaster:71
+msgid "The live file system is read-only.  Cannot remaster."
+msgstr "በ ቀጥታ ፋይል ስርአት ለ ንባብ-ብቻ ነው:  እንደገና ማዘጋጀት አይቻልም "
+
+#: bin/live-remaster:73
+msgid "General"
+msgstr "ባጠቃላይ"
+
+#: bin/live-remaster:74
+msgid "Personal"
+msgstr "የ ግል"
+
+#: bin/live-remaster:81
+msgid "%s uses your personal settings."
+msgstr "%s የ እርስዎን የ ግል ማሰናጃ ይጠቀማል"
+
+#: bin/live-remaster:82
+msgid "%s does not."
+msgstr "%s አይደለም"
+
+#: bin/live-remaster:95
+msgid "Do you want to save files under %s in the new remaster?"
+msgstr "እርስዎ ፋይል ማስቀመጥ ይፈልጋሉ %s  በ አዲሱ እንደገና መስሪያ ውስጥ?"
+
+#: bin/live-remaster:101
+msgid "Checking for existing files and"
+msgstr "የ ነበረውን ፋይል መፈለጊያ እና"
+
+#: bin/live-remaster:102
+msgid "Checking if there is enough room ..."
+msgstr "በቂ ቦታ እንዳለ በ መመርመር ላይ ..."
+
+#: bin/live-remaster:113
+msgid "The %s program was unable to start"
+msgstr "ይህ %s ፕሮግራም መጀመር አልቻለም"
+
+#: bin/live-remaster:165
+msgid "current linuxfs size"
+msgstr "የ አሁኑ የ linuxfs መጠን"
+
+#: bin/live-remaster:166
+msgid "excluded files est."
+msgstr "የማይካተቱ ፋይሎች est."
+
+#: bin/live-remaster:167 bin/live-remaster:168
+msgid "estimated new size"
+msgstr "አዲሱ መጠን በ ግምት"
+
+#: bin/live-remaster:174
+msgid "boot device total"
+msgstr "ጠቅላላ የ ማስነሻ አካል"
+
+#: bin/live-remaster:175
+msgid "boot device free"
+msgstr "ነፃ የ ማስነሻ አካል"
+
+#: bin/live-remaster:176 bin/live-remaster:177
+msgid "est. remaining"
+msgstr "est. የ ቀረው"
+
+#: bin/live-remaster:194
+msgid "Have: %s megs available.  Need: %s."
+msgstr "ይህ %s ነፃ ሜባ ቦታ አለው: የሚያስፈልገው %s"
+
+#: bin/live-remaster:198
+msgid "Leftover files found"
+msgstr "የ ተረፈ ፋይል ተገኝቷል"
+
+#: bin/live-remaster:200
+msgid "The following file(s) already exist"
+msgstr "የሚቀጥለው ፋይል(ሎች) ቀደም ብሎ ነበር"
+
+#: bin/live-remaster:201
+msgid "in the %s directory:"
+msgstr "በ %s ዳይሬክቶሪ ውስጥ:"
+
+#: bin/live-remaster:205
+msgid "They may be left over from a previous remastering."
+msgstr "ካለፈው እንደገና ማዘጋጃ የ ተረፈ ይሆናል"
+
+#: bin/live-remaster:206
+msgid "Do you want to fix this problem now?"
+msgstr "እርስዎ ችግሩን አሁን መጠገን ይፈልጋሉ?"
+
+#: bin/live-remaster:207
+msgid "(the alternative is to quit now)"
+msgstr "(አማራጩ አሁን ማጥፋት ነው)"
+
+#: bin/live-remaster:221
+msgid "Ready to create a new linuxfs file"
+msgstr "አዲስ የ linuxfs ፋይል ለ መፍጠር ዝግጁ ነው"
+
+#: bin/live-remaster:225
+msgid "Shall we begin?"
+msgstr "እንጀምር?"
+
+#: bin/live-remaster:235
+msgid "(compresses faster, boots faster)"
+msgstr "(በፍጥነት ያምቃል: በፍጥነት ያስነሳል)"
+
+#: bin/live-remaster:236
+msgid "(compresses better)"
+msgstr "(ጥሩ ማመቂያ)"
+
+#: bin/live-remaster:242
+msgid "Please choose the type of compression to use"
+msgstr "እባክዎን የሚጠቀሙበትን የ ፋይል ማመቂያ አይነት ይምረጡ"
+
+#: bin/live-remaster:243
+msgid "%s will take less time"
+msgstr "%s አነስተኛ ጊዜ ይወስዳል"
+
+#: bin/live-remaster:244
+msgid "%s will result in a smaller file"
+msgstr "%s ውጤቱ አነስተኛ ፋይል ይሆናል"
+
+#: bin/live-remaster:260
+msgid "Do you want remaster to use all of the CPUs?"
+msgstr "እርስዎ እንደገና ማሰናጃ ሁሉንም CPUs እንዲጠቀም ይፈልጋሉ?"
+
+#: bin/live-remaster:262
+msgid "This will make the remaster process run as fast as possible."
+msgstr ""
+
+#: bin/live-remaster:263
+msgid "But there is more of a chance your computer will overheat."
+msgstr ""
+
+#: bin/live-remaster:272
+msgid "Remaster Version Identification"
+msgstr "የ እትም መለያ እንደገና ማዘጋጃ"
+
+#: bin/live-remaster:274
+msgid "Please enter an (optional) title for this remaster"
+msgstr "እባክዎን (አማራጭ) አርእስት ለዚህ እንደገና ማሰናጃ ያስገቡ"
+
+#: bin/live-remaster:295
+msgid "The %s program failed to work"
+msgstr "ይህ %s ፕሮግራም ወድቋል!"
+
+#: bin/live-remaster:335
+msgid "Remastering -- DO NOT CLOSE"
+msgstr "እንደገና መስሪያ -- መዝጋት አልተቻለም"
+
+#: bin/live-remaster:351
+msgid "Remaster in Progress"
+msgstr "እንደገና መስሪያ በ ሂደት ላይ ነው"
+
+#: bin/live-remaster:352
+msgid "Do you REALLY want to stop midway?"
+msgstr "እርስዎ በ እርግጥ መሀከል ላይ ማስቆም ይፈልጋሉ?  "
+
+#: bin/live-remaster:379
+msgid "Created new compressed filesystem file:"
+msgstr "አዲስ የታመቀ የ ስርአት ፋይል ተፈጥሯል"
+
+#: bin/live-remaster:384
+msgid "The new file should be used automatically the next time you boot."
+msgstr "አዲሱ ፋይል ራሱ በራሱ ይጠቀማል በሚቀጥለው ጊዜ እርስዎ እንደገና ሲያስነሱ"
+
+#: bin/live-remaster:386
+msgid "If there is a problem with the new system:"
+msgstr "በ አዲሱ ስርአት ውስት ችግር ከ ተገኘ"
+
+#: bin/live-remaster:387
+msgid "Use the %s  boot option to return to the current system."
+msgstr "ይጠቀሙ የ %s  ማስነሻ ምርጫ ወደ አሁኑ ስርአት ለ መመለስ"
+
+#: bin/live-remaster:411
+msgid "Root persistence is enabled"
+msgstr ""
+
+#: bin/live-remaster:413
+msgid "Do you want to make a new %s file now?"
+msgstr "እርስዎ አዲስ ፋይል አሁን %s መፍጠር ይፈልጋሉ?"
+
+#: bin/live-remaster:421
+msgid "Remaster in progress"
+msgstr "እንደገና መስሪያ በ ሂደት ላይ ነው"
+
+#: bin/live-remaster:423
+msgid "please be patient"
+msgstr "እባክዎን ይቆዩ"
+
+#: bin/live-remaster:424
+msgid "(even after it says it is 100% done)"
+msgstr "(ይህ አካል 100% ጨርሷል ካለ በኋላ እንኳን)"
+
+#: bin/live-remaster:429
+msgid "antiX Remaster in Progress"
+msgstr "የ አንቲክ እንደገና መስሪያ በ ሂደት ላይ ነው"
+
+#: bin/live-remaster:445
+msgid "Remastering Terminated Early"
+msgstr "እንደገና መስሪያ በድንገት ተቋርጧል"
+
+#: bin/live-remaster:450
+msgid "Remastering Failed"
+msgstr "እንደገና መስራት አልተቻለም "
+
+#: bin/live-remaster:452
+msgid "New linuxfs file was not created!"
+msgstr "አዲስ የ linuxfs ፋይል አልተፈጠረም!"
+
+#: bin/live-remaster:456
+msgid "Could not mount new file as %s!"
+msgstr "አዲስ ፋይል መጫን አልተቻለም እንደ %s!"
+
+#: bin/live-remaster:467
+msgid "linuxfs size"
+msgstr "linuxfs መጠን"
+
+#: bin/live-remaster:468
+msgid "elapsed time"
+msgstr "ጊዜ ካለፈ በኋላ"
+
+#: bin/live-remaster:469
+msgid "processors"
+msgstr "ማቀናበሪያ"
+
+#: bin/live-remaster:470
+msgid "compression"
+msgstr "ማመቂያ "
+
+#: bin/live-remaster:484
+msgid "Error"
+msgstr "ስህተት"
+
+#: bin/live-remaster:489
+msgid "Do you want to save the incomplete file?"
+msgstr "እርስዎ ያልተሟላውን ፋይል ማስቀመጥ ይፈልጋሉ?"

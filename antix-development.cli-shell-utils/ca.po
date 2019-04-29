@@ -1,0 +1,727 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Geoff Gigg <geoffgigg@hotmail.com>, 2017
+# Eduard Selma <selma@tinet.cat>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: 2016-10-14 08:28+0000\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>, 2018\n"
+"Language-Team: Catalan (https://www.transifex.com/anticapitalista/teams/10162/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Iniciant %s "
+
+msgid "The selected usb drive was %s"
+msgstr "La unitat USB triada és %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr "Se sap que aquest dispositiu causa errors en la creació i l'arrencada"
+
+msgid "Do you want to use it anyway?"
+msgstr "Voleu usar-lo igualment?"
+
+msgid "Will use target device %s"
+msgstr "S'usarà el dispositiu %s"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Creo el USB autònom encriptat?"
+
+msgid "copying"
+msgstr "copiant "
+
+msgid "Please enter the filename"
+msgstr "Entreu el nom del fitxer, si us plau "
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "fitxer"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "dispositiu"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "clonant "
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "directori "
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "S'usarà la font %s "
+
+msgid "Could not find device %s"
+msgstr "No he trobat el dispositiu %s "
+
+msgid "Customize language and timezone?"
+msgstr "Personalitza la llengua i la zona horària? "
+
+msgid "Encryption enabled"
+msgstr "Encriptació activada"
+
+msgid "encrypted"
+msgstr "encriptat"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "A punt d'executar %s al dispositiu %s per %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "A punt de fer l'acció %s a %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "A punt de fer les accions%sa %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Cal començar? "
+
+msgid "install"
+msgstr "Instal·la"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr "Se us demanarà crear una contrasenya a la primera arrencada"
+
+msgid "Will use initial passphrase %s"
+msgstr "S'usarà la contrasenya %s"
+
+msgid "Make a full-featured live-usb"
+msgstr "Fes un USB autònom complert"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Fes us USB autònom encriptat complert"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr "Fes un USB autònom a mida (inclou l'opció d'encriptatge)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr "Actualitza el SO en un USB autònom existent (experimental)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Actualitza els UUIDs en un USB autònom existent"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Actualitza els paràmetres d'arrencada en un USB autònom existent"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Reinstal·la arrencador clàssic en un USB autònom existent"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Neteja la taula de particions en un USB autònom "
+
+msgid "Please select what action to perform"
+msgstr "Si us plau, trieu quina acció cal fer "
+
+msgid "Please select the source for the new live-usb"
+msgstr "Si us plau, trieu l'origen per al nou USB autònom"
+
+msgid "The only usb drive detected was %s"
+msgstr "L'única unitat USB detectada és %s"
+
+msgid "A %s usb drive was detected"
+msgstr "S'ha detectat una unitat USB %s"
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Voleu incloure-la igualment al menú?"
+
+msgid "No available target usb devices were found"
+msgstr "No s'ha trobat cap dispositiu USB de destinació "
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "Només s'ha trobat un dispositiu USB destinació %s"
+
+msgid "Please select the target usb device"
+msgstr "Trieu un dispositiu USB destinació, si us plau "
+
+msgid "entire drive"
+msgstr "dispositiu sencer "
+
+msgid "main partition"
+msgstr "partició principal "
+
+msgid "bios partition"
+msgstr "partició BIOS"
+
+msgid "uefi partition"
+msgstr "partició UEFI "
+
+msgid "Already using over 90% of the device"
+msgstr "Ja s'està usant prop del 90% del dispositiu "
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Voleu canviar el percentatge del dispositiu que s'usa? "
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "Heu ajustat la mida a %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Trieu l'espai que cal usar per a les particions d'USB autònom, si us plau "
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Assumint que aquest és un USB autònom encriptat"
+
+msgid "About to encrypt device %s"
+msgstr "A punt d'encriptar el dispositiu %s"
+
+msgid "We want to overwrite the data on %s"
+msgstr "Volem sobreescriure les dades a %s"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Marqueu en majúscules %s tal com es suggereix"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "Se us demanarà la contrasenya per tercera vegada "
+
+msgid "Failed to create encrypted device"
+msgstr "Ha fallat en crear un dispositiu encriptat"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Voleu provar d'entrar la nova contrasenya ara?"
+
+msgid "Failed to open encrypted device"
+msgstr "Ha fallat en obrir el dispositiu encriptat"
+
+msgid "Encryption successful"
+msgstr "Encriptat amb èxit"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "i us plau, espereu mentre munto el disc òptic a %s "
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Usant el particionat %s "
+
+msgid "copy from %s to %s partition"
+msgstr "copia de la partició %s a %s"
+
+msgid "files: %s"
+msgstr "fitxers: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr ""
+"Error en la còpia dels fitxers a la partició principal del USB autònom"
+
+msgid "Error while copying %s files"
+msgstr "Error en la còpia de %s fitxers"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Hi ha hagut un error desempaquetant el initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr "No he pogut afegir tots els programes necessaris a l'initrd autònom"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Activa l'encriptació al initrd autònom"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Desactiva l'encriptació a l'initrd autònom"
+
+msgid "Fix %s bug"
+msgstr "Esmena %s errada"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Crea el directori syslinux des de %s "
+
+msgid "Not enough space on %s partition"
+msgstr "No hi ha prou espai a la partició %s "
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Quedaran menys de %s MiB a la partició %s "
+
+msgid "done"
+msgstr "fet"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Surt"
+
+msgid "Please enter the name of the iso file"
+msgstr "Si us plau, entreu el nom del fitxer ISO"
+
+msgid "The live media is not mounted"
+msgstr "El dispositiu autònom no està muntat "
+
+msgid "Current running kernel is %s"
+msgstr "El nucli (kernel) actual és %s "
+
+msgid "This is not a live-usb system"
+msgstr "Aquest no és un sistema USB autònom "
+
+msgid "Will use running live system"
+msgstr "S'usarà el sistema autònom en funcionament "
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "El dispositiu '%s' no sembla que sigui un dispositiu USB "
+
+msgid "Can't find first partition on device %s"
+msgstr "No trobo la primera partició al dispositiu %s "
+
+msgid "Device %s is not a disk partition"
+msgstr "El dispositiu %s no és una partició de disc "
+
+msgid "Will use live-usb device %s"
+msgstr "S'usarà el dispositiu USB autònom %s "
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "No trobo el fitxer '%s' en cap directori a '%s' "
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "No trobo '%s' ni '%s' a l'USB autònom "
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "He trobat %s fitxer(s) %s al directori %s "
+
+msgid "Could not find initrd file: %s"
+msgstr "No trobo el fitxer initrd: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Trobat(s): "
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "total de kernel autònom"
+
+msgid "total live kernels"
+msgstr "total de kernels autònoms "
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "kernel autònom per omissió "
+
+msgid "default live kernels"
+msgstr "kernels autònoms per omissió "
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "kernel autònom antic "
+
+msgid "old live kernels"
+msgstr "kernels autònoms antics "
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "total de kernels instal·lats "
+
+msgid "total installed kernels"
+msgstr "total de kernels instal·lats "
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "nou kernel instal·lat "
+
+msgid "new installed kernels"
+msgstr "nous kernels instal·lats "
+
+msgid "Live kernels:"
+msgstr "kernels autònoms: "
+
+msgid "Boot kernels:"
+msgstr "Kernels d'arrencada: "
+
+msgid "Only one new installed kernel was found:"
+msgstr "Només he trobat un kernel nou instal·lat: "
+
+msgid "New installed kernels:"
+msgstr "Nous kernels instal·lats: "
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Hi ha %s kernels nous. Només es mostren els %s més recents. "
+
+msgid "No kernels were found in the boot directory"
+msgstr "No he trobat cap kernel al directori d'arrencada "
+
+msgid "No kernels were found in the live boot directory"
+msgstr "No he trobat cap kernel al directori d'arrencada autònom "
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr "Hauríeu de remasteritzar abans d'actualitzar el kernel"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "CAL que feu un remasteritzat abans d'actualitzar el kernel"
+
+msgid "No new kernels were found"
+msgstr "No he trobat kernels nous "
+
+msgid "Can only update the initrd file"
+msgstr "Només es pot actualitzar el fitxer initrd "
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"Cal que instal·leu un kernel i després remasteritzeu abans de fer una "
+"actualització de kernel "
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "No he trobat nous kernels i no hi ha plantilla del fitxer initrd"
+
+msgid "live kernel update"
+msgstr "actualització del kernel autònom "
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Actual"
+
+msgid "New"
+msgstr "Nou "
+
+msgid "(new)"
+msgstr "(nou) "
+
+msgid "live kernel rollback"
+msgstr "rrecuperació del kernel autònom "
+
+msgid "Old"
+msgstr "Antic "
+
+msgid "live initrd update"
+msgstr "actualització de l'initrd autònom "
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Actualitza initrd usant el fitxer "
+
+msgid "live modules update"
+msgstr "actualització dels mòduls autònoms "
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Afegeix mòduls initrd "
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "A punt de fer el següent %s"
+
+msgid "The current Live System on %s"
+msgstr "El Sistema Autònom actual a %s "
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "El sistema no és USB autònom i no s'ha detectat cap dispositiu USB "
+
+msgid "Please select the system to update"
+msgstr "Trieu el sistema a actualitzar, si us plau "
+
+msgid "No update or rollback actions are available"
+msgstr "No hi ha accions d'actualització o recuperació disponibles "
+
+msgid "Please select an action to perform"
+msgstr "Trieu una acció a executar, si us plau "
+
+msgid "Update"
+msgstr "Actualitza "
+
+msgid "from"
+msgstr "de"
+
+msgid "Rollback"
+msgstr "Recupera "
+
+msgid "to"
+msgstr "a"
+
+msgid "Update initrd using file %s"
+msgstr "Actualitza l'initrd usant el fitxer %s"
+
+msgid "Quit"
+msgstr "Surt"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "No he trobat cap kernel nou al directori d'arrencada "
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "He trobat un kernel coincident amb la versió %s demanada"
+
+msgid "Found one new kernel %s"
+msgstr "He trobat un nou kernel %s "
+
+msgid "Please select the new kernel from this list"
+msgstr "Trieu el nou kernel d'aquesta llista, si us plau "
+
+msgid "kernel"
+msgstr "kernel "
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Ha fallat la còpia dels mòduls initrd pel kernel %s "
+
+msgid "No modules were copied to the initrd"
+msgstr "No s'ha copiat cap mòdul al initrd "
+
+msgid "Compressing ..."
+msgstr "Comprimint ... "
+
+#. install <filename>
+msgid "install %s"
+msgstr "instal·la %s "
+
+msgid "Overwriting backup"
+msgstr "Sobreescrivint la còpia de seguretat "
+
+msgid "Target file %s does not exist"
+msgstr "El fitxer destinació %s no existeix "
+
+msgid "Could not find old %s file to roll back"
+msgstr "No he trobat el fitxer antic %s per la recuperació "
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Recupera %s vers %s "
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "en mode pretès "
+
+msgid "Would you like to do a remaster now?"
+msgstr "Voleu fer un remasteritzat ara?"
+
+msgid "Ready to restart %s"
+msgstr "A punt de re-arrencar %s"
+
+msgid "Expected a parameter after: %s"
+msgstr "Esperava un paràmetre després de: %s "
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Argument sospitós després de %s: %s "
+
+msgid "Paused at '%s'"
+msgstr "En pausa a '%s' "
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Entreu "
+
+msgid "Press <%s> to continue"
+msgstr "Premeu %s per continuar"
+
+msgid "Unknown command: %s"
+msgstr "Ordre desconeguda: %s "
+
+msgid "yes"
+msgstr "sí"
+
+msgid "no"
+msgstr "no"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "surt"
+
+msgid "default"
+msgstr "per omissió "
+
+msgid "pretend mode"
+msgstr "mode pretès "
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "ACTIVAT EL MODE PRETEND "
+
+msgid "entry"
+msgstr "entrada "
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Premeu [%s] pel valor d'omissió %s "
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Useu %s per l'ajuda, %s per %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Useu %s per %s "
+
+msgid "Oops.  Please try again"
+msgstr "Ep! Si us plau torneu a provar-ho"
+
+msgid "You must enter a number"
+msgstr "Cal que entreu una xifra "
+
+msgid "You must enter a number or press <Enter>"
+msgstr "Cal que entreu una xifra o premeu [Retorn] "
+
+msgid "The number '%s' is out of range"
+msgstr "El número '%s' està fora de marges "
+
+msgid "Press '%s' again to quit"
+msgstr "Premeu '%s' un altre cop per sortir "
+
+msgid "You chose %s"
+msgstr "Heu triat %s "
+
+msgid "Please select the live boot directory"
+msgstr "Si us plau, trieu el directori de l'arrencada autònoma"
+
+msgid "You entered: %s"
+msgstr "Heu entrat: %s "
+
+msgid "Is this correct?"
+msgstr "És correcte? "
+
+msgid "(tab completion is enabled)"
+msgstr "(acivada la compleció amb el tabulador)"
+
+msgid "%s does not appear to be a file"
+msgstr "%s no sembla que sigui un fitxer "
+
+msgid "Try again?"
+msgstr "Torno a provar-ho?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Dispositiu "
+
+msgid "Size"
+msgstr "Mida "
+
+msgid "Filesystem"
+msgstr "Sistema de fitxers "
+
+msgid "Label"
+msgstr "Etiqueta "
+
+msgid "Model"
+msgstr "Model "
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Clona aquest sistema autònom "
+
+msgid "Copy from an ISO file"
+msgstr "Copia d'un fitxer ISO "
+
+msgid "Check md5 of the file %s?"
+msgstr "Comprovo el MD5 del fitxer %s? "
+
+msgid "Checking md5 ..."
+msgstr "Comprovant MD5 ... "
+
+msgid "Keep going anyway?"
+msgstr "Continuo igualment? "
+
+msgid "The %s program failed!"
+msgstr "El programa %s ha fallat! "
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Fitxer "
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Versió "
+
+msgid "Date"
+msgstr "Data "
+
+msgid "From"
+msgstr "De "
+
+msgid "To"
+msgstr "A "
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Total"
+
+msgid "Used"
+msgstr "Usat "
+
+msgid "Extra"
+msgstr "Extra "
+
+msgid "Error"
+msgstr "Error"
+
+msgid "Warning"
+msgstr "Atenció "
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s ha trigat %s segons "
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Ja hi ha un procés %s (usant el PID %s) executant-se"
+
+msgid "Please close that process before starting a new one"
+msgstr "Si us plau, tanqueu aquest procés abans de començar-ne un altre"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Ha fallat en obtenir el bloqueig de %s"
+
+msgid "Creating new config file %s"
+msgstr "Creant nou fitxer de configuració %s "
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "No he trobat el programa %s. S'omet %s. "
+
+msgid "Could not find required program '%s'"
+msgstr "No he trobat el programa necessari '%s' "
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "No es pot escriure al directori %s '%s' "
+
+msgid "Could not find iso file %s"
+msgstr "No he trobat el fitxer ISO a %s "
+
+msgid "Could not read iso file %s"
+msgstr "No es pot llegir el fitxer ISO %s "
+
+msgid "Could not mount iso file %s"
+msgstr "No es pot muntar el fitxer ISO %s "
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distribució: %s "
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distribució: %s a %s "
+
+msgid "This script must be run as root"
+msgstr "Cal usar aquest script com a administrador "
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Premeu %s per seleccionar el %s destacat"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Useu %s per l'ajuda, %s per redibuixar, %s per %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Useu %s per redibuixar, %s per a %s"

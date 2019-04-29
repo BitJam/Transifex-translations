@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Henry Oquist <henryoquist@comhem.se>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 01:51+EEST\n"
+"PO-Revision-Date: 2015-01-18 02:30+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#: antix2usb.py:41
+msgid "not found."
+msgstr "kunde inte hittas."
+
+#: antix2usb.py:42
+msgid "Warning"
+msgstr "Varning"
+
+#: antix2usb.py:43
+msgid ""
+"No removable USB device has been detected.\n"
+"\\ Plug in the USB key and retry."
+msgstr "Ingen anslutningsbar USB enhet har upptäckts.\n\\Plugga in USB-minnet och försök igen."
+
+#: antix2usb.py:44 antix2usb.py:61
+msgid "No ISO file selected!"
+msgstr "Ingen ISO-fil har valts!"
+
+#: antix2usb.py:45
+msgid "Cannot access file %s"
+msgstr "Kan inte komma åt fil %s"
+
+#: antix2usb.py:46
+msgid ""
+"File '%s' does not fit \n"
+"in %s MB partition"
+msgstr "Fil '%s' får inte plats\npå %s MB partitionen"
+
+#: antix2usb.py:47
+msgid "Required size: %d MB"
+msgstr "Nödvändig storlek: %d MB"
+
+#: antix2usb.py:48
+msgid ""
+"You need extra space for %s persistence file in the partition.\n"
+"\n"
+"\\ Estimated minimum partition size is %d MB"
+msgstr "Du behöver extra utrymme för %s persistens fil på partitionen.\n\n\\Beräknad minimum partitionsstorlek är %d MB"
+
+#: antix2usb.py:49
+msgid ""
+"You need extra space for root and home persistence files in the partition.\n"
+"\n"
+"Estimated minimum partition size is %d MB"
+msgstr "Du behöver extra utrymme för root och home persistensfiler på partitionen.\n\nBeräknad minimum partitionsstorlek är %d MB"
+
+#: antix2usb.py:51
+msgid "No device selected"
+msgstr "Ingen enhet har valts"
+
+#: antix2usb.py:52
+msgid "Device %s appears to be mounted on %s\n"
+msgstr "Enhet %s verkar vara monterad på %s\n"
+
+#: antix2usb.py:53
+msgid "Unmount the device and prevent any application\n"
+msgstr "Avmontera enheten och hindra all användning\n"
+
+#: antix2usb.py:54
+msgid "to auto-mount it.\n"
+msgstr "att auto-montera den.\n"
+
+#: antix2usb.py:55
+msgid "ISO files"
+msgstr "ISO-filer"
+
+#: antix2usb.py:56
+msgid "Installing..."
+msgstr "Installerar..."
+
+#: antix2usb.py:57
+msgid "Dry test: command: [%s]"
+msgstr "Test: kommando: [%s]"
+
+#: antix2usb.py:58
+msgid "Sorry, Cannot find help file."
+msgstr "Ledsen, kan inte hitta hjälpfilen."
+
+#: antix2usb.py:59
+msgid ""
+"\n"
+"Process interrupted by user.\n"
+msgstr "\nProcessen avbröts av användaren\n"
+
+#: antix2usb.py:60
+msgid "Are you sure you want to quit?"
+msgstr "Är du säker på att du vill avsluta?"
+
+#: antix2usb.py:62
+msgid "Selected file does not look like an ISO file."
+msgstr "Utvald fil ser inte ut som en ISO-fil."
+
+#: antix2usb.py:63
+msgid ""
+"Ready to install <b>%s\n"
+"</b>"
+msgstr "Färdig att installera <b>%s\n</b>"
+
+#: antix2usb.py:64
+msgid ""
+"on device <b>%s</b>\n"
+"\n"
+msgstr "på enhet <b>%s</b>\n\n"
+
+#: antix2usb.py:65
+msgid "Installation will use full device.\n"
+msgstr "Installationen kommer att använda hela enheten.\n"
+
+#: antix2usb.py:66
+msgid "Format: <b>%s</b>.\n"
+msgstr "Format: <b>%s</b>.\n"
+
+#: antix2usb.py:67
+msgid "Installation will use <b>%d MB</b> on device.\n"
+msgstr "Installationen kommer att använda <b>%d MB</b> på enheten.\n"
+
+#: antix2usb.py:68
+msgid "Format of the partition: <b>%s</b>\n"
+msgstr "Partitionens format: <b>%s</b>\n"
+
+#: antix2usb.py:69
+msgid "A persistent root file system will be created.\n"
+msgstr "Ett persistent root filsystem kommer att skapas.\n"
+
+#: antix2usb.py:70
+msgid "A persistent home file system will be created.\n"
+msgstr "Ett persistent home filsystem kommer att skapas.\n"
+
+#: antix2usb.py:71
+msgid "Persistent root and home file sytems will be created.\n"
+msgstr "Persistenta root och home filsystem kommer att skapas.\n"
+
+#: antix2usb.py:72
+msgid "The Live USB device will boot using <b>%s</b> bootloader.\n"
+msgstr "Live USB-enheten kommer att starta med <b>%s</b> bootloader.\n"
+
+#: antix2usb.py:73
+msgid ""
+"\n"
+"<b>All data existing on the device will be erased.</b>"
+msgstr "\n<b>Alla data på enheten kommer att raderas.</b>"
+
+#: antix2usb.py:74
+msgid "Calling terminate..."
+msgstr "Anropar avsluta..."
+
+#: antix2usb.py:75
+msgid ""
+"Process completed.\n"
+"You can close the application."
+msgstr "Processen avslutad.\nDu kan stänga programmet."
+
+#: antix2usb.py:76
+msgid "You need root privileges to run this script."
+msgstr "Du behöver root-privilegier för att köra detta skript."
+
+#: antix2usb.py:77
+msgid ""
+"Cannot proceed. The script %s\n"
+" is not present in the path. "
+msgstr "Kan inte fortsätta. Skriptet %s\nfinns inte i sökvägen."
+
+#: antix2usb.py:78
+msgid "Sorry."
+msgstr "Ledsen."
+
+#: antix2usb.py:79
+msgid ""
+"Cannot proceed. The resource file %s\n"
+" is not accessible."
+msgstr "Kan inte fortsätta. Resursfilen %s\nkan inte nås."

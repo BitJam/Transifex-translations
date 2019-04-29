@@ -1,0 +1,74 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011
+# Jerry Bond, 2015
+# q a, 2016
+# Vinzenz Vietzke <vinz@vinzv.de>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-05 21:38-0600\n"
+"PO-Revision-Date: 2017-10-03 22:37+0000\n"
+"Last-Translator: Vinzenz Vietzke <vinz@vinzv.de>\n"
+"Language-Team: German (http://www.transifex.com/anticapitalista/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "Die meisten verbleibenden Prozesse werden gebeten sich zu beenden"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Fast alle verbleibende Prozesse beendet"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s warten auf Beendigung %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr "Alle Prozesse innerhalb %s Sekunde(n) beendet"
+
+msgid "Killing remaining processes"
+msgstr "Verbleibende Prozesse tötend"
+
+msgid "Unable to kill: %s"
+msgstr "Unmöglich, %s zu töten"
+
+msgid "Unmount most filesystems"
+msgstr "Die meisten Dateisysteme aushängen "
+
+msgid "Disable swap"
+msgstr "swap deaktivieren"
+
+msgid "Kill any remaining processes"
+msgstr "Alle verbleibende Prozesse töten"
+
+msgid "Failed to umount some filesystems"
+msgstr "Versäumt, einige Dateisysteme auszuhängen "
+
+msgid "reboot"
+msgstr "Neustart"
+
+msgid "poweroff"
+msgstr "Ausschalten"
+
+msgid "Ready to %s"
+msgstr "Bereit zu %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "Bitte entfernen Sie die Disc, schließen Sie das Fach"
+
+msgid "and press ENTER to continue"
+msgstr "und drücken Sie ENTER, um fortzufahren"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "Sekunden"
+
+msgid "Saving random seed"
+msgstr "Speichere zufälligen seed"

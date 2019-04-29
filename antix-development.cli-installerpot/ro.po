@@ -1,0 +1,206 @@
+# 
+# Translators:
+# AdrianTM <adilecu@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-14 23:00+0000\n"
+"Last-Translator: AdrianTM <adilecu@gmail.com>\n"
+"Language-Team: Romanian (http://www.transifex.com/projects/p/antix-development/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: ca\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: cli-installer:9
+msgid "CL installer for $antiX"
+msgstr "Program de instalare CL pentru $antiX"
+
+#: cli-installer:10
+msgid "Version 2.02 2011/04/01"
+msgstr "Versiunea 2.02 2011/04/01"
+
+#: cli-installer:16
+msgid "Requirements for minimum installation:"
+msgstr "Cerințe minime pentru instalare:"
+
+#: cli-installer:19
+msgid "antiX-full: hard-disk 2.3GB  RAM 64MB"
+msgstr "antiX-full: hard disc 2.3GB, 64MB RAM"
+
+#: cli-installer:21
+msgid "antiX-base: hard-disk 1.5GB  RAM 48MB"
+msgstr "antiX-base: hard disc 1.5GB, 48MB RAM"
+
+#: cli-installer:23
+msgid "antiX-core: hard-disk 0.5GB  RAM 48MB"
+msgstr "antiX-core: hard disc 0.5GB. 48MB RAM"
+
+#: cli-installer:27
+msgid "Usage: cli-installer [drive]"
+msgstr "Folosire: cli-installer [drive]"
+
+#: cli-installer:28
+msgid "Where drive is the name of the drive antiX is to be installed on."
+msgstr "Unde „drive” este numele unității unde va fi instalat antiX."
+
+#: cli-installer:29
+msgid "   For example: cli-installer sdb"
+msgstr "   De exemplu: cli-installer sdb"
+
+#: cli-installer:30
+msgid "The default is correct if the computer has only one drive."
+msgstr "Opțiunea implicită este corectă dacă calculatorul are o singură unitate."
+
+#: cli-installer:34
+msgid "Pre-installation tips:"
+msgstr "Sfaturi înaintea instalării:"
+
+#: cli-installer:37
+msgid "Set language at the boot screen by pressing F2"
+msgstr "Setați limba la ecranul de pornire apăsând F2"
+
+#: cli-installer:38
+msgid "or by adding the line lang=xx where xx is your language code."
+msgstr "sau adăugând linia de cod lang=xx unde xx este limba dumneavoastră."
+
+#: cli-installer:39
+msgid "eg lang=gr for Greek."
+msgstr "Exemplu: lang=ro pentru Română."
+
+#: cli-installer:41
+msgid "Set timezone at the boot screen by pressing F3"
+msgstr "Setați fusul orar la ecranul de pornire apăsând F3"
+
+#: cli-installer:44
+msgid ""
+"Press F1 at the boot screen for Help and list of cheatcodes for live use."
+msgstr "Apăsați F1 la ecranul de pornire pentru Ajutor și o listă cu posibile coduri pentru livecd."
+
+#: cli-installer:55
+msgid "/home partition (hda1, sda2, etc): "
+msgstr "/home partiție (hda1, sda2, etc): "
+
+#: cli-installer:58
+msgid "$hdrv invalid. Retry:"
+msgstr "$hdrv invalid. Reîncercați:"
+
+#: cli-installer:67
+msgid "Root partition (hda1, sda2, etc): "
+msgstr "Partiția root (hda1, sda2,etc): "
+
+#: cli-installer:96
+msgid "$rdrv invalid. Retry"
+msgstr "$rdrv invalid. Reîncercați:"
+
+#: cli-installer:109
+msgid "Available file systems for $1 are ext2, ext3, and ext4"
+msgstr "Sistemele de fișiere disponibile pentru $1 sunt ext2, ext3 sau ex4"
+
+#: cli-installer:113
+msgid "Enter your choice (the default is ext3): "
+msgstr "Introduceți alegerea dumneavoastră (ext3 este implicită): "
+
+#: cli-installer:122
+msgid "Ignore any 'barrier' lines"
+msgstr "Ignoră orice linii 'barrier'"
+
+#: cli-installer:123
+msgid "$fs invalid. Retry:"
+msgstr "$fs invalid. Reîncercați:"
+
+#: cli-installer:135
+msgid "Passwords are not identical. Retry:"
+msgstr "Parolele nu coincid. Reincercați:"
+
+#: cli-installer:154
+msgid "Invalid; retry:"
+msgstr "invalid. Reîncercați:"
+
+#: cli-installer:162
+msgid "Press Enter to exit this script."
+msgstr "Apăsați „Enter” pentru a ieși din acest script."
+
+#: cli-installer:168
+msgid "Please run this script as root."
+msgstr "Acest script trebuie rulat ca administrator."
+
+#: cli-installer:176
+msgid "Do you want to repartition the disk (y/N)"
+msgstr "Doriți să repartiționați discul? (y/N)"
+
+#: cli-installer:190
+msgid "Deleting the contents of the '/' partition."
+msgstr "Șterg conținutul partiției „/”."
+
+#: cli-installer:191
+msgid "This may take some time. Please wait...."
+msgstr "Operațiunea va dura ceva timp. Vă rugăm asteptați...."
+
+#: cli-installer:197
+msgid "Use separate '/home' partition (y/N)"
+msgstr "Folosesc o partiție separată pentru „/home”? (y/N)"
+
+#: cli-installer:204
+msgid "Is $hdrv a new '/home' partition (y/N)"
+msgstr "Este $hdrv noua partiție „/home”? (y/N)"
+
+#: cli-installer:223
+msgid "$antiX will now be copied to $rdrv."
+msgstr "$antiX va fi copiat către $rdrv."
+
+#: cli-installer:260
+msgid "File copy done"
+msgstr "Copierea fișierului a fost efectuată"
+
+#: cli-installer:262
+msgid "Install GRUB on MBR (Y/n)"
+msgstr "Instalez GRUB pe MBR? (Y/n)"
+
+#: cli-installer:268
+msgid "GRUB installed on ($grub)"
+msgstr "GRUB a fost instalat pe ($grub)"
+
+#: cli-installer:272
+msgid "Computer name (default is 'antiX1')? "
+msgstr "Numele calculatorului (implicit: „antiX1”)? "
+
+#: cli-installer:280
+msgid "Is this a remastered install (y/N)"
+msgstr "Este instalarea snapshot? (y/N)"
+
+#: cli-installer:286
+msgid "Installation of antiX finished!"
+msgstr "Instalarea lui antiX a fost finalizată!"
+
+#: cli-installer:288
+msgid "Reboot computer without CD to start program. ('reboot')"
+msgstr "Reporniți calculatorul fără CD pentru a porni programul. („reboot”)"
+
+#: cli-installer:294
+msgid "User name? "
+msgstr "Nume utilizator? "
+
+#: cli-installer:298
+msgid "Note: $hdrv must contain a folder named '$name'."
+msgstr "Notă: $hdrv trebuie să conțină un dosar numit „$name”."
+
+#: cli-installer:302
+msgid "Password for $name:"
+msgstr "Parolă pentru $name:"
+
+#: cli-installer:305
+msgid "Password for root:"
+msgstr "Parolă pentru administrator:"
+
+#: cli-installer:326
+msgid "Cleaning up"
+msgstr "Se efectuează curățenia"

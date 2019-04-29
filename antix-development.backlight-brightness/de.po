@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vinzenz Vietzke <vinz@vinzv.de>, 2017\n"
+"Language-Team: German (https://www.transifex.com/anticapitalista/teams/10162/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "Pfeil-hoch"
+
+msgid "down-arrow"
+msgstr "Pfeil-runter"
+
+msgid "page-up"
+msgstr "Seite-hoch"
+
+msgid "page-down"
+msgstr "Seite-runter"
+
+#. Keyboard keys: left-arrow, right-arrow
+msgid "left-arrow"
+msgstr "Pfeil-links"
+
+msgid "right-arrow"
+msgstr "Pfeil-rechts"
+
+msgid "No controller found"
+msgstr "Kein Controller gefunden"
+
+msgid "You need to be root to run this script"
+msgstr "Sie müssen root sein, um dieses Skript auszuführen."
+
+msgid "Backlight Brightness Control"
+msgstr "Einstellung der Hintergrundbeleuchtung"
+
+msgid "Use <%s> and <%s> to adjust the brightness"
+msgstr "Benutzen Sie <%s> und <%s> um die Helligkeit anzupassen"
+
+msgid "Use <%s> and <%s> for smaller steps"
+msgstr "Benutzen Sie <%s> und <%s> für kleinere Schritte"
+
+msgid "Use <%s> and <%s> for bigger steps"
+msgstr "Benutzen Sie <%s> und <%s> für größere Schritte"
+
+msgid "Press '%s' to quit"
+msgstr "Benutzen Sie '%s' zum Beenden"

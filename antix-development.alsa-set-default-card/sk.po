@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2017-11-13 16:43+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>\n"
+"Language-Team: Slovak (http://www.transifex.com/anticapitalista/antix-development/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Neboli nájdené žiadne karty/zariadenia"
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Bola rozpoznaná iba jedna zvuková karta."
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "Momentálne predvolená je %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Koniec"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Prosím vyberte zvukovú kartu"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Zvuková karta je nastavená na %s"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Test zvuku"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Prajete si otestovať či zvuková karta funguje?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "Testovanie zvuku po dobu 6 sekúnd"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Test prebehol úspešne"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Pripojenie k zvolenému zariadeniu sa podarilo)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Test zlyhal"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Pripojenie k zvolenému zariadeniu sa nepodarilo)"

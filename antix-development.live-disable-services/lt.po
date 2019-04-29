@@ -1,0 +1,49 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Moo, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 14:28-0600\n"
+"PO-Revision-Date: 2017-09-26 04:26+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/anticapitalista/antix-development/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Customizing services"
+msgstr ""
+
+msgid "Enabling %s service"
+msgstr ""
+
+msgid "Disabling %s service"
+msgstr ""
+
+msgid "Enabling %s services"
+msgstr "Įjungiamos %s tarnybos"
+
+msgid "Disabling %s services"
+msgstr "Išjungiamos %s tarnybos"
+
+msgid "Disabling some services %s"
+msgstr "Išjungiamos kai kurios tarnybos %s"
+
+msgid "Disabling %s services %s"
+msgstr ""
+
+msgid "Disabling network services %s"
+msgstr "Išjungiamos tinklo tarnybos %s"
+
+msgid "Disabling more services %s"
+msgstr ""
+
+msgid "Disabling NFS server %s"
+msgstr "Išjungiamas NFS serveris %s"

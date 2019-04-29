@@ -1,0 +1,572 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Swedish (https://www.transifex.com/anticapitalista/teams/10162/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Kommandorad"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "upp-pil"
+
+msgid "down-arrow"
+msgstr "ner-pil"
+
+msgid "page-up"
+msgstr "sida-upp"
+
+msgid "page-down"
+msgstr "sida-ner"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "gå tillbaka till huvudmenyn"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Kommandorad Paket Installerare"
+
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+msgid "Search for packages to mark or install"
+msgstr "Sök efter paket att markera eller installera"
+
+msgid "Search for antiX kernels"
+msgstr "Sök efter antiX kärnor"
+
+msgid "Search for all kernels"
+msgstr "Sök efter alla kärnor"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Uppdatera paket index"
+
+msgid "Edit the repo source files"
+msgstr "Redigera förrådets källfiler"
+
+msgid "Quit"
+msgstr "Avsluta"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Alla %sföreslagna %spaket har installerats"
+
+msgid "no pending upgrades"
+msgstr "inga aktuella uppgraderingar"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Visa en lista över %sföreslagna %spaket"
+
+msgid "View or perform %s upgrade now"
+msgstr "Visa eller genomför %suppgradering nu"
+
+msgid "View or perform %s upgrades now"
+msgstr "Visa eller genomför %suppgraderingar nu"
+
+msgid "Upgrade %s package now"
+msgstr "Uppgradera %spaket nu"
+
+msgid "Upgrade %s packages now"
+msgstr "Uppgradera %spaket nu"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Visa en lista över paket som skall uppgraderas"
+
+msgid "Ignore these upgrades for now"
+msgstr "Ignorera dessa uppgraderingar för tillfället"
+
+msgid "View or install %s marked package"
+msgstr "Visa eller installera %smarkerat paket"
+
+msgid "View or install %s marked packages"
+msgstr "Visa eller installera %smarkerade paket"
+
+msgid "Edit Source Menu"
+msgstr "Redigera Källmenyn"
+
+msgid "Please select a source file to edit"
+msgstr "Var god välj en källfil att redigera"
+
+msgid "Could not find file %s to edit"
+msgstr "Kunde inte hitta fil %satt redigera"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Gå tillbaka till huvudmenyn"
+
+msgid "Search for packages"
+msgstr "Sök efter paket"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "exakt namnöverensstämmelse"
+
+msgid "exact name matches"
+msgstr "exakta namnöverensstämmelser"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "ledande namnöverensstämmelse"
+
+msgid "leading name matches"
+msgstr "ledande namnöverensstämmelser"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "vilken som helst namnöverensstämmelse"
+
+msgid "any name matches"
+msgstr "vilka som helst namnöverensstämmelser"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "överensstämmelse av namn eller beskrivning"
+
+msgid "name or description matches"
+msgstr "överensstämmelser av namn eller beskrivningar"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "sökningar"
+
+msgid "No matches were found"
+msgstr "Inga överensstämmelser har hittats"
+
+msgid "Do you want to try a different search?"
+msgstr "Vill du göra en annan sökning?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "exakt"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "ledande"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "vilket som helst namn"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "beskrivning"
+
+msgid "Do a different search"
+msgstr "Gör en annan sökning"
+
+msgid "Search Result Menu"
+msgstr "Meny över sökresultat"
+
+msgid "Please select an action"
+msgstr "Var god välj en åtgärd"
+
+msgid "What next?"
+msgstr "Vad blir nästa åtgärd?"
+
+msgid "%s packages were found"
+msgstr "%spaket hittades"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+"I nästa steg kommer du att visas en lista över paket som du kan scrolla"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Använd %s, %s, %soch %sför att scrolla listan"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+"Placera paketet som du önskar nära nedre delen och tryck sedan %sför att "
+"fortsätta"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press %s to see the list"
+msgstr "Tryck %sför att se listan"
+
+msgid "Use %s to go to the main menu"
+msgstr "Använd %sför att gå till huvudmenyn"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Använd %sför att upprepa samma sökning"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Använd %sför att göra en ny sökning"
+
+msgid "Press %s to skip picking a package"
+msgstr "Tryck %sför att avstå från att välja ett paket"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr "Eller ange numret på varje paket som du vill markera eller installera"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Använd %sför att ange ett intervall av nummer"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Använd %sför att gå till huvudmenyn"
+
+msgid "Use %s to see the results again"
+msgstr "Använd %sför att se resultaten på nytt"
+
+msgid "Use %s to do a new search"
+msgstr "Använd %sför att göra en ny sökning"
+
+msgid "Invalid input.  Please try again"
+msgstr "Ogiltigt värde. Var god försök igen"
+
+msgid "The following numbers were out of range %s"
+msgstr "Följande nummer var utanför intervallet %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Inga giltiga nummer har angivits. Var god försök igen"
+
+msgid "Selected packages"
+msgstr "Valda paket"
+
+msgid "Could not find package number %s"
+msgstr "Kunde inte hitta paket nummer %s"
+
+msgid "Repeat the same search"
+msgstr "Upprepa samma sökning"
+
+msgid "Search again"
+msgstr "Sök igen"
+
+msgid "Go back to main menu"
+msgstr "Gå tillbaka till huvudmenyn"
+
+msgid "Now what?"
+msgstr "Vad skall göras nu?"
+
+msgid "Do a new search"
+msgstr "Gör en ny sökning"
+
+msgid "See search results again"
+msgstr "Se sökresultat igen"
+
+msgid "Return to main menu"
+msgstr "Återvänd till huvudmenyn"
+
+msgid "Remove or Purge Menu"
+msgstr "Ta bort eller Rensa Menyn"
+
+msgid "Please choose an action for this package"
+msgstr "Var god välj en åtgärd för detta paket"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+"Avinstallera paketet [ta bort paketet men inte dess konfigurationsfiler]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Rensa paket [ta bort paketet OCH dess konfigurationsfiler]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Ominstallera paketet [även om det är aktuellt]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Installera paketet [endast om det är aktuellt]"
+
+msgid "The %s command failed"
+msgstr "%skommandot misslyckades"
+
+msgid "Please enter the term you want to search for"
+msgstr "Var god ange termen som du vill söka"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "Standard globbing wildcards %soch %sfungerar"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "Använd en tom sträng eller %sför att återvända till huvudmenyn"
+
+msgid "Found"
+msgstr "Hittad"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Visa %s %sresultat"
+
+msgid "Show more information about package %s"
+msgstr "Visa mera information om paket %s"
+
+msgid "Uninstall package %s"
+msgstr "Avinstallera paket %s"
+
+msgid "Unmark package %s"
+msgstr "Avmarkera paket %s"
+
+msgid "Mark package %s"
+msgstr "Markera paket %s"
+
+msgid "Install package %s"
+msgstr "Installera paket %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Markera valt, inte installerat paket %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Markera %svalda, inte installerade paket"
+
+msgid "install selected uninstalled package %s"
+msgstr "installera valt inte installerat paket %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "installera %svalda inte installerade paket"
+
+msgid "Checking source files ..."
+msgstr "Kontrollerar källfiler..."
+
+msgid "Run %s now?"
+msgstr "Kör %snu?"
+
+msgid "No list files were found"
+msgstr "Inga listade filer har hittats"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "En %sbehövs för att fortsätta"
+
+msgid "It appears that at least one list file is missing"
+msgstr "Det verkar som om minst en listad fil saknas"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Du borde förmodligen köra %snu"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Utför %s"
+
+msgid "There was a problem running %s"
+msgstr "Det fanns ett problem med att köra %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Vill du ändå fortsätta"
+
+msgid "Creating database ..."
+msgstr "Skapar databas..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "databas generation"
+
+msgid "Updating database ..."
+msgstr "Uppdaterar databas..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "uppdatering av databas"
+
+msgid "Found %s dependencies"
+msgstr "Hittat %sberoenden"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Markerar %sinte installerade beroenden"
+
+msgid "found %s dependencies"
+msgstr "hittat %sberoenden"
+
+msgid "found %s unmet dependencies"
+msgstr "hittat %sicke mötta beroenden"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "Detta paket och icke mötta beroenden kommer att lägga till %sMeg"
+
+msgid "Marking package %s"
+msgstr "Markerar paket %s"
+
+msgid "Unmarked %s package"
+msgstr "Avmarkerar %spaket"
+
+msgid "Unmarked %s packages"
+msgstr "Avmarkerar %spaket"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Vill du se mer detaljerad information?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr "hittat %sicke mötta beroenden som också kommer att installeras"
+
+msgid "Do you want to install this package now?"
+msgstr "Vill du installera detta paket nu?"
+
+msgid "Installing %s"
+msgstr "Installerar %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Hittat %savinstallerade markerade paket"
+
+msgid "Nothing to install"
+msgstr "Det finns inget att installera"
+
+msgid "Install %s package"
+msgstr "Installera %spaket"
+
+msgid "Install %s packages"
+msgstr "Installera %spaket"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "Paketen och icke mötta beroenden kommer att lägga till %sMeg"
+
+msgid "Install this package?"
+msgstr "Installera detta paket?"
+
+msgid "Install these packages?"
+msgstr "Installera dessa paket?"
+
+msgid "Install %s marked package"
+msgstr "Installera %smarkerat paket"
+
+msgid "Install all %s marked packages"
+msgstr "Installera alla %smarkerade paket"
+
+msgid "View %s marked package"
+msgstr "Visa %smarkerat paket"
+
+msgid "View all %s marked packages"
+msgstr "Visa alla %smarkerade paket"
+
+msgid "Unmark %s marked package"
+msgstr "Avmarkera %smarkerat paket"
+
+msgid "Unmark all %s marked packages"
+msgstr "Avmarkera alla %smarkerade paket"
+
+msgid "View or Install Marked Packages"
+msgstr "Se eller Installera Markerade Paket"
+
+msgid "No marked packages were found"
+msgstr "Inga markerade paket hittades"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Markerade paket kommer att lägga till %sMeg"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+"I nästa steg kommer du att visas en lista över paket som du kan scrolla"
+
+msgid "Use %s to go the main menu"
+msgstr "Använd %sför att gå till huvudmenyn"
+
+msgid "Use %s to do another search"
+msgstr "Använd %sför att göra en annan sökning"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "Föreslagna %sPaket"
+
+msgid "No suggestions were found!"
+msgstr "Inga förslag har hittats!"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Kontrollera fil %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Visa"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Visa alla"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "föreslagna paket"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "stjärnmärkta paket"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "icke stjärnmärkta paket"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Hoppa över till nästa steg (se inte paketen)"
+
+msgid "Please select which packages to view"
+msgstr "Var god välj vilka paket att visa"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "%spaket hittades (%sinte installerade)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Tryck %sför att se listan, %sför att gå till huvudmenyn, %sför att söka på "
+"nytt"
+
+msgid "See suggestions again"
+msgstr "Visa förslagen igen"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "Markera %stidigare icke markerade paket"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Avmarkera alla %stidigare markerade paket"
+
+msgid "%s package is still marked"
+msgstr "%spaket är fortfarande markerat"
+
+msgid "%s packages are still marked"
+msgstr "%spaket är fortfarande markerade"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Markera %sicke markerat, inte installerat paket"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Markera %sicke markerade, inte installerade paket"
+
+msgid "Unmark %s marked packages"
+msgstr "Avmarkera %smarkerade paket"
+
+msgid "Checking for package upgrades ..."
+msgstr "Söker efter uppgraderingar av paket..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Det finns %spaket som kan uppgraderas"
+
+msgid "There are no packages to upgrade"
+msgstr "Det finns inga paket att uppgradera"
+
+msgid "System Upgrade Menu"
+msgstr "Uppgraderingsmeny för System"
+
+msgid "Exit"
+msgstr "Avsluta"

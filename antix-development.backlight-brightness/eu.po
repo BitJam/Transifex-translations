@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: Basque (https://www.transifex.com/anticapitalista/teams/10162/eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr ""
+
+msgid "down-arrow"
+msgstr ""
+
+msgid "page-up"
+msgstr ""
+
+msgid "page-down"
+msgstr ""
+
+#. Keyboard keys: left-arrow, right-arrow
+msgid "left-arrow"
+msgstr ""
+
+msgid "right-arrow"
+msgstr ""
+
+msgid "No controller found"
+msgstr ""
+
+msgid "You need to be root to run this script"
+msgstr ""
+
+msgid "Backlight Brightness Control"
+msgstr ""
+
+msgid "Use <%s> and <%s> to adjust the brightness"
+msgstr ""
+
+msgid "Use <%s> and <%s> for smaller steps"
+msgstr ""
+
+msgid "Use <%s> and <%s> for bigger steps"
+msgstr ""
+
+msgid "Press '%s' to quit"
+msgstr ""

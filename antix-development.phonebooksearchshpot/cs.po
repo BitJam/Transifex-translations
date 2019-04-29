@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# Jiří Vírava <appukonrad@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:19+0300\n"
+"PO-Revision-Date: 2015-01-02 17:20+0000\n"
+"Last-Translator: Jiří Vírava <appukonrad@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: phonebooksearch.sh:16
+msgid "Phonebook"
+msgstr "Telefonní seznam"
+
+#: phonebooksearch.sh:18
+msgid "Enter a name to find:"
+msgstr "Vložte jméno pro vyhledání "
+
+#: phonebooksearch.sh:27
+msgid "Close"
+msgstr "Zavřít"
+
+#: phonebooksearch.sh:33
+msgid "Search"
+msgstr "Vyhledávání "
+
+#: phonebooksearch.sh:35
+msgid "Search Results"
+msgstr "Výsledek hledání "

@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-02-23 15:23+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Default"
+msgstr "ነባር"
+
+msgid "Check integrity of the live media"
+msgstr "በ ቅጥታ መገናኛ ሙሉ መሆኑን መመርመሪያ"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "በ ቀጥታ USB እና ቀጣይነቱን ለ ext2/3/4 ፋይል ስርአት መመርመሪያ"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "የ ታመቀ የ ስርአት ፋይል ወደ ራም ኮፒ ማድረጊያ"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "በ ቀጥታ USB ማስነሻ መጨረሻ"
+
+msgid "Finish booting from a hard drive"
+msgstr "በ ቀጥታ ከ ሀርድ ዲስክ ማስነሻ መጨረሻ"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "ሁሉንም የ usb-2 አካሎች ማሰናከያ በሚጀምር ጊዜ"
+
+msgid "Have the system help determine the clock setting"
+msgstr "ለ ሰአት ማሰናጃ የ ስርአት እርዳታ መወሰኛ"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "የ ጠንካራ አካል የሚጠቀመው ሰአት UTC (ለ ሊነክስ-ስርአት ብቻ)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "የ ጠንካራ አካል የሚጠቀመው የ አካባቢ ሰአት (ለ Windows ስርአት)"
+
+msgid "Change passwords before booting"
+msgstr "ከ መነሳቱ በፊት የ መግቢያ ቃል መቀየሪያ"
+
+msgid "Enable wicd service on startup"
+msgstr "በሚጀምር ጊዜ የ wicd ግልጋሎት ማስቻያ"
+
+msgid "Disable wicd service on startup"
+msgstr "በሚጀምር ጊዜ የ wicd ግልጋሎት ማሰናከያ"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "በ ቀጥታ USB-ማጠራቀሚያ ገጽታ ማሰናከያ ለ (በ ቀጥታ USB ብቻ)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "በ ቀጥታ USB-ማጠራቀሚያ ገጽታ ማስቻያ ለ (በ ቀጥታ USB ብቻ)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "አንዳንድ ፋይሎች ከ እንደገና ማስነሻ ባሻገር ማስቀመጫ (በ ቀጥታ USB ብቻ)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "አንዳንድ ፋይሎች ከ እንደገና ማስነሻ ባሻገር አታስቀምጥ (በ ቀጥታ USB ብቻ)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "ራሱ በራሱ መጫኛ አካሎች በሚሰኩ ጊዜ"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "ሁሉንም ተጨማሪ መጫኛ እና በራሱ መጫኛ ማሰናከያ"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr ""
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr ""
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr ""
+
+msgid "Only home persistence"
+msgstr ""
+
+msgid "Frugal with both root and home persistence"
+msgstr ""
+
+msgid "Frugal with only root persistence"
+msgstr ""
+
+msgid "Frugal with home and static root persistence"
+msgstr ""
+
+msgid "Frugal with only home persistence"
+msgstr ""
+
+msgid "Only Frugal, no persistence"
+msgstr ""
+
+msgid "Yes (default)"
+msgstr "አዎ (ነባር)"
+
+msgid "No"
+msgstr "አይ"

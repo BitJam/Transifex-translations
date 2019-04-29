@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:52+0300\n"
+"PO-Revision-Date: 2014-07-22 02:40+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "antiXscreenshot"
+msgstr "antiX скрийншот"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "Keep this screenshot?"
+msgstr "Запазване на този скрийншот?"
+
+#: antixscreenshot.sh:69
+msgid "File extension was changed.\\nPlease try again."
+msgstr "Файлов екстеншън беше променен. Моля опитайте отново."
+
+#: antixscreenshot.sh:96
+msgid "Your screenshot has been saved."
+msgstr "Вашият скрийншот беше съхранен."
+
+#: antixscreenshot.sh:107
+msgid "Region to capture"
+msgstr "Регион за хващане"
+
+#: antixscreenshot.sh:110
+msgid "Full Screen"
+msgstr "Цял Екран"
+
+#: antixscreenshot.sh:111
+msgid "Custom Area"
+msgstr "Необичайна Област"
+
+#: antixscreenshot.sh:112
+msgid "Window"
+msgstr "Прозорец"
+
+#: antixscreenshot.sh:116
+msgid "Name of image"
+msgstr "Има на изображение"
+
+#: antixscreenshot.sh:123
+msgid "File type"
+msgstr "Файлов тип"
+
+#: antixscreenshot.sh:134
+msgid "Show save dialog"
+msgstr "Покажи диалог за съхранение"
+
+#: antixscreenshot.sh:136
+msgid "Choose directory"
+msgstr "Избери директория"
+
+#: antixscreenshot.sh:146
+msgid "Delay in seconds"
+msgstr "Продължителност в секунди"
+
+#: antixscreenshot.sh:153
+msgid "Multiple screenshots"
+msgstr "Няколко скрийншота"
+
+#: antixscreenshot.sh:155
+msgid "Take another shot"
+msgstr "Направи още един скрийншот"
+
+#: antixscreenshot.sh:161
+msgid "Thumbnail for webpages"
+msgstr "Миниятюра за уеб страници"
+
+#: antixscreenshot.sh:163
+msgid "Create a thumbnail"
+msgstr "Създай миниятюра"
+
+#: antixscreenshot.sh:170
+msgid "Percentage (1-100)"
+msgstr "Процент (1-100)"

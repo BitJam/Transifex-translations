@@ -1,0 +1,216 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# sombreros <sebastiendebierre@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: sombreros <sebastiendebierre@gmail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: antixcc.sh:18
+msgid "Desktop"
+msgstr "Bureau"
+
+#: antixcc.sh:18
+msgid "System"
+msgstr "Outils Système"
+
+#: antixcc.sh:18
+msgid "Network"
+msgstr "Le réseau"
+
+#: antixcc.sh:18
+msgid "Session"
+msgstr "Session"
+
+#: antixcc.sh:19
+msgid "Live"
+msgstr "Direct"
+
+#: antixcc.sh:19
+msgid "Disks"
+msgstr "Disques"
+
+#: antixcc.sh:19
+msgid "Hardware"
+msgstr "Matériel"
+
+#: antixcc.sh:37
+msgid "Choose Wallpaper"
+msgstr "Fond d'écran"
+
+#: antixcc.sh:46
+msgid "Edit Fluxbox Settings"
+msgstr "Réglages Fluxbox"
+
+#: antixcc.sh:55
+msgid "Edit System Monitor"
+msgstr "Préférences Conky"
+
+#: antixcc.sh:66
+msgid "Change Gtk2 and Icon Themes"
+msgstr "Gestionnaire de thèmes gtk2"
+
+#: antixcc.sh:75
+msgid "Edit IceWM Settings"
+msgstr "Réglages Icewm"
+
+#: antixcc.sh:84
+msgid "Edit jwm Settings"
+msgstr "Réglages jwm"
+
+#: antixcc.sh:102
+msgid "Manage Packages"
+msgstr "Gestion de paquetages"
+
+#: antixcc.sh:111
+msgid "Configure System"
+msgstr "Configuration du système"
+
+#: antixcc.sh:120
+msgid "Choose Startup Services"
+msgstr "Gestion des services"
+
+#: antixcc.sh:131
+msgid "Manage Users"
+msgstr "Gestion des utilisateurs"
+
+#: antixcc.sh:140
+msgid "Edit Config Files"
+msgstr "Fichiers de configuration"
+
+#: antixcc.sh:149
+msgid "Set Date and Time"
+msgstr "Date et Heure"
+
+#: antixcc.sh:167
+msgid "Network Interfaces (ceni)"
+msgstr "Interfaces Réseau (ceni)"
+
+#: antixcc.sh:176
+msgid "Configure GPRS/UMTS Connection"
+msgstr "Configuration GPRS/UMTS"
+
+#: antixcc.sh:185
+msgid "Connect Wirelessly (wicd)"
+msgstr "Réseau sans Fil (wicd)"
+
+#: antixcc.sh:196
+msgid "Wireless (rutilt)"
+msgstr "Réseau sans Fil (rutilt)"
+
+#: antixcc.sh:205
+msgid "Configure Dial-Up Connection"
+msgstr "Connexion par modem RTC"
+
+#: antixcc.sh:214
+msgid "Manage Firewall"
+msgstr "Gestion du pare-feu"
+
+#: antixcc.sh:232
+msgid "Change Keyboard Layout"
+msgstr "Disposition du clavier"
+
+#: antixcc.sh:241
+msgid "Change Slim Background"
+msgstr "Ecran d'accueil Slim"
+
+#: antixcc.sh:250
+msgid "Set Screen Resolution"
+msgstr "Taille de l'écran"
+
+#: antixcc.sh:261
+msgid "Edit Login Options"
+msgstr "Options de login"
+
+#: antixcc.sh:270
+msgid "Set auto-login"
+msgstr "Configuration auto-login"
+
+#: antixcc.sh:277
+msgid "After choosing a new theme, please logout/login to see the changes."
+msgstr "Après avoir choisi un nouveau thème, s'il vous plaît déconnectez/reconnectez vous, pour voir les changements."
+
+#: antixcc.sh:280
+msgid "Change cursor theme"
+msgstr "Thème de curseur"
+
+#: antixcc.sh:298
+msgid "RemasterCC"
+msgstr "RemasterCC"
+
+#: antixcc.sh:307
+msgid "Set up live persistence"
+msgstr "Configurer la persistance en direct"
+
+#: antixcc.sh:318
+msgid "Save root persistence"
+msgstr "Enregistrer la persistance racine"
+
+#: antixcc.sh:327
+msgid "Remaster"
+msgstr "Remaster"
+
+#: antixcc.sh:345
+msgid "Partition a Drive"
+msgstr "Outil de partitionnement"
+
+#: antixcc.sh:354
+msgid "Mount Connected Devices"
+msgstr "Montage des périphériques"
+
+#: antixcc.sh:363
+msgid "Backup Your System"
+msgstr "Sauvegarde du système"
+
+#: antixcc.sh:374
+msgid "Image a Partition"
+msgstr "Copier une partition"
+
+#: antixcc.sh:383
+msgid "Synchronize Directories"
+msgstr "Synchronisation de répertoires"
+
+#: antixcc.sh:392
+msgid "antiX2usb"
+msgstr "antiX2usb"
+
+#: antixcc.sh:410
+msgid "System Information"
+msgstr "Gestionnaire de Matériel"
+
+#: antixcc.sh:419
+msgid "Setup a Printer"
+msgstr "Imprimantes"
+
+#: antixcc.sh:428
+msgid "Configure Sound System"
+msgstr "Configuration audio"
+
+#: antixcc.sh:439
+msgid "PC Information"
+msgstr "Informations de PC"
+
+#: antixcc.sh:448
+msgid "Configure Mouse"
+msgstr "Configuration de la souris"
+
+#: antixcc.sh:457
+msgid "Adjust Mixer"
+msgstr "Contrôle du volume audio"
+
+#: antixcc.sh:468
+msgid "Close"
+msgstr "Fermer"

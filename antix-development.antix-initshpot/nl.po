@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# Eadwine Rose, 2014
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-11-13 16:01+0200\n"
+"PO-Revision-Date: 2014-06-26 14:21+0000\n"
+"Last-Translator: ko <ko.bros@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: str-maker/antiX-init.sh:5
+msgid "Populating %s directory"
+msgstr "Vullen van "
+
+#: str-maker/antiX-init.sh:6
+msgid "Unknown menu localization language %s"
+msgstr "Onbekende menu lokalisatietaal %s"
+
+#: str-maker/antiX-init.sh:7
+msgid "Directory not found %s"
+msgstr "Directory niet gevonden %s"
+
+#: str-maker/antiX-init.sh:8
+msgid "Localizing menus to %s in %s"
+msgstr "Lokaliseren van menus naar %s in %s"
+
+#: str-maker/antiX-init.sh:9
+msgid "Invalid %s boot parameter %s"
+msgstr "Ongeldige %s boot parameter %s"
+
+#: str-maker/antiX-init.sh:10
+msgid "Setting %s to %s"
+msgstr "Stel %s in naar %s"
+
+#: str-maker/antiX-init.sh:11
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Verkeerde mirror code %s (twee letters werden verwacht)"
+
+#: str-maker/antiX-init.sh:12
+msgid "Localizing %s to %s mirror"
+msgstr "Lokaliseer %s naar %s mirror"
+
+#: str-maker/antiX-init.sh:13
+msgid "Could not find %s in %s"
+msgstr "Kon geen %s in %s vinden"
+
+#: str-maker/antiX-init.sh:14
+msgid "Found default desktop %s"
+msgstr "Vond standaard desktop %s"
+
+#: str-maker/antiX-init.sh:15
+msgid "Desktop %s is not a valid desktop."
+msgstr "Desktop %s is geen geldige desktop."
+
+#: str-maker/antiX-init.sh:16
+msgid "Valid choices are %s"
+msgstr "Geldige keuzes zijn %s"
+
+#: str-maker/antiX-init.sh:17
+msgid "Setting default desktop to %s"
+msgstr "Standaard desktop aan het instellen op %s"
+
+#: str-maker/antiX-init.sh:18
+msgid "Localizing/configuring X-Windows"
+msgstr "X-Windows localiseren/configureren"
+
+#: str-maker/antiX-init.sh:19
+msgid "Enabling %s automount"
+msgstr "Activeren %s automatisch koppelen"
+
+#: str-maker/antiX-init.sh:20
+msgid "Disabling automount"
+msgstr "De-activeren automatisch koppelen"
+
+#: str-maker/antiX-init.sh:21
+msgid "Building %s via %s"
+msgstr "Opbouwen %s via %s"
+
+#: str-maker/antiX-init.sh:22
+msgid "Disabling fstab hotplugging (his will also disable automount)"
+msgstr "De-activeren hotpluggen van fstab (dit schakelt ook automatische koppeling uit)"
+
+#: str-maker/antiX-init.sh:23
+msgid "Enabling fstab hotplugging"
+msgstr "Activeren fstab hotpluggen"
+
+#: str-maker/antiX-init.sh:24
+msgid "Configuring %s file"
+msgstr "%s bestand instellen "

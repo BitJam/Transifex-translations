@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# asinoro asinoro <asinoro1@yahoo.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:29+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Check integrity of the live media"
+msgstr "Ελέγξτε την ακεραιότητα του livecd/liveusb"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Ελέγξτε LiveUSB και persist συστήματα αρχείων ext2/3/4"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Αντιγράψτε το συμπιεσμένο σύστημα αρχείων στη μνήμη RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Ολοκληρώνει την εκκίνηση από ένα LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Ολοκληρώνει την εκκίνηση από ένα σκληρό δίσκο"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Απενεργοποιήση όλων των συσκευών usb-2 κατά την εκκίνηση"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Προσδιορίσετε τη ρύθμιση του ρολόι"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Ρολόι σε UTC (Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Ρολόι σε τοπική ώρα (Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Αλλαγή του κωδικού πρόσβασης πριν εκκίνηση"
+
+msgid "Enable wicd service on startup"
+msgstr "Ενεργοποίηση την υπηρεσία wicd κατά την εκκίνηση"
+
+msgid "Disable wicd service on startup"
+msgstr "Απενεργοποίηση την υπηρεσία wicd κατά την εκκίνηση"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Απενεργοποίηση του LiveUSB-αποθήκευσης (LiveUSB μόνο)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Ενεργοποίηση του LiveUSB-αποθήκευσης (LiveUSB μόνο)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Αποθήκευση κάποιων αρχείων σε επανεκκίνηση (LiveUSB μόνο)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Μην αποθηκεύετε αρχεία σε επανεκκίνηση (LiveUSB μόνο)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Αυτόματη προσάρτηση συσκευών όταν είναι συνδεδεμένο"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Απενεργοποίηση όλων των επιπλέον mount και automount"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Γρήγορο. Αποθήκευση root και home (χρησιμοποιεί RAM, εξοικονομεί κατά τον τερματισμό)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Γρήγορο. Αποθήκευση root μόνο. (χρησιμοποιεί RAM, εξοικονομεί κατά τον τερματισμό)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Αργό. Αποθήκευση root και home (καμία χρήση RAM, εξοικονομεί συνεχώς)"
+
+msgid "Only home persistence"
+msgstr "Μόνο home persist"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal με root και home persist"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal με μόνο root persist"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal με home και static root persist"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal με μόνο home persist"
+
+msgid "Only Frugal, no persistence"
+msgstr "Μόνο Frugal, χωρίς persist"
+
+msgid "Yes (default)"
+msgstr "Ναι (προεπιλογή)"
+
+msgid "No"
+msgstr "Όχι"

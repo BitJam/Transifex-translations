@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Romanian (http://www.transifex.com/anticapitalista/antix-development/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+msgid "Terminal"
+msgstr ""
+
+msgid "File Manager"
+msgstr "Acasă"
+
+msgid "Web Browser"
+msgstr "Navigator"
+
+msgid "Editor"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Applications"
+msgstr "Aplicatii"
+
+msgid "Terminal Apps"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "CD/DVD Writer"
+msgstr ""
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Network"
+msgstr "Rețea"
+
+msgid "Alpine Mail"
+msgstr ""
+
+msgid "Browser elinks"
+msgstr ""
+
+msgid "Irssi Chat"
+msgstr ""
+
+msgid "RSS/Atom Reader"
+msgstr ""
+
+msgid "rTorrent"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Birou"
+
+msgid "Alternate Desktops"
+msgstr ""
+
+msgid "Add Desktop"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "GTK Theme"
+msgstr "GTK Theme "
+
+msgid "Desktop Defaults"
+msgstr ""
+
+msgid "Session Settings"
+msgstr ""
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr "Panou Rox on/off"
+
+msgid "Conky on/off"
+msgstr "Conky on/off "
+
+msgid "Tools"
+msgstr "Unelte"
+
+msgid "Nano"
+msgstr "Nano "
+
+msgid "Ted"
+msgstr "Ted "
+
+msgid "Search"
+msgstr "Caută"
+
+msgid "MC File Manager"
+msgstr "MC File Manager "
+
+msgid "App Killer"
+msgstr "Termină"
+
+msgid "Process Viewer"
+msgstr "Vizualizare procese"
+
+msgid "System Information"
+msgstr "Sistemul de Informaţii"
+
+msgid "Control Centre"
+msgstr "Centru de Control"
+
+msgid "Help"
+msgstr "Ajutor"
+
+msgid "antiX"
+msgstr "antiX "
+
+msgid "antiX FAQ"
+msgstr "Întrebări frecvente"
+
+msgid "antiX-live How-To"
+msgstr "Live Ghid"
+
+msgid "Rox Manual"
+msgstr "Manual Rox"
+
+msgid "Fluxbox"
+msgstr "Fluxbox "
+
+msgid "Fluxbox Docs"
+msgstr "Documente"
+
+msgid "Fluxbox FAQ"
+msgstr "Întrebări frecvente"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki "
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki "
+
+msgid "IceWM"
+msgstr "IceWM "
+
+msgid "IceWM FAQ"
+msgstr "Întrebări frecvente"
+
+msgid "IceWM Manual"
+msgstr "Manual IceWM"
+
+msgid "OSNews"
+msgstr "OSNews "
+
+msgid "JWM"
+msgstr "JWM "
+
+msgid "Homepage"
+msgstr ""
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux "
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Partimage"
+msgstr "Partimage "
+
+msgid "Man Pages"
+msgstr "Manual"
+
+msgid "Backup"
+msgstr ""
+
+msgid "Irssi"
+msgstr "Irssi "
+
+msgid "mc"
+msgstr "mc "
+
+msgid "mocp"
+msgstr "mocp "
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom "
+
+msgid "Torrent"
+msgstr "Torrent "
+
+msgid "Run"
+msgstr "Rulează"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox"
+
+msgid "Configuration"
+msgstr "Configurație"
+
+msgid "Styles"
+msgstr "Stiluri"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles "
+
+msgid "Fluxbox Styles"
+msgstr "Stiluri Fluxbox"
+
+msgid "Workspaces"
+msgstr "Spații de lucru"
+
+msgid "Reconfigure"
+msgstr "Reconfigurează"
+
+msgid "Restart"
+msgstr "Repornește"
+
+msgid "Exit"
+msgstr "Ieșire"
+
+msgid "antiX Installer"
+msgstr "Instalează"
+
+msgid "Logout..."
+msgstr "Ieșire"
+
+msgid "Restart JWM"
+msgstr "Repornire JWM"
+
+msgid "Log Out"
+msgstr "Ieșire"
+
+msgid "Home Folder"
+msgstr "Dosar documente "
+
+msgid "Browser"
+msgstr "Navigator"
+
+msgid "Unplug Removable Device"
+msgstr ""
+
+msgid "Quit"
+msgstr "Iesire"

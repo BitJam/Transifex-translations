@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# Michel Massoud <michel_massoud@hotmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 23:02+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: Michel Massoud <michel_massoud@hotmail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/antix-development/language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+
+#: antixcckeyboard.sh:15
+msgid "Keyboard Config"
+msgstr "إعداد لوحة المفاتيح"
+
+#: antixcckeyboard.sh:19
+msgid "<b>Choose a Language.</b>"
+msgstr "اختيار اللغة"
+
+#: antixcckeyboard.sh:24
+msgid "British"
+msgstr "المملكة المتحدة"
+
+#: antixcckeyboard.sh:29
+msgid "French"
+msgstr "الفرنسية"
+
+#: antixcckeyboard.sh:33
+msgid "German"
+msgstr "اللغة الألمانية"
+
+#: antixcckeyboard.sh:37
+msgid "Greek"
+msgstr "اليونانية"
+
+#: antixcckeyboard.sh:41
+msgid "Italian"
+msgstr "الإيطالي"
+
+#: antixcckeyboard.sh:45
+msgid "Norwegian"
+msgstr "النرويجية"
+
+#: antixcckeyboard.sh:49
+msgid "Portuguese"
+msgstr "البرتغالية"
+
+#: antixcckeyboard.sh:53
+msgid "Spanish"
+msgstr "الأسبانية"
+
+#: antixcckeyboard.sh:57
+msgid "Romanian"
+msgstr "الرومانية"
+
+#: antixcckeyboard.sh:61
+msgid "US"
+msgstr "الولايات المتحدة"
+
+#: antixcckeyboard.sh:68
+msgid "Close"
+msgstr "خروج"

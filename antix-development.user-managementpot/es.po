@@ -1,0 +1,169 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+# megatotoro <jratlsv2@racsa.co.cr>, 2013-2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:19+EEST\n"
+"PO-Revision-Date: 2014-02-17 14:00+0000\n"
+"Last-Translator: megatotoro <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: user-management:40
+msgid "The password cannot contain spaces"
+msgstr "La contraseña no puede contener espacios"
+
+#: user-management:41
+msgid "You need to enter a password"
+msgstr "Debe ingresar una contraseña"
+
+#: user-management:42
+msgid "First and second password must be identical"
+msgstr "La primera y segunda contraseñas deben ser idénticas "
+
+#: user-management:43
+msgid "No User Selected:"
+msgstr "No se ha seleccionado el usuario:"
+
+#: user-management:44
+msgid "You must choose a user"
+msgstr "Debe seleccionar un usuario"
+
+#: user-management:45
+msgid "Choose User"
+msgstr "Elegir usuarios"
+
+#: user-management:46
+msgid "User Password"
+msgstr "Contraseña del usuario"
+
+#: user-management:47
+msgid "User Login"
+msgstr "Autenticación del usuario"
+
+#: user-management:48
+msgid "Set as Default User"
+msgstr "Escoger como usuario por defecto"
+
+#: user-management:49
+msgid "Set User for Automatic Login"
+msgstr "Escoger el usuario para la autenticación automática "
+
+#: user-management:50
+msgid "The username cannot contain spaces"
+msgstr "El nombre del usuario no puede contener espacios"
+
+#: user-management:51
+msgid "You need to enter a username"
+msgstr "Debe ingresar un nombre de usuario"
+
+#: user-management:52
+msgid "Enter Username"
+msgstr "Ingrese el nombre del usuario"
+
+#: user-management:53
+msgid "User Shell"
+msgstr "Intérprete de comandos del usuario"
+
+#: user-management:54
+msgid "No Shell Selected:"
+msgstr "No se seleccionó ningún intérprete de comandos"
+
+#: user-management:55
+msgid "You need to choose a shell"
+msgstr "Debe escoger un intérprete de comandos"
+
+#: user-management:56
+msgid "Password Manager"
+msgstr "Administrador de contraseñas"
+
+#: user-management:57
+msgid "password"
+msgstr "contraseña"
+
+#: user-management:58
+msgid "password again"
+msgstr "contraseña nuevamente"
+
+#: user-management:59
+msgid "Passwords"
+msgstr "Contraseñas"
+
+#: user-management:60
+msgid "Add Users"
+msgstr "Agregar usuarios"
+
+#: user-management:61
+msgid "Add User"
+msgstr "Agregar usuario"
+
+#: user-management:62
+msgid "Set Password"
+msgstr "Ajustar contraseña"
+
+#: user-management:63
+msgid "Users"
+msgstr "Usuarios"
+
+#: user-management:64
+msgid "User Repair"
+msgstr "Reparar usuarios"
+
+#: user-management:65
+msgid "Repair User"
+msgstr "Reparar usuarios"
+
+#: user-management:67
+msgid "User Removal"
+msgstr "Remover usuarios"
+
+#: user-management:68
+msgid ""
+"Notice!\n"
+"        All of the users files will remain in their \n"
+"        home directory, unless completely remove\n"
+"        is checked. \n"
+"        Even so, it is recomended that the\n"
+"        files be backed up!"
+msgstr "¡Atención!\nTodos los archivos del usuario permanecerán en su\ndirectorio home, a menos que se seleccione\n\"remover completamente\".\nAún en ese caso se recomienda \nrespaldar dichos archivos."
+
+#: user-management:76
+msgid "Remove User"
+msgstr "Remover usuario"
+
+#: user-management:77
+msgid "Recover User"
+msgstr "Recuperación de usuarios"
+
+#: user-management:78
+msgid ""
+"Notice!\n"
+"        A user can only be recovered if the user\n"
+"        has not been completely removed!"
+msgstr "¡Atención!\nSolamente se puede recuperar un usuario si éste\nno se ha removido por completo."
+
+#: user-management:81
+msgid "The list of configs need to be empty or your own configs"
+msgstr "La lista de configuraciones debe estar vacía o con sus propias configuraciones"
+
+#: user-management:82
+msgid "You MUST be root to use this application!"
+msgstr "DEBE ser root para usar esta aplicación"
+
+#: user-management:83
+msgid ""
+"Warning!\n"
+"        Attempting a user repair may restore more\n"
+"        programs to original settings than you intend!\n"
+"        It is highly recommended that you first do a\n"
+"        backup of all files in your home directory."
+msgstr "¡Advertencia!\nLa reparación de un usuario puede restaruar más\nprogramas de los que se desea en los ajustes originales.\nSe recomienda que antes ejecute un respaldo \nde todos los archivos en su directorio home.  "

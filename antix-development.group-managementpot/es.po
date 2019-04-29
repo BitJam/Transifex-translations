@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:18+EEST\n"
+"PO-Revision-Date: 2014-01-02 22:10+0000\n"
+"Last-Translator: megatotoro <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: group-management:40
+msgid "The password cannot contain spaces"
+msgstr "La contraseña no puede contener espacios"
+
+#: group-management:41
+msgid "You need to enter a password"
+msgstr "Debe ingresar una contraseña"
+
+#: group-management:42
+msgid "First and second password must be identical"
+msgstr "La primera y segunda contraseñas deben ser idénticas "
+
+#: group-management:43 group-management:47
+msgid "No group Selected:"
+msgstr "No se seleccionó ningún grupo:"
+
+#: group-management:44
+msgid "You must choose a group"
+msgstr "Debe escoger un grupo"
+
+#: group-management:45
+msgid "Password Management"
+msgstr "Administración de contraseñas"
+
+#: group-management:46
+msgid "Choose group"
+msgstr "Escoger grupo"
+
+#: group-management:48
+msgid "group Password"
+msgstr "Clave de acceso del grupo"
+
+#: group-management:49
+msgid "password"
+msgstr "contraseña"
+
+#: group-management:50
+msgid "password again"
+msgstr "contraseña nuevamente"
+
+#: group-management:51
+msgid "Passwords"
+msgstr "Contraseñas"
+
+#: group-management:52
+msgid "The groupname cannot contain spaces"
+msgstr "El nombre del grupo no puede contener espacios"
+
+#: group-management:53
+msgid "You need to enter a groupname"
+msgstr "Debe ingresar un nombre de grupo"
+
+#: group-management:54
+msgid "Add groups"
+msgstr "Agregar grupos"
+
+#: group-management:55
+msgid "Enter groupname"
+msgstr "Ingrese el nombre del grupo"
+
+#: group-management:56
+msgid "Group Password"
+msgstr "Clave de Acceso del Grupo"
+
+#: group-management:57
+msgid "Set Password"
+msgstr "Ajustar contraseña"
+
+#: group-management:58
+msgid "Users"
+msgstr "Usuarios"
+
+#: group-management:59
+msgid "Add group"
+msgstr "Agregue el grupo"
+
+#: group-management:60
+msgid "Users to Group"
+msgstr "Usuarios al Grupo"
+
+#: group-management:61
+msgid "Repair group"
+msgstr "Reparar grupos"
+
+#: group-management:62
+msgid "group Removal"
+msgstr "Remover grupos"
+
+#: group-management:63
+msgid ""
+"Notice!\n"
+"        All of the users in this group will be \n"
+"        logged, unless completely remove\n"
+"        is checked."
+msgstr "¡Atención!\n        Todos los usuarios de este grupo estarán \n        activos a menos que marque la opción\n        \"Remover Completamente\"."
+
+#: group-management:69
+msgid "Remove group"
+msgstr "Remover grupos"
+
+#: group-management:70
+msgid "No group Recoverable:"
+msgstr "No se puede recuperar el Grupo:"
+
+#: group-management:71
+msgid "There are no records of a recoverable group."
+msgstr "No existen grupos recuperables"
+
+#: group-management:72
+msgid "Recover group"
+msgstr "Recuperar grupos"
+
+#: group-management:73
+msgid ""
+"Notice!\n"
+"        A group can only be recovered if the group\n"
+"        has not been completely removed!"
+msgstr "¡Atención!\n        Un grupo se puede recoperar solamente si\n        no ha sido removido completamente"
+
+#: group-management:76
+msgid "Select Group"
+msgstr "Selecionar Grupos"
+
+#: group-management:77
+msgid "You MUST be root to use this application!"
+msgstr "DEBE ser root para usar esta aplicación"

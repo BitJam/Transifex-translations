@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# samson <sambelet@yahoo.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-03-26 18:17+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/anticapitalista/antix-development/language/am/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr ""
+
+msgid "The %s program took %s seconds"
+msgstr "ይህ %s ፕሮግራም %s ሰከንዶች ወስዷል"
+
+msgid "Detected %s init system"
+msgstr "ተገኝቷል %s init ስርአት"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "በ መጠበቅ ላይ %s ሰከንዶች buses እስከሚረጋጉ ድረስ ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "የ መጨረሻ ነጥብ(ቦች) ያስገቡ በ ኮማ የ ተለያየ"
+
+msgid "Invalid %s value %s"
+msgstr "ዋጋ የሌለው %s ዋጋ %s"
+
+msgid "Set font to %s"
+msgstr "ፊደል ማሰናጃ ለ %s"
+
+msgid "New screen width %s"
+msgstr "አዲስ የ መመልከቻ ስፋት %s"
+
+msgid "Welcome to %s"
+msgstr "እንኳን ደሀና መጡ ወደ %s"
+
+msgid "Current boot codes"
+msgstr "የ አሁኑ ማስነሻ ኮድ"
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "ምናልባት የማይታወቅ ወይንም የ ተሳሳተ የ ማስነሻ ኮድ"
+
+msgid "don't take this too seriously"
+msgstr "ብዙ አይጠብቁ"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "ያልታወቀ ምርጫ(ዎች) በ %s.  ያልታወቀ ምርጫ(ዎች): %s"
+
+msgid "Loading all modules"
+msgstr "ሁሉንም ክፍሎች በ መጫን ላይ"
+
+msgid "Loading hardware specific modules ..."
+msgstr "የ ጠንካራ አካሎች መግለጫ ክፍል በ መጫን ላይ"
+
+msgid "No %s devices found"
+msgstr "ምንም %s አካል አልተገኘም"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "ይህ %s ደንብ አካሉን ይከለክላል %s"
+
+msgid "Even though device %s has %s"
+msgstr "ምንም እንኳን አካሉ %s ቢኖረው %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "የ ማስነሻ %s  አካል ማስወገጃ መታሰስ እንዲችል"
+
+msgid "Device found but could not find %s file on device"
+msgstr "አካሉ ተገኝቷል ነገር ግን %s ፋይል በ አካሉ ላይ አልተገኘም"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "እንደገና ይሞክሩ ለ %s ሰከንዶች %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "አካል %s ማሰሻ:  መፈለጊያ %s ፋይል(ሎች) %s"
+
+msgid "Filtered devices %s"
+msgstr "የ ተጣራ አካል %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "መፈለጊያ %s አካል(ሎች) በ %s"
+
+msgid "Found new device(s) %s"
+msgstr "ተገኝቷል አዲስ አካል(ሎች) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "ይህ አካል %s ቀደም ብሎ ተጭኗል በ %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "የተጫነው አካል %s አካል: የተጫነው አካል %s በ %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s የ አካሉ ፋይል ስርአት: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "መፈለጊያ %s አካል በ %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "ቀደም ብሎ የ ነበረ %s መግጠሚያ ተገኝቷል"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "ክፍልፋይ በ መፈለግ ላይ ቢያንስ %s ነፃ ቦታ ያለው: እባክዎን ይቆዩ ..."
+
+msgid "quit"
+msgstr "ማጥፊያ"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "እርስዎ ይህን በ %s መግጠም ይፈልጋሉ %s በ አካሉ ላይ?"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "ይህ %sእየተገጠመ ነው: እባክዎን ይቆዩ "
+
+msgid "copy %s to %s"
+msgstr "ኮፒ ማድረጊያ ከ %s ወደ %s "
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "ይህ %s መግጠሚያ ተሳክቷል"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "ማግኘት አልተቻለም %s ፋይል በ %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "መጫን አልተቻለም %s እንደ የ %s ፋይል"
+
+msgid "File %s not found on device %s"
+msgstr "ፋይሉ %sበ አካሉ ውስጥ አልተገኘም %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "ዋጋ የሌለው የ መመስጠሪያ ዘዴ: %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "የሚፈለገው የ መመስጠሪያ ከረኔል ክፍል %s አልተገኘም"
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "ይህ %s ፕሮግራም ማግኘት አልተቻለም: ስለዚህ መመስጠር አይቻልም"
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "ይህ %s ፕሮግራም ተሰብሯል: ስለዚህ መመስጠር አይቻልም"
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "የ ተመሰጠረ አካል በ መፈለግ ላይ በ uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "ይጻፉ=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "ማግኘት አልተቻለም ፋይል በ %s"
+
+msgid "Could not find files %s or %s"
+msgstr "ፋይል ማግኘት አልተቻለም  %s ወይንም %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "ምንም የ ተመሰጠረ አካል በ uuid %s አልተገኘም"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "የ ተመሰጠረ አካል በ አካሉ ላይ በ መፈለግ ላይ %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "የ ተመሰጠረ አክል %s አልተገኘም"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "የ ተመሰጠረ አካል %s መከልከያ አካል አይደለም"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "የ ተመሰጠረ አካል %s የ LUKS አካል አይደለም "
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "የ ተመሰጠረ አክል ተገኝቷል በ አካሉ ላይ: እርስዎ የ ማለፊያ ሀረግ ከ ታች በኩል እንዲያስገቡ ይጠየቃሉ "
+
+msgid "Could not open LUKS device %s"
+msgstr "የ LUKS አካል መክፈት አልተቻለም %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "የ ተመሰጠረ አካል ተከፍቷል %s በ %s"
+
+msgid "Could not mount encrypted device"
+msgstr "የ ተመሰጠረ አካል መጫን አልተቻለም"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "ፋይል ማግኘት አልተቻለም  %s በ ተመሰጠረው ክፍልፋይ ውስጥ"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "እርስዎ በ እርግጥ ጽፈዋል ወይንም የ ማለፊያ ሀረግ አሁን ያስታውሳሉ?"
+
+msgid "press %s to continue"
+msgstr "ይጫኑ %s ለ መቀጠል"
+
+msgid "Enter"
+msgstr "ማስገቢያ"
+
+msgid "Changing encryption passphrase ..."
+msgstr "የ መመስጠሪያ ማለፊያ ሀረግ በ መቀየር ላይ"
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "እባክዎን የ አሁኑን የ ማለፊያ ሀረግ ያስገቡ (በ ንፁህ ጽሁፍ)"
+
+msgid "The entered passphrase does not match"
+msgstr "ያስገቡት የ ማለፊያ ሀረግ አይመሳሰልም"
+
+msgid "Do you want to try again?"
+msgstr "እርስዎ እንደገና መሞከር ይፈልጋሉ?  "
+
+msgid "Passphrase change aborted"
+msgstr "የ ማለፊያ ሀረግ መቀየር ተቋርጧል"
+
+msgid "Passphrase was not changed"
+msgstr "የ ማለፊያ ሀረግ አልተቀየረም"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "የ ማለፊያ ሀረግ ለ መጀመሪያ ማስነሻ እንደገና በ ማሰናዳት ላይ "
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "እንደ ነበር መመለሻ የ ተቋረጠውን: የ ማለፊያ ሀረግ ባዶ ነው"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "እንደ ነበር መመለሻ የ ተቋረጠውን: የ ተሳሳተ የ ማለፊያ ሀረግ በ ማለፊያ ሀረግ ፋይል ውስጥ"
+
+msgid "current phrase %s"
+msgstr "የ አሁኑ አረፍተ ነገር %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "እርስዎ ሁለት ጊዜ የ ማለፊያ ሀረግ እንዲያስገቡ ይጠየቃሉ "
+
+msgid "Searched devices: %s"
+msgstr "በ አካል ውስጥ ተፈልጓል: %s"
+
+msgid "Searched types: %s"
+msgstr "የ ተፈለገው አይነት: %s"
+
+msgid "All block devices: %s"
+msgstr "ሁሉም የ ተከለከሉ አካሎች: %s"
+
+msgid "Please contact %s at %s"
+msgstr "እባክዎን ይገናኙ %s በ %s"
+
+msgid "Kernel version mismatch"
+msgstr "የ ከረኔል እትም አይመሳሰልም"
+
+msgid "Kernel version %s"
+msgstr "የ ከረኔል እትም %s"
+
+msgid "The module directory %s is missing"
+msgstr "የ ዳይሬክቶሪ ክፍል %sጎድሏል"
+
+msgid "Initializing random number generator ..."
+msgstr "በ ደፈናው ቁጥር በ ማመንጨት ላይ"
+
+msgid "Saving random seed"
+msgstr "seed በ ደፈናው በ ማቀመጥ ላይ"
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "መጫን አልተቻለም %s እንደ የ %s ፋይል ስርአት"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "አይ %s አልተገኘም በ %s"
+
+msgid "Create %s failed"
+msgstr "መፍጠር %s አልተቻለም"
+
+msgid "Found %s"
+msgstr "ተገኝቷል %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "ከ ሁለቱ %s አንዱም %s አልተገኘም"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "ይህ %s የ ፋይል ስርአት አልተገኘም: ይህን በ መጠቀም %s "
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "እንዲጠቀሙ ማስገደጃ የ %s ከ ነበረው የ rootfs ፋይል ጋር"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "ይህ %s የ ፋይል ስርአት አልተገኘም ስለዚህ ፋይሉን መጠቀም %s አይቻልም"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "ማስቻያ %s የሚቀጥል"
+
+msgid "Could not mount %s"
+msgstr "መጫን አልተቻለም %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "መፍጠሪያ %s በ %s %s"
+
+msgid "check %s filesystem"
+msgstr "ይመርምሩ %s የ ፋይል ስርአት "
+
+msgid "There were no errors on %s"
+msgstr "ስህተት አልተገኘም በ %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "ማስጀመሪያ"
+
+msgid "Skip Error: %s"
+msgstr "ስህተት መዝለያ: %s"
+
+msgid "power off"
+msgstr "ሐይል ጠፍቷል"
+
+msgid "reboot"
+msgstr "ዳግም ማስጀመሪያ"
+
+msgid "Unknown command"
+msgstr "ያልታወቀ ትእዛዝ: "
+
+msgid "Please try again"
+msgstr "እባክዎን እንደገና ይሞክሩ"
+
+msgid "Unmount successful"
+msgstr "ማውረዱ ተሳክቷል"
+
+msgid "Press %s to %s"
+msgstr "ይጫኑ %s ለ %s"
+
+msgid "Will now %s the system"
+msgstr "አሁን %s ስርአቱ"
+
+msgid "Fatal Error"
+msgstr "አደገኛ ስህተት"
+
+msgid "Non-Fatal Error"
+msgstr "አደገኛ ያልሆነ ስህተት"
+
+msgid "continue"
+msgstr "ይቀጥሉ"
+
+msgid "yes"
+msgstr "አዎ"
+
+msgid "no"
+msgstr "አይ"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "እርስዎ መመለስ አለብዎት %s ወይንም %s. እባክዎን እንደገና ይሞክሩ"
+
+msgid "The default is"
+msgstr "የ አሁኑ ነባር ይህ ነው"
+
+msgid "default"
+msgstr "ነባር"
+
+msgid "Press <%s> for the default selection"
+msgstr "ይጫኑ <%s> ለ ነባር መምረጫ"
+
+msgid "enter"
+msgstr "ማስገቢያ"
+
+msgid "The number <%s> is out of range"
+msgstr "ይህ ቁጥርጫ <%s> ከ መጠን ውጪ ነው"
+
+msgid "Current default"
+msgstr "የ አሁኑ ነባር "
+
+msgid "Reset"
+msgstr "እንደ ነበር መመለሻ"
+
+msgid "Keeping default %s"
+msgstr "ነባሩን በ ማስቀመጥ ላይ %s"
+
+msgid "Previous default %s erased"
+msgstr "ያለፈው ነባር %s ተሰርዟል"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s ማሰናጃ ወደ %s"
+
+msgid "Default"
+msgstr "ነባር"
+
+msgid "Select Language"
+msgstr "ቋንቋ ይምረጡ:"
+
+msgid "Languages are listed alphabetically"
+msgstr "ቋንቋ የ ተቀመጠው በ ፊደል ቅደም ተከተል ነው"
+
+msgid "Language"
+msgstr "ቋንቋ "
+
+msgid "Select number of console columns"
+msgstr "የ console አምዶች ቁጥር ይምረጡ"
+
+msgid "Wider means a smaller font"
+msgstr "ሰፊ ማለት አነስተኛ ፊደል ነው"
+
+msgid "Console columns"
+msgstr "የ Console አምዶች"
+
+msgid "Select Timezone"
+msgstr "የ ሰአት ክልል ይምረጡ"
+
+msgid "Timezones are listed by longitude"
+msgstr "የ ሰአት ክልል የ ተዘጋጀው በ longitude ነው"
+
+msgid "Timezone"
+msgstr "የ ሰአት ክልል"
+
+msgid "Select Option"
+msgstr "ይምረጡ ከ ምርጫ"
+
+msgid "Only one option can be selected"
+msgstr "አንድ ምርጫ ብቻ መምረጥ ይቻላል"
+
+msgid "Options"
+msgstr "ምርጫዎች"
+
+msgid "Select Mounting Option"
+msgstr "የ መጫኛ ምርጫ ይምረጡ"
+
+msgid "Automounting is enabled by default"
+msgstr "በራሱ መጫኛ በ ነባር ማሰቻያ"
+
+msgid "Mount"
+msgstr "መጫኛ"
+
+msgid "automount|mount=*"
+msgstr "በራሱ መጫኛ|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "የሚቀጥል ምርጫ ይምረጡ"
+
+msgid "Persistence"
+msgstr "የሚቀጥል "
+
+msgid "Select font size"
+msgstr "የ ፊደል መጠን ይምረጡ"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "ፊደሎች በ ንድፍ መመልከቻ መሰረት መመጠኛ: ነባር 1.0 ነው"
+
+msgid "Select Desktop"
+msgstr "ዴስክቶፕ ይምረጡ"
+
+msgid "Desktop"
+msgstr "ዴስክቶፕ"
+
+msgid "Save these changes?"
+msgstr "እነዚህን ለውጦች ላስቀምጣቸው?"
+
+msgid "Save"
+msgstr "ማስቀመጫ"
+
+msgid "Please select %s device:"
+msgstr "እባክዎን %s አካል ይምረጡ"
+
+msgid "reverse video"
+msgstr "ቪዲዮ እንደ ነበር መመለሻ"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "ሊጠቀሙበት የማይችሉት ክፍልፋዮች ዝርዝር ነገር ግን መምረጥ አይችሉም"
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "የ መመጠኛ ሁኔታ ደምቋል በ %s"
+
+msgid "The device %s already has label %s"
+msgstr "ይህ አካል %s ቀደም ብሎ ምልክት ነበረው %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "የ ማሻሻያ ምልክት በ %s ከ %s ለ %s?"
+
+msgid "The device %s has no label"
+msgstr "ይህ ፋይል %s ምልክት የለውም"
+
+msgid "Give %s the label %s?"
+msgstr "ምልክት %s ልስጠ  %s?"
+
+msgid "Label updated to %s"
+msgstr "ምልክት ማሻሻያ ወደ %s"
+
+msgid "Valid %s"
+msgstr "ዋጋ ያለው: %s"
+
+msgid "Could not find device %s"
+msgstr "አካሉን ማግኘት አልተቻለም %s"
+
+msgid "Valid devices"
+msgstr "ዋጋ ያለው አካል"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s አይመሳሰሉም ይህ %s እና %s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "ኮፒ ከ %s ወደ ባዶ ማድረጊያ%s "
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "%s ፋይሉ አልተገኘም %s"
+
+msgid "No %s found in file %s"
+msgstr "አይ %s በ ፋይል ውስጥ ተገኝቷል %s"
+
+msgid "No %s found but there is a %s"
+msgstr "አይ %s ተገኝቷል ነገር ግን %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "ይመርምሩ %s ፋይሎች በ %s ዳይሬክቶሪ ውስጥ: እባክዎን ይቆዩ ..."
+
+msgid "file: %s"
+msgstr "ፋይል: %s"
+
+msgid "result: %s"
+msgstr "ውጤት: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "አይ %s checksums አልተገኘም በ %s. ምንም መመርመር %s አይቻልም"
+
+msgid "At least one %s checksum did not match"
+msgstr "ቢያንስ አንድ %s checksum አይመሳሰልም"
+
+msgid "Success!  The file passed"
+msgstr "ተሳክቷል! ፋይሉ አልፏል"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "ተሳክቷል! ሁሉም All %s ፋይሎች አልፈዋል"
+
+msgid "Wait %s seconds"
+msgstr "ይጠብቁ %s ሰከንዶች"
+
+msgid "copy %s file to RAM"
+msgstr "ኮፒ ማድረጊያ ከ %s ወደ ራም "
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "ፋይል ኮፒ ማድረጊያ ከ %s ወደ %s. እባክዎን ይቆዩ ... "
+
+msgid "Size of original %12s"
+msgstr "የ ዋናው መጠን %12s"
+
+msgid "Size of copy %12s"
+msgstr "የ ኮፒ መጠን %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "ወደ ራም ኮፒ ማድረግ ተሳክቷል"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr ""
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "በ ቀጥታ አካል ላይ ለ መፍጠር በቂ  ነፃ ቦታ የለም %s ለ ፋይሉ መጠን %s ሜባ"
+
+msgid "create %s persistence file"
+msgstr "ማስቻያ %s የሚቀጥል ፋይል"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "ነባር መጠን: %s ሜባ:  የ ፋይል ስርአት አይነት: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "ይህ ነባር መጠን %s ሜባ ነፃ ቦታ ይለቃል"
+
+msgid "Create %s file, manually or automatically"
+msgstr "መፍተሪያ %s ፋይል: በ እጅ ወይንም ራሱ በራሱ"
+
+msgid "create automatically"
+msgstr "ራሱ በራሱ መፍጠሪያ"
+
+msgid "create custom"
+msgstr "ማስተካከያ መፍጠሪያ"
+
+msgid "Please select size of %s file"
+msgstr "እባክዎን የ ፋይል መጠን %s ይምረጡ"
+
+msgid "There is %s MiB available on the device"
+msgstr "ይህን ያህል %s ሜባ በ አካሉ ላይ ዝግጁ ነው"
+
+msgid "Filesystem size %s MiB"
+msgstr "የ ፋይል ስርአት አይነት: %s ሜባ"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "የ ፋይል አይነት %s መፍጠሪያ %s እና መጠን %s ሜባ"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "ማስጠንቀቂያ ይህ ትንሽ ጊዜ ይወስዳል በ ጌባ %s ፋይል ስርአት"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "እባክዎን ይቆዩ የ ነበረውን ክፍልፋይ እስከሚገን ድረስ..."
+
+msgid "persistence"
+msgstr "የሚቀጥል "
+
+msgid "persist device"
+msgstr "የሚቀጥል አካል"
+
+msgid "Enabled %s persistence"
+msgstr "ማስቻያ %s የሚቀጥል"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "ኮፒ ማድረጊያ %s ሜባ ወደ ራም "
+
+msgid "mount persistence file %s at %s"
+msgstr ""
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr ""
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "ይህን የ homefs መጫኛ ነጥብ ማንቀሳቀስ አልተቻለም"
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr ""
+
+msgid "There's not enough space to copy all the files"
+msgstr "ሁሉንም ፋይል ኮፒ ለ ማድረግ በቂ ነፃ ቦታ የለም"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr ""
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "አይ %s ፋይል ተገኝቷል: እንደገና መሰየሚያ %s ወደ %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "ይህ %s ነፃ ሜባ ቦታ አለው: የሚያስፈልገው %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "የ homefs. እንደገና መመጠኛ: ይዞታዎችን ኮፒ ማድረጊያ ከ %s ወደ %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "የ ቤት ፋይል ስርአት ኮፒ ማድረጊያ: እባክዎን ይቆዩ ... "
+
+msgid "Press <%s> to continue"
+msgstr "ይጫኑ <%s> ለ መቀጠል"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "እርስዎ የ መረጡት የ VGA ሪዞሊሽን ነው %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "ይህን ሪዞሊሽን ማስቀመጥ ይፈልጋሉ ለሚቀጥለው ማስነሻ?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "ይህ አዲሱ የ VGA ማሰናጃ እና የ እርስዎ ሌላ ማሰነሻ ደንብ ይቀመጣል"
+
+msgid "umount %s"
+msgstr "ማውረጃ %s"
+
+msgid "umount of %s failed"
+msgstr "ማውረድ %s አልተቻለም"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "ነባር መጠን: %s ሜባ:  የ ፋይል ስርአት አይነት: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "ይህ ነባር መጠን %s ሜባ ነፃ ቦታ ይለቃል"
+
+msgid "There is %s Meg available on the device"
+msgstr "ይህን ያህል %s ሜባ በ አካሉ ላይ ዝግጁ ነው"
+
+msgid "Filesystem size %s Meg"
+msgstr "የ ፋይል ስርአት አይነት: %s ሜባ"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "መፍጠሪያ %s የ ፋይል አይነት %s እና መጠን %s ሜባ"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "ኮፒ ማድረጊያ %s ሜባ ወደ ራም "
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "ይህን ያህል %4s ሜባ ፋይሎች በ ቤት ውስጥ ይደበቃሉ"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr ""

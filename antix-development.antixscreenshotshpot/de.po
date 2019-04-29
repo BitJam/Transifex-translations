@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:52+0300\n"
+"PO-Revision-Date: 2014-11-08 14:19+0000\n"
+"Last-Translator: alfredmale <maledora4@googlemail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "antiXscreenshot"
+msgstr "antiXscreenshot"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "Keep this screenshot?"
+msgstr "Wollen Sie dieses Bildschirmfoto behalten?"
+
+#: antixscreenshot.sh:69
+msgid "File extension was changed.\\nPlease try again."
+msgstr "Dateierweiterung wurde geändert.\\nBitte versuchen Sie es erneut."
+
+#: antixscreenshot.sh:96
+msgid "Your screenshot has been saved."
+msgstr "Ihr Bildschirmfoto wurde gespeichert."
+
+#: antixscreenshot.sh:107
+msgid "Region to capture"
+msgstr "zu erfassender Bereich"
+
+#: antixscreenshot.sh:110
+msgid "Full Screen"
+msgstr "Vollbild"
+
+#: antixscreenshot.sh:111
+msgid "Custom Area"
+msgstr "benutzerdefinierter Bereich"
+
+#: antixscreenshot.sh:112
+msgid "Window"
+msgstr "Fenster"
+
+#: antixscreenshot.sh:116
+msgid "Name of image"
+msgstr "Name des Bildes"
+
+#: antixscreenshot.sh:123
+msgid "File type"
+msgstr "Dateityp"
+
+#: antixscreenshot.sh:134
+msgid "Show save dialog"
+msgstr "Zeige den Speichern-Dialog"
+
+#: antixscreenshot.sh:136
+msgid "Choose directory"
+msgstr "Ordner wählen"
+
+#: antixscreenshot.sh:146
+msgid "Delay in seconds"
+msgstr "Verzögerung in Sekunden"
+
+#: antixscreenshot.sh:153
+msgid "Multiple screenshots"
+msgstr "Mehrere Bildschirmfotos"
+
+#: antixscreenshot.sh:155
+msgid "Take another shot"
+msgstr "Nehme eine weitere Aufnahme"
+
+#: antixscreenshot.sh:161
+msgid "Thumbnail for webpages"
+msgstr "Vorschaubild für Webseiten"
+
+#: antixscreenshot.sh:163
+msgid "Create a thumbnail"
+msgstr "Vorschaubilder erstellen"
+
+#: antixscreenshot.sh:170
+msgid "Percentage (1-100)"
+msgstr "Prozentsatz (1-100)"

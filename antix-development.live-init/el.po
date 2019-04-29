@@ -1,0 +1,155 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011,2013-2014
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2014-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2017-11-16 17:33+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr "Τοπικοποίηση/ρύθμιση των X-Windows"
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr "Απενεργοποίηση του splash (fbcondecor) στο Virtual Box"
+
+msgid "Creating missing %s file"
+msgstr "Δημιουργία αρχείου %s που λείπει"
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr "Προεπιλεγμένο χρήστης %s δε βρέθηκε στο σύστημα."
+
+msgid "Mounting all devices"
+msgstr "Τοποθέτηση όλων των συσκευών"
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr "Μη έγκυρο %s επιλογή %s"
+
+msgid "Automount disabled"
+msgstr "Automount απενεργοποιημένη"
+
+msgid "Enabling fstab hotplugging"
+msgstr "Ενεργοποίηση hotplugging fstab"
+
+msgid "Automount enabled"
+msgstr "automount ενεργοποιημένη "
+
+msgid "Bad fstab option %s"
+msgstr "Κακή επιλογή fstab %s"
+
+msgid "Unknown menu localization language %s"
+msgstr "Άγνωστη γλώσσα του μενοϋ %s"
+
+msgid "Directory not found %s"
+msgstr "Κατάλογος δεν βρέθηκε %s"
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr "Τοπικοποίηση του μενοϋ σε %s σε %s "
+
+msgid "Setting %s to %s"
+msgstr "Ρύθμιση %s σε %s"
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr "Ακυρος κωδικος του mirror %s (αναμένεται δύο γράμματα)"
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr "Τοπικοποίηση του repos %s"
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr "Υποθέτοντας %s έχει οριστεί σε χρόνο %s"
+
+msgid "Removing previous auto-generated %s file"
+msgstr "Αφαίρεση προηγούμενο αρχείο %s "
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr "Απενεργοποίηση ασφαλή λειτουργία λόγω του υλικού βίντεο KMS %s"
+
+msgid "Letting X server default to using %s driver"
+msgstr "Προεπιλογή του driver %s"
+
+msgid "Forcing X-Windows to use default mode"
+msgstr "Εξαναγκασμός X-Windows για να χρησιμοποιήσετε την προεπιλεγμένη λειτουργία"
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr "Διαμόρφωση αρχείου %s με %s"
+
+msgid "Using X to make xorg.conf"
+msgstr " Δημιουργώντας το xorg.conf"
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr "Αναγκάζοντας επιτάχυνσης %s στο%s"
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr "Αναγκάζοντας driver %s στο %s"
+
+msgid "Creating file %s"
+msgstr "Δημιουργία αρχείου %s"
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr "Σάρωση για συγκεκριμένο υλικό ενότητες βίντεο ..."
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr "Βρέθηκαν %s μονάδα βίντεο %s"
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr "Βρέθηκαν %s μονάδα του πυρήνα ..."
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr "Βρέθηκε %s driver βίντεο"
+
+msgid "Setting Conky width to %s"
+msgstr "Ρύθμιση πλάτους του Conky στο %s"
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr "Ακυρο %s η παράμετρα εκκίνησης %s "
+
+msgid "Bad desktop delay parameter %s"
+msgstr "Κακός παράμετρος καθυστέρησης της επιφάνειας εργασίας %s"
+
+msgid "Setting desktop delay to %s"
+msgstr "Ρύθμιση καθυστέρησης στην επιφάνεια εργασίας στο %s"
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr "Ρύθμιση χρονικού ορίου σε %s λεπτό(ά) της κονσόλας ηρεμίας"
+
+msgid "Creating issue file for %s"
+msgstr "Δημιουργία αρχείου issue για %s"
+
+msgid "Files already exist under %s"
+msgstr "Τα αρχεία υπάρχουν ήδη στο %s"
+
+msgid "Not creating or populating %s"
+msgstr "Δε γίνεται δημιουργία ή εποίκηση του %s"
+
+msgid "Populating %s directory"
+msgstr "Εποίκηση κατάλογο %s"
+
+msgid "Setting desktop theme to %s"
+msgstr "Ρύθμιση θέμα της επιφάνειας εργασίας στο %s"

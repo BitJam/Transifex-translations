@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kennet Nordström <knordstrom45@hotmail.com>, 2017\n"
+"Language-Team: Swedish (https://www.transifex.com/anticapitalista/teams/10162/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "antiX Command-Line Control Centre"
+msgstr "antiX Kommandorad Kontrollcentrum"
+
+msgid ""
+"Press: <Enter> to select an option, <b> back to main, <q> to quit, <h> for "
+"help"
+msgstr ""
+"Tryck: <Enter>för att göra ett val, <b> tillbaka till huvudmenyn, <q> för "
+"att avsluta, <h>för hjälp"
+
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+msgid "antiX Live Commands"
+msgstr "AntiX Live Kommandon"
+
+msgid "Audio/Visual Commands"
+msgstr "Audio/Visuella Kommandon"
+
+msgid "System Tools"
+msgstr "Systemverktyg"
+
+msgid "System Information"
+msgstr "Systeminformation"
+
+msgid "Console Utilities"
+msgstr "Konsol-verktyg"
+
+msgid "Internet Applications"
+msgstr "Internetapplikationer"
+
+msgid "Office Applications"
+msgstr "Kontorsapplikationer"
+
+msgid "Configuration Files"
+msgstr "Konfigurationsfiler"
+
+msgid "Logout / Installer"
+msgstr "Logout / Installerare"
+
+msgid "Logout / Reboot"
+msgstr "Logga ut / Starta om"
+
+msgid "Audio/Visual menu"
+msgstr "Audio/Visuell meny"
+
+msgid "Internet Tools & Apps"
+msgstr "Internet Verktyg & Applikationer"
+
+msgid "Live System Centre"
+msgstr "Live Systemcentrum"
+
+msgid "Office and Other"
+msgstr "Kontor och Annat"
+
+msgid "Logout / Install"
+msgstr "Logout / Installering"
+
+msgid "Quit"
+msgstr "Avsluta"
+
+msgid "Would do action %s"
+msgstr "Skulle medföra åtgärd %s"
+
+msgid "Install this distro on a hard drive"
+msgstr "Installera denna distribution på en hårddisk"
+
+msgid "Reboot the system"
+msgstr "Starta om systemet"
+
+msgid "Powerdown the system"
+msgstr "Stäng av systemet"
+
+msgid "See if sound is working"
+msgstr "Se om ljudet fungerar"
+
+msgid "Select which sound card to use"
+msgstr "Välj vilket ljudkort att använda"
+
+msgid "simple sound mixer"
+msgstr "enkel ljudmixer"
+
+msgid "Audio Player"
+msgstr "Musikspelare"
+
+msgid "Stop mocp Audio Player"
+msgstr "Stoppa mocp Musikspelare"
+
+msgid "Video Player"
+msgstr "Videospelare"
+
+msgid "YouTube audio-only jukebox"
+msgstr "YouYube endast-audio jukebox"
+
+msgid "Poor Man's Radio Player"
+msgstr "Fattigmans Radiospelare"
+
+#. add_cmd burniso                  "cd/dvd burner"
+msgid "Image viewer"
+msgstr "Bildvisare"
+
+msgid "Pdf viewer"
+msgstr "Pdf-visare"
+
+msgid "cd/dvd burner"
+msgstr "cd/dvd brännare"
+
+msgid "Install new packages (like Synaptic)"
+msgstr "Installera nya paket (som Synaptic)"
+
+#. add_cmd smxi                  $"System maintenance tool"
+msgid "Install nvidia non-free graphics drivers (for X)"
+msgstr "Installera nvidia icke-fria grafikdrivrutiner (för X)"
+
+msgid "Check and undelete disk partitions"
+msgstr "Kontrollera och återställ diskpartitioner"
+
+msgid "Choose startup services"
+msgstr "Välj starttjänster"
+
+msgid "Set date and time"
+msgstr "Ställ in datum och tid"
+
+msgid "Partition block device %s"
+msgstr "Partition block enhet %s"
+
+msgid "Monitor and control processes"
+msgstr "Övervaka och kontrollera processer"
+
+msgid "Hardware and OS information"
+msgstr "Hårdvara och OS information"
+
+msgid "Other system information"
+msgstr "Annan systeminformation"
+
+msgid "Show memory usage"
+msgstr "Visa minnets användning"
+
+msgid "Information about mounted partitions"
+msgstr "Information om monterade enheter"
+
+msgid "List all block (disk) partitions"
+msgstr "Lista alla block (disk) partitioner"
+
+msgid "List currently installed kernel modules"
+msgstr "List aktuella installerade kärn-moduler"
+
+msgid "List major system components"
+msgstr "Lista större systemkomponenter"
+
+msgid "List attached USB devices"
+msgstr "Lista anslutna USB-enheter"
+
+msgid "Display messages from the kernel"
+msgstr "Visa meddelanden från kärnan"
+
+msgid "View information about various commands"
+msgstr "Se information om olika kommandon"
+
+msgid "View and edit disk partitions"
+msgstr "Se och redigera diskpartitioner"
+
+msgid "X Server Log File"
+msgstr "X Server Log Fil"
+
+msgid "Live Boot Log File"
+msgstr "Live Boot Log Fil"
+
+msgid "Make a full featured antiX or MX live-usb"
+msgstr "Skapa en antiX eller MX live-usb med alla egenskaper"
+
+msgid "Make a "
+msgstr "Gör en"
+
+msgid "Update live kernel"
+msgstr "Uppdatera live-kärnan"
+
+msgid "Remaster live system"
+msgstr "Remaster live-system"
+
+msgid "Save dynamic root persistence"
+msgstr "Spar dynamisk root persistens"
+
+msgid "Configure dynamic root persistence"
+msgstr "Konfigurera dynamisk root persistens"
+
+msgid "Create live persistence files"
+msgstr "Skapa live persistensfiler"
+
+msgid "Adjust the brightness of the backlight"
+msgstr "Anpassa bakgrundsljusets styrka"
+
+msgid "Choose the console background"
+msgstr "Välj konsolbakgrund"
+
+msgid "Choose the console font"
+msgstr "Välj teckensnitt för konsol"
+
+msgid "Display all possible console text colors"
+msgstr "Visa alla möjliga textfärger för konsol"
+
+#. add_cmd space-evaders         $"Arcade type game"
+msgid "Excerpts from the Tao of Programming"
+msgstr "Utdrag från the Tao of Programming"
+
+msgid "Lock the virtual consoles"
+msgstr "Lås de virtuella konsolerna"
+
+msgid "Set up wired/wireless"
+msgstr "Ställ in trådbunden/trådlös"
+
+msgid "Show network status"
+msgstr "Visa nätverkets status"
+
+msgid "Test if network is connected"
+msgstr "Pröva om nätverket är anslutet"
+
+msgid "Test network bandwidth"
+msgstr "Pröva nätverkets bandvidd"
+
+msgid "Show all network connections and ports"
+msgstr "Visa alla nätverksanslutningar och portar"
+
+msgid "Manage network profiles"
+msgstr "Hantera nätverksprofiler"
+
+msgid "Weather forecast"
+msgstr "Väderprognos"
+
+msgid "Email client"
+msgstr "Email klient"
+
+msgid "Web browser (text mode)"
+msgstr "Webläsare (textläge)"
+
+#. add_cmd links2           $"Web browser (text mode)"
+msgid "Web browser (graphics mode)"
+msgstr "Webläsare (grafiskt läge)"
+
+msgid "Chat client"
+msgstr "Chat klient"
+
+msgid "RSS/Atom feed reader"
+msgstr "RSS/Atom feed-läsare"
+
+msgid "BitTorrent client"
+msgstr "BitTorrent klient"
+
+msgid "Midnight commander file manager"
+msgstr "Midnight commander filhanterare"
+
+msgid "Word Processor"
+msgstr "Ordbehandling"
+
+msgid "Calendar/Schedule"
+msgstr "Kalender/Schema"
+
+msgid "Simple text editor"
+msgstr "Enkel textredigerare"
+
+msgid "Advanced text editor"
+msgstr "Avancerad textredigerare"
+
+msgid "File system table"
+msgstr "Filsystemstabell"
+
+msgid "X Windows Configuration"
+msgstr "X Windows Konfiguration"
+
+msgid "SLiM Graphical login manager"
+msgstr "SLiM Grafisk login-hanterare"
+
+msgid "Installed bootloader"
+msgstr "Installerad bootloader"
+
+msgid "Live usb BIOS bootloader"
+msgstr "Live usb BIOS bootloader"
+
+msgid "Live usb UEFI bootloader"
+msgstr "Live usb UEFI bootloader"
+
+msgid "Remaster Exclude List"
+msgstr "Remaster Exkludera Lista"
+
+msgid "Snapshot Exclude List"
+msgstr "Snapshot Exkludera Lista"
+
+msgid "Remaster Exclude List 2"
+msgstr "Remaster Exkludera Lista 2"
+
+msgid "Persist Save Exclude List"
+msgstr "Persist Save Exkludera Lista"

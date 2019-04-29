@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# megatotoro <jratlsv2@racsa.co.cr>, 2012
+# Richard  Holt <richard.holt@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:52+0300\n"
+"PO-Revision-Date: 2014-04-14 02:40+0000\n"
+"Last-Translator: Richard  Holt <richard.holt@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "antiXscreenshot"
+msgstr "antiX captura de pantalla"
+
+#: antixscreenshot.sh:9 antixscreenshot.sh:33
+msgid "Keep this screenshot?"
+msgstr "Guardar esta captura de pantalla?"
+
+#: antixscreenshot.sh:69
+msgid "File extension was changed.\\nPlease try again."
+msgstr "Se cambió la extensión del archivo. \\nPor favor intente de nuevo."
+
+#: antixscreenshot.sh:96
+msgid "Your screenshot has been saved."
+msgstr "Se guardó su captura de pantalla"
+
+#: antixscreenshot.sh:107
+msgid "Region to capture"
+msgstr "Región a capturar"
+
+#: antixscreenshot.sh:110
+msgid "Full Screen"
+msgstr "Pantalla Completa"
+
+#: antixscreenshot.sh:111
+msgid "Custom Area"
+msgstr "Área personalizada"
+
+#: antixscreenshot.sh:112
+msgid "Window"
+msgstr "Ventana"
+
+#: antixscreenshot.sh:116
+msgid "Name of image"
+msgstr "Nombre de la imagen"
+
+#: antixscreenshot.sh:123
+msgid "File type"
+msgstr "Tipo de archivo"
+
+#: antixscreenshot.sh:134
+msgid "Show save dialog"
+msgstr "Mostrar el diálogo de guardado"
+
+#: antixscreenshot.sh:136
+msgid "Choose directory"
+msgstr "Escoger el directorio"
+
+#: antixscreenshot.sh:146
+msgid "Delay in seconds"
+msgstr "Retraso en segundos"
+
+#: antixscreenshot.sh:153
+msgid "Multiple screenshots"
+msgstr "Múltiples capturas de pantalla"
+
+#: antixscreenshot.sh:155
+msgid "Take another shot"
+msgstr "Realizar otra captura"
+
+#: antixscreenshot.sh:161
+msgid "Thumbnail for webpages"
+msgstr "Previsualizaciones para páginas web"
+
+#: antixscreenshot.sh:163
+msgid "Create a thumbnail"
+msgstr "Crear una previsualización"
+
+#: antixscreenshot.sh:170
+msgid "Percentage (1-100)"
+msgstr "Porcentaje (1-100)"

@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+# ふうせん Fu-sen.｜BALLOON, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:22+0300\n"
+"PO-Revision-Date: 2014-05-27 04:21+0000\n"
+"Last-Translator: ふうせん Fu-sen.｜BALLOON\n"
+"Language-Team: Japanese (http://www.transifex.com/projects/p/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: adddesktop.sh:13
+msgid "Desktop Files"
+msgstr "デスクトップファイル"
+
+#: adddesktop.sh:19
+msgid "Menu name:"
+msgstr "メニュー名:"
+
+#: adddesktop.sh:25
+msgid "Menu icon:"
+msgstr "メニューアイコン:"
+
+#: adddesktop.sh:28
+msgid "Select an icon."
+msgstr "アイコンを選択."
+
+#: adddesktop.sh:39
+msgid "Menu category:"
+msgstr "メニューカテゴリ:"
+
+#: adddesktop.sh:59
+msgid "Command to execute:"
+msgstr "実行コマンド:"
+
+#: adddesktop.sh:62
+msgid "Select an application."
+msgstr "アプリケーションを選択."
+
+#: adddesktop.sh:73
+msgid "Launch in a terminal?"
+msgstr "ターミナルを起動しますか？"
+
+#: adddesktop.sh:82
+msgid "File name:"
+msgstr "ファイル名:"
+
+#: adddesktop.sh:123
+msgid ""
+"Your .desktop file has been saved as\\n "
+"/usr/share/applications/$FILE_SAVEFILENAME.desktop"
+msgstr ".desktop ファイルを次のところに保存しました\\n /usr/share/applications/$FILE_SAVEFILENAME.desktop"

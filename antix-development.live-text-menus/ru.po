@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2017-10-11 04:55+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Check integrity of the live media"
+msgstr "Проверить целостность живого носителя"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Проверить файловые системы ext2/3/4 LiveUSB и файла сохранения"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Копировать сжатую ФС в RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Завершить загрузку с Live USB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Завершить загрузку с жесткого диска"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Отключить все USB-2 устройства при загрузке"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Система должна помочь определить настройки часов"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Аппаратные часы используют UTC (только для Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Аппаратные часы используют местное время (Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Изменить пароль перед загрузкой"
+
+msgid "Enable wicd service on startup"
+msgstr ""
+
+msgid "Disable wicd service on startup"
+msgstr ""
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Отключить функцию сохранения LiveUSB (только LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Включить функцию сохранения LiveUSB (только LiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Сохранить некоторые файлы после перезагрузки (только Live USB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Не сохранять файлы после перезагрузки (только LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Автоматически монтировать устройства при подключении"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Отключить монтирование всех внешних устройств, смонтированных и автосмонтированных"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Быстро. Сохраняет корневой и домашний каталоги (использует оперативную память, сохраняет при выключении)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Быстро. Сохраняет только корневой каталог (использует оперативную память, сохраняет при выключении)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Медленно. Сохраняет корневой и домашний каталоги (без использования RAM, сохраняет постоянно)"
+
+msgid "Only home persistence"
+msgstr "Сохранение состояния только домашнего каталога"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Упрощенная установка с сохранением корневой ФС и домашнего каталога"
+
+msgid "Frugal with only root persistence"
+msgstr "Упрощенная установка с сохранением только корневой ФС"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Упрощенная установка с сохранением домашнего каталога и неизменной корневой ФС"
+
+msgid "Frugal with only home persistence"
+msgstr "Упрощенная установка с сохранением только домашнего каталога"
+
+msgid "Only Frugal, no persistence"
+msgstr "Только упрощенная установка, без сохранения"
+
+msgid "Yes (default)"
+msgstr "Да (по умолчанию)"
+
+msgid "No"
+msgstr "Нет"

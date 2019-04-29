@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# scootergrisen, 2018-2019
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "File Manager"
+msgstr "Filhåndtering"
+
+msgid "Web Browser"
+msgstr "Webbrowser"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Personal"
+msgstr "Personligt"
+
+msgid "Applications"
+msgstr "Programmer"
+
+msgid "Terminal Apps"
+msgstr "Terminalprogrammer"
+
+msgid "Multimedia"
+msgstr "Multimedie"
+
+msgid "CD/DVD Writer"
+msgstr "CD-/DVD-skriver"
+
+msgid "Music Player"
+msgstr "Musikafspiller"
+
+msgid "Network"
+msgstr "Netværk"
+
+msgid "Alpine Mail"
+msgstr "Alpine Mail"
+
+msgid "Browser elinks"
+msgstr "Browser elinks"
+
+msgid "Irssi Chat"
+msgstr "Irssi-chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS-/Atom-læser"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Organizer"
+msgstr "Organisator"
+
+msgid "Word"
+msgstr "Tekstbehandling"
+
+msgid "Update Menu"
+msgstr "Opdater menu"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "Alternate Desktops"
+msgstr "Alternative skriveborde"
+
+msgid "Add Desktop"
+msgstr "Tilføj skrivebord"
+
+msgid "Wallpaper"
+msgstr "Tapet"
+
+msgid "GTK Theme"
+msgstr "GTK-tema"
+
+msgid "Desktop Defaults"
+msgstr "Standarder for skrivebord"
+
+msgid "Session Settings"
+msgstr "Sessionsindstillinger"
+
+msgid "Session Settings Global"
+msgstr "Globale sessionsindstillinger"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel til/fra"
+
+msgid "Conky on/off"
+msgstr "Conky til/fra"
+
+msgid "Tools"
+msgstr "Værktøjer"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Søg"
+
+msgid "MC File Manager"
+msgstr "MC-filhåndtering"
+
+msgid "App Killer"
+msgstr "Programdræber"
+
+msgid "Process Viewer"
+msgstr "Procesfremviser"
+
+msgid "System Information"
+msgstr "Systeminformation"
+
+msgid "Control Centre"
+msgstr "Kontrolcenter"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX OSS"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live How-To"
+
+msgid "Rox Manual"
+msgstr "Rox-manual"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox-dokumentation"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox OSS"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox-wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch-wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM OSS"
+
+msgid "IceWM Manual"
+msgstr "IceWM-manual"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Man-sider"
+
+msgid "Backup"
+msgstr "Sikkerhedskopiering"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Kør"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox-indstillinger"
+
+msgid "Configuration"
+msgstr "Konfiguration"
+
+msgid "Styles"
+msgstr "Stile"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox-stile"
+
+msgid "Workspaces"
+msgstr "Arbejdsområder"
+
+msgid "Reconfigure"
+msgstr "Genkonfigurer"
+
+msgid "Restart"
+msgstr "Genstart"
+
+msgid "Exit"
+msgstr "Afslut"
+
+msgid "antiX Installer"
+msgstr "antiX-installationsprogram"
+
+msgid "Logout..."
+msgstr "Log ud..."
+
+msgid "Restart JWM"
+msgstr "Genstart JWM"
+
+msgid "Log Out"
+msgstr "Log ud"
+
+msgid "Home Folder"
+msgstr "Hjemmemappe"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Unplug Removable Device"
+msgstr "Fjern flytbar enhed"
+
+msgid "Quit"
+msgstr "Afslut"

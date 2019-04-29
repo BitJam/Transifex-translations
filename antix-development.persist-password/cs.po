@@ -1,0 +1,57 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr "NEBEZPEČÍ!%s SLABÉ HESLO!%s"
+
+msgid "It appears that root persistence was recently enabled."
+msgstr "Zdá, se, že v nedávné době bylo povoleno přetrvání root."
+
+msgid "The default password for the %s account is not secure."
+msgstr "Výchozí heslo pro účet %s není silné."
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr "Pro LiveCD se toto hodilo, ale pro vytrvalý systém to není bezpečné"
+
+msgid "Please provide a more secure password."
+msgstr "Zadejte prosím bezpečnější heslo."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr "Jeden typ dobrého hesla má 8 nebo více znaků a obsahuje kombinaci písmen, číslic a interpunkce."
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Omlouváme se za malé nepříjemnosti, které toto způsobuje."
+
+msgid "username: %s"
+msgstr "uživatelské jméno: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr "Heslo %s nebylo změněno. Prosím zkuste to znovu."
+
+msgid "Changing password for account %s as requested"
+msgstr "Změna hesla pro účet %s, dle požadavku"
+
+msgid "by use of the %s boot parameter."
+msgstr "použitím zaváděcího parametru %s."

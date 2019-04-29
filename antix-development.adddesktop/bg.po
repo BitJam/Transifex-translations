@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:22+0300\n"
+"PO-Revision-Date: 2014-07-20 01:20+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: adddesktop.sh:13
+msgid "Desktop Files"
+msgstr "Десктоп Файлове"
+
+#: adddesktop.sh:19
+msgid "Menu name:"
+msgstr "Име На Менюто:"
+
+#: adddesktop.sh:25
+msgid "Menu icon:"
+msgstr "Икона На Менюто:"
+
+#: adddesktop.sh:28
+msgid "Select an icon."
+msgstr "Изберете Икона:"
+
+#: adddesktop.sh:39
+msgid "Menu category:"
+msgstr "Категория На Менюто:"
+
+#: adddesktop.sh:59
+msgid "Command to execute:"
+msgstr "Команда за изпълнение:"
+
+#: adddesktop.sh:62
+msgid "Select an application."
+msgstr "Изберете проложение."
+
+#: adddesktop.sh:73
+msgid "Launch in a terminal?"
+msgstr "Изпълнение в терминал?"
+
+#: adddesktop.sh:82
+msgid "File name:"
+msgstr "Име на файла:"
+
+#: adddesktop.sh:123
+msgid ""
+"Your .desktop file has been saved as\\n "
+"/usr/share/applications/$FILE_SAVEFILENAME.desktop"
+msgstr "Вашият .desktop файл беше съхранен като \\n /usr/share/applications/$FILE_SAVEFILENAME.desktop"

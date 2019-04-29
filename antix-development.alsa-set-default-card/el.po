@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2017-11-13 16:43+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Δε βρέθηκαν κάρτες ήχου/συσκευές"
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Μόνο μία κάρτα ήχου βρέθηκε"
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "Τρέχουσα προεπιλογή είναι: %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Έξοδος "
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Παρακαλώ επιλέξτε την Κάρτα Ήχου"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Κάρτα ήχου έχει οριστεί σε %s"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "δοκιμή ήχου"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Θέλετε να ελέγξετε αν τα ηχητικά λειτουργούν"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "Έλεγχος ήχου έως 6 δευτερόλεπτα"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "Η δοκιμή πέτυχε"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Ήταν δυνατή η σύνδεση με την επιλεγμένη συσκευή)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "Η δοκιμή απέτυχε"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Δεν ήταν δυνατή η σύνδεση με την επιλεγμένη συσκευή)"

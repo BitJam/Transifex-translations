@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Roberto Saravia <jratlsv2@racsa.co.cr>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-07 00:12+0300\n"
+"PO-Revision-Date: 2015-01-15 17:42+0000\n"
+"Last-Translator: Roberto Saravia <jratlsv2@racsa.co.cr>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixsnapshot.sh:96
+msgid "\\t You need to be root!\\n"
+msgstr "\\t Necesita ser root!\\n"
+
+#: antixsnapshot.sh:101
+#, sh-format
+msgid ""
+"\\n Error! The text editor is set to ${text_editor},\n"
+" but it is not installed. Edit $configfile\n"
+" and set the text_editor variable to the editor of your choice.\n"
+" (examples: /usr/bin/vim, /usr/bin/joe)\\n"
+msgstr "\n\\n Error.  El editor de texto está ajustado a ${text_editor},\npero no se halla instalado. Edite $configfile\n y ajuste la variable text_editor al editor de su preferencia.\n (examples: /usr/bin/vim, /usr/bin/joe)\\n"
+
+#: antixsnapshot.sh:110
+msgid "Live init scripts will be installed"
+msgstr "Se instalarán los Live init scripts"
+
+#: antixsnapshot.sh:116
+msgid "Enabling dynamic fstab for live use."
+msgstr "Habilitando fstab dinámico para el uso live."
+
+#: antixsnapshot.sh:136
+#, sh-format
+msgid ""
+"* You have a saved copy of the system using $saved_size of space\n"
+"   located at $work_dir/new-squashfs."
+msgstr "* Ha guardado una copia del sistema usando $saved_size de espacio\nlocalizado en $work_dir/new-squashfs."
+
+#: antixsnapshot.sh:142
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be saved \n"
+"   at $work_dir/new-squashfs."
+msgstr "* Se guardará una copia temporal del sistema de archivos\nen $work_dir/new-squashfs."
+
+#: antixsnapshot.sh:145
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be created \n"
+"   at $work_dir/new-squashfs and removed when this program finishes."
+msgstr "*La copia temporal del sistema de archivos se creará\nen $work_dir/new-squashfs y será borrada cuando este programa termine."
+
+#: antixsnapshot.sh:197
+#, sh-format
+msgid ""
+"\n"
+" You will need plenty of free space. It is recommended that free space \n"
+" (Avail) in the partition that holds the work directory (probably /)\n"
+" should be two times the total installed system size (Used). You can \n"
+" deduct the space taken up by previous snapshots and any saved copies of\n"
+" the system from the Used amount.\n"
+" \n"
+" * You are presently running kernel version $kernel_used\n"
+" * $kernels_avail is also available.\n"
+" * snapshot will use kernel version $kernel_used\n"
+"\n"
+" * You have $snapshot_count snapshots taking up $snapshot_size of disk space.\n"
+" $saved_copy\n"
+" $save_message\n"
+" * The snapshot directory is currently set to $snapshot_dir\n"
+" $tmp_warning\n"
+"\n"
+" You can change these and other settings by editing \n"
+" $configfile.\n"
+"\n"
+"\n"
+" Current disk usage:\n"
+" (For complete listing, exit and run 'df -h')\n"
+"\n"
+" $disk_space\n"
+" \n"
+"    Press ENTER to proceed or hit ctrl-c to exit.  "
+msgstr "\n Necesitará mucho espacio libre. Se recomienda que el espacio libre\n(Avail) en la partición que alberga el directorio de trabajo (probably /)\nsea dos veces el total del tamaño del sistema usado (Used).\nYou can descontar de la cantidad de Used el espacio de los snapshots anteriores y de las copias del sistema.\n \n * Actualmente está ejecutando la versión del núcleo $kernel_used\n * $kernels_avail también está disponible.\n * snapshot usará la versión del núcleo $kernel_used\n\n * Posee $snapshot_count snapshots que toman $snapshot_size del espacio en el disco.\n $saved_copy\n $save_message\n * El directorio de snapshot está ajustado actualmente a $snapshot_dir\n $tmp_warning\n\n Puede cambiar los ajustes editando \n $configfile.\n\n\n Uso actual del disco:\n (Para un listaod completo, salga y ejecute 'df -h')\n\n $disk_space\n \n    Presione ENTER para proceder o utilice ctrl-c para salir.  "
+
+#: antixsnapshot.sh:276
+#, sh-format
+msgid "Removing old package-list directory:  $dir"
+msgstr "Removiendo el directorio antiguo de lista de paquetes:  $dir"
+
+#: antixsnapshot.sh:285
+msgid ""
+"\n"
+" You may now go to another virtual console to edit any files in the work\n"
+" directory, or hit ENTER and edit the boot menu.\n"
+" "
+msgstr "\n Puede usar otra consola virtual para editar los archivos del directorio\nde trabajo o usar ENTER para editar el menú de arranque.\n "
+
+#: antixsnapshot.sh:299
+msgid "Creating CD image file..."
+msgstr "Creando un archivo de imagen de CD"
+
+#: antixsnapshot.sh:305
+msgid "Making hybrid iso"
+msgstr "Creando un iso híbrido"
+
+#: antixsnapshot.sh:315
+msgid "Cleaning..."
+msgstr "Limpiando..."
+
+#: antixsnapshot.sh:324
+msgid "Reverting back."
+msgstr "Revirtiendo los cambios."
+
+#: antixsnapshot.sh:328
+msgid "Remove live-init-antix"
+msgstr "Remover live-init-antix"
+
+#: antixsnapshot.sh:332
+msgid "All finished!"
+msgstr "¡Terminado!"

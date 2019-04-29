@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Sveinn í Felli <sv1@fellsnet.is>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:56+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>, 2018\n"
+"Language-Team: Icelandic (https://www.transifex.com/anticapitalista/teams/10162/is/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: is\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "upp-ör"
+
+msgid "down-arrow"
+msgstr "niður-ör"
+
+msgid "page-up"
+msgstr "síða-upp"
+
+msgid "page-down"
+msgstr "síða-niður"
+
+#. Keyboard keys: left-arrow, right-arrow
+msgid "left-arrow"
+msgstr "vinstri-ör"
+
+msgid "right-arrow"
+msgstr "hægri-ör"
+
+msgid "No controller found"
+msgstr "Engin stýring fannst"
+
+msgid "You need to be root to run this script"
+msgstr "Þú verður að vera kerfisstjóri/root til að keyra þessa skriftu"
+
+msgid "Backlight Brightness Control"
+msgstr "Stýring á styrk baklýsingar"
+
+msgid "Use <%s> and <%s> to adjust the brightness"
+msgstr "Notaðu <%s> og <%s> til að breyta birtustiginu"
+
+msgid "Use <%s> and <%s> for smaller steps"
+msgstr "Notaðu <%s> og <%s> fyrir smærri þrep"
+
+msgid "Use <%s> and <%s> for bigger steps"
+msgstr "Notaðu <%s> og <%s> fyrir stærri þrep"
+
+msgid "Press '%s' to quit"
+msgstr "Ýttu á '%s' til að hætta"

@@ -1,0 +1,536 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-07 23:55+0200\n"
+"PO-Revision-Date: 2012-06-02 16:30+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: xlate-linuxrc.sh:8
+msgid "Start"
+msgstr "Starten"
+
+#: xlate-linuxrc.sh:9
+msgid "remaster"
+msgstr "remaster"
+
+#: xlate-linuxrc.sh:10
+msgid "to put linuxfs file in RAM"
+msgstr "om linuxfs in RAM te zetten"
+
+#: xlate-linuxrc.sh:11
+msgid "to mount persist file %s at %s"
+msgstr "om persist-bestand %s aan te koppelen aan %s"
+
+#: xlate-linuxrc.sh:13
+msgid "Select"
+msgstr "Selecteer"
+
+#: xlate-linuxrc.sh:14
+msgid "then hit <enter>"
+msgstr "en druk dan op <enter>"
+
+#: xlate-linuxrc.sh:15
+msgid "or"
+msgstr "of"
+
+#: xlate-linuxrc.sh:18
+msgid "continue"
+msgstr "doorgaan"
+
+#: xlate-linuxrc.sh:19
+msgid "c"
+msgstr "c"
+
+#: xlate-linuxrc.sh:20
+msgid "C"
+msgstr "C"
+
+#: xlate-linuxrc.sh:21
+msgid "power off"
+msgstr "afsluiten"
+
+#: xlate-linuxrc.sh:22
+msgid "p"
+msgstr "p"
+
+#: xlate-linuxrc.sh:23
+msgid "P"
+msgstr "P"
+
+#: xlate-linuxrc.sh:24
+msgid "reboot"
+msgstr "herstarten"
+
+#: xlate-linuxrc.sh:25
+msgid "r"
+msgstr "r"
+
+#: xlate-linuxrc.sh:26
+msgid "R"
+msgstr "R"
+
+#: xlate-linuxrc.sh:27
+msgid "powering down"
+msgstr "uitzetten"
+
+#: xlate-linuxrc.sh:28
+msgid "rebooting"
+msgstr "herstarten"
+
+#: xlate-linuxrc.sh:29
+msgid "Rolling back %s to %s"
+msgstr "%s terugzetten naar %s"
+
+#: xlate-linuxrc.sh:30
+msgid "Refusing to remaster"
+msgstr "Remaster geweigerd"
+
+#: xlate-linuxrc.sh:32
+msgid "In directory %s one or more of these files already exist"
+msgstr "Een of meerdere van deze bestanden bestaan reeds in map %s"
+
+#: xlate-linuxrc.sh:33
+msgid "Run the remaster-me program to fix this problem"
+msgstr "Voer het remaster-me programma uit om dit probleem op te lossen"
+
+#: xlate-linuxrc.sh:34
+msgid "Remastering %s to %s"
+msgstr "%s remasteren naar %s"
+
+#: xlate-linuxrc.sh:36
+msgid "Fatal Error"
+msgstr "Fatale Fout"
+
+#: xlate-linuxrc.sh:37
+msgid "Non-Fatal Error"
+msgstr "Niet-fatale fout"
+
+#: xlate-linuxrc.sh:38
+msgid "Waiting for file systems to sync"
+msgstr "Wachten op het synchroniseren van het bestandssysteem"
+
+#: xlate-linuxrc.sh:39
+msgid "done"
+msgstr "klaar"
+
+#: xlate-linuxrc.sh:40
+msgid "Unknown command"
+msgstr "Onbekend commando"
+
+#: xlate-linuxrc.sh:41
+msgid "Please try again"
+msgstr "Probeer het a.u.b opnieuw"
+
+#: xlate-linuxrc.sh:42
+msgid "No device with %s found"
+msgstr "Geen apparaat gevonden met %s"
+
+#: xlate-linuxrc.sh:43
+msgid "Valid"
+msgstr "Geldig"
+
+#: xlate-linuxrc.sh:44
+msgid "Could not find device"
+msgstr "Kon apparaat niet vinden"
+
+#: xlate-linuxrc.sh:45
+msgid "Valid devices"
+msgstr "Geldige apparaten"
+
+#: xlate-linuxrc.sh:46
+msgid "Copying linuxfs VID to empty rootfs"
+msgstr "Linuxfs VID naar lege rootfs copiëren"
+
+#: xlate-linuxrc.sh:47
+msgid "VID file not found"
+msgstr "VID-bestand niet gevonden"
+
+#: xlate-linuxrc.sh:48
+msgid "No VID found in"
+msgstr "Geen VID gevonden in"
+
+#: xlate-linuxrc.sh:49
+msgid "VID mismatch"
+msgstr "VID past niet"
+
+#: xlate-linuxrc.sh:50
+msgid "Matching VID found in"
+msgstr "Gepaste VID gevonden in"
+
+#: xlate-linuxrc.sh:51
+msgid "Directory"
+msgstr "Folder"
+
+#: xlate-linuxrc.sh:52
+msgid "does not exist"
+msgstr "bestaat niet"
+
+#: xlate-linuxrc.sh:53
+msgid "Can't perform md5 check"
+msgstr "Kan md5 test niet uitvoeren"
+
+#: xlate-linuxrc.sh:54
+msgid "Checking files in %s dir. This may take a while"
+msgstr "Bestanden nagaan in %s folder. Dit kan enige tijd duren"
+
+#: xlate-linuxrc.sh:55
+msgid "file"
+msgstr "bestand"
+
+#: xlate-linuxrc.sh:56
+msgid "files"
+msgstr "bestanden"
+
+#: xlate-linuxrc.sh:57
+msgid "result"
+msgstr "resultaat"
+
+#: xlate-linuxrc.sh:58
+msgid "passed"
+msgstr "voltooid"
+
+#: xlate-linuxrc.sh:59
+msgid "failed"
+msgstr "mislukt"
+
+#: xlate-linuxrc.sh:60
+msgid "wanted"
+msgstr "gewild"
+
+#: xlate-linuxrc.sh:61
+msgid "got"
+msgstr "gekregen"
+
+#: xlate-linuxrc.sh:62
+msgid "No md5 checksums were found in %s. Can't do any md5 checks"
+msgstr "Er werden geen md5 checksums gevonden in %s. Kan geen enkele md5-test uitvoeren"
+
+#: xlate-linuxrc.sh:63
+msgid "At least one checksum did not match"
+msgstr "Tenminste één checksum klopte niet"
+
+#: xlate-linuxrc.sh:64
+msgid "Success!"
+msgstr "Gelukt!"
+
+#: xlate-linuxrc.sh:65
+msgid "Welcome to"
+msgstr "Welkom bij"
+
+#: xlate-linuxrc.sh:66
+msgid "Total Memory"
+msgstr "Gezamenlijk geheugen"
+
+#: xlate-linuxrc.sh:67
+msgid "Free Memory"
+msgstr "Beschikbaar geheugen"
+
+#: xlate-linuxrc.sh:68
+msgid "Used Memory"
+msgstr "Gebruikt geheugen"
+
+#: xlate-linuxrc.sh:69
+msgid "Linux kernel"
+msgstr "Linux kernel"
+
+#: xlate-linuxrc.sh:70
+msgid "CPU"
+msgstr "CPU"
+
+#: xlate-linuxrc.sh:71
+msgid "cores"
+msgstr "kernen"
+
+#: xlate-linuxrc.sh:72
+msgid "cache"
+msgstr "buffergeheugen"
+
+#: xlate-linuxrc.sh:73
+msgid "Hardware kernel modules"
+msgstr "Hardware kernel modules"
+
+#: xlate-linuxrc.sh:74
+msgid "Possibly unknown or misspelled boot codes:"
+msgstr "Mogelijk onbekende of verkeerd geschreven boot-codes:"
+
+#: xlate-linuxrc.sh:75
+msgid "(don't take this too seriously)"
+msgstr "(neem dit niet te serieus)"
+
+#: xlate-linuxrc.sh:76
+msgid "Looking for"
+msgstr "Zoeken naar"
+
+#: xlate-linuxrc.sh:77
+msgid "device"
+msgstr "apparaat"
+
+#: xlate-linuxrc.sh:78
+msgid "with label"
+msgstr "met label"
+
+#: xlate-linuxrc.sh:79
+msgid "with uuid"
+msgstr "met uuid"
+
+#: xlate-linuxrc.sh:80
+msgid "retrying"
+msgstr "opnieuw proberen"
+
+#: xlate-linuxrc.sh:81
+msgid "Looking for %s on: %s"
+msgstr "Zoeken naar %s op: %s"
+
+#: xlate-linuxrc.sh:82
+msgid "Device"
+msgstr "Apparaat"
+
+#: xlate-linuxrc.sh:83
+msgid "already mounted"
+msgstr "al aangekoppeld"
+
+#: xlate-linuxrc.sh:84
+msgid "Mounted %s at %s"
+msgstr "Aangekoppeld %s op %s"
+
+#: xlate-linuxrc.sh:85
+msgid "The boot param %s was given but no %s was found"
+msgstr "De boot param %s werd gegeven maar %s werd niet gevonden"
+
+#: xlate-linuxrc.sh:86
+msgid "Waiting %s seconds"
+msgstr "%s seconden wachten"
+
+#: xlate-linuxrc.sh:87
+msgid "Not enough RAM available for"
+msgstr "Niet genoeg RAM beschikbaar voor"
+
+#: xlate-linuxrc.sh:88
+msgid "have"
+msgstr "heb"
+
+#: xlate-linuxrc.sh:89
+msgid "needed"
+msgstr "benodigd"
+
+#: xlate-linuxrc.sh:90
+msgid "Unable to mount tmpfs.  Not doing"
+msgstr "Niet in staat om tmpfs aan te koppelen.  Gaat niet gebeuren"
+
+#: xlate-linuxrc.sh:91
+msgid "Copying files from %s to %s ... Please be patient"
+msgstr "Bestanden kopiëren van %s naar %s ... Geduld a.u.b"
+
+#: xlate-linuxrc.sh:92
+msgid "Copy failed.  Aborting"
+msgstr "Kopiëren mislukt.  Afbreken"
+
+#: xlate-linuxrc.sh:93
+msgid "Copy to ram failed.  Destination file missing"
+msgstr "Kopiëren naar RAM mislukt.   Het ervoor bestemde bestand ontbreekt"
+
+#: xlate-linuxrc.sh:94
+msgid "Copy was incomplete. The %s failed"
+msgstr "Het kopiëren was incompleet. Het %s mislukte"
+
+#: xlate-linuxrc.sh:95
+msgid "Original size"
+msgstr "Originele grootte"
+
+#: xlate-linuxrc.sh:96
+msgid "Copy size"
+msgstr "Kopie-grootte"
+
+#: xlate-linuxrc.sh:97
+msgid "Copy to RAM succeeded"
+msgstr "Kopiëren naar RAM geslaagd"
+
+#: xlate-linuxrc.sh:98
+msgid "Not enough space in RAM to hold persistent root"
+msgstr "Niet genoeg ruimte in RAM om persistentie voor root te bevatten"
+
+#: xlate-linuxrc.sh:99
+msgid "Time to remaster"
+msgstr "Tijd voor de remaster"
+
+#: xlate-linuxrc.sh:100
+msgid "Copy to RAM failed!  Erasing partial copy ..."
+msgstr "Kopiëren naar RAM mislukt!   Partiële kopie uitwissen ..."
+
+#: xlate-linuxrc.sh:101
+msgid "Could not find any persistence files"
+msgstr "Kon geen enkel persistentie-bestand vinden"
+
+#: xlate-linuxrc.sh:102
+msgid "Could not find %s for required %s persistence"
+msgstr "Kon %s niet vinden, vereist voor %s persistentie"
+
+#: xlate-linuxrc.sh:103
+msgid "Not enabling %s persistence"
+msgstr "%s persistentie niet instellen"
+
+#: xlate-linuxrc.sh:104
+msgid "Enabling %s persistence"
+msgstr "%s persistentie instellen"
+
+#: xlate-linuxrc.sh:105
+msgid "Not remastering rootfs twice"
+msgstr "Rootfs niet twee maal remasteren"
+
+#: xlate-linuxrc.sh:106
+msgid "Looking for crypt device ..."
+msgstr "Zoeken naar apparaat voor cryptie ..."
+
+#: xlate-linuxrc.sh:107
+msgid "Could not find crypt device"
+msgstr "Cryptie-apparaat niet aangetroffen"
+
+#: xlate-linuxrc.sh:108
+msgid "Could not find crypt device after"
+msgstr "Kon cryptie-apparaat niet vinden na"
+
+#: xlate-linuxrc.sh:109
+msgid "Strange, could not find crypt device"
+msgstr "Vreemd, kon cryptie-apparaat niet vinden"
+
+#: xlate-linuxrc.sh:110
+msgid "Found crypt partition"
+msgstr "Cryptie-partitie gevonden"
+
+#: xlate-linuxrc.sh:111
+msgid "Could not find iso file"
+msgstr "Kon iso-bestand niet vinden"
+
+#: xlate-linuxrc.sh:112
+msgid "linuxfs file: %s not found on %s"
+msgstr "linuxfs bestand: %s niet gevonden op %s"
+
+#: xlate-linuxrc.sh:113
+msgid "Could not find linuxfs file"
+msgstr "Kon linuxfs-bestand niet vinden"
+
+#: xlate-linuxrc.sh:114
+msgid "Unknown %s parameter: %s"
+msgstr "Onbekende %s parameter: %s"
+
+#: xlate-linuxrc.sh:115
+msgid "Valid values"
+msgstr "Geldige waarden"
+
+#: xlate-linuxrc.sh:116
+msgid "Creating the aufs tempfs failed"
+msgstr "Het aanmaken van de aufs tempfs is mislukt"
+
+#: xlate-linuxrc.sh:117
+msgid "Could not enable required %s persistence"
+msgstr "Kon de vereiste %s persistentie niet instellen"
+
+#: xlate-linuxrc.sh:118
+msgid "Could not mount aufs"
+msgstr "Kon aufs niet aankoppelen"
+
+#: xlate-linuxrc.sh:119
+msgid "The linuxrc bootstrap is done"
+msgstr "De linuxrc bootstrap is klaar"
+
+#: xlate-linuxrc.sh:121
+msgid "Creating %s at: %s"
+msgstr "%s aanmaken op: %s"
+
+#: xlate-linuxrc.sh:122
+msgid "Output of:"
+msgstr "Output van:"
+
+#: xlate-linuxrc.sh:123
+msgid "Loading module:"
+msgstr "Module laden:"
+
+#: xlate-linuxrc.sh:124
+msgid "Translating to %s in %s"
+msgstr "Vertalen naar %s in %s"
+
+#: xlate-linuxrc.sh:125
+msgid "Invalid %s parameter(s):"
+msgstr "Ongeldige %s parameter(s):"
+
+#: xlate-linuxrc.sh:126
+msgid "Valid values are:"
+msgstr "Geldige waarden zijn:"
+
+#: xlate-linuxrc.sh:127
+msgid "Scanning %s devices for"
+msgstr "%s apparaten scannen voor"
+
+#: xlate-linuxrc.sh:128
+msgid "No %s devices found!"
+msgstr "Geen %s apparaten gevonden!"
+
+#: xlate-linuxrc.sh:129
+msgid "Filtered devices:"
+msgstr "Gefilterde apparaten:"
+
+#: xlate-linuxrc.sh:130
+msgid "The %s parameter is blocking device: %s"
+msgstr "De %s parameter blokkeert het apparaat: %s"
+
+#: xlate-linuxrc.sh:131
+msgid "Remove the %s boot parameter to let that device be scanned"
+msgstr "Verwijder de %s boot parameter zodat het apparaat kan worden gescand"
+
+#: xlate-linuxrc.sh:132
+msgid "Found new device in:"
+msgstr "Nieuw apparaat aangetroffen in:"
+
+#: xlate-linuxrc.sh:133
+msgid "Putting persistent root in RAM"
+msgstr "Persistente root in RAM opnemen"
+
+#: xlate-linuxrc.sh:134
+msgid "from"
+msgstr "van"
+
+#: xlate-linuxrc.sh:135
+msgid "Copying"
+msgstr "Kopiëren"
+
+#: xlate-linuxrc.sh:136
+msgid "to"
+msgstr "naar"
+
+#: xlate-linuxrc.sh:137
+msgid "Copy persistent root to RAM succeeded"
+msgstr "Kopiëren van persistente root naar RAM geslaagd"
+
+#: xlate-linuxrc.sh:138
+msgid "Delaying %s second(s)"
+msgstr "Uitstel %s seconde(n)"
+
+#: xlate-linuxrc.sh:139
+msgid "Module %s was not found."
+msgstr "Module %s is niet aangetroffen."
+
+#: xlate-linuxrc.sh:140
+msgid "Could not mount %s as a %s file"
+msgstr "Kon %s niet als een %s bestand aankoppelen"
+
+#: xlate-linuxrc.sh:141
+msgid "Mounting %s at %s"
+msgstr "%s aankoppelen op %s"
+
+#: xlate-linuxrc.sh:142
+msgid "Starting init process"
+msgstr "Init proces starten"

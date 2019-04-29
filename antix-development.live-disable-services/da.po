@@ -1,0 +1,49 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# scootergrisen, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-09-08 20:40+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Customizing services"
+msgstr "Tilpasser tjenester"
+
+msgid "Enabling %s service"
+msgstr "Aktiverer %s tjeneste"
+
+msgid "Disabling %s service"
+msgstr "Deaktiverer %s tjeneste"
+
+msgid "Enabling %s services"
+msgstr "Aktiverer %s tjenester"
+
+msgid "Disabling %s services"
+msgstr "Deaktiverer %s tjenester"
+
+msgid "Disabling some services %s"
+msgstr "Deaktiverer nogle tjenester %s"
+
+msgid "Disabling %s services %s"
+msgstr "Deaktiverer %s tjenester %s"
+
+msgid "Disabling network services %s"
+msgstr "Deaktiverer netværkstjenester %s"
+
+msgid "Disabling more services %s"
+msgstr "Deaktiverer flere tjenester %s"
+
+msgid "Disabling NFS server %s"
+msgstr "Deaktiverer NFS-serveren %s"

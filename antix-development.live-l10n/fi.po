@@ -1,0 +1,40 @@
+# Translation for antiX Development: live-L10n file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# En Kerro <inactive+ekeimaja@transifex.com>, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-11-03 19:27-0600\n"
+"PO-Revision-Date: 2018-05-28 17:38+0000\n"
+"Last-Translator: En Kerro <inactive+ekeimaja@transifex.com>\n"
+"Language-Team: Finnish (http://www.transifex.com/anticapitalista/antix-development/language/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing console and timezone"
+msgstr "Lokalisoidaan konsolia ja aikavyöhykettä"
+
+msgid "Setting timezone and localtime to %s"
+msgstr "Asetetaan aikavyöhyke ja kellonaika %s"
+
+msgid "Unknown time zone %s"
+msgstr "Tuntematon aikavyöhyke %s"
+
+msgid "Recreate symlink %s"
+msgstr "Tee uudelleen symbolinen linkki %s"
+
+msgid "Setting hostname to %s"
+msgstr "Asetetaan verkkonimeksi %s"
+
+msgid "Setting locale to %s"
+msgstr "Asetetaan sijainniksi %s"
+
+msgid "Configuring console for a %s keymap"
+msgstr "Konfiguroidaan konsolia näppäimistöasettelulle %s "

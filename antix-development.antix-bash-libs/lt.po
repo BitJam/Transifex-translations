@@ -1,0 +1,387 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Moo, 2016-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2018-11-20 20:36+0000\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (http://www.transifex.com/anticapitalista/antix-development/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "įspėjimas"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Tikrai išeiti?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "T"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "t"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr ""
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr ""
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "jūs įvedėte: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "Ar tai teisinga?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Įveskite numerį"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr " (ar raidę)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Jūsų pasirinkimas buvo tuščias."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Privalote pasirinkti skaičių."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Jūsų pasirinkimas %s buvo už ribų."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Klaida"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Perjungiama į komandų eilutės veikseną."
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Standartiniai parametrai"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr ""
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr ""
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr ""
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Rodyti šią paprastą pagalbą"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr ""
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Išjungti pulto spalvas"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Išjungti registravimą"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr ""
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Apsimesti, kad yad nėra"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr ""
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Derinimo parametrai"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr ""
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr ""
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr ""
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "parametras %s reikalauja argumento"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "parametras %s nepriima argumentų"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "nežinomas argumentas %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Per daug papildomų argumentų: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Per mažai argumentų.  Reikia bent %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr ""
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Ar tikrai norite išeiti iš %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Šis scenarijus gali būti paleistas tik %s aplinkoje."
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "Katalogo %s nėra"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr ""
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Išeinama."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Vykdykite šį scenarijų kaip pagrindinis (root) naudotojas."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Kintamieji %s yra tušti"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Kintamasis %s yra tuščias"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr ""
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Tai yra lemtingoji klaida"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Įspėjimas"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Programa %s nerasta, taigi, užrakinimas neįvyks."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Ar vis tiek norite tęsti?"
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Yra vykdomas kitas %s egzempliorius."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Jeigu esate tikri, kad taip nėra, tuomet ištrinkite failą:"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "ir bandykite dar kartą"
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr ""
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Nepavyko sukurti %s prijungimo taško."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr ""
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Nepavyko prijungti %s ties %s."
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr ""
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Keista.  Failo %s nėra."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "failas %s negali būti prijungtas."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "dydis"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr ""
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr ""
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr ""
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Rodyti informaciją"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Išeiti"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Išvaloma"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Ką turėtume daryti su %s ?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr ""
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr ""
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr ""
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr ""
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr ""
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr ""
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr ""
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "Nepavyko prijungti %s"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr ""
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr ""
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr ""
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr ""
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr ""
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr ""
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "Gerai"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr ""
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Įrenginys"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Prijungti"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Tipas"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Etiketė"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Dydis"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr ""
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Norėdami grįžti į %s, naudokite \"exit\" komandą"

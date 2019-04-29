@@ -1,0 +1,206 @@
+# 
+# Translators:
+# Utopia <henryoquist@comhem.se>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-03-15 11:03+0000\n"
+"Last-Translator: Utopia <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-KeywordsList: ca\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: cli-installer:9
+msgid "CL installer for $antiX"
+msgstr "CL installerare för $antiX"
+
+#: cli-installer:10
+msgid "Version 2.02 2011/04/01"
+msgstr "Version 2.02 2011/04/01"
+
+#: cli-installer:16
+msgid "Requirements for minimum installation:"
+msgstr "Krav för minimum installation:"
+
+#: cli-installer:19
+msgid "antiX-full: hard-disk 2.3GB  RAM 64MB"
+msgstr "antiX-full: hårddisk 2.3GB RAM 64MB"
+
+#: cli-installer:21
+msgid "antiX-base: hard-disk 1.5GB  RAM 48MB"
+msgstr "antiX-base: hårddisk 1.5GB RAM 48MB"
+
+#: cli-installer:23
+msgid "antiX-core: hard-disk 0.5GB  RAM 48MB"
+msgstr "antiX-core: hårddisk 0.5GB RAM 48MB"
+
+#: cli-installer:27
+msgid "Usage: cli-installer [drive]"
+msgstr "Användning: cli-installer [drive]"
+
+#: cli-installer:28
+msgid "Where drive is the name of the drive antiX is to be installed on."
+msgstr "där hårddisk är namnet på den hårddisk som antiX ska installeras på."
+
+#: cli-installer:29
+msgid "   For example: cli-installer sdb"
+msgstr "   Exempel: cli-installer sdb"
+
+#: cli-installer:30
+msgid "The default is correct if the computer has only one drive."
+msgstr "Standardinställningen är korrekt om datorn bara har en hårddisk."
+
+#: cli-installer:34
+msgid "Pre-installation tips:"
+msgstr "Förinstallations-tips:"
+
+#: cli-installer:37
+msgid "Set language at the boot screen by pressing F2"
+msgstr "Välj språk vid startskärmen genom att trycka på F2"
+
+#: cli-installer:38
+msgid "or by adding the line lang=xx where xx is your language code."
+msgstr "eller genom att lägga till raden lang=xx där xx är din språkkod."
+
+#: cli-installer:39
+msgid "eg lang=gr for Greek."
+msgstr "ex: lang=gr för grekiska."
+
+#: cli-installer:41
+msgid "Set timezone at the boot screen by pressing F3"
+msgstr "Välj tidszon vid startskärmen genom att trycka på F3"
+
+#: cli-installer:44
+msgid ""
+"Press F1 at the boot screen for Help and list of cheatcodes for live use."
+msgstr "Tryck på F1 vid startskärmen för hjälp och lista över cheatcodes för live användning."
+
+#: cli-installer:55
+msgid "/home partition (hda1, sda2, etc): "
+msgstr "/home partition (hda1, sda2, etc):"
+
+#: cli-installer:58
+msgid "$hdrv invalid. Retry:"
+msgstr "$hdrv ogiltig. Försök igen:"
+
+#: cli-installer:67
+msgid "Root partition (hda1, sda2, etc): "
+msgstr "Root partition (hda1, sda2, etc): "
+
+#: cli-installer:96
+msgid "$rdrv invalid. Retry"
+msgstr "$rdrv ogiltig. Försök igen:"
+
+#: cli-installer:109
+msgid "Available file systems for $1 are ext2, ext3, and ext4"
+msgstr "Tillgängliga filsystem för $1 är ext2, ext3, och ext4"
+
+#: cli-installer:113
+msgid "Enter your choice (the default is ext3): "
+msgstr "Ange ditt val (standard är ext3): "
+
+#: cli-installer:122
+msgid "Ignore any 'barrier' lines"
+msgstr "Ignorera `gräns´ -linjer"
+
+#: cli-installer:123
+msgid "$fs invalid. Retry:"
+msgstr "$fs ogiltig. Försök igen:"
+
+#: cli-installer:135
+msgid "Passwords are not identical. Retry:"
+msgstr "Lösenorden är inte identiska. Försök igen:"
+
+#: cli-installer:154
+msgid "Invalid; retry:"
+msgstr "ogiltig. Försök igen:"
+
+#: cli-installer:162
+msgid "Press Enter to exit this script."
+msgstr "Tryck på Enter för att avsluta detta skript."
+
+#: cli-installer:168
+msgid "Please run this script as root."
+msgstr "Var vänlig kör detta skript som root."
+
+#: cli-installer:176
+msgid "Do you want to repartition the disk (y/N)"
+msgstr "Vill du om-partitionera hårddisken (y/N)"
+
+#: cli-installer:190
+msgid "Deleting the contents of the '/' partition."
+msgstr "Tar bort innehållet på '/' partitionen."
+
+#: cli-installer:191
+msgid "This may take some time. Please wait...."
+msgstr "Det här kan ta en stund. Var vänlig vänta...."
+
+#: cli-installer:197
+msgid "Use separate '/home' partition (y/N)"
+msgstr "Använd separat '/home' partition (y/N)"
+
+#: cli-installer:204
+msgid "Is $hdrv a new '/home' partition (y/N)"
+msgstr "Är $hdrv en ny '/home' partition (y/N)"
+
+#: cli-installer:223
+msgid "$antiX will now be copied to $rdrv."
+msgstr "$antiX kommer nu att kopieras till $rdrv."
+
+#: cli-installer:260
+msgid "File copy done"
+msgstr "Filerna är kopierade"
+
+#: cli-installer:262
+msgid "Install GRUB on MBR (Y/n)"
+msgstr "Installera GRUB på MBR (Y/n) "
+
+#: cli-installer:268
+msgid "GRUB installed on ($grub)"
+msgstr "GRUB installerad på ($grub)"
+
+#: cli-installer:272
+msgid "Computer name (default is 'antiX1')? "
+msgstr "Datornamn (standard är 'antiX1')? "
+
+#: cli-installer:280
+msgid "Is this a remastered install (y/N)"
+msgstr "Är installationen snapshot? (y/N)"
+
+#: cli-installer:286
+msgid "Installation of antiX finished!"
+msgstr "Installationen av antiX är klar!"
+
+#: cli-installer:288
+msgid "Reboot computer without CD to start program. ('reboot')"
+msgstr "Starta om datorn utan CD för att för att starta programmet. ('reboot')"
+
+#: cli-installer:294
+msgid "User name? "
+msgstr "Användarnamn? "
+
+#: cli-installer:298
+msgid "Note: $hdrv must contain a folder named '$name'."
+msgstr "Anmärkning: $hdrv måste innehålla en mapp kallad '$name'."
+
+#: cli-installer:302
+msgid "Password for $name:"
+msgstr "Lösenord för  $name:"
+
+#: cli-installer:305
+msgid "Password for root:"
+msgstr "Lösenord för root:"
+
+#: cli-installer:326
+msgid "Cleaning up"
+msgstr "Rensar"

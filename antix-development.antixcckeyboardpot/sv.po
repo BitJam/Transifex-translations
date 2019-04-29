@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# Henry Oquist <henryoquist@comhem.se>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 23:02+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>\n"
+"Language-Team: Swedish (http://www.transifex.com/projects/p/antix-development/language/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixcckeyboard.sh:15
+msgid "Keyboard Config"
+msgstr "Tangentbordsanpassning"
+
+#: antixcckeyboard.sh:19
+msgid "<b>Choose a Language.</b>"
+msgstr "<b>Välj ett språk.</b>"
+
+#: antixcckeyboard.sh:24
+msgid "British"
+msgstr "Engelska (UK)"
+
+#: antixcckeyboard.sh:29
+msgid "French"
+msgstr "Franska"
+
+#: antixcckeyboard.sh:33
+msgid "German"
+msgstr "Tyska"
+
+#: antixcckeyboard.sh:37
+msgid "Greek"
+msgstr "Grekiska"
+
+#: antixcckeyboard.sh:41
+msgid "Italian"
+msgstr "Italienska"
+
+#: antixcckeyboard.sh:45
+msgid "Norwegian"
+msgstr "Norska"
+
+#: antixcckeyboard.sh:49
+msgid "Portuguese"
+msgstr "Portugisiska"
+
+#: antixcckeyboard.sh:53
+msgid "Spanish"
+msgstr "Spanska"
+
+#: antixcckeyboard.sh:57
+msgid "Romanian"
+msgstr "Rumänska"
+
+#: antixcckeyboard.sh:61
+msgid "US"
+msgstr "Engelska (US)"
+
+#: antixcckeyboard.sh:68
+msgid "Close"
+msgstr "Stäng"

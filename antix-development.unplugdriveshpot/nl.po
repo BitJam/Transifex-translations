@@ -1,0 +1,77 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 00:36+0200\n"
+"PO-Revision-Date: 2012-01-04 20:16+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 14560)\n"
+"X-Launchpad-Export-Date: 2012-01-02 10:46+0000\n"
+
+#: unplugdrive.sh:54
+msgid ""
+"A removable drive with a mounted partition was not found.\n"
+"It is safe to unplug the drive(s)"
+msgstr "Er was geen uitneembare schijf met een aangekoppelde partitie gevonden.\\n\nU kunt de schijf dus veilig verwijderen()"
+
+#: unplugdrive.sh:60
+#, sh-format
+msgid ""
+"The following are currently mounted:\n"
+"$removablelist\n"
+"Choose the drive(s) to be unplugged"
+msgstr "De volgende zaken zijn momenteel aangekoppeld:\\n\n$removablelist\\\\n\nKies de schijf(schijven) die afgekoppeld moeten worden "
+
+#: unplugdrive.sh:62
+msgid ""
+"Nothing selected.\n"
+"Aborting without unmounting."
+msgstr "Niets gekozen.\\n\nAfsluiten zonder afkoppelen.  "
+
+#: unplugdrive.sh:84
+#, sh-format
+msgid ""
+"About to unmount:\n"
+"$summarylist\n"
+"Please confirm you wish to proceed."
+msgstr "Bezig met ontkoppelen:\\n\n$summarylist\\n\nBevestig a.u.b dat u wilt doorgaan. "
+
+#: unplugdrive.sh:86
+msgid ""
+"Nothing has been unmounted.\n"
+"Aborting as requested with no action taken."
+msgstr "Er is niets ontkoppeld.\\n\nZoals verzocht zonder verandering afsluiten. "
+
+#: unplugdrive.sh:91
+msgid ""
+"Data is being written to devices.\n"
+"Please wait..."
+msgstr "Gegevens worden weggeschreven naar het apparaat.\\n\nEven geduld a.u.b... "
+
+#: unplugdrive.sh:114
+#, sh-format
+msgid ""
+"Mountpoint removal failed.\n"
+"\n"
+"A mountpoint remains present at:\n"
+"$mountpointerrorlist\n"
+"Check each mountpoint listed before unpluging the drive(s)."
+msgstr "Het verwijderen van het koppelpunt is mislukt.\\n\n\\\\n\nEen koppelpunt blijft aanwezig op:\\n\n$mountpointerrorlist\\n\nCheck ieder koppelpunt uit de lijst voordat u apparaten verwijdert ()"
+
+#: unplugdrive.sh:119
+#, sh-format
+msgid ""
+"Unmounted:\n"
+"$summarylist\n"
+"It is safe to unplug the drive(s)"
+msgstr "Losgekoppeld:\\n\n$summarylist\\n\nHet is nu veilig om de apparatuur te verwijderen() "

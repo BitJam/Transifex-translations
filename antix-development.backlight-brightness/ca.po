@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Eduard Selma <selma@tinet.cat>, 2017\n"
+"Language-Team: Catalan (https://www.transifex.com/anticapitalista/teams/10162/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "fletxa amunt"
+
+msgid "down-arrow"
+msgstr "fletxa avall"
+
+msgid "page-up"
+msgstr "pàgina amunt"
+
+msgid "page-down"
+msgstr "pàgina avall"
+
+#. Keyboard keys: left-arrow, right-arrow
+msgid "left-arrow"
+msgstr "fletxa esquerra"
+
+msgid "right-arrow"
+msgstr "fletxa dreta"
+
+msgid "No controller found"
+msgstr "No s'ha trobat el controlador"
+
+msgid "You need to be root to run this script"
+msgstr "Cal ser administrador per executar l'script"
+
+msgid "Backlight Brightness Control"
+msgstr "Control de Retroil·luminació "
+
+msgid "Use <%s> and <%s> to adjust the brightness"
+msgstr "Useu <%s> i <%s> per ajustar la lluentor"
+
+msgid "Use <%s> and <%s> for smaller steps"
+msgstr "Useu <%s> i <%s> per salts més petits"
+
+msgid "Use <%s> and <%s> for bigger steps"
+msgstr "Useu <%s> i <%s> per salts més grans"
+
+msgid "Press '%s' to quit"
+msgstr "Premeu '%s' per sortir"

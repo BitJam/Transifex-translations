@@ -1,0 +1,373 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2012-12-01 23:51+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: usr/local/bin/remaster.sh:41
+msgid "This script needs to use squashfs-tools package, shall I install it?"
+msgstr "Tento skript vyžaduje balíček squashfs-tools, má se instalace nyní provést?"
+
+#: usr/local/bin/remaster.sh:43
+msgid "Squshfs-tools is a required package. Script aborted."
+msgstr "Squashfs-tools je vyžadovaný balíček. Skript ukončen."
+
+#: usr/local/bin/remaster.sh:56
+msgid "Error installing required package. Script aborted."
+msgstr "Chyba při instalaci požadovaného balíčku. Skript ukončen."
+
+#: usr/local/bin/remaster.sh:85
+msgid "Are you ready to start building the ISO?"
+msgstr "Jste připraveni začíst sestavovat ISO?"
+
+#: usr/local/bin/remaster.sh:87
+msgid ""
+"OK, to remaster later on, run this script with \"build-iso\" argument, like "
+"this"
+msgstr "Dobrá, abyste příště operaci znovu zahájili, tento skript spusťte s argumentem \"build-iso\" takto"
+
+#: usr/local/bin/remaster.sh:99
+msgid ""
+"Enter the host path (i.e. /home/username) in which you want to remaster your"
+" project"
+msgstr "Zadejte cestu hostitele (např. /home/uživatelskéjméno) v kterém chcete Váš projekt přizpůsobit"
+
+#: usr/local/bin/remaster.sh:106
+msgid "Error creating \"remaster\" directory. Script aborted."
+msgstr "Chyba při vytváření složky \"remaster\". Skript ukončen."
+
+#: usr/local/bin/remaster.sh:114
+msgid ""
+"Enter the host path (i.e. /mnt/hda5/home/username) in which you want to "
+"remaster your project."
+msgstr "Zadejte cestu hostitele (např. /mnt/hda5/home/uživatelskéjméno) v kterém chcete Váš projekt přizpůsobit."
+
+#: usr/local/bin/remaster.sh:115
+msgid ""
+"When remastering from harddisk you need to specify a different partition "
+"than the one you remaster"
+msgstr "Při vytváření z pevného disku potřebujete zadat jiný oddíl, než z kterého toto provádíte"
+
+#: usr/local/bin/remaster.sh:127
+msgid "Could not mount"
+msgstr "Nelze připojit"
+
+#: usr/local/bin/remaster.sh:139
+msgid "Error: the remaster directory already exists, please use another path"
+msgstr "Chyba: složka remaster již existuje, prosím použijte jinou cestu"
+
+#: usr/local/bin/remaster.sh:144
+msgid ""
+"Now using left-hand layout.Error: the directory was not created, please try "
+"again"
+msgstr "Nyní je používáno rozvržení pro leváky. Chyba: Složka nebyla vytvořena, zkuste to znovu prosím\n\t"
+
+#: usr/local/bin/remaster.sh:147
+msgid "The project will be created in ... directory"
+msgstr "Projekt bude vytvořen ve ... složce"
+
+#: usr/local/bin/remaster.sh:149
+msgid "Okay, we have added a \"remaster\" subdirectory to your host path."
+msgstr "Dobrá, podsložku \"remaster\" jsme přidali do cesty hostitele."
+
+#: usr/local/bin/remaster.sh:157
+msgid "This script will remaster"
+msgstr "Tent oskript vytvoří Vaši verzi"
+
+#: usr/local/bin/remaster.sh:159
+msgid "Enter the path of your optical drive with the MEPIS CD (i.e. /dev/hdc)"
+msgstr "Zadejte cestu optické jednotky s CD MEPIS (např. /dev/hdc)"
+
+#: usr/local/bin/remaster.sh:160
+msgid ""
+"Or enter the complete path to a MEPIS iso on your hard disk (i.e. "
+"/path_to_iso/mepis.iso)"
+msgstr "Nebo zadejte úplnou cestu k iso MEPIS na Vašem pevném disku (např. /cesta/k/iso/mepis.iso)"
+
+#: usr/local/bin/remaster.sh:164
+msgid "Path or file doesn't exist, please try again"
+msgstr "Cesta nebou soubor neexistuje, zkuste to znovu prosím"
+
+#: usr/local/bin/remaster.sh:171
+msgid "Creating directory structure for this operation"
+msgstr "Vytváření struktury složky pro tuto operaci"
+
+#: usr/local/bin/remaster.sh:173
+msgid "...directory to mount CD on"
+msgstr "...složka na kterou CD připojit"
+
+#: usr/local/bin/remaster.sh:174
+msgid "...directory for old squashfs"
+msgstr "...složka pro staré squashfs"
+
+#: usr/local/bin/remaster.sh:175
+msgid "...directory for new squashfs"
+msgstr "...složka pro nové squashfs"
+
+#: usr/local/bin/remaster.sh:176
+msgid "...directory for new iso"
+msgstr "...složka pro nové iso"
+
+#: usr/local/bin/remaster.sh:177
+msgid "mounting original CD to..."
+msgstr "připojuji původní CD na..."
+
+#: usr/local/bin/remaster.sh:181
+msgid "Copying mounted squashfs to ... (takes some time)"
+msgstr "Kopírování připojeného squashfs do ... (to bude chvíli trvat)"
+
+#: usr/local/bin/remaster.sh:194
+msgid "Could not mount the CD image, do you want to try again"
+msgstr "Nelze připojit obraz CD, chcete to zkusit znovu\n\t"
+
+#: usr/local/bin/remaster.sh:206
+msgid "Copying live CD files to..."
+msgstr "Kopírování souborů živého CD do..."
+
+#: usr/local/bin/remaster.sh:213
+msgid "Mounting original squashfs to..."
+msgstr "Připojování původního squashfs na..."
+
+#: usr/local/bin/remaster.sh:217
+msgid "Error mounting squashfs file. ...is probable not a ... file."
+msgstr "Chyba při připojování souboru squashfs. ...pravděpodobně není ... soubor."
+
+#: usr/local/bin/remaster.sh:218
+msgid "Cleaning up, removing \"remaster\" directory."
+msgstr "Čištění, odstraňování složky \"remaster\"."
+
+#: usr/local/bin/remaster.sh:229
+msgid "Enter the path to the remaster directory (e.g., /home/username):"
+msgstr "Zadejte cestu složky remaster (např. /home/uživatelskéjméno)"
+
+#: usr/local/bin/remaster.sh:233
+msgid "\"remaster\" directory not found in that path, please try again"
+msgstr "Složka \"remaster\" nebyla na této cestě nalezena, prosím zkuste to znovu"
+
+#: usr/local/bin/remaster.sh:279
+msgid "Do you want to remove..."
+msgstr "Chcete odstranit..."
+
+#: usr/local/bin/remaster.sh:302
+msgid "Chrooting into your..."
+msgstr "Chrootování do Vaši..."
+
+#: usr/local/bin/remaster.sh:303
+msgid ""
+"You should now be in the environment you want to remaster. To check please "
+"type \"ls\" - you should see a root directory tree."
+msgstr "Nyní byste měli být v prostředí, které chcete změnit. Prosím zadejte \"ls\" - měli byste být v kořenovém stromu složky."
+
+#: usr/local/bin/remaster.sh:304
+msgid "When done please type \"exit\" or press CTRL-D"
+msgstr "Až budete hotovi, zadejte \"exit\" nebo stiskněte CTRL-D"
+
+#: usr/local/bin/remaster.sh:326
+msgid "Cleaning chroot environment..."
+msgstr "Čištění prostředí chroot..."
+
+#: usr/local/bin/remaster.sh:328
+msgid "Exiting chroot."
+msgstr "Ukončení chroot."
+
+#: usr/local/bin/remaster.sh:333
+msgid "This is your current version file:"
+msgstr "Toto je Váš soubor současné verze:"
+
+#: usr/local/bin/remaster.sh:338
+msgid "Would you like to amend your version file?"
+msgstr "Chtěli byste připojit Váš soubor verze?"
+
+#: usr/local/bin/remaster.sh:349
+msgid "The ISO file will be placed by default in ... directory."
+msgstr "Soubor ISO bude umístěn do výchouí ... složky"
+
+#: usr/local/bin/remaster.sh:350
+msgid "Is that OK?"
+msgstr "Je to v pořádku?"
+
+#: usr/local/bin/remaster.sh:353
+msgid ""
+"Enter the path (i.e. /home/username) in which you want to place your ISO "
+"file"
+msgstr "Zadejte cestu (např. /home/uživatelskéjméno) do které chcete ISO umístit"
+
+#: usr/local/bin/remaster.sh:359
+msgid "...doesn't exist, create?"
+msgstr "...neexistuje, vytvořit?"
+
+#: usr/local/bin/remaster.sh:363
+msgid "Error: the directory was not created, please try again"
+msgstr "Chyba: složka nebyla vytvořena, zkuste to znovu prosím"
+
+#: usr/local/bin/remaster.sh:365
+msgid "The path will be..."
+msgstr "Cesta bude..."
+
+#: usr/local/bin/remaster.sh:375
+msgid "Enter the name of the ISO file (default: remastered.iso)"
+msgstr "Zadejte název souboru ISO (výchozí: remastered.iso)"
+
+#: usr/local/bin/remaster.sh:383
+msgid "File exists, overwrite?"
+msgstr "Soubor existuje, přepsat?"
+
+#: usr/local/bin/remaster.sh:391
+msgid ""
+"Good. We are now creating your iso. Sit back and relax, this takes some time"
+" (some 20 minutes on an AMD +2500 for a 680MB iso)."
+msgstr "Dobře. Vaše iso je nyní vytvářeno. Pohodlně se usaďte a uvolněte se, toto bude jistou chvíli trvat (okolo 20 minut na AMD +2500 když iso je 680MB)"
+
+#: usr/local/bin/remaster.sh:394
+msgid "Error making squashfs file. Script aborted."
+msgstr "Chyba při vytváření souboru squashfs. Skript ukončen."
+
+#: usr/local/bin/remaster.sh:405
+msgid "Done. You will find your very own remastered home-made Linux here:"
+msgstr "Hotovo. Zde naleznete Váš vlastnoručně vyrobený Linux:"
+
+#: usr/local/bin/remaster.sh:409
+msgid "ISO building failed."
+msgstr "Sestavování ISO selhalo."
+
+#: usr/local/bin/remaster.sh:418
+msgid "File size ="
+msgstr "Velikost souboru ="
+
+#: usr/local/bin/remaster.sh:420
+msgid "you can burn this file on a business-card CD, or a larger medium"
+msgstr "tento soubor můžete vypálit na vizitkovém CD, nebo na větším médiu"
+
+#: usr/local/bin/remaster.sh:422
+msgid "you can burn this file on a Mini CD, or a larger medium"
+msgstr "tento soubor můžete vypálit na Mini CD, nebo na větším médiu\n\t"
+
+#: usr/local/bin/remaster.sh:424
+msgid "you can burn this file on a 650 MB / 74 Min. CD, or a larger medium"
+msgstr "tento soubor můžete vypálit na 650 MB / 74 Min. CD, nebo na větším médiu"
+
+#: usr/local/bin/remaster.sh:426
+msgid "you can burn this file on a 700 MB / 80 Min. CD, or a larger medium"
+msgstr "tento soubor můžete vypálit na 700 MB / 80 Min. CD, nebo na větším médiu"
+
+#: usr/local/bin/remaster.sh:428
+msgid "this is too big for a CD, burn it on a DVD"
+msgstr "toto je pro CD příliš velké, byplate to na DVD"
+
+#: usr/local/bin/remaster.sh:430
+msgid "this is too big for a 4.7 GB DVD, burn it on a dual-layer DVD"
+msgstr "toto je příliš velké pro 4.7 GB DVD, vypalte to na dvouvrstvém DVD"
+
+#: usr/local/bin/remaster.sh:432
+msgid "the file is probably too big to burn even on a dual-layer DVD"
+msgstr "soubor je pravděpodobně příliš velký i pro vypálení na dvouvrstvém DVD"
+
+#: usr/local/bin/remaster.sh:447
+msgid ""
+"You started the script with \"--from-hdd\" option, you need to run the "
+"script from a Live CD"
+msgstr "Spustili jste skript s možností \"--from-hdd\", tento skript musíte spustit z Live CD"
+
+#: usr/local/bin/remaster.sh:454
+msgid "You have two choices here:"
+msgstr "Máte dvě možnosti:"
+
+#: usr/local/bin/remaster.sh:455
+msgid ""
+"1. Remaster a generic Live CD -- you'll lose your user account(s), you have "
+"to use Live CD's default accounts and passwords, /home partition or "
+"directory will not be included in resulting ISO."
+msgstr "1. Vytvořit obecné Live CD -- ztratíte všechny Vaše uživatelské účty(), musíte použít výchozí účty a hesla z CD. oddíl či složka /home nebude zahrnuta ve výsledném ISO."
+
+#: usr/local/bin/remaster.sh:456
+msgid ""
+"2. Remaster a custom Live CD -- you'll keep your own account(s) and paswords in the new Live CD\n"
+" (WARNING! NOT WORKING PROPERLY YET!) "
+msgstr "2. Vytvořit vlastní Live CD -- ponecháte si vaše účty() a hesla v novém Live CD (VAROVÁNÍ! ZATÍM NEFUNGUJE SPRÁVNĚ)"
+
+#: usr/local/bin/remaster.sh:457
+msgid "Please enter your choice: 1 or 2"
+msgstr "Zadejte prosím Vaši volbu: 1 nebo 2"
+
+#: usr/local/bin/remaster.sh:479
+msgid ""
+"This option DOESN'T completely work yet. To log in in the resulting Live CD "
+"you need to:"
+msgstr "Tato možnost zatím NEFUNGUJE správně. Abyste se ve výsledném Live Cd přihlásili, musíte:"
+
+#: usr/local/bin/remaster.sh:480
+msgid "1. boot the Live CD using \"aufs\" option"
+msgstr "1. CD zavést pomocí možnosti \"aufs\""
+
+#: usr/local/bin/remaster.sh:481
+msgid ""
+"2. press CTRL-ALT-F1, log in as root and execute this command: \"mount "
+"--bind /aufs/home /home\""
+msgstr "2. stisknout CTRL-ALT-F1, přihlásit se jako root a spustit tento příkaz: \"mount --bind /aufs/home /home\""
+
+#: usr/local/bin/remaster.sh:482
+msgid "3. run: \"/etc/init.d/kdm restart\""
+msgstr "3. spustit: \"/etc/init.d/kdm restart\""
+
+#: usr/local/bin/remaster.sh:487
+msgid "Enter the partition that you want to remaster (e.g., hda3)"
+msgstr "Zadejte oddíl, který chcete přizpůsobit (např., hda3)"
+
+#: usr/local/bin/remaster.sh:496
+msgid "Do you have /home on a different partition?"
+msgstr "Máte /home v jiném oddílu?"
+
+#: usr/local/bin/remaster.sh:498
+msgid "Enter /home partition (e.g., hda4)"
+msgstr "Zadejte oddíl /home (např., hda4)"
+
+#: usr/local/bin/remaster.sh:511
+msgid "Could not mount ... partition, retry?"
+msgstr "Nelze připojit oddíl ... , zkusit znovu?"
+
+#: usr/local/bin/remaster.sh:520
+msgid "You need to be root to execute this script."
+msgstr "Potřebujete být root pro spuštění tohoto skriptu."
+
+#: usr/local/bin/remaster.sh:527
+msgid ""
+"This remastering process uses the \"squashfs\" file system which doesn't "
+"seem to be installed on your system. Without it we cannot proceed. Run ..."
+msgstr "Tento proces využívá souborový systém \"squashfs\" a ten není ve Vašem systému nainstalován. Bez toho nelze pokračovat. Spusťte ..."
+
+#: usr/local/bin/remaster.sh:528
+msgid ""
+"If you do have the package installed you might need to run this command "
+"\"modprobe squashfs\" before running this script"
+msgstr "Pokud nemáte balíček nainstalován, možná budete muset zadat příkaz \"modprobe squashfs\" před spuštěním tohoto skriptu"
+
+#: usr/local/bin/remaster.sh:529
+msgid "Script aborted."
+msgstr "Skript ukončen."
+
+#: usr/local/bin/remaster.sh:550
+msgid "Unrecognized option:"
+msgstr "Nerozpoznaná možnost:"
+
+#: usr/local/bin/remaster.sh:571
+msgid "Do you want to chroot to ... to add/remove programs?"
+msgstr "Chcete chroot ... pro přidání/odstranění programů?"
+
+#: usr/local/bin/remaster.sh:573
+msgid ""
+"WARNING!!! You are chrooting to ..., any changes in the chroot environment "
+"will affect the actual hard disk installation."
+msgstr "VAROVÁNÍ!!! Chrootovali jste ..., jakékoli změny v prostředí chroot ovlivní vlastní instalaci na pevný disk."

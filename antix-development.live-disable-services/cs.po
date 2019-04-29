@@ -1,0 +1,51 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+# joyinko <joyinko@azet.sk>, 2017
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-05 21:38-0600\n"
+"PO-Revision-Date: 2017-10-07 19:24+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Customizing services"
+msgstr "Úprava služeb"
+
+msgid "Enabling %s service"
+msgstr "Povolování %s služby"
+
+msgid "Disabling %s service"
+msgstr "Zakazování %s služby"
+
+msgid "Enabling %s services"
+msgstr "Povolování %s služeb "
+
+msgid "Disabling %s services"
+msgstr "Zakazování %s služeb "
+
+msgid "Disabling some services %s"
+msgstr "Zakazování některých služeb %s"
+
+msgid "Disabling %s services %s"
+msgstr "Zakazování %s služeb %s"
+
+msgid "Disabling network services %s"
+msgstr "Zakazování síťových služeb %s"
+
+msgid "Disabling more services %s"
+msgstr "Zakazování dalších služeb %s"
+
+msgid "Disabling NFS server %s"
+msgstr "Zakazování NFS server %s"

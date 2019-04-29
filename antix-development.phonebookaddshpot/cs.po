@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+# Jiří Vírava <appukonrad@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:16+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: Jiří Vírava <appukonrad@gmail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: phonebookadd.sh:16
+msgid "Phonebook"
+msgstr "Telefonní seznam"
+
+#: phonebookadd.sh:18
+msgid "Enter a name and number:"
+msgstr "Vložte jméno a číslo "
+
+#: phonebookadd.sh:27
+msgid "Close"
+msgstr "Zavřít"
+
+#: phonebookadd.sh:33
+msgid "Create"
+msgstr "Vytvořit "
+
+#: phonebookadd.sh:36
+msgid "Entry Status"
+msgstr "Vložit stav"
+
+#: phonebookadd.sh:36
+#, sh-format
+msgid "$ENTRY\\nhas been added."
+msgstr "$ENTRY\\n bylo přidáno. "

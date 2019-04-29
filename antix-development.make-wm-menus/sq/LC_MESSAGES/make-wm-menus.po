@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Albanian (http://www.transifex.com/anticapitalista/antix-development/language/sq/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sq\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Terminali"
+
+msgid "File Manager"
+msgstr "Shtëpia"
+
+msgid "Web Browser"
+msgstr "Shfletues interneti"
+
+msgid "Editor"
+msgstr "Përpunues Tekstesh"
+
+msgid "Personal"
+msgstr ""
+
+msgid "Applications"
+msgstr "Programet"
+
+msgid "Terminal Apps"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+msgid "CD/DVD Writer"
+msgstr ""
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Network"
+msgstr "Rrjeti"
+
+msgid "Alpine Mail"
+msgstr ""
+
+msgid "Browser elinks"
+msgstr ""
+
+msgid "Irssi Chat"
+msgstr ""
+
+msgid "RSS/Atom Reader"
+msgstr ""
+
+msgid "rTorrent"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Organizer"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Update Menu"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Desktopi"
+
+msgid "Alternate Desktops"
+msgstr ""
+
+msgid "Add Desktop"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid "GTK Theme"
+msgstr ""
+
+msgid "Desktop Defaults"
+msgstr ""
+
+msgid "Session Settings"
+msgstr ""
+
+msgid "Session Settings Global"
+msgstr ""
+
+msgid "RoxPanel on/off"
+msgstr ""
+
+msgid "Conky on/off"
+msgstr ""
+
+msgid "Tools"
+msgstr "Veglat"
+
+msgid "Nano"
+msgstr ""
+
+msgid "Ted"
+msgstr ""
+
+msgid "Search"
+msgstr "Kërko"
+
+msgid "MC File Manager"
+msgstr ""
+
+msgid "App Killer"
+msgstr ""
+
+msgid "Process Viewer"
+msgstr ""
+
+msgid "System Information"
+msgstr "Sistemi i Informacionit"
+
+msgid "Control Centre"
+msgstr "Qendra e Kontrollit"
+
+msgid "Help"
+msgstr "Ndihmë"
+
+msgid "antiX"
+msgstr ""
+
+msgid "antiX FAQ"
+msgstr ""
+
+msgid "antiX-live How-To"
+msgstr ""
+
+msgid "Rox Manual"
+msgstr ""
+
+msgid "Fluxbox"
+msgstr ""
+
+msgid "Fluxbox Docs"
+msgstr ""
+
+msgid "Fluxbox FAQ"
+msgstr ""
+
+msgid "Fluxbox Wiki"
+msgstr ""
+
+msgid "Arch Wiki"
+msgstr ""
+
+msgid "IceWM"
+msgstr ""
+
+msgid "IceWM FAQ"
+msgstr ""
+
+msgid "IceWM Manual"
+msgstr ""
+
+msgid "OSNews"
+msgstr ""
+
+msgid "JWM"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "WM - Puppy-Linux"
+msgstr ""
+
+msgid "Firewall"
+msgstr ""
+
+msgid "Partimage"
+msgstr ""
+
+msgid "Man Pages"
+msgstr ""
+
+msgid "Backup"
+msgstr ""
+
+msgid "Irssi"
+msgstr ""
+
+msgid "mc"
+msgstr ""
+
+msgid "mocp"
+msgstr ""
+
+msgid "Rss/Atom"
+msgstr ""
+
+msgid "Torrent"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Fluxbox Settings"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Styles"
+msgstr ""
+
+msgid "~/.fluxbox/styles"
+msgstr ""
+
+msgid "Fluxbox Styles"
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid "Reconfigure"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Exit"
+msgstr "Mbylle"
+
+msgid "antiX Installer"
+msgstr "Instalo"
+
+msgid "Logout..."
+msgstr "Dil..."
+
+msgid "Restart JWM"
+msgstr "Rindize JWM"
+
+msgid "Log Out"
+msgstr "Dil"
+
+msgid "Home Folder"
+msgstr "Shtëpia"
+
+msgid "Browser"
+msgstr "Shfletues interneti"
+
+msgid "Unplug Removable Device"
+msgstr ""
+
+msgid "Quit"
+msgstr "Mbylle"

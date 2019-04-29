@@ -1,0 +1,56 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/anticapitalista/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr "PERICOLO!%s PASSWORD INSICURA!%s"
+
+msgid "It appears that root persistence was recently enabled."
+msgstr "sembra che la root persistente sia stata recentemente abilitata."
+
+msgid "The default password for the %s account is not secure."
+msgstr "La password di default per l' account %s non è sicura."
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr "Era adeguata per un LiveCD ma non è sufficiente a proteggere un sistema con persistenza."
+
+msgid "Please provide a more secure password."
+msgstr "Prego, fornisci una password più sicura."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr "Una buona password ha 8 o più caratteri e contiene un insieme di lettere, numeri, e punteggiatura."
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Ci scusiamo per il leggero disagio che questo comporta."
+
+msgid "username: %s"
+msgstr "nome utente: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr "La password %s  non è stata cambiata. Prego riprova."
+
+msgid "Changing password for account %s as requested"
+msgstr "Modifica della password per l'account %s come richiesto"
+
+msgid "by use of the %s boot parameter."
+msgstr "con l'uso del parametro di avvio %s"

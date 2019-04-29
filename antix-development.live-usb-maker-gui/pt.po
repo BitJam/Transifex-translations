@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# ric, 2016
+# José Vieira <jvieira33@sapo.pt>, 2016
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: 2016-11-16 21:44+0000\n"
+"Last-Translator: José Vieira <jvieira33@sapo.pt>, 2016\n"
+"Language-Team: Portuguese (https://www.transifex.com/anticapitalista/teams/10162/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Interface gráfica de criador de instalações externas USB"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr ""
+"Detectado sistema em instalação externa. Seleccionar modo de criação de "
+"instalação externa USB"
+
+msgid "Select Mode"
+msgstr "Seleccionar Modo"
+
+msgid "Select USB Device"
+msgstr "Seleccionar Dispositivo USB"
+
+msgid "Clone Mode"
+msgstr "Clonar Modo"
+
+msgid "Select ISO"
+msgstr "Seleccionar ficheiro ISO"
+
+msgid "Clone Running Live System"
+msgstr "Clone a executar o sistema da instalação externa"
+
+msgid "Information"
+msgstr "Informação"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "O ficheiro escolhido não é um ficheiro ISO. Escolher um ficheiro ISO."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Interface gráfica simples para o criador de instalações externas USB"
+
+msgid "Version"
+msgstr "Versão"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Não foi detectado nenhum dispositivo USB alvo. Inserir um dispositivo e "
+"voltar a tentar"
+
+msgid "License"
+msgstr "Licença"
+
+msgid "Apply"
+msgstr "Aplicar"
+
+msgid "Close"
+msgstr "Fechar"
+
+msgid "About"
+msgstr "Sobre"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Advanced"
+msgstr "Avançado"
+
+msgid "LiveUSB creation successful!"
+msgstr "Instalação externa USB criada com êxito!"
+
+msgid "Operation stopped by user."
+msgstr "Operação interrompida pelo utilizador."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Um processo %s (usando PID %s) está já em execução "
+
+msgid "Please close that process before starting a new one"
+msgstr "Fechar esse processo antes de iniciar outro"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Falha na obtenção de bloqueio em %s"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"A janela de progresso foi fechada, mas a tarefa não está concluída. "
+"Continuar?"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "No"
+msgstr "Não"

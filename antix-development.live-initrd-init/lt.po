@@ -1,0 +1,695 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Moo, 2016-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-11-20 21:02+0000\n"
+"Last-Translator: Moo\n"
+"Language-Team: Lithuanian (http://www.transifex.com/anticapitalista/antix-development/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr ""
+
+msgid "The %s program took %s seconds"
+msgstr ""
+
+msgid "Detected %s init system"
+msgstr ""
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr ""
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr ""
+
+msgid "Invalid %s value %s"
+msgstr ""
+
+msgid "Set font to %s"
+msgstr ""
+
+msgid "New screen width %s"
+msgstr "Naujas ekrano plotis %s"
+
+msgid "Welcome to %s"
+msgstr "Sveiki atvykę į %s"
+
+msgid "Current boot codes"
+msgstr ""
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Galimai nežinomi arba su klaidomis parašyti paleidimo kodai"
+
+msgid "don't take this too seriously"
+msgstr "nepriimkite to labai rimtai"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Nežinomas parametras(-ai) ties %s.  Nežinomas parametras(-ai): %s"
+
+msgid "Loading all modules"
+msgstr "Įkeliami visi moduliai"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Įkeliami specifiniai aparatinės įrangos moduliai ..."
+
+msgid "No %s devices found"
+msgstr "Nerasta jokių %s įrenginių"
+
+msgid "The %s parameter is blocking device %s"
+msgstr "Parametras %s blokuoja įrenginį %s"
+
+msgid "Even though device %s has %s"
+msgstr "Nors įrenginys %s turi %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr ""
+
+msgid "Device found but could not find %s file on device"
+msgstr "Įrenginys rastas, tačiau nepavyko įrenginyje rasti failo %s"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr ""
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr ""
+
+msgid "Filtered devices %s"
+msgstr ""
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr ""
+
+msgid "Found new device(s) %s"
+msgstr "Rastas naujas įrenginys(-iai) %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Įrenginys %s jau yra prijungtas ties %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Prijungtas %s įrenginys. Prijungtas įrenginys %s ties %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s įrenginio failų sistema: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr ""
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr ""
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr ""
+
+msgid "quit"
+msgstr "išeiti"
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr ""
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Atliekamas %s įdiegimas, būkite kantrūs ..."
+
+msgid "copy %s to %s"
+msgstr ""
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "%s įdiegimas pavyko"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Nepavyko rasti %s failo %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Nepavyko prijungti %s kaip %s failą"
+
+msgid "File %s not found on device %s"
+msgstr "Failas %s nerastas įrenginyje %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Neteisinga šifravimo veiksena %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Nerastas reikalingas šifravimo branduolio modulis %s."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "Nerasta programa %s.  Nepavyksta atlikti šifravimą."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "Programa %s yra sugadinta.  Nepavyksta atlikti šifravimą."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Ieškoma šifruoto įrenginio, kurio uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr ""
+
+msgid "Could not find file %s"
+msgstr "Nepavyko rasti failo %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Nepavyko rasti failų %s ar %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Nerastas joks įrenginys, kurio uuid %s"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr ""
+
+msgid "Encrypted device %s does not exist"
+msgstr "Šifruoto įrenginio %s nėra"
+
+msgid "Encrypted device %s is not a block device"
+msgstr ""
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Šifruotas įrenginys %s nėra LUKS įrenginys"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Rastas šifruotas įrenginys.  Jūsų paprašyta žemiau įvesti savo slaptafrazę."
+
+msgid "Could not open LUKS device %s"
+msgstr "Nepavyko atverti LUKS įrenginio %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Atvertas šifruotas įrenginys %s ties %s"
+
+msgid "Could not mount encrypted device"
+msgstr "Nepavyko prijungti šifruoto įrenginio"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Nepavyko šifruotame įrenginyje rasti failo %s"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Ar tikrai užsirašėte ar įsiminėte naująją slaptafrazę?"
+
+msgid "press %s to continue"
+msgstr "norėdami tęsti, paspauskite %s"
+
+msgid "Enter"
+msgstr "Enter (Įvedimas)"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Keičiama šifravimo slaptafrazė ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Įveskite dabartinę slaptafrazę (atviruoju tekstu)"
+
+msgid "The entered passphrase does not match"
+msgstr "Įvesta slaptafrazė nesutampa"
+
+msgid "Do you want to try again?"
+msgstr "Ar norite bandyti dar kartą?"
+
+msgid "Passphrase change aborted"
+msgstr "Slaptafrazės pakeitimas nutrauktas"
+
+msgid "Passphrase was not changed"
+msgstr "Slaptafrazė nebuvo pakeista"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr ""
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr ""
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr ""
+
+msgid "current phrase %s"
+msgstr "dabartinė frazė %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Jūsų bus paprašyta įvesti naująją slaptafrazę du kartus"
+
+msgid "Searched devices: %s"
+msgstr ""
+
+msgid "Searched types: %s"
+msgstr ""
+
+msgid "All block devices: %s"
+msgstr ""
+
+msgid "Please contact %s at %s"
+msgstr ""
+
+msgid "Kernel version mismatch"
+msgstr "Branduolio versijos neatitikimas"
+
+msgid "Kernel version %s"
+msgstr "Branduolio versija %s"
+
+msgid "The module directory %s is missing"
+msgstr "Trūksta modulio katalogo %s"
+
+msgid "Initializing random number generator ..."
+msgstr ""
+
+msgid "Saving random seed"
+msgstr ""
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Nepavyko prijungti %s kaip %s failų sistemos"
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr ""
+
+msgid "Create %s failed"
+msgstr "Nepavyko sukurti %s"
+
+msgid "Found %s"
+msgstr "Rasta %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Nėra prieinama nei %s, nei %s"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "%s failų sistema yra neprieinama.  Naudojama %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr ""
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr ""
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr ""
+
+msgid "Could not mount %s"
+msgstr "Nepavyko prijungti %s"
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr ""
+
+msgid "check %s filesystem"
+msgstr ""
+
+msgid "There were no errors on %s"
+msgstr "Nebuvo jokių klaidų ties %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr ""
+
+msgid "Skip Error: %s"
+msgstr ""
+
+msgid "power off"
+msgstr "išjungti"
+
+msgid "reboot"
+msgstr "paleisti iš naujo"
+
+msgid "Unknown command"
+msgstr "Nežinoma komanda"
+
+msgid "Please try again"
+msgstr "Prašome bandyti dar kartą"
+
+msgid "Unmount successful"
+msgstr "Atjungimas sėkmingas"
+
+msgid "Press %s to %s"
+msgstr "Paspauskite %s, norėdami %s"
+
+msgid "Will now %s the system"
+msgstr ""
+
+msgid "Fatal Error"
+msgstr "Lemtingoji klaida"
+
+msgid "Non-Fatal Error"
+msgstr "Nelemtingoji klaida"
+
+msgid "continue"
+msgstr "tęsti"
+
+msgid "yes"
+msgstr "taip"
+
+msgid "no"
+msgstr "ne"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Jūs privalote atsakyti %s arba %s. Prašome bandyti dar kartą"
+
+msgid "The default is"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid "Press <%s> for the default selection"
+msgstr ""
+
+msgid "enter"
+msgstr ""
+
+msgid "The number <%s> is out of range"
+msgstr ""
+
+msgid "Current default"
+msgstr ""
+
+msgid "Reset"
+msgstr "Atstatyti"
+
+msgid "Keeping default %s"
+msgstr ""
+
+msgid "Previous default %s erased"
+msgstr ""
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr ""
+
+msgid "Default"
+msgstr "Numatyta"
+
+msgid "Select Language"
+msgstr ""
+
+msgid "Languages are listed alphabetically"
+msgstr "Kalbos yra išvardytos abėcėlės tvarka"
+
+msgid "Language"
+msgstr "Kalba"
+
+msgid "Select number of console columns"
+msgstr ""
+
+msgid "Wider means a smaller font"
+msgstr ""
+
+msgid "Console columns"
+msgstr "Pulto stulpeliai"
+
+msgid "Select Timezone"
+msgstr ""
+
+msgid "Timezones are listed by longitude"
+msgstr "Laiko juostos yra išvardytos pagal ilgumą"
+
+msgid "Timezone"
+msgstr "Laiko juosta"
+
+msgid "Select Option"
+msgstr ""
+
+msgid "Only one option can be selected"
+msgstr "Gali būti pasirinktas tik vienas parametras"
+
+msgid "Options"
+msgstr "Parametrai"
+
+msgid "Select Mounting Option"
+msgstr ""
+
+msgid "Automounting is enabled by default"
+msgstr "Automatinis prijungimas yra įjungtas pagal numatymą"
+
+msgid "Mount"
+msgstr "Prijungti"
+
+msgid "automount|mount=*"
+msgstr ""
+
+msgid "Select Persistence Option"
+msgstr ""
+
+msgid "Persistence"
+msgstr ""
+
+msgid "Select font size"
+msgstr ""
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr ""
+
+msgid "Select Desktop"
+msgstr ""
+
+msgid "Desktop"
+msgstr "Darbalaukis"
+
+msgid "Save these changes?"
+msgstr "Įrašyti šiuos pakeitimus?"
+
+msgid "Save"
+msgstr "Įrašyti"
+
+msgid "Please select %s device:"
+msgstr ""
+
+msgid "reverse video"
+msgstr ""
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr ""
+
+msgid "The limiting factors are highlighted in %s"
+msgstr ""
+
+msgid "The device %s already has label %s"
+msgstr ""
+
+msgid "Update label on %s from %s to %s?"
+msgstr ""
+
+msgid "The device %s has no label"
+msgstr "Įrenginys %s neturi etiketės"
+
+msgid "Give %s the label %s?"
+msgstr ""
+
+msgid "Label updated to %s"
+msgstr ""
+
+msgid "Valid %s"
+msgstr ""
+
+msgid "Could not find device %s"
+msgstr "Nepavyko rasti įrenginio %s"
+
+msgid "Valid devices"
+msgstr ""
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr ""
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr ""
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr ""
+
+msgid "No %s found in file %s"
+msgstr ""
+
+msgid "No %s found but there is a %s"
+msgstr ""
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr ""
+
+msgid "file: %s"
+msgstr "failas: %s"
+
+msgid "result: %s"
+msgstr "rezultatas: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr ""
+
+msgid "At least one %s checksum did not match"
+msgstr ""
+
+msgid "Success!  The file passed"
+msgstr "Pavyko!  Failas praėjo"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Pavyko!  Visi %s failų(-ai) praėjo"
+
+msgid "Wait %s seconds"
+msgstr ""
+
+msgid "copy %s file to RAM"
+msgstr ""
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr ""
+
+msgid "Size of original %12s"
+msgstr ""
+
+msgid "Size of copy %12s"
+msgstr ""
+
+msgid "Copy to RAM succeeded"
+msgstr "Kopijavimas į RAM pavyko"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr ""
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr ""
+
+msgid "create %s persistence file"
+msgstr ""
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr ""
+
+msgid "This default size will leave %s MiB free"
+msgstr ""
+
+msgid "Create %s file, manually or automatically"
+msgstr ""
+
+msgid "create automatically"
+msgstr "sukurti automatiškai"
+
+msgid "create custom"
+msgstr ""
+
+msgid "Please select size of %s file"
+msgstr ""
+
+msgid "There is %s MiB available on the device"
+msgstr ""
+
+msgid "Filesystem size %s MiB"
+msgstr "Failų sistemos dydis %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr ""
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr ""
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Prašome palaukti, kol yra randami skaidiniai ..."
+
+msgid "persistence"
+msgstr ""
+
+msgid "persist device"
+msgstr ""
+
+msgid "Enabled %s persistence"
+msgstr ""
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Kopijuoti %s MiB į RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr ""
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr ""
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr ""
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr ""
+
+msgid "There's not enough space to copy all the files"
+msgstr "Nepakanka vietos nukopijuoti visų failų"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr ""
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr ""
+
+msgid "Have %s MiB free.  Need %s"
+msgstr ""
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr ""
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr ""
+
+msgid "Press <%s> to continue"
+msgstr "Norėdami tęsti, paspauskite <%s>"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Atrodo, kad pasirinkote VGA raišką %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Ar norėtumėte įrašyti šią raišką vėlesniems paleidimams?"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Bus įrašytas naujas VGA nustatymas ir jūsų kiti paleidimo parametrai"
+
+msgid "umount %s"
+msgstr ""
+
+msgid "umount of %s failed"
+msgstr ""
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Numatytasis dydis: %s Meg.  Failų sistemos tipas: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr ""
+
+msgid "There is %s Meg available on the device"
+msgstr ""
+
+msgid "Filesystem size %s Meg"
+msgstr ""
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr ""
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr ""
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr ""
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr ""

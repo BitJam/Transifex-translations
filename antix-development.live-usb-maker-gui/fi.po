@@ -1,0 +1,102 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# En Kerro <inactive+ekeimaja@transifex.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: 2016-11-16 21:44+0000\n"
+"Last-Translator: En Kerro <inactive+ekeimaja@transifex.com>, 2018\n"
+"Language-Team: Finnish (https://www.transifex.com/anticapitalista/teams/10162/fi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr ""
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr ""
+
+msgid "Select Mode"
+msgstr "Valitse toimintatila"
+
+msgid "Select USB Device"
+msgstr "Valitse USB-laite"
+
+msgid "Clone Mode"
+msgstr "Monistustila"
+
+msgid "Select ISO"
+msgstr "Valitse ISO-tiedosto"
+
+msgid "Clone Running Live System"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr ""
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr ""
+
+msgid "Version"
+msgstr "Versio"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+
+msgid "License"
+msgstr "Lisenssi"
+
+msgid "Apply"
+msgstr "Hyväksy"
+
+msgid "Close"
+msgstr "Sulje"
+
+msgid "About"
+msgstr "Tietoja"
+
+msgid "Help"
+msgstr "Ohje"
+
+msgid "Advanced"
+msgstr ""
+
+msgid "LiveUSB creation successful!"
+msgstr ""
+
+msgid "Operation stopped by user."
+msgstr "Tapahtuma keskeytetty käyttäjän toimesta."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr ""
+
+msgid "Please close that process before starting a new one"
+msgstr ""
+
+msgid "Failed to obtain lock on %s"
+msgstr ""
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "No"
+msgstr "Ei"

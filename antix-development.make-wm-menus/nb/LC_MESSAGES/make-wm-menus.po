@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Kristian B <mopardud@hotmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Norwegian Bokmål (http://www.transifex.com/anticapitalista/antix-development/language/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "File Manager"
+msgstr "Hjemmemappe"
+
+msgid "Web Browser"
+msgstr "Nettleseren"
+
+msgid "Editor"
+msgstr "Tekstredigering"
+
+msgid "Personal"
+msgstr "Personlig"
+
+msgid "Applications"
+msgstr "Programmer"
+
+msgid "Terminal Apps"
+msgstr "Terminalprogrammer"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD skriver"
+
+msgid "Music Player"
+msgstr "Musikkspiller"
+
+msgid "Network"
+msgstr "Nettverk"
+
+msgid "Alpine Mail"
+msgstr "Alpine email"
+
+msgid "Browser elinks"
+msgstr "Nettleser elinks"
+
+msgid "Irssi Chat"
+msgstr "Irssi irc-chat"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom leser"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Kontor"
+
+msgid "Organizer"
+msgstr "Organiserer"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Update Menu"
+msgstr "Oppdater many"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "Alternate Desktops"
+msgstr "Alternative skrivebord"
+
+msgid "Add Desktop"
+msgstr "Legg til skrivebord"
+
+msgid "Wallpaper"
+msgstr "Bakgrunn"
+
+msgid "GTK Theme"
+msgstr "GTK tema"
+
+msgid "Desktop Defaults"
+msgstr "Skrivebordsstandarder"
+
+msgid "Session Settings"
+msgstr "Økt-administrasjon"
+
+msgid "Session Settings Global"
+msgstr "Global økt-administrasjon"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel på/av"
+
+msgid "Conky on/off"
+msgstr "Conky av/på"
+
+msgid "Tools"
+msgstr "Verktøy"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "MC File Manager"
+msgstr "MC filutforsker"
+
+msgid "App Killer"
+msgstr "Programavslutter"
+
+msgid "Process Viewer"
+msgstr "Prosessutforsker"
+
+msgid "System Information"
+msgstr "Systeminformasjon"
+
+msgid "Control Centre"
+msgstr "Kontrollpanel"
+
+msgid "Help"
+msgstr "Hjelp"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live Hvordan"
+
+msgid "Rox Manual"
+msgstr "Rox veiledning"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox dokumentasjon"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "IceWM veileder"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Hjemmeside"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Brannmur"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Man sider"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Kjør"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox instillinger"
+
+msgid "Configuration"
+msgstr "Konfigurasjon"
+
+msgid "Styles"
+msgstr "Styles"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox Styles"
+
+msgid "Workspaces"
+msgstr "Arbeidsområder"
+
+msgid "Reconfigure"
+msgstr "Rekonfigurer"
+
+msgid "Restart"
+msgstr "Omstart"
+
+msgid "Exit"
+msgstr "Avslutt"
+
+msgid "antiX Installer"
+msgstr "antiX installerer"
+
+msgid "Logout..."
+msgstr "Logg Ut"
+
+msgid "Restart JWM"
+msgstr "Omstart JWM"
+
+msgid "Log Out"
+msgstr "Logg Ut"
+
+msgid "Home Folder"
+msgstr "Hjemmemappe"
+
+msgid "Browser"
+msgstr "Nettleseren"
+
+msgid "Unplug Removable Device"
+msgstr "Koble fra enhet"
+
+msgid "Quit"
+msgstr "Avslutt"

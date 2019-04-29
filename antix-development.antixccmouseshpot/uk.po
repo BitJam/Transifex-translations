@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2011-12-06 09:47+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/projects/p/antix-development/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Oпції миші "
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Прискорення миші"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Змінити рухи миші"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Прискорення (коефіцієнт)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Поріг (пікселі)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Відновити типові рухи"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Послідовність кнопок"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Без змін"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Під ліву руку"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Під праву руку"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Розмір вказівника"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Змінити розмір вказівника"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Розмір (в пікселях)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Відновити типовий розмір"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Тема вказівника"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Після вибору нової теми, вийдіть\\n\n та зайдіть, щоб побачити зміни. "
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Змінити тему вказівника"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Швидкість миші змінено."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Використовувати типову швидкість миші."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Використовувати під ліву руку."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Використовувати під праву руку."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Розмір вказівника змінено. Вийдіть\\n\nта зайдіть знову, щоб побачити зміни. "
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Типовий розмір вказівника відновлено.\\n\nВийдіть та зайдіть знову, щоб побачити зміни. "

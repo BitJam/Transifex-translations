@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: Norwegian Bokmål (https://www.transifex.com/anticapitalista/teams/10162/nb/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nb\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "<Enter> select option, <q> return to Main, <h> help"
+msgstr ""
+
+msgid "<Enter> select option, <q> quit, <h> help"
+msgstr ""
+
+msgid "Return to main menu"
+msgstr ""
+
+msgid "Are you SURE you want to %s (y/N) "
+msgstr ""
+
+msgid "File not found %s"
+msgstr ""
+
+msgid "Cannot write to file %s"
+msgstr ""
+
+msgid "There are too many %s lines to fit on the screen all at once."
+msgstr ""
+
+msgid "Therefore the %s will be sent to the 'less' program."
+msgstr ""
+
+msgid "You can scroll the %s with the arrow keys, <page-up>, and <page-down>."
+msgstr ""
+
+msgid "Use <Home> to go to the beginning and <End> to go to the end"
+msgstr ""
+
+msgid "Press 'q' when you are done.  Use 'h' for help and many more commands."
+msgstr ""

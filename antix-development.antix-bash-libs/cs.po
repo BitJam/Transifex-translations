@@ -1,0 +1,388 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2017-09-19 11:05+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "varování"
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Skutečně ukončit?"
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "A"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "a"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Stiskněte <Enter> pro pokračování"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Zkuste znovu"
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "zadali jste: %s"
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "je toto správně?"
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Zadejte číslo"
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr " (nebo písmeno)"
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "Váš výběr byl prázdný."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Musíte vybrat číslo."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "Váš výběr %s byl mimo rozsah."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Chyba"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Přepínání na režim CLI"
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Standardní volby"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Vynutit rozhraní příkazového řádku"
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Změnit barvy konzole na světlé"
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Vynutit rozhraní GUI (většinou není potřeba)"
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Zobrazit tuto stručnou nápovědu"
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Změnit barvy konzole na zeslabené/tmavší"
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Vypnout barvy konzole"
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Vypnout zaznamenávání"
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Potlačit dodatečné otázky a vypisování"
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Předstírat, že yad neexistuje"
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Vypisovat více"
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Možnosti ladění"
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Ladící značení Pango odesláno do yad"
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Po skončení zobrazit všechny globální s malými písmeny"
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Po skončení zobrazit všechny globální"
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "možnost %s vyžaduje argument"
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "možnost %s nepřebírá argument"
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "neznámý argument %s"
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Příliš mnoho dodatečných argumentů: %s"
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Příliš málo argumentu. Je potřeba alespoň %s"
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "Předpokládána číselná hodnota po parametru %s"
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "Opravdu chcete odejít z %s?"
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Tento skript může být spuštěn pouze z prostředí %s"
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "Složka %s neexistuje"
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "naznačuje, že toto není prostředí %s."
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Ukončování."
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Tento skript spusťte, prosím, jako root."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Proměnné %s jsou prázdné"
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "Proměnná %s je prázdná"
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "Ve %s:"
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Toto je závažná chyba"
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Varování"
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "Program %s nebyl nalezen, takže uzamčení neproběhne."
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Přejete si přesto pokračovat?"
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "Je spuštěna další kopie %s."
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Pokud jste si jisti, že tomu tak není, pak smažte soubor:"
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "a zkuste to znovu"
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "Nelze %s změnit na zápis-čtení"
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "Nelze vytvořit bod připojení %s."
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "Nelze svázat připojení %s do %s"
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "Nelze připojit %s ve %s"
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "Nelze odpojit %s"
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "Divné. Soubor %s neexistuje."
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "soubor %s nelze připojit."
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "velikost"
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Měl by být smazán?"
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Smazat ho"
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Uložit ho"
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Zobrazit informace"
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Ukončit"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Čištění"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Co se má udělat s %s?"
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Zbytek z vrácení. Normálně smazat."
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "Přizpůsobení, které jste provedli bez restartu."
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Předchozí soubor squashfs. Uložit nebo smazat."
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "Nedokončené přizpůsobení."
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Vyberte činnost:"
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Informace o verzi pro:"
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "Žádný soubor VID"
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "Nelze připojit %s"
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "Zvláštní. Nelze najít řetězec odpovídající \"%s\"."
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Vyberte, z kterých zařízení vybírat"
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Vše"
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Připojeno"
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "Odpojeno"
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "zařízení"
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "OK"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Klikněte na zařízení, pak stiskněte %s"
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Zařízení"
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Připojit"
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Typ"
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Jmenovka"
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Velikost"
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Volný"
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Použijte příkaz \"exit\" peo návrat do %s"

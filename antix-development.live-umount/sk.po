@@ -1,0 +1,71 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2017-2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:01-0600\n"
+"PO-Revision-Date: 2018-10-26 20:19+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>\n"
+"Language-Team: Slovak (http://www.transifex.com/anticapitalista/antix-development/language/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "Požadujem ukončenie zostávajúcich procesov"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Skoro všetky procesy boli okamažite ukončené"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s čaká sa na ukončenie %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr "Všetky procesy budú ukončené za %s sekund(y)"
+
+msgid "Killing remaining processes"
+msgstr "Zabíjam zostávajúce procesy"
+
+msgid "Unable to kill: %s"
+msgstr "Nedá sa zabiť: %s"
+
+msgid "Unmount most filesystems"
+msgstr "Odpájam systémy súborov"
+
+msgid "Disable swap"
+msgstr "Vypínam SWAP"
+
+msgid "Kill any remaining processes"
+msgstr "Zabíjam zostávajúce procesy"
+
+msgid "Failed to umount some filesystems"
+msgstr "Niektoré systémy súborov sa nepodarilo odpojiť"
+
+msgid "reboot"
+msgstr "reštart"
+
+msgid "poweroff"
+msgstr "vypnutie"
+
+msgid "Ready to %s"
+msgstr "Pripravený na %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "Vyberte disk a zatvorte mechaniku"
+
+msgid "and press ENTER to continue"
+msgstr "a pokračujte stlačtením ENTER"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "sekúnd"
+
+msgid "Saving random seed"
+msgstr "Ukladanie random seed"

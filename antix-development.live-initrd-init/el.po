@@ -1,0 +1,698 @@
+# Translation for antiX Development: init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2011,2013-2014
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# anticapitalista <anticapitalista@riseup.net>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-08-21 19:29+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Greek (http://www.transifex.com/anticapitalista/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "%s disabled due to outdated persistence scripts and libs"
+msgstr "%s απενεργοποιημενο λόγω παρωχημένων σενάρια persist και libs"
+
+msgid "The %s program took %s seconds"
+msgstr "Το πρόγραμμα %s διήρκεσε %s δευτερόλεπτα"
+
+msgid "Detected %s init system"
+msgstr "Εντοπίστηκε το init %s"
+
+msgid "Waiting %s seconds for buses to settle ..."
+msgstr "Αναμονή %s δευτερόλεπτα για να εγκατασταθούν buses ..."
+
+msgid "Enter breakpoint(s) separated by commas"
+msgstr "Πληκτρολογήστε το σημείο διακοπής διαχωρισμένες με κόμμα "
+
+msgid "Invalid %s value %s"
+msgstr "Ακυρο %s η παράμετρα %s "
+
+msgid "Set font to %s"
+msgstr "Ρύθμιση γραμματοσειρά σε %s"
+
+msgid "New screen width %s"
+msgstr "Νέο πλάτος οθόνης %s "
+
+msgid "Welcome to %s"
+msgstr "Καλώς ήρθατε στο %s"
+
+msgid "Current boot codes"
+msgstr "Τρέχουσα κωδικούς εκκίνησης "
+
+msgid "Possibly unknown or misspelled boot codes"
+msgstr "Άγνωστη ή ανορθόγραφη κώδικος εκκίνησης:"
+
+msgid "don't take this too seriously"
+msgstr "(Μην πάρετε αυτό στα σοβαρά)"
+
+#. Unknown options in <disable=abcRxyz>.  Unknown options(s): <R>
+msgid "Unknown option(s) in %s.  Unknown option(s): %s"
+msgstr "Άγνωστη επιλογή(ες) σε %s. Άγνωστη επιλογή(ες): %s"
+
+msgid "Loading all modules"
+msgstr "Τοποθέτηση όλων των μονάδω"
+
+msgid "Loading hardware specific modules ..."
+msgstr "Φόρτωση υλικού ειδικών μονάδων ..."
+
+msgid "No %s devices found"
+msgstr "Δεν βρέθηκε συσκευή με %s "
+
+msgid "The %s parameter is blocking device %s"
+msgstr "Η παράμετρος %s μπλοκάρει τη συσκευής %s"
+
+msgid "Even though device %s has %s"
+msgstr "Ακόμα κι αν η συσκευή %s έχει %s"
+
+msgid "Remove the %s boot parameter to allow that device to be scanned"
+msgstr "Αφαιρέστε την παράμετρο εκκίνησης %s για να σαρωθεί η συσκευή αυτή"
+
+msgid "Device found but could not find %s file on device"
+msgstr "Βρέθηκε η συσκευή, αλλά δεν μπορούσε να βρει το αρχείο %s στη συσκευή"
+
+#. Retry for <N> seconds <...>
+msgid "Retry for %s seconds %s"
+msgstr "Επανάληψη για %s δευτερόλεπτα %s"
+
+#. Scan <type> devices.  Look for <type> file(s) <file-names>
+msgid "Scan %s devices.  Look for %s file(s) %s"
+msgstr "Σάρωση %s συσκευές. Ψάξτε για %s αρχείο %s"
+
+msgid "Filtered devices %s"
+msgstr "Φιλτραρισμένες συσκευές %s"
+
+#. Look for files(s) <file-list> on device(s) <device-list>
+msgid "Look for file(s) %s on device(s) %s"
+msgstr "Ψάχνοντας για %s σε %s"
+
+msgid "Found new device(s) %s"
+msgstr "Βρέθηκε νέα συσκευή %s"
+
+msgid "Device %s is already mounted at %s"
+msgstr "Η συσκευή  %s είναι ήδη προσαρτησημένο στο %s"
+
+#. Mounted <type> device at <mount point>
+msgid "Mounted %s device. Mounted device %s at %s"
+msgstr "Η συσκευή %s mounted. Τοποθετημένος συσκευή %s στο %s"
+
+#. <type> device filesystem: <filesystem-name>
+msgid "%s device filesystem: %s"
+msgstr "%s σύστημα αρχείων της συσκευής: %s"
+
+#. Look for <type> devices with <attribute X>
+msgid "Look for %s device with %s"
+msgstr "Ψάχνοντας για τη συσκευή %s με %s"
+
+#. Found existing <frugal> install
+msgid "Found existing %s install"
+msgstr "Βρέθηκαν υπάρχουσες εγκατάσταση %s"
+
+msgid "Looking for partitions with at least %s free.  Please wait ..."
+msgstr "Ψάχνουμε για χωρίσματα με τουλάχιστον %s ελεύθερα. Παρακαλώ περιμένετε ..."
+
+msgid "quit"
+msgstr "Έξοδος "
+
+#. Do you want to do a <frugal> install on the <name> device?
+msgid "Do you want to do a %s install on the %s device?"
+msgstr "Θέλετε να κάνετε μια %s εγκατάσταση στη συσκευή του %s;"
+
+#. Doing <frugal> install, please be patient ...
+msgid "Doing %s install, please be patient ..."
+msgstr "Κάνοντας %s εγκατάσταση, παρακαλώ να είστε υπομονετικοί ..."
+
+msgid "copy %s to %s"
+msgstr "αντιγραφή %s σε %s"
+
+#. The <frugal> install succeeded
+msgid "The %s install succeeded"
+msgstr "Το %s εγκατάσταση πέτυχε"
+
+#. Could not find <type> file <file-name>
+msgid "Could not find %s file %s"
+msgstr "Δεν βρέθηκε %s αρχείο %s"
+
+msgid "Could not mount %s as a %s file"
+msgstr "Δεν ήταν δυνατή η προσάρτηση %s σε αρχείο %s "
+
+msgid "File %s not found on device %s"
+msgstr "Αρχείο %s δε βρέθηκε στη συσκευή %s"
+
+msgid "Invalid encryption mode %s"
+msgstr "Μη έγκυρη λειτουργία κρυπτογράφησης %s"
+
+msgid "Required encryption kernel module %s not found."
+msgstr "Η απαιτούμενη μονάδα πυρήνα κρυπτογράφησης %s δε βρέθηκε."
+
+msgid "The %s program was not found.  Cannot do encryption."
+msgstr "Το πρόγραμμα %s δε βρέθηκε. Δεν είναι δυνατή η κρυπτογράφηση."
+
+msgid "The %s program is broken.  Cannot do encryption."
+msgstr "Το πρόγραμμα %s είναι χαλασμένο. Δεν είναι δυνατή η κρυπτογράφηση."
+
+msgid "Looking for encrypted device with uuid %s"
+msgstr "Ψάχνοντας για κρυπτογραφημένη συσκευή με uuid %s"
+
+msgid "TYPE=.crypto_LUKS"
+msgstr "TYPE=.crypto_LUKS"
+
+msgid "Could not find file %s"
+msgstr "δε βρέθηκε το αρχείο %s"
+
+msgid "Could not find files %s or %s"
+msgstr "Δε βρέθηκε τα αρχεία %s η %s"
+
+msgid "No encrypted device with uuid %s was found"
+msgstr "Δε βρέθηκε κρυπτογραφημένη συσκευή με uuid %s"
+
+msgid "Checking for encrypted partition on device %s ..."
+msgstr "Έλεγχος κρυπτογραφημένου διαμερίσματος στη συσκευή %s ..."
+
+msgid "Encrypted device %s does not exist"
+msgstr "Δεν υπάρχει κρυπτογραφημένη συσκευή %s"
+
+msgid "Encrypted device %s is not a block device"
+msgstr "Η κρυπτογραφημένη συσκευή %s δεν είναι συσκευή block"
+
+msgid "Encrypted device %s is not a LUKS device"
+msgstr "Η κρυπτογραφημένη συσκευή %s δεν είναι συσκευή LUKS"
+
+msgid ""
+"Found encrypted device.  You will be asked to enter your passphrase below."
+msgstr "Βρέθηκε κρυπτογραφημένη συσκευή. Θα σας ζητηθεί να καταχωρίσετε τη δική σας φράση πρόσβασης παρακάτω."
+
+msgid "Could not open LUKS device %s"
+msgstr "Δεν ήταν δυνατό να ανοίξει η συσκευή LUKS %s"
+
+msgid "Opened encrypted device %s at %s"
+msgstr "Άνοιμα κρυπτογραφημένη συσκευή %s στο %s"
+
+msgid "Could not mount encrypted device"
+msgstr "Δεν ήταν δυνατή η προσαρτήση κρυπτογραφημένης συσκευής"
+
+msgid "Could not find file %s on encrypted partition"
+msgstr "Δεν ήταν δυνατή η εύρεση του αρχείου %s σε κρυπτογραφημένο διαμέρισμα"
+
+msgid "Are you sure you have written down or memorized the new passphrase?"
+msgstr "Είστε βέβαιοι ότι έχετε καταγράψει ή απομνημονεύσει τη νέα φράση πρόσβασης"
+
+msgid "press %s to continue"
+msgstr "πατήστε %s για να συνεχίσετε"
+
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Changing encryption passphrase ..."
+msgstr "Αλλαγή της φράσης πρόσβασης κρυπτογράφησης ..."
+
+msgid "Please enter current passphrase (in clear text)"
+msgstr "Εισαγάγετε την τρέχουσα φράση πρόσβασης"
+
+msgid "The entered passphrase does not match"
+msgstr "Η εισαγόμενη φράση πρόσβασης δεν ταιριάζει"
+
+msgid "Do you want to try again?"
+msgstr "Θέλετε να δοκιμάσετε ξανά;"
+
+msgid "Passphrase change aborted"
+msgstr "Η αλλαγή της φράσης απορρίφθηκε"
+
+msgid "Passphrase was not changed"
+msgstr "Η φράση πρόσβασης δεν άλλαξε"
+
+msgid "Preparing for passphrase first-boot reset ..."
+msgstr "Επαναφορά φράσης πρόσβασης ..."
+
+msgid "Reset aborted: passphrase file is empty"
+msgstr "Επαναφορά απορρίφθηκε: το αρχείο πρόσβασης είναι κενό"
+
+msgid "Reset aborted: wrong passphrase in passphrase file"
+msgstr "Επαναφορά απορρίφθηκε: λάθος φράση πρόσβασης στο αρχείο πρόσβασης φράσης"
+
+msgid "current phrase %s"
+msgstr "τρέχουσα φράση %s"
+
+msgid "You will be asked to enter a new passphrase twice"
+msgstr "Θα σας ζητηθεί να εισαγάγετε μια νέα φράση πρόσβασης δύο φορές"
+
+msgid "Searched devices: %s"
+msgstr "Αναζητούμενες συσκευές: %s"
+
+msgid "Searched types: %s"
+msgstr "Αναζητούμενοι τύποι: %s"
+
+msgid "All block devices: %s"
+msgstr "Όλες οι συσκευές μπλοκ: %s"
+
+msgid "Please contact %s at %s"
+msgstr "Παρακαλείστε να επικοινωνήσετε με το %s στο %s"
+
+msgid "Kernel version mismatch"
+msgstr "Ασυμφωνία πυρήνα έκδοσης"
+
+msgid "Kernel version %s"
+msgstr "έκδοση του πυρήνα %s"
+
+msgid "The module directory %s is missing"
+msgstr "Ο κατάλογος μονάδα %s λείπει"
+
+msgid "Initializing random number generator ..."
+msgstr "Αρχικοποίηση γεννήτριας τυχαίων αριθμών ..."
+
+msgid "Saving random seed"
+msgstr "Εξοικονόμηση τυχαίων seed "
+
+#. Could not mount <file name> as a <type> filesystem
+msgid "Could not mount %s as a %s filesystem"
+msgstr "Δεν ήταν δυνατή η προσάρτηση %s σε αρχείο %s "
+
+#. No <VID> found in <file-name>
+msgid "No %s found in %s"
+msgstr "Το %s δε βρέθηκε στο %s"
+
+msgid "Create %s failed"
+msgstr "Η δημιουργία του %s απέτυχε"
+
+msgid "Found %s"
+msgstr "Βρέθηκε %s"
+
+msgid "Neither %s nor %s is available"
+msgstr "Ούτε %s ούτε %s είναι διαθέσιμη"
+
+msgid "The %s filesystem is not available.  Using %s"
+msgstr "Το σύστημα αρχείων %s δεν είναι διαθέσιμο. Χρησιμοποιώντας %s"
+
+msgid "Forcing use of %s to match existing rootfs file"
+msgstr "Εξαναγκασμός χρήση %s για να ταιριάζει με το αρχείο rootfs"
+
+msgid "The %s filesystem is not available. Can't use this %s file"
+msgstr "Το σύστημα αρχείων %s δεν είναι διαθέσιμο. Δεν μπορείτε να χρησιμοποιήσετε αυτό το αρχείο %s"
+
+#. Enable <type> persistence
+msgid "Enable %s persistence"
+msgstr "Ενεργοποίηση του persist %s"
+
+msgid "Could not mount %s"
+msgstr "Δεν ήταν δυνατή η προσάρτηση %s "
+
+#. Create <something tmpfs> at <directory> <(size)>
+msgid "Create %s at %s %s"
+msgstr "Δημιουργία %s στο %s %s"
+
+msgid "check %s filesystem"
+msgstr "έλεγχος του σύστημα αρχείων %s"
+
+msgid "There were no errors on %s"
+msgstr "Δεν υπήρχαν σφάλματα στο %s"
+
+#. Begin [doing some sub process]
+msgid "Begin"
+msgstr "Ξεκινήστε "
+
+msgid "Skip Error: %s"
+msgstr "Μετάβαση Σφάλμα: %s"
+
+msgid "power off"
+msgstr "απενεργοποίηση"
+
+msgid "reboot"
+msgstr "επανεκκίνηση"
+
+msgid "Unknown command"
+msgstr "Άγνωστη εντολή"
+
+msgid "Please try again"
+msgstr "Παρακαλώ προσπαθήστε ξανά"
+
+msgid "Unmount successful"
+msgstr "Unmount επιτυχής"
+
+msgid "Press %s to %s"
+msgstr "Πατήστε %s να %s"
+
+msgid "Will now %s the system"
+msgstr "Τώρα %s το σύστημα"
+
+msgid "Fatal Error"
+msgstr "Σφάλμα"
+
+msgid "Non-Fatal Error"
+msgstr "Μη θανατηφόρων Σφάλμα"
+
+msgid "continue"
+msgstr "συνεχίστε"
+
+msgid "yes"
+msgstr "ναι"
+
+msgid "no"
+msgstr "όχι"
+
+msgid "You must answer %s or %s. Please try again"
+msgstr "Πρέπει να απαντήσετε %s ή %s. Παρακαλώ δοκιμάστε ξανά"
+
+msgid "The default is"
+msgstr "προεπιλογή"
+
+msgid "default"
+msgstr "προεπιλογή"
+
+msgid "Press <%s> for the default selection"
+msgstr "Πατήστε <%s> για την προεπιλογή"
+
+msgid "enter"
+msgstr "εισάγετε"
+
+msgid "The number <%s> is out of range"
+msgstr "Ο αριθμός <%s> είναι εκτός εμβέλειας"
+
+msgid "Current default"
+msgstr "Τρέχουσα προεπιλογή"
+
+msgid "Reset"
+msgstr "Επαναφορά"
+
+msgid "Keeping default %s"
+msgstr "Τήρηση προεπιλογή %s"
+
+msgid "Previous default %s erased"
+msgstr "Διαγραφή προηγούμενο προεπιλογή %s"
+
+#. <Timezone> set to <Denver>
+msgid "%s set to %s"
+msgstr "%s εχει οριστεί σε %s"
+
+msgid "Default"
+msgstr "Προεπιλογή"
+
+msgid "Select Language"
+msgstr "Επιλέξτε τη γλώσσα"
+
+msgid "Languages are listed alphabetically"
+msgstr "Οι γλώσσες αναφέρονται με αλφαβητική σειρά"
+
+msgid "Language"
+msgstr "Γλώσσα"
+
+msgid "Select number of console columns"
+msgstr "Επιλέξτε τον αριθμό των στηλών κονσόλας"
+
+msgid "Wider means a smaller font"
+msgstr "Ευρύτερο σημαίνει μικρότερη γραμματοσειρά"
+
+msgid "Console columns"
+msgstr "στήλες κονσόλας"
+
+msgid "Select Timezone"
+msgstr "Επιλέξτε ζώνη ώρας "
+
+msgid "Timezones are listed by longitude"
+msgstr "Οι ζώνες ώρας αναφέρονται από το γεωγραφικό μήκος"
+
+msgid "Timezone"
+msgstr "Ζώνη ώρας:"
+
+msgid "Select Option"
+msgstr "Επιλέξτε "
+
+msgid "Only one option can be selected"
+msgstr "Μόνο μία επιλογή μπορεί να επιλεγεί"
+
+msgid "Options"
+msgstr "Επιλογές"
+
+msgid "Select Mounting Option"
+msgstr "Επιλέξτε Mount"
+
+msgid "Automounting is enabled by default"
+msgstr "Automount ενεργοποιημένη από προεπιλογή"
+
+msgid "Mount"
+msgstr "Προσάρτηση"
+
+msgid "automount|mount=*"
+msgstr "automount|mount=*"
+
+msgid "Select Persistence Option"
+msgstr "Επιλέξτε "
+
+msgid "Persistence"
+msgstr "Persistence"
+
+msgid "Select font size"
+msgstr "Επιλέξτε το μέγεθος της γραμματοσειράς"
+
+msgid "Scale fonts in graphics display.  Default is 1.0"
+msgstr "Κλίμακα γραμματοσειρές στην οθόνη γραφικών. Η προεπιλογή είναι 1.0"
+
+msgid "Select Desktop"
+msgstr "Επιλέξτε Desktop"
+
+msgid "Desktop"
+msgstr "Επιφάνεια εργασίας"
+
+msgid "Save these changes?"
+msgstr "Αποθήκευση Αλλαγών;"
+
+msgid "Save"
+msgstr "Αποθήκευση"
+
+msgid "Please select %s device:"
+msgstr "Παρακαλώ επιλέξτε τη συσκευή %s:"
+
+msgid "reverse video"
+msgstr "αντίστροφη βίντεο"
+
+msgid "Partitions that can't be used are listed but not selectable."
+msgstr "Χωρίσματα που δεν μπορούν να χρησιμοποιηθούν περιλαμβάνονται, αλλά δεν είναι επιλέξιμο."
+
+msgid "The limiting factors are highlighted in %s"
+msgstr "Οι περιοριστικοί παράγοντες τονίζονται στο %s"
+
+msgid "The device %s already has label %s"
+msgstr "Η συσκευή %s είναι ήδη ετικέτα %s"
+
+msgid "Update label on %s from %s to %s?"
+msgstr "Ενημέρωση ετικέτα στο %s από %s σε %s;"
+
+msgid "The device %s has no label"
+msgstr "Η συσκευή %s δεν έχει ετικέτα"
+
+msgid "Give %s the label %s?"
+msgstr "Δώστε %s στην ετικέτα %s;"
+
+msgid "Label updated to %s"
+msgstr "Ετικέτα ενημερώνεται για %s"
+
+msgid "Valid %s"
+msgstr "Έγκυρα %s"
+
+msgid "Could not find device %s"
+msgstr "Δεν ήταν δυνατή η εύρεση συσκευής %s"
+
+msgid "Valid devices"
+msgstr "Έγκυρες συσκευές"
+
+#. "<VID> mismatch between <linuxfs> and <rootfs>
+msgid "%s mismatch between %s and %s"
+msgstr "%s αναντιστοιχία μεταξύ %s και%s"
+
+#. Copy <linuxfs VID> to empty <rootfs>
+msgid "Copy %s to empty %s"
+msgstr "Αντιγραφή %s σε άδειο %s"
+
+#. <type> file not found <file-name>
+msgid "%s file not found %s"
+msgstr "Το αρχείο %s δε βρέθηκε %s"
+
+msgid "No %s found in file %s"
+msgstr "Το %s δε βρέθηκε στο αρχείο %s"
+
+msgid "No %s found but there is a %s"
+msgstr "Δεν βρέθηκε %s αλλά υπάρχει %s"
+
+#. Check <md5> of files in <some> directory
+msgid "Check %s of files in %s directory. Please be patient ..."
+msgstr "Έλεγχος %s αρχεία στον κατάλογο %s. Παρακαλώ να είστε υπομονετικοί ..."
+
+msgid "file: %s"
+msgstr "αρχείο: %s"
+
+msgid "result: %s"
+msgstr "αποτέλεσμα: %s"
+
+#. No <md5> checksums were found in <directory>.  Can't do any <md5> checks.
+msgid "No %s checksums were found in %s. Can't do any %s checks."
+msgstr "Δεν βρέθηκαν %s checksums στο %s. Δεν μπορεί να κάνει οποιαδήποτε %s ελέγχους"
+
+msgid "At least one %s checksum did not match"
+msgstr "Τουλάχιστον ένα %s άθροισμα ελέγχου δεν ταιριάζει"
+
+msgid "Success!  The file passed"
+msgstr "Επιτυχία! Το αρχείο πέρασε"
+
+#. Success! All <count> file(s) passed
+msgid "Success!  All %s files passed"
+msgstr "Επιτυχία! Όλα τα αρχεία %s πέρασαν"
+
+msgid "Wait %s seconds"
+msgstr "Αναμονή %s δευτερόλεπτα"
+
+msgid "copy %s file to RAM"
+msgstr "να θέσει το αρχείο %s στη μνήμη RAM"
+
+msgid "Will copy files from %s to %s. Please be patient ..."
+msgstr "Η αντιγραφή αρχείων από %s σε %s. Παρακαλώ να είστε υπομονετικοί ..."
+
+msgid "Size of original %12s"
+msgstr "Μέγεθος της αρχικής %12s"
+
+msgid "Size of copy %12s"
+msgstr "Μέγεθος αντιγράφου %12s"
+
+msgid "Copy to RAM succeeded"
+msgstr "Αντιγραφή της μνήμης RAM, πέτυχε"
+
+#. Invalid <persist> value(s) <bad-values>
+msgid "Mount persistence device (if needed)"
+msgstr "να εξαπολύσουν τη συσκευή persist (αν χρειαστεί)"
+
+msgid "Not enough room on Live device to create %s file of size %s MiB"
+msgstr "Δεν υπάρχει αρκετός χώρος στη συσκευή %sγια τη δημιουργία αρχείου μεγέθους %sMiB"
+
+msgid "create %s persistence file"
+msgstr "δημιουργία του αρχείου persistence %s"
+
+msgid "Default size: %s MiB.  Filesystem type: %s"
+msgstr "Προεπιλεγμένο μέγεθος: %s MiB. Τύπος συστήματος αρχείων: %s"
+
+msgid "This default size will leave %s MiB free"
+msgstr "Αυτό το προεπιλεγμένο μέγεθος θα αφήσει %s MiB ελεύθερο"
+
+msgid "Create %s file, manually or automatically"
+msgstr "Δημιουργία του αρχείου %s, με το χέρι ή αυτόματα"
+
+msgid "create automatically"
+msgstr "αυτόματη δημιουργία"
+
+msgid "create custom"
+msgstr "δημιουργήσετε προσαρμοσμένo"
+
+msgid "Please select size of %s file"
+msgstr "Παρακαλώ επιλέξτε το μέγεθος του αρχείου %s"
+
+msgid "There is %s MiB available on the device"
+msgstr "Υπάρχει %s MiB διαθέσιμες στη συσκευή"
+
+msgid "Filesystem size %s MiB"
+msgstr "Μέγεθος συστήματος αρχείων %s MiB"
+
+msgid "Create %s file of type %s and size %s MiB"
+msgstr "Δημιουργήστε το αρχείο %s του τύπου %s και μέγεθος %s MiB"
+
+msgid ""
+"Warning: this can take several minutes per Gigabyte on a %s file system"
+msgstr "Προειδοποίηση: αυτό μπορεί να διαρκέσει αρκετά λεπτά ανά Gigabyte στο σύστημα αρχείων %s"
+
+msgid "Please wait while existing partitions are found ..."
+msgstr "Παρακαλώ περιμένετε ενώ οι υπάρχουσες parititions να βρεθεί ..."
+
+msgid "persistence"
+msgstr "persistence"
+
+msgid "persist device"
+msgstr "συσκευή persist"
+
+msgid "Enabled %s persistence"
+msgstr "persist %s ενεργοποιήθηκε"
+
+msgid "Copy %s MiB to RAM ..."
+msgstr "Αντιγραφή %s MiB στη μνήμη RAM ..."
+
+msgid "mount persistence file %s at %s"
+msgstr "να εξαπολύσουν το αρχείο persist %s στο %s"
+
+#. Could not mount file <filename> for <type> persistence
+msgid "Do you want to enable home persistence anyway?"
+msgstr "Θέλετε να ενεργοποιήσετε το home persistence; "
+
+msgid "Strange, couldn't move the homefs mountpoint"
+msgstr "Παράξενο, δεν μπορούσε να κινηθεί το σημείο προσάρτησης homefs "
+
+msgid "There are %4s MiB of files that will get hidden by home persistence"
+msgstr "Υπάρχουν %4s MiB των αρχείων που θα γίνουν κρυμμένα από το home persistence"
+
+msgid "There are %4s MiB free on the home persistence device"
+msgstr "Υπάρχει %4s MiB διαθέσιμες στη συσκευή home persistence"
+
+msgid "There's not enough space to copy all the files"
+msgstr "Δεν υπάρχει αρκετός χώρος για να αντιγράψετε όλα τα αρχεία"
+
+msgid "Do you want to copy the files to the home persistence device?"
+msgstr "Θέλετε να αντιγράψετε τα αρχεία στη συσκευή home persistence; "
+
+msgid "No %s file found.  Rename %s to %s"
+msgstr "Δε βρέθηκε το αρχείο %s. Μετονομασία %s στο %s"
+
+msgid "Have %s MiB free.  Need %s"
+msgstr "Διαθέσιμα %s ΜiB. Χρειάζεται %s"
+
+msgid "Resize homefs. Copy contents of %s to %s"
+msgstr "Αλλαγή μεγέθους homefs. Αντιγράψτε τα περιεχόμενα του %s στο %s"
+
+msgid "Copy home filesystem.  Please be patient ..."
+msgstr "Αντιγραφή αρχείων. Παρακαλώ να είστε υπομονετικοί ..."
+
+msgid "Press <%s> to continue"
+msgstr "Πατήστε το <%s> για να συνεχίσετε"
+
+msgid "It appears you selected VGA resolution %s"
+msgstr "Φαίνεται ότι επιλέξατε ανάλυση VGA %s"
+
+msgid "Would you like to save this resolution for subsequent boots?"
+msgstr "Θα θέλατε να αποθηκεύσετε αυτήν την ανάλυση οθόνης"
+
+msgid "Will save the new VGA setting and your other boot parameters"
+msgstr "Θα αποθηκεύσετε τη νέα ρύθμιση VGA και τις άλλες παραμέτρους εκκίνησης"
+
+msgid "umount %s"
+msgstr "αποπροσάρτηση %s"
+
+msgid "umount of %s failed"
+msgstr "απροσάρτητη του %s απέτυχε"
+
+msgid "Default size: %s Meg.  Filesystem type: %s"
+msgstr "Προκαθορισμένο μέγεθος: %s Meg. Σύστημα αρχείων τύπου: %s"
+
+msgid "This default size will leave %s Meg free"
+msgstr "Αυτό το προεπιλεγμένο μέγεθος θα αφήσει %s Meg ελεύθερο"
+
+msgid "There is %s Meg available on the device"
+msgstr "Υπάρχει %s Meg διαθέσιμες στη συσκευή"
+
+msgid "Filesystem size %s Meg"
+msgstr "Σύστημα αρχείων μέγεθος %s Meg"
+
+msgid "Create %s file of type %s and size %s Meg"
+msgstr "Δημιουργήστε το αρχείο %s του τύπου %s και μέγεθος %s Meg"
+
+msgid "Copy %s Megabytes to RAM ..."
+msgstr "Αντιγραφή %s Megabytes μνήμης RAM ..."
+
+msgid "There are %4s Meg of files that will get hidden by home persistence"
+msgstr "Υπάρχουν %4s Meg των αρχείων που θα γίνουν κρυμμένα από το home persistence"
+
+msgid "There are %4s Meg free on the home persistence device"
+msgstr "Υπάρχει %4s Meg διαθέσιμες στη συσκευή home persistence"

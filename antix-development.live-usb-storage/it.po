@@ -1,0 +1,50 @@
+# Translation for antiX Development: live-usb-storage file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Michele Iezzi <miki1965@gmail.com>, 2018
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2016-2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-02-24 19:59+0000\n"
+"Last-Translator: Michele Iezzi <miki1965@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/anticapitalista/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Configure Live-usb storage"
+msgstr "Configura l'archiviazione dei dati della Live USB"
+
+msgid "No default user %s found on the system."
+msgstr "Nessun utente predefinito %s è stato trovato nel sistema."
+
+msgid "Disabling live-usb storage"
+msgstr "Disabilitazione dell'archiviazione dei dati della Live USB"
+
+msgid "Home directory for user %s not found"
+msgstr "Directory Home dell'utente %s non trovata"
+
+msgid "Could not find UID or GUID for user %s"
+msgstr "Impossibile trovare trovare l'UID (ID utente) o il GUID per l'utente %s"
+
+msgid "Found non-numeric UID or GUID for user %s: %s"
+msgstr "Trovato l'UID (ID utente) o il GUID non numerico per l'utente %s: %s"
+
+msgid "Can only use %s storage with UID of %s"
+msgstr "Per l'archiviazione è possibile usare solo %s con UID (ID utente) %s"
+
+msgid "The file %s is not a directory"
+msgstr "Il file %s non è una directory"
+
+msgid "Directory %s is already a mountpoint"
+msgstr "La directory %s è già un punto di montaggio"
+
+msgid "Enable live-usb storage at %s"
+msgstr "Abilita l'archiviazione della Live USB a %s"

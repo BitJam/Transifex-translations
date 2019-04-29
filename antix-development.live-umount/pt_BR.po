@@ -1,0 +1,73 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2011
+# Danylo Sa <kaiserblast@gmail.com>, 2018
+# José Vieira <jvieira33@sapo.pt>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:01-0600\n"
+"PO-Revision-Date: 2018-06-24 23:39+0000\n"
+"Last-Translator: cmenemrs <cmenemrs@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/anticapitalista/antix-development/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "A requerer que a maioria dos restantes processos termine"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Quase todos os processos terminaram imediatamente"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s aguarda que %s termine"
+
+msgid "All processes ended within %s second(s)"
+msgstr "Todos os processos terminaram em %s segundo(s)"
+
+msgid "Killing remaining processes"
+msgstr "A terminar os processos restantes"
+
+msgid "Unable to kill: %s"
+msgstr "Não foi possível terminar: %s"
+
+msgid "Unmount most filesystems"
+msgstr "Desmontar a maioria dos sistemas de ficheiros"
+
+msgid "Disable swap"
+msgstr "Desactivar trocas (swap)"
+
+msgid "Kill any remaining processes"
+msgstr "Terminar qualquer processo restante"
+
+msgid "Failed to umount some filesystems"
+msgstr "O desmontar de alguns sistemas de ficheiros falhou"
+
+msgid "reboot"
+msgstr "reiniciar"
+
+msgid "poweroff"
+msgstr "desligar"
+
+msgid "Ready to %s"
+msgstr "Pronto para %s"
+
+msgid "Please remove the disc, close the tray"
+msgstr "Remova o disco e faça recolher a bandeja"
+
+msgid "and press ENTER to continue"
+msgstr "e tecle em INTRODUZIR/ENTER para continuar"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr "segundos"
+
+msgid "Saving random seed"
+msgstr "A guardar a semente aleatória"

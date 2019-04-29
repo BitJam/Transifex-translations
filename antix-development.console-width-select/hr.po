@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Ivica  Kolić <ikoli@yahoo.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:57+0000\n"
+"Last-Translator: Ivica  Kolić <ikoli@yahoo.com>, 2018\n"
+"Language-Team: Croatian (https://www.transifex.com/anticapitalista/teams/10162/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid "This program must be run as root"
+msgstr "Ovaj program morate pokrenuti kao root"
+
+msgid "Could not get console width. Is the framebuffer enabled?"
+msgstr ""
+
+msgid "No fonts found"
+msgstr "Fontovi nisu nađeni"
+
+msgid "Select the console width in characters"
+msgstr "Odaberite dužinu konzole u znakovima"
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr "Pritisnite: <Enter> tza odabir fonta <q> tza prestanak, <h> za pomoć"
+
+msgid "Screen is %s chars wide"
+msgstr "Zaslon je %s znakova dug"
+
+msgid "%s is %s chars wide"
+msgstr "%s je %s znakova dug"
+
+msgid "Select Console Width"
+msgstr "Odaberite dužinu konzole"
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr "Zaslon je %s znakova dug, font je %s"
+
+#. How many columns wide the screen is, and the font width
+msgid "columns"
+msgstr "stupci"
+
+msgid "font width"
+msgstr "dužina fonta"
+
+msgid "Setting default font to %s"
+msgstr "Postavljanje zadanog fonta na %s"

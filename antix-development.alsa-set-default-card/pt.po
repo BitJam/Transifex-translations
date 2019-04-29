@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# José Vieira <jvieira33@sapo.pt>, 2016
+# ric, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:41-0600\n"
+"PO-Revision-Date: 2017-11-13 16:43+0000\n"
+"Last-Translator: ric\n"
+"Language-Team: Portuguese (http://www.transifex.com/anticapitalista/antix-development/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: bin/alsa-set-default-card:21 bin/alsa-set-default-card:33
+msgid "No sound cards/devices were found"
+msgstr "Não foram encontrados placas/dispositivos de som."
+
+#: bin/alsa-set-default-card:24
+msgid "Only one sound card was found."
+msgstr "Foi encontrada apenas uma placa de som."
+
+#: bin/alsa-set-default-card:37
+msgid "Current default is %s"
+msgstr "A predefinição actual é %s"
+
+#: bin/alsa-set-default-card:40
+msgid "Quit"
+msgstr "Sair"
+
+#: bin/alsa-set-default-card:42
+msgid "Please Select sound card"
+msgstr "Selecionar placa de som"
+
+#: bin/alsa-set-default-card:51 bin/alsa-set-default-card:58
+msgid "Sound card set to %s"
+msgstr "Placa de som definida para %s"
+
+#: bin/alsa-set-default-card:56
+msgid "Sound test"
+msgstr "Teste de som"
+
+#: bin/alsa-set-default-card:60
+msgid "Would you like to test if the sound works?"
+msgstr "Pretende testar se o som funciona?"
+
+#: bin/alsa-set-default-card:65
+msgid "Testing sound for up to 6 seconds"
+msgstr "A testar o som até 6 segundos"
+
+#: bin/alsa-set-default-card:72
+msgid "Test succeeded"
+msgstr "O teste teve êxito"
+
+#: bin/alsa-set-default-card:73
+msgid "(Could connect to the selected device)"
+msgstr "(Foi possível ligar ao dispositivo seleccionado)"
+
+#: bin/alsa-set-default-card:78
+msgid "Test failed"
+msgstr "O teste falhou"
+
+#: bin/alsa-set-default-card:79
+msgid "(Could not connect to the selected device)"
+msgstr "(Não foi possível ligar ao dispositivo seleccionado)"

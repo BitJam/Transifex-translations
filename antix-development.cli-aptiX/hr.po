@@ -1,0 +1,569 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Ivica  Kolić <ikoli@yahoo.com>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: 2017-07-13 21:55+0000\n"
+"Last-Translator: Ivica  Kolić <ikoli@yahoo.com>, 2018\n"
+"Language-Team: Croatian (https://www.transifex.com/anticapitalista/teams/10162/hr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hr\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Naredbeni redak"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr ""
+
+msgid "down-arrow"
+msgstr ""
+
+msgid "page-up"
+msgstr ""
+
+msgid "page-down"
+msgstr ""
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "idi natrag na glavni izbornik"
+
+msgid "antiX Command Line Package Installer"
+msgstr ""
+
+msgid "Main Menu"
+msgstr "Glavni izbornik"
+
+msgid "Search for packages to mark or install"
+msgstr "Traži pakete za označavanje ili instalaciju"
+
+msgid "Search for antiX kernels"
+msgstr "Traži antiX kernele"
+
+msgid "Search for all kernels"
+msgstr "Traži sve kernele"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Ažuriraj indeks paketa"
+
+msgid "Edit the repo source files"
+msgstr "Uredi izvorne datoteke repozitorija"
+
+msgid "Quit"
+msgstr "Zatvori"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Svi %s sugerirani %s paketi su instalirani"
+
+msgid "no pending upgrades"
+msgstr ""
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Pogledaj listu %s sugeriranih %s paketa"
+
+msgid "View or perform %s upgrade now"
+msgstr "Pogledaj ili izvedi %s nadogradnju sada"
+
+msgid "View or perform %s upgrades now"
+msgstr "Pogledaj ili izvedi %s nadogradnje sada"
+
+msgid "Upgrade %s package now"
+msgstr "Nadogradi %s paket sada"
+
+msgid "Upgrade %s packages now"
+msgstr "Nadogradi %s pakete sada"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Pogledaj listu paketa koji će biti nadograđeni"
+
+msgid "Ignore these upgrades for now"
+msgstr "Zanemari ove nadogradnje za sada"
+
+msgid "View or install %s marked package"
+msgstr "Pogledaj ili instaliraj%s označeni paket"
+
+msgid "View or install %s marked packages"
+msgstr "Pogledaj ili instaliraj%s označene pakete"
+
+msgid "Edit Source Menu"
+msgstr "Uredi izbornik izvora"
+
+msgid "Please select a source file to edit"
+msgstr "Molim odaberite datoteku izvora za uređivanje"
+
+msgid "Could not find file %s to edit"
+msgstr "Ne mogu naći datoteku %s za uređivanje"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Idi natrag na glavni izbornik"
+
+msgid "Search for packages"
+msgstr "Traži pakete"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "točno podudaranje imena"
+
+msgid "exact name matches"
+msgstr "točna podudaranja imena"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr ""
+
+msgid "leading name matches"
+msgstr ""
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "podudaranja bilo kojeg imena"
+
+msgid "any name matches"
+msgstr "podudaranja bilo kojih imena"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "podudaranje imena ili opisa"
+
+msgid "name or description matches"
+msgstr "podudaranja imena ili opisa"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "pretrage"
+
+msgid "No matches were found"
+msgstr ""
+
+msgid "Do you want to try a different search?"
+msgstr "Želite li probati drugačije pretraživanje?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "točno"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr ""
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "bilo koje ime"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "opis"
+
+msgid "Do a different search"
+msgstr "Napravi drugačiju pretragu"
+
+msgid "Search Result Menu"
+msgstr "Izbornik rezultata pretrage"
+
+msgid "Please select an action"
+msgstr "Molim odaberite radnju"
+
+msgid "What next?"
+msgstr "Što dalje?"
+
+msgid "%s packages were found"
+msgstr "%s paketa je pronađeno"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr ""
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Koristite %s, %s, %s, i %s za klizanje liste"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press %s to see the list"
+msgstr "Pritisni %s da vidiš listu"
+
+msgid "Use %s to go to the main menu"
+msgstr "Koristi %s za odlazak na glavni izbornik"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Koristi %s za ponavljanje iste pretrage"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Koristi %s za pravljenje nove pretrage"
+
+msgid "Press %s to skip picking a package"
+msgstr "Pritisni %s za preskakanje odabira paketa"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr ""
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Koristi %s za odlazak u glavni izbornik"
+
+msgid "Use %s to see the results again"
+msgstr "Koristi %s da ponovno vidite rezultate"
+
+msgid "Use %s to do a new search"
+msgstr "Koristi %s za pravljenje nove pretrage"
+
+msgid "Invalid input.  Please try again"
+msgstr "Neispravan unos. Molim pokušajte ponovno"
+
+msgid "The following numbers were out of range %s"
+msgstr ""
+
+msgid "No valid numbers were given.  Please try again"
+msgstr ""
+
+msgid "Selected packages"
+msgstr "Odabrani paketi"
+
+msgid "Could not find package number %s"
+msgstr ""
+
+msgid "Repeat the same search"
+msgstr "Ponovi istu pretragu"
+
+msgid "Search again"
+msgstr "Traži ponovno"
+
+msgid "Go back to main menu"
+msgstr "Idi natrag na glavni izbornik"
+
+msgid "Now what?"
+msgstr "Što sada?"
+
+msgid "Do a new search"
+msgstr "Napravi novu pretragu"
+
+msgid "See search results again"
+msgstr "Pogledaj ponovno rezultate pretrage"
+
+msgid "Return to main menu"
+msgstr "Povratak na glavni izbornik"
+
+msgid "Remove or Purge Menu"
+msgstr ""
+
+msgid "Please choose an action for this package"
+msgstr "Molim izaberite radnju za ovaj paket"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr ""
+
+msgid "Purge package [remove package AND its config files]"
+msgstr ""
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Ponovno instaliraj paket [čak ako je ažuriran]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Instaliraj paket [samo ako nije ažuriran]"
+
+msgid "The %s command failed"
+msgstr ""
+
+msgid "Please enter the term you want to search for"
+msgstr ""
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr ""
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr ""
+
+msgid "Found"
+msgstr ""
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Pogledaj %s %s rezultate"
+
+msgid "Show more information about package %s"
+msgstr ""
+
+msgid "Uninstall package %s"
+msgstr "Deinstaliraj paket %s"
+
+msgid "Unmark package %s"
+msgstr "Odznači paket %s"
+
+msgid "Mark package %s"
+msgstr "Označi paket %s"
+
+msgid "Install package %s"
+msgstr "Instaliraj paket %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Označi odabrani, deinstalirani paket %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Označi %s odabrani, deinstalirani paket"
+
+msgid "install selected uninstalled package %s"
+msgstr "instaliraj odabrani deinstalirani paket %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "instaliraj %s odabrane deinstalirane pakete"
+
+msgid "Checking source files ..."
+msgstr "Provjeravam datoteke izvora..."
+
+msgid "Run %s now?"
+msgstr "Pokreni %s sada?"
+
+msgid "No list files were found"
+msgstr ""
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr ""
+
+msgid "It appears that at least one list file is missing"
+msgstr "Izgleda da najmanje jedan paket nedostaje"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Vjerojatno trebate pokrenuti %s sada"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr ""
+
+msgid "There was a problem running %s"
+msgstr "Bilo je problema pri pokretanju %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Želite li ipak nastaviti"
+
+msgid "Creating database ..."
+msgstr "Stvaram bazu podataka..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr ""
+
+msgid "Updating database ..."
+msgstr "Ažuriram bazu podataka..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "ažuriranje baze podataka"
+
+msgid "Found %s dependencies"
+msgstr "Nađeno je %s zavisnosti"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Označavam %s neistalirane zavisnosti"
+
+msgid "found %s dependencies"
+msgstr "nađeno je %s zavisnosti"
+
+msgid "found %s unmet dependencies"
+msgstr ""
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Marking package %s"
+msgstr "Označavam paket %s"
+
+msgid "Unmarked %s package"
+msgstr "Neoznačeni %s paket"
+
+msgid "Unmarked %s packages"
+msgstr "Neoznačeni %s paketi"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Želite li vidjeti detaljnije informacije?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+
+msgid "Do you want to install this package now?"
+msgstr "Želite li sada instalirati ovaj paket?"
+
+msgid "Installing %s"
+msgstr "Instaliram %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr ""
+
+msgid "Nothing to install"
+msgstr "Ništa za instalirati"
+
+msgid "Install %s package"
+msgstr "Instaliraj %s paket"
+
+msgid "Install %s packages"
+msgstr "Instaliraj %s pakete"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr ""
+
+msgid "Install this package?"
+msgstr "Instalirati ovaj paket?"
+
+msgid "Install these packages?"
+msgstr "Instalirati ove pakete?"
+
+msgid "Install %s marked package"
+msgstr "Instaliraj %s označene pakete"
+
+msgid "Install all %s marked packages"
+msgstr "Instaliraj sve %s označene pakete"
+
+msgid "View %s marked package"
+msgstr "Pogledaj %s označeni paket"
+
+msgid "View all %s marked packages"
+msgstr "Pogledaj sve %s označene pakete"
+
+msgid "Unmark %s marked package"
+msgstr "Odznači %s označeni paket"
+
+msgid "Unmark all %s marked packages"
+msgstr "Odznači sve %s označene pakete"
+
+msgid "View or Install Marked Packages"
+msgstr ""
+
+msgid "No marked packages were found"
+msgstr ""
+
+msgid "Marked packages will add %s Meg"
+msgstr ""
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr ""
+
+msgid "Use %s to go the main menu"
+msgstr ""
+
+msgid "Use %s to do another search"
+msgstr ""
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr ""
+
+msgid "No suggestions were found!"
+msgstr ""
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr ""
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Pogled"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr ""
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr ""
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr ""
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr ""
+
+msgid "Skip to the next step (don't view packages)"
+msgstr ""
+
+msgid "Please select which packages to view"
+msgstr ""
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr ""
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+
+msgid "See suggestions again"
+msgstr ""
+
+msgid "Marked %s previously unmarked packages"
+msgstr ""
+
+msgid "Unmarked all %s previously marked packages"
+msgstr ""
+
+msgid "%s package is still marked"
+msgstr ""
+
+msgid "%s packages are still marked"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr ""
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr ""
+
+msgid "Unmark %s marked packages"
+msgstr ""
+
+msgid "Checking for package upgrades ..."
+msgstr ""
+
+msgid "There are %s packages that can be upgraded"
+msgstr ""
+
+msgid "There are no packages to upgrade"
+msgstr ""
+
+msgid "System Upgrade Menu"
+msgstr ""
+
+msgid "Exit"
+msgstr "Zatvori"

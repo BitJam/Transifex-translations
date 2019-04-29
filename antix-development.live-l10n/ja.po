@@ -1,0 +1,41 @@
+# Translation for antiX Development: live-L10n file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# BALLOON a.k.a. Fu-sen., 2014
+# night1ynx <night1ynxd@gmail.com>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-11-03 19:27-0600\n"
+"PO-Revision-Date: 2017-11-04 01:28+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Japanese (http://www.transifex.com/anticapitalista/antix-development/language/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Localizing console and timezone"
+msgstr "コンソールとタイムゾーンの設定"
+
+msgid "Setting timezone and localtime to %s"
+msgstr "timezone と localtime を %s に設定"
+
+msgid "Unknown time zone %s"
+msgstr "不明なタイムゾーン %s"
+
+msgid "Recreate symlink %s"
+msgstr ""
+
+msgid "Setting hostname to %s"
+msgstr "ホスト名を %s に設定"
+
+msgid "Setting locale to %s"
+msgstr "ロケールを %s に設定"
+
+msgid "Configuring console for a %s keymap"
+msgstr "%s keymap のコンソールを構成"

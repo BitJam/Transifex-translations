@@ -1,0 +1,170 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# 
+# Translators:
+# Eadwine Rose, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"POT-Creation-Date: 2013-07-06 17:19+EEST\n"
+"PO-Revision-Date: 2014-06-26 11:00+0000\n"
+"Last-Translator: ko <ko.bros@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: user-management:40
+msgid "The password cannot contain spaces"
+msgstr "Het wachtwoord kan geen spaties bevatten"
+
+#: user-management:41
+msgid "You need to enter a password"
+msgstr "U moet een wachtwoord invoeren"
+
+#: user-management:42
+msgid "First and second password must be identical"
+msgstr "Eerste en tweede wachtwoord moeten identiek zijn"
+
+#: user-management:43
+msgid "No User Selected:"
+msgstr "Geen Gebruiker geselecteerd"
+
+#: user-management:44
+msgid "You must choose a user"
+msgstr "U moet een gebruiker kiezen"
+
+#: user-management:45
+msgid "Choose User"
+msgstr "Gebruiker kiezen"
+
+#: user-management:46
+msgid "User Password"
+msgstr "Gebruikerswachtwoord"
+
+#: user-management:47
+msgid "User Login"
+msgstr "Gebruikers inlognaam"
+
+#: user-management:48
+msgid "Set as Default User"
+msgstr "Stel als standaard gebruiker in"
+
+#: user-management:49
+msgid "Set User for Automatic Login"
+msgstr "Stel Automatisch Inloggen in voor de Gebruiker"
+
+#: user-management:50
+msgid "The username cannot contain spaces"
+msgstr "De gebruikersnaam mag geen spaties bevatten"
+
+#: user-management:51
+msgid "You need to enter a username"
+msgstr "U moet een gebruikersnaam invoeren"
+
+#: user-management:52
+msgid "Enter Username"
+msgstr "Voer Gebruikersnaam in"
+
+#: user-management:53
+msgid "User Shell"
+msgstr "Gebruiker Shell-programma"
+
+#: user-management:54
+msgid "No Shell Selected:"
+msgstr "Geen Shell programma geselecteerd"
+
+#: user-management:55
+msgid "You need to choose a shell"
+msgstr "Je moet een Shell programma kiezen"
+
+#: user-management:56
+msgid "Password Manager"
+msgstr "Wachtwoordbeheer"
+
+#: user-management:57
+msgid "password"
+msgstr "wachtwoord"
+
+#: user-management:58
+msgid "password again"
+msgstr "wachtwoord opnieuw"
+
+#: user-management:59
+msgid "Passwords"
+msgstr "Wachtwoorden"
+
+#: user-management:60
+msgid "Add Users"
+msgstr "Voeg Gebruikers toe"
+
+#: user-management:61
+msgid "Add User"
+msgstr "Toevoegen Gebruiker"
+
+#: user-management:62
+msgid "Set Password"
+msgstr "Stel wachtwoord in"
+
+#: user-management:63
+msgid "Users"
+msgstr "Gebruikers"
+
+#: user-management:64
+msgid "User Repair"
+msgstr "Gebruiker Herstel"
+
+#: user-management:65
+msgid "Repair User"
+msgstr "Gebruiker Herstellen"
+
+#: user-management:67
+msgid "User Removal"
+msgstr "Gebruiker Verwijderen"
+
+#: user-management:68
+msgid ""
+"Notice!\n"
+"        All of the users files will remain in their \n"
+"        home directory, unless completely remove\n"
+"        is checked. \n"
+"        Even so, it is recomended that the\n"
+"        files be backed up!"
+msgstr "Let op!\nAlle gebruikersbestanden zullen in hun \nhome directory blijven, tenzij volledig verwijderen\nwordt geselecteerd\nDesalniettemin, een backup maken van die bestanden\nblijft aanbevolen!"
+
+#: user-management:76
+msgid "Remove User"
+msgstr "Verwijder Gebruiker"
+
+#: user-management:77
+msgid "Recover User"
+msgstr "Herstel Gebruiker"
+
+#: user-management:78
+msgid ""
+"Notice!\n"
+"        A user can only be recovered if the user\n"
+"        has not been completely removed!"
+msgstr "Let op!\nEen gebruiker kan alleen teruggehaald worden\nals deze niet volledig verwijderd werd!"
+
+#: user-management:81
+msgid "The list of configs need to be empty or your own configs"
+msgstr "De lijst van configuratiebestanden moet leeg zijn of je eigen configuratie"
+
+#: user-management:82
+msgid "You MUST be root to use this application!"
+msgstr "U MOET root zijn om deze toepassing te gebruiken!"
+
+#: user-management:83
+msgid ""
+"Warning!\n"
+"        Attempting a user repair may restore more\n"
+"        programs to original settings than you intend!\n"
+"        It is highly recommended that you first do a\n"
+"        backup of all files in your home directory."
+msgstr "Waarschuwing!\nBij het herstellen van een gebruiker kunnen meer\nprogramma's dan bedoeld op originele instellingen\nworden teruggezet.  Het blijft aanbevolen om eerst\neen backup van alle bestanden in home te maken."

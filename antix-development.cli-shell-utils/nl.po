@@ -1,0 +1,728 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-12-21 15:58-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Dutch (https://www.transifex.com/anticapitalista/teams/10162/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. starting <program name>
+msgid "Starting %s"
+msgstr "Starten %s"
+
+msgid "The selected usb drive was %s"
+msgstr "De geselecteerde usb drive was %s"
+
+msgid "This device is known to cause errors during creation and boot"
+msgstr ""
+"Dit apparaat staat bekend om fouten te veroorzaken gedurende creatie en "
+"opstarten"
+
+msgid "Do you want to use it anyway?"
+msgstr "Wilt u het toch gebruiken?"
+
+msgid "Will use target device %s"
+msgstr "Zal doelapparaat %s gebruiken"
+
+msgid "Create an encrypted live-usb?"
+msgstr "Versleutelde live-usb creëren?"
+
+msgid "copying"
+msgstr "kopiëren"
+
+msgid "Please enter the filename"
+msgstr "Voer a.u.b. de bestandsnaam in"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "file"
+msgstr "bestand"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "device"
+msgstr "apparaat"
+
+#. Cloning only copies certain files to make a brand-new live-usb
+msgid "cloning"
+msgstr "klonen"
+
+#. What thing we are copying or cloning from: file, device or directory
+msgid "directory"
+msgstr "map"
+
+#. Will use source <file XYZ>
+msgid "Will use source %s"
+msgstr "Zal bron %s gebruiken"
+
+msgid "Could not find device %s"
+msgstr "Kon device %s niet vinden"
+
+msgid "Customize language and timezone?"
+msgstr "Taal en tijdzone aanpassen?"
+
+msgid "Encryption enabled"
+msgstr "Versleuteling ingeschakeld"
+
+msgid "encrypted"
+msgstr "versleuteld"
+
+#. Ready to make live-usb on device X by <cloning|copying directory Y>
+msgid "Ready to make %s on device %s by %s"
+msgstr "Klaar om %s te maken op apparaat %s door %s"
+
+msgid "Ready to perform %s action on %s"
+msgstr "Klaar om %s actie uit te voeren op %s"
+
+msgid "Ready to perform %s actions on %s"
+msgstr "Klaar om %s acties uit te voeren op %s"
+
+#. final_q=$(printf "%s\n%s" "$final_q" "$(quest $"Shall we begin?")")
+msgid "Shall we begin?"
+msgstr "Zullen we beginnen?"
+
+msgid "install"
+msgstr "installeer"
+
+msgid "You will be asked to create a passphrase during the first boot"
+msgstr ""
+"U zult gevraagd worden om een wachtwoordzin te maken tijdens de eerste "
+"opstart"
+
+msgid "Will use initial passphrase %s"
+msgstr "Zal eerdere wachtwoordzin %s gebruiken"
+
+msgid "Make a full-featured live-usb"
+msgstr "Maak een volledig voorziene live-usb"
+
+msgid "Make an encrypted full-featured live-usb"
+msgstr "Maak een volledig voorziene versleutelde live-usb"
+
+msgid "Make a customized live-usb (includes encryption option)"
+msgstr "Maak een aangepaste live-usb (inclusief versleuteling optie)"
+
+msgid "Update the OS on an existing live-usb (experimental)"
+msgstr "Waardeer het OS op op een bestaande live-usb (experimenteel)"
+
+msgid "Update UUIDs on an existing live-usb"
+msgstr "Update UUIDs op een bestaande live-usb"
+
+msgid "Update boot parameters on an existing live-usb"
+msgstr "Update boot parameters op een bestaande live-usb"
+
+msgid "Reinstall legacy bootloader on an existing live-usb"
+msgstr "Herinstalleer legacy bootlader op een bestaande live-usb"
+
+msgid "Clear the partition table on a usb device"
+msgstr "Schoon de partitie-tabel op een usb apparaat"
+
+msgid "Please select what action to perform"
+msgstr "Selecteer aub welke actie uit te voeren"
+
+msgid "Please select the source for the new live-usb"
+msgstr "Selecteer a.u.b. de bron voor de nieuwe live-usb"
+
+msgid "The only usb drive detected was %s"
+msgstr "De enige gevonden usb drive was %s"
+
+msgid "A %s usb drive was detected"
+msgstr "Een %s usb drive is gevonden"
+
+msgid "Do you want it included in the menu anyway"
+msgstr "Wilt u het toch in het menu toevoegen"
+
+msgid "No available target usb devices were found"
+msgstr "Geen beschikbare doel usb apparaten gevonden"
+
+#. Msg $"Only one target usb device was found %s" "$(echo $(echo "$menu" | cut
+#. -d"$P_IFS" -f2))"
+msgid "Only one target usb device was found %s"
+msgstr "Er is maar een doel usb apparaat gevonden: %s"
+
+msgid "Please select the target usb device"
+msgstr "Selecteer a.u.b. het doel usb apparaat"
+
+msgid "entire drive"
+msgstr "Gehele schijf"
+
+msgid "main partition"
+msgstr "hoofd partitie"
+
+msgid "bios partition"
+msgstr "bios partitie"
+
+msgid "uefi partition"
+msgstr "uefi partitie"
+
+msgid "Already using over 90% of the device"
+msgstr "Reeds meer dan 90% van het apparaat in gebruik"
+
+msgid "Do you want to change how much of the device is used?"
+msgstr "Wilt u wijzigen hoeveel van het apparaat gebruikt wordt?"
+
+#. Have set the size to <13%> (1,200 MiB)
+msgid "Have set size to %s (%s MiB)"
+msgstr "Heb formaat ingesteld op %s (%s MiB)"
+
+msgid "Please select how much space to use for the live-usb partitions"
+msgstr ""
+"Selecteer a.u.b. hoeveel ruimte te gebruiken voor de live-usb partities"
+
+msgid "Assuming this is an encrypted live-usb"
+msgstr "Aannemen dat dit een versleutelde live-usb is"
+
+msgid "About to encrypt device %s"
+msgstr "Gaat apparaat %s versleutelen"
+
+msgid "We want to overwrite the data on %s"
+msgstr "We willen de data op %s overschrijven"
+
+msgid "Type in upper-case %s as suggested"
+msgstr "Type in hoofdletters %s zoals voorgesteld"
+
+msgid "You will be asked for the passphrase a third time"
+msgstr "U zult voor een derde keer gevraagd worden naar uw wachtwoordzin"
+
+msgid "Failed to create encrypted device"
+msgstr "Kon versleuteld apparaat niet creëren"
+
+msgid "Do you want to try entering the new passphrase now?"
+msgstr "Wilt u de nieuwe wachtwoordzin nu proberen in te voeren?"
+
+msgid "Failed to open encrypted device"
+msgstr "Kon versleuteld apparaat niet openen"
+
+msgid "Encryption successful"
+msgstr "Versleutelen geslaagd"
+
+msgid "Please wait while we mount optical disc at %s"
+msgstr "Wacht a.u.b. terwijl we de optische disk op %s aankoppelen"
+
+#. Using <gpt|msdos> partitioning
+msgid "Using %s partitioning"
+msgstr "Gebruik van %s partitionering"
+
+msgid "copy from %s to %s partition"
+msgstr "kopieer van %s naar %s partitie"
+
+msgid "files: %s"
+msgstr "bestanden: %s"
+
+msgid "Error while copying files to main partition of live usb"
+msgstr "Fout tijdens kopiëren bestanden naar hoofd partitie van live usb"
+
+msgid "Error while copying %s files"
+msgstr "Fout tijdens kopiëren %s bestanden"
+
+msgid "An error occurred unpacking the initrd"
+msgstr "Er deed zich een fout voor bij het uitpakken van de initrd"
+
+msgid "Was unable to add all required programs to the live initrd"
+msgstr ""
+"Was niet in staat om alle vereiste programma's op de live initrd toe te "
+"voegen"
+
+msgid "Enable encryption in the live initrd"
+msgstr "Versleuteling inschakelen in de live initrd"
+
+msgid "Disable encryption in the live initrd"
+msgstr "Versleuteling uitschakelen in de live initrd"
+
+msgid "Fix %s bug"
+msgstr "Herstel %s fout"
+
+#. Create syslinux directory from <boot/isolinux>
+msgid "Create syslinux directory from %s"
+msgstr "Syslinux map aanmaken van %s"
+
+msgid "Not enough space on %s partition"
+msgstr "Niet genoeg ruimte op %s partitie"
+
+msgid "Less than %s MiB would remain on %s partition"
+msgstr "Minder dan %s MiB zal overblijven op %s partitie"
+
+msgid "done"
+msgstr "klaar"
+
+#. Pause at '<Exit>'
+msgid "Exit"
+msgstr "Afsluiten"
+
+msgid "Please enter the name of the iso file"
+msgstr "Voer a.u.b. de naam van het iso bestand in"
+
+msgid "The live media is not mounted"
+msgstr "De live media is niet gekoppeld"
+
+msgid "Current running kernel is %s"
+msgstr "Momenteel lopende kernel is %s"
+
+msgid "This is not a live-usb system"
+msgstr "Dit is geen live-usb systeem"
+
+msgid "Will use running live system"
+msgstr "Zal lopende live systeem gebruiken"
+
+msgid "The device '%s' does not appear to be a usb device"
+msgstr "Het apparaat '%s' is blijkbaar geen usb apparaat"
+
+msgid "Can't find first partition on device %s"
+msgstr "Kan eerste partitie op apparaat %s niet vinden"
+
+msgid "Device %s is not a disk partition"
+msgstr "Apparaat %s is geen schijf partitie"
+
+msgid "Will use live-usb device %s"
+msgstr "Zal live-usb apparaat %s gebruiken"
+
+msgid "No '%s' file found in any directory in '%s'"
+msgstr "Geen '%s' bestand gevonden in enige map in '%s'"
+
+#. Could not find '<linuxfs.new>' or '<linuxfs>' on the live-usb
+msgid "Could not find '%s' or '%s' on the live-usb"
+msgstr "Kon '%s' of '%s' niet vinden op de live-usb"
+
+#. Found <type> file <file-name> in directory <dir-name>
+msgid "Found %s file %s in directory %s"
+msgstr "%s bestand %s gevonden in map %s"
+
+msgid "Could not find initrd file: %s"
+msgstr "Kon initrd bestand niet vinden: %s"
+
+#. [a table of what was found will follow]
+msgid "Found:"
+msgstr "Gevonden:"
+
+#. singular and plural: 1 total live kernel
+msgid "total live kernel"
+msgstr "totaal live kernel"
+
+msgid "total live kernels"
+msgstr "totaal live kernels"
+
+#. singular and plural
+msgid "default live kernel"
+msgstr "standaard live kernel"
+
+msgid "default live kernels"
+msgstr "standaard live kernels"
+
+#. singular and plural
+msgid "old live kernel"
+msgstr "oude live kernel"
+
+msgid "old live kernels"
+msgstr "oude live kernels"
+
+#. singular and plural
+msgid "total installed kernel"
+msgstr "totaal geïnstalleerde kernel"
+
+msgid "total installed kernels"
+msgstr "totaal geïnstalleerde kernels"
+
+#. singular and plural
+msgid "new installed kernel"
+msgstr "nieuw geïnstalleerde kernel"
+
+msgid "new installed kernels"
+msgstr "nieuw geïnstalleerde kernels"
+
+msgid "Live kernels:"
+msgstr "Live kernels:"
+
+msgid "Boot kernels:"
+msgstr "Boot kernels:"
+
+msgid "Only one new installed kernel was found:"
+msgstr "Er is maar één nieuw geïnstalleerde kernel gevonden:"
+
+msgid "New installed kernels:"
+msgstr "Nieuw geïnstalleerde kernels:"
+
+msgid "There are %s new kernels.  Only showing the most recent %s."
+msgstr "Er zijn %s nieuwe kernels. Laat enkel de meest recente %s zien."
+
+msgid "No kernels were found in the boot directory"
+msgstr "Geen kernels gevonden in de boot map"
+
+msgid "No kernels were found in the live boot directory"
+msgstr "Geen kernels gevonden in de live boot map"
+
+msgid "You should do a remaster before doing a kernel update"
+msgstr ""
+"U kunt het best een remaster uitvoeren voordat een kernel update gedaan "
+"wordt"
+
+msgid "You MUST do a remaster before doing a kernel update"
+msgstr "U MOET een remaster uitvoeren voordat een kernel update gedaan wordt"
+
+msgid "No new kernels were found"
+msgstr "Er werden geen nieuwe kernels gevonden"
+
+msgid "Can only update the initrd file"
+msgstr "Kan enkel het initrd bestand updaten"
+
+msgid ""
+"You must install a kernel and then remaster before doing a kernel update"
+msgstr ""
+"U moet een kernel installeren en dan remasteren voordat een kernel update "
+"gedaan wordt"
+
+msgid "No new kernels were found and there's no template initrd file"
+msgstr "Geen kernels gevonden en er is geen model initrd bestand"
+
+msgid "live kernel update"
+msgstr "live kernel update"
+
+#. Current kernel and New/Old kernel specs
+msgid "Current"
+msgstr "Huidige"
+
+msgid "New"
+msgstr "Nieuw"
+
+msgid "(new)"
+msgstr "(nieuw)"
+
+msgid "live kernel rollback"
+msgstr "live kernel terugdraaien"
+
+msgid "Old"
+msgstr "Oud"
+
+msgid "live initrd update"
+msgstr "live initrd update"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Update initrd using file"
+msgstr "Update initrd met bestand"
+
+msgid "live modules update"
+msgstr "live modules update"
+
+#. Update initrd using file <filename> [NOTE: no "%s" here!]
+msgid "Add initrd modules"
+msgstr "Voeg initrd modules toe"
+
+#. Ready to make the following <live kernel update>
+msgid "Ready to make the following %s"
+msgstr "Klaar om het volgende te maken %s"
+
+msgid "The current Live System on %s"
+msgstr "Het huidige Live Systeem op %s"
+
+msgid "The system is not a live-usb and no usb drives were detected"
+msgstr "Het systeem is geen live-usb en er werden geen usb drives gevonden"
+
+msgid "Please select the system to update"
+msgstr "Selecteer a.u.b. het systeem om te updaten"
+
+msgid "No update or rollback actions are available"
+msgstr "Geen update of terugdraai acties beschikbaar"
+
+msgid "Please select an action to perform"
+msgstr "Selecteer een actie om uit te voeren"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "from"
+msgstr "van"
+
+msgid "Rollback"
+msgstr "Terugdraaien"
+
+msgid "to"
+msgstr "naar"
+
+msgid "Update initrd using file %s"
+msgstr "Update initrd met bestand %s"
+
+msgid "Quit"
+msgstr "Stop"
+
+msgid "Did not find any new kernels in the boot directory"
+msgstr "Geen nieuwe kernels gevonden in de boot map"
+
+msgid "Found one kernel matching the requested version %s"
+msgstr "Een nieuwe kernel gevonden die overeenkomt met de gevraagde versie %s"
+
+msgid "Found one new kernel %s"
+msgstr "Een nieuwe kernel gevonden %s "
+
+msgid "Please select the new kernel from this list"
+msgstr "Selecteer a.u.b. de nieuwe kernel uit deze lijst"
+
+msgid "kernel"
+msgstr "kernel"
+
+msgid "Copy initrd modules failed for kernel %s"
+msgstr "Kopiëren initrd modules mislukt voor kernel %s"
+
+msgid "No modules were copied to the initrd"
+msgstr "Er werden geen modules gekopiëerd naar de initrd"
+
+msgid "Compressing ..."
+msgstr "Comprimeren ..."
+
+#. install <filename>
+msgid "install %s"
+msgstr "installeer %s"
+
+msgid "Overwriting backup"
+msgstr "Backup overschrijven"
+
+msgid "Target file %s does not exist"
+msgstr "Doelbestand %s bestaat niet"
+
+msgid "Could not find old %s file to roll back"
+msgstr "Kon oud bestand %s niet vinden om terug te draaien"
+
+#. Roll back <file-1> to <file-2>
+msgid "Roll back %s to %s"
+msgstr "Draai %s terug naar %s"
+
+#. "pretend mode" goes through the steps withoute altering your system
+msgid "in pretend mode"
+msgstr "in pretend modus"
+
+msgid "Would you like to do a remaster now?"
+msgstr "Wilt u nu een remaster doen?"
+
+msgid "Ready to restart %s"
+msgstr "Klaar om %s opnieuw op te starten"
+
+msgid "Expected a parameter after: %s"
+msgstr "Verwachtte een parameter na: %s"
+
+msgid "Suspicious argument after %s: %s"
+msgstr "Verdacht argument na %s: %s"
+
+msgid "Paused at '%s'"
+msgstr "Gepauzeerd bij '%s'"
+
+#. Press <Enter> for the default entry
+#. Press <Enter> ...
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press <%s> to continue"
+msgstr "Druk op <%s> om verder te gaan"
+
+msgid "Unknown command: %s"
+msgstr "Onbekend commando: %s"
+
+msgid "yes"
+msgstr "ja"
+
+msgid "no"
+msgstr "nee"
+
+#. Sometimes we want to use 'q' to go back to another menu instead of exiting
+#. the program.  We change the printed instructions and we also change the
+#. behavior based on a non-empty BACK_TO_MAIN string
+msgid "quit"
+msgstr "stop"
+
+msgid "default"
+msgstr "standaard"
+
+msgid "pretend mode"
+msgstr "pretend modus"
+
+#. ------------------------------------------------------------------------------
+#. Announce to the world we are in pretend mode
+#. ------------------------------------------------------------------------------
+msgid "PRETEND MODE ENABLED"
+msgstr "DOEN ALSOF MODUS INGESCHAKELD"
+
+msgid "entry"
+msgstr "invoer"
+
+#. Press <Enter> for the default entry
+msgid "Press <%s> for the default %s"
+msgstr "Druk <%s> voor de standaard %s"
+
+#. Use <h> for help, <q> to <go back to main menu>
+msgid "Use %s for help, %s to %s"
+msgstr "Gebruik %s voor hulp, %s om %s"
+
+#. Use <q> to <go back to main menu>
+msgid "Use %s to %s"
+msgstr "Gebruik %s om %s"
+
+msgid "Oops.  Please try again"
+msgstr "Oeps.  Probeer het a.u.b. opnieuw"
+
+msgid "You must enter a number"
+msgstr "U dient een nummer in te voeren"
+
+msgid "You must enter a number or press <Enter>"
+msgstr "U dient een nummer in te voeren of op <Enter> te drukken"
+
+msgid "The number '%s' is out of range"
+msgstr "Het nummer '%s' ligt buiten het bereik"
+
+msgid "Press '%s' again to quit"
+msgstr "Druk wederom op '%s' om te stoppen"
+
+msgid "You chose %s"
+msgstr "U koos %s"
+
+msgid "Please select the live boot directory"
+msgstr "Selecteer a.u.b de live boot map"
+
+msgid "You entered: %s"
+msgstr "U heeft ingevoerd: %s"
+
+msgid "Is this correct?"
+msgstr "Is dit juist?"
+
+msgid "(tab completion is enabled)"
+msgstr "(tab completering is ingeschakeld)"
+
+msgid "%s does not appear to be a file"
+msgstr "%s is blijkbaar geen bestand"
+
+msgid "Try again?"
+msgstr "Nogmaals proberen?"
+
+#. Japanese: Please don't translate these: Device, Size, Filesystem, Label,
+#. Model
+msgid "Device"
+msgstr "Apparaat"
+
+msgid "Size"
+msgstr "Grootte"
+
+msgid "Filesystem"
+msgstr "Bestandssysteem"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Model"
+msgstr "Model"
+
+#. [A clone is different from a copy, with clone we make a fresh new system]
+msgid "Clone this live system"
+msgstr "Clone dit live systeem"
+
+msgid "Copy from an ISO file"
+msgstr "Kopiëren van een ISO bestand"
+
+msgid "Check md5 of the file %s?"
+msgstr "Controleer md5 van het bestand %s?"
+
+msgid "Checking md5 ..."
+msgstr "Md5 controleren ..."
+
+msgid "Keep going anyway?"
+msgstr "Toch doorgaan?"
+
+msgid "The %s program failed!"
+msgstr "Het %s programma heeft gefaald!"
+
+#. Japanese: please do not translate: File, Version, Date
+msgid "File"
+msgstr "Bestand"
+
+#. [We will convert from kernel "From" to kernel "To"]
+#. Japanese: please don't translate: Version, Date, From, To
+msgid "Version"
+msgstr "Versie"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "From"
+msgstr "Van"
+
+msgid "To"
+msgstr "Naar"
+
+#. Space in a drive or partition: Total = Used + Extra
+#. Japanese: please don't translate: Total, Used, Extra
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Used"
+msgstr "Gebruikt"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#. <something> took <15> seconds
+msgid "%s took %s seconds"
+msgstr "%s nam %s seconden in beslag"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Een %s proces (gebruikt PID %s) is reeds in gebruik"
+
+msgid "Please close that process before starting a new one"
+msgstr "Sluit aub dat proces voordat u een nieuwe start"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Kon geen slot verkrijgen op %s"
+
+msgid "Creating new config file %s"
+msgstr "Nieuw configuratiebestand %s configureren"
+
+msgid "Could not find program %s.  Skipping %s."
+msgstr "Kon programma %s niet vinden. %s overslaan."
+
+msgid "Could not find required program '%s'"
+msgstr "Kon vereist programma '%s' niet vinden"
+
+#. The <type> directory <dir-name> is not writable
+msgid "The %s directory '%s' is not writable"
+msgstr "De %s map '%s' is niet schrijfbaar"
+
+msgid "Could not find iso file %s"
+msgstr "Kon iso-bestand %sniet vinden"
+
+msgid "Could not read iso file %s"
+msgstr "Kon iso-bestand %s niet lezen"
+
+msgid "Could not mount iso file %s"
+msgstr "Kon iso-bestand %s niet aankoppelen"
+
+#. Which distro we are going to copy or clone
+msgid "Distro: %s"
+msgstr "Distro: %s"
+
+#. Distro X on device Y
+msgid "Distro: %s on %s"
+msgstr "Distro: %s op %s"
+
+msgid "This script must be run as root"
+msgstr "Dit script moet als root gedraaid worden"
+
+#. Press <Enter> to select the highlighted <entry>
+msgid "Press %s to select the highlighted %s"
+msgstr "Druk %s voor de gemarkeerde %s"
+
+#. Use <h> for help, <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s for help, %s to redraw, %s to %s"
+msgstr "Gebruik %s voor hulp, %s om opnieuw te doen, %s om %s"
+
+#. Use <r> to redraw, <q> to <go back to main menu>
+msgid "Use %s to redraw, %s to %s"
+msgstr "Gebruik %s om opnieuw te doen, %s om %s"

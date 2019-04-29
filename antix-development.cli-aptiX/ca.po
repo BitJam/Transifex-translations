@@ -1,0 +1,568 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Catalan (https://www.transifex.com/anticapitalista/teams/10162/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Línia d'ordres"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "IGU"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "fletxa amunt"
+
+msgid "down-arrow"
+msgstr "fletxa avall"
+
+msgid "page-up"
+msgstr "pàgina amunt"
+
+msgid "page-down"
+msgstr "pàgina avall"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "torna al menú principal "
+
+msgid "antiX Command Line Package Installer"
+msgstr "Instal·lador de paquets per línia d'ordres d'antiX"
+
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+msgid "Search for packages to mark or install"
+msgstr "Cerca paquets per marcar o instal·lar"
+
+msgid "Search for antiX kernels"
+msgstr "Cerca kernels per antiX"
+
+msgid "Search for all kernels"
+msgstr "Cerca tots els kernels"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Actualitza l'índex de paquets"
+
+msgid "Edit the repo source files"
+msgstr "Edita els fitxers font de dipòsits"
+
+msgid "Quit"
+msgstr "Surt"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "S'han instal·lat tots els%s paquets %ssuggerits"
+
+msgid "no pending upgrades"
+msgstr "sense actualitzacions pendents"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Veure una llista de %s paquets %s suggerits"
+
+msgid "View or perform %s upgrade now"
+msgstr "Veure o executar %sactualitzacions ara"
+
+msgid "View or perform %s upgrades now"
+msgstr "Veure o executar %sactualitzacions ara"
+
+msgid "Upgrade %s package now"
+msgstr "Actualitza %s paquet ara"
+
+msgid "Upgrade %s packages now"
+msgstr "Actualitza %s paquets ara"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Veure una llista de paquets per actualitzar"
+
+msgid "Ignore these upgrades for now"
+msgstr "Ignora aquestes actualitzacions de moment"
+
+msgid "View or install %s marked package"
+msgstr "Veure o instal·lar %s paquet marcat"
+
+msgid "View or install %s marked packages"
+msgstr "Veure o instal·lar %spaquets marcats"
+
+msgid "Edit Source Menu"
+msgstr "Edita el Menú Font "
+
+msgid "Please select a source file to edit"
+msgstr "Si us plau, trieu un fitxer font per editar"
+
+msgid "Could not find file %s to edit"
+msgstr "No he trobat el fitxer %s per editar"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Torna al menú principal"
+
+msgid "Search for packages"
+msgstr "Cerca paquets"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "coincidència exacta del nom"
+
+msgid "exact name matches"
+msgstr "Coincidències exactes del nom"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "coincidència de l'inici del nom"
+
+msgid "leading name matches"
+msgstr "coincidències de l'inici del nom"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "qualsevol coincidència al nom"
+
+msgid "any name matches"
+msgstr "qualsevol coincidència del nom"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "coincidència del nom o descripció"
+
+msgid "name or description matches"
+msgstr "coincidències del nom o descripció"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "cerques"
+
+msgid "No matches were found"
+msgstr "No he trobat coincidències"
+
+msgid "Do you want to try a different search?"
+msgstr "Voleu fer una cerca diferent?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "exacta"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "inici"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "qualsevol nom"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "descripció"
+
+msgid "Do a different search"
+msgstr "Fes una cerca diferent"
+
+msgid "Search Result Menu"
+msgstr "Resultat del Menú de Cerca"
+
+msgid "Please select an action"
+msgstr "Si us plau, trieu una acció"
+
+msgid "What next?"
+msgstr "Què cal fer ara?"
+
+msgid "%s packages were found"
+msgstr "S'han trobat %s paquets"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr "Al pas següent se us mostrarà una llista de paquets on podreu navegar"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Useu %s, %s, %s i %s per navegar per la llista"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+"Situeu el paquet que voleu a la vora del final i premeu %s per continuar"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Entreu "
+
+msgid "Press %s to see the list"
+msgstr "premeu %sper veure la llista"
+
+msgid "Use %s to go to the main menu"
+msgstr "Useu %s per anar al menú principal"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Useu %s per repetir la mateixa cerca"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Useu %s per fer una nova cerca"
+
+msgid "Press %s to skip picking a package"
+msgstr "Premeu %sper ometre l'elecció d'un paquet"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr "O entreu el número de cada paquet que voleu marcar o instal·lar"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Useu %s per indicar un marge de números"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Useu %s per anar al menú principal"
+
+msgid "Use %s to see the results again"
+msgstr "Useu %s per veure els resultats un altre cop"
+
+msgid "Use %s to do a new search"
+msgstr "Useu %sper fer una nova cerca"
+
+msgid "Invalid input.  Please try again"
+msgstr "Entrada no vàlida. Si us plau, torneu a provar-ho"
+
+msgid "The following numbers were out of range %s"
+msgstr "Aquests números estan fora de marge %s "
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "No s'han donat números vàlids. Si us plau, torneu a provar-ho"
+
+msgid "Selected packages"
+msgstr "Paquets seleccionats"
+
+msgid "Could not find package number %s"
+msgstr "No he pogut trobar el paquet número %s"
+
+msgid "Repeat the same search"
+msgstr "Repeteix la mateixa cerca"
+
+msgid "Search again"
+msgstr "Torna a cercar"
+
+msgid "Go back to main menu"
+msgstr "Torna al menú principal"
+
+msgid "Now what?"
+msgstr "Què cal fer ara?"
+
+msgid "Do a new search"
+msgstr "Fes una nova cerca"
+
+msgid "See search results again"
+msgstr "Torna a veure els resultats de la cerca"
+
+msgid "Return to main menu"
+msgstr "Torna al menú principal"
+
+msgid "Remove or Purge Menu"
+msgstr "Elimina o purga el menú "
+
+msgid "Please choose an action for this package"
+msgstr "Si us plau trieu una acció per aquest paquet"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr "Desinstal·la el paquet (elimina el paquet però no la configuració)"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Purga el paquet [elimina el paquet i la configuració]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Reinstal·la el paquet [encara que estigui actualitzat]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Instal·la el paquet [només si no està actualitzat]"
+
+msgid "The %s command failed"
+msgstr "Ha fallat l'ordre %s "
+
+msgid "Please enter the term you want to search for"
+msgstr "Si us plau, entreu el terme que voleu cercar "
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "Funcionen els jóquers estàndard %s i %s"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "Useu una cadena buidao %s per tornar al menú principal"
+
+msgid "Found"
+msgstr "Trobat"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Veure resultats %s %s"
+
+msgid "Show more information about package %s"
+msgstr "Mostra més informació quant al paquet %s"
+
+msgid "Uninstall package %s"
+msgstr "Desinstal·la el paquet %s "
+
+msgid "Unmark package %s"
+msgstr "Desmarca el paquet %s"
+
+msgid "Mark package %s"
+msgstr "Marca el paquet %s"
+
+msgid "Install package %s"
+msgstr "Instal·la el paquet %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Marca els paquets seleccionats, no instal·lats %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Marca els %s paquets seleccionats, no instal·lats"
+
+msgid "install selected uninstalled package %s"
+msgstr "instal·la el paquet seleccionat no instal·lat %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "instal·la els %s paquets seleccionats no instal·lats"
+
+msgid "Checking source files ..."
+msgstr "Comprovant els fitxers font..."
+
+msgid "Run %s now?"
+msgstr "Executa %s ara?"
+
+msgid "No list files were found"
+msgstr "No s'ha trobat cap fitxer"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "Cal un %s per continuar "
+
+msgid "It appears that at least one list file is missing"
+msgstr "Sembla que no hi ha un fitxer de llista, com a mínim"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Probablement hauríeu d'executar %s ara"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Executant %s "
+
+msgid "There was a problem running %s"
+msgstr "Hi ha hagut un problema executant %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Voleu continuar de tota manera "
+
+msgid "Creating database ..."
+msgstr "Creant base de dades ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "generació de base de dades"
+
+msgid "Updating database ..."
+msgstr "Actualitzant la base de dades ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "actualització de base de dades "
+
+msgid "Found %s dependencies"
+msgstr "%s dependències trobades"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Marcant %s dependències no instal·lades"
+
+msgid "found %s dependencies"
+msgstr "trobades %s dependències"
+
+msgid "found %s unmet dependencies"
+msgstr "trobades %s dependències necessàries"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "El paquet i les dependències necessàries sumen %s MB "
+
+msgid "Marking package %s"
+msgstr "Marcant el paquet %s "
+
+msgid "Unmarked %s package"
+msgstr "Desmarcat el paquet %s"
+
+msgid "Unmarked %s packages"
+msgstr "Desmarcats %s paquets"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Voleu veure informació més detallada?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr "trobades %s dependències absents, que també s'instal·laran"
+
+msgid "Do you want to install this package now?"
+msgstr "Voleu instal·lar aquest paquet ara?"
+
+msgid "Installing %s"
+msgstr "Instal·lant %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Trobats %s paquets marcats no instal·lats"
+
+msgid "Nothing to install"
+msgstr "Res a instal·lar"
+
+msgid "Install %s package"
+msgstr "Instal·la %spaquet"
+
+msgid "Install %s packages"
+msgstr "Instal·la %s paquets"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "Els paquets i les dependències necessàries sumen %s MB"
+
+msgid "Install this package?"
+msgstr "Instal·la aquest paquet?"
+
+msgid "Install these packages?"
+msgstr "Instal·la aquests paquets?"
+
+msgid "Install %s marked package"
+msgstr "Instal·la %s paquets marcats"
+
+msgid "Install all %s marked packages"
+msgstr "Instal·la tots els %s paquets marcats"
+
+msgid "View %s marked package"
+msgstr "Veure els %s paquets marcats"
+
+msgid "View all %s marked packages"
+msgstr "Veure tots els %s paquets marcats"
+
+msgid "Unmark %s marked package"
+msgstr "Desmarca %s paquet marcat"
+
+msgid "Unmark all %s marked packages"
+msgstr "desmarca tots els %s paquets marcats"
+
+msgid "View or Install Marked Packages"
+msgstr "Veure o instal·lar tots els paquets marcats"
+
+msgid "No marked packages were found"
+msgstr "No he trobat paquets marcats"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Els paquets marcats sumen %s MB"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr "Al proper pas veureu una llista de paquets per on podeu navegar"
+
+msgid "Use %s to go the main menu"
+msgstr "Useu %s per anar al menú principal"
+
+msgid "Use %s to do another search"
+msgstr "Usei %s per fer una altra cerca"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "%sPaquets suggerits "
+
+msgid "No suggestions were found!"
+msgstr "No he trobat suggeriments"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Cerqcant el fitxer %s "
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Veure "
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Veure'ls tots"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "paquets suggerits "
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "paquets amb estrella "
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "cap paquet amb estrella "
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Salta al pas següent (no veure els paquets)"
+
+msgid "Please select which packages to view"
+msgstr "Si us plau, trieu quins paquets cal veure"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "S'han trobat %spaquets (%s no instal·lats)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Premeu %s per veure la llista, %s per anara al menú principal, %s per tornar"
+" a cercar"
+
+msgid "See suggestions again"
+msgstr "Tornar a veure els suggeriments"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "Marcats %s paquets, prèviament no marcats"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Desmarcats tots els %s paquets, marcats prèviament"
+
+msgid "%s package is still marked"
+msgstr "%s paquet encara està marcat "
+
+msgid "%s packages are still marked"
+msgstr "%s paquets encara estan marcats "
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Marcat %s paquet, no instal·lat ni marcat"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Marcat %s paquets, no instal·lats ni marcats"
+
+msgid "Unmark %s marked packages"
+msgstr "Desmarcats %spaquets marcats "
+
+msgid "Checking for package upgrades ..."
+msgstr "Comprovant les actualitzacions de paquets ..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Hi ha %s paquets que es poden actualitzar "
+
+msgid "There are no packages to upgrade"
+msgstr "No hi ha paquets per actualitzar "
+
+msgid "System Upgrade Menu"
+msgstr "Menú d'Actualització del Sistema"
+
+msgid "Exit"
+msgstr "Surt"

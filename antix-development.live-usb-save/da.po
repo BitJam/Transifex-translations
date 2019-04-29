@@ -1,0 +1,78 @@
+# Translation for antiX Development: live-usb-save file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# scootergrisen, 2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-11-27 05:05+0000\n"
+"Last-Translator: scootergrisen\n"
+"Language-Team: Danish (http://www.transifex.com/anticapitalista/antix-development/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. "State" information are files saved at shutdown and restored at startup
+#. Like saving the state of a game.
+msgid "Restore state information"
+msgstr "Gendan tilstandsinformation"
+
+msgid "Save state information"
+msgstr "Gem tilstandsinformation"
+
+#. Save <user-name> file <file-name>
+msgid "Save %s file %s"
+msgstr "Gem %s-fil %s"
+
+#. Restore <user-name> file <file-name>
+msgid "Restore %s file %s"
+msgstr "Gendan %s-fil %s"
+
+#. "Save %s desktop %s" $(wq $user) $(wq $(cat $from))
+msgid "Save %s desktop %s"
+msgstr "Gem %s-skrivebord %s"
+
+#. Restore <user-name> desktop to <window-manager-name>
+msgid "restore %s desktop to %s"
+msgstr "gendan %s-skrivebord til %s"
+
+#. "general" (same on all machines) versus "machine specific"
+msgid "general"
+msgstr "generelt"
+
+#. "machine specific" versus "general" (same on all machines)
+msgid "machine specific"
+msgstr "maskinspecifik"
+
+#. Save <general|machine specific> state file <file-name>
+msgid "Save %s state file %s"
+msgstr "Gem %s-tilstandsfil %s"
+
+#. Restore <general|machine specific> state file <file-name>
+msgid "Restore %s state file %s"
+msgstr "Gendan %s-tilstandsfil %s"
+
+msgid "Reset file %s"
+msgstr "Nulstil fil %s"
+
+#. Delete <general|machine specific> state file <file-name>
+msgid "Delete %s state file %s"
+msgstr "Slet %s-tilstandsfil %s"
+
+msgid "Could not find UUID of boot device for remounting"
+msgstr "Kunne ikke finde opstartsenheds UUID for genmontering"
+
+msgid "Will not save state information"
+msgstr "Gemmer ikke tilstandsinformation"
+
+msgid "Could not find boot device for remounting"
+msgstr "Kunne ikke finde opstartsenhed for genmontering"
+
+msgid "Could not remount boot device"
+msgstr "Kunne ikke genmontere opstartsenhed"

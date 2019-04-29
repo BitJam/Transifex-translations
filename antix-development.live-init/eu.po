@@ -1,0 +1,152 @@
+# Translation for antiX Development: live-init file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-05 21:38-0600\n"
+"PO-Revision-Date: 2017-10-11 04:55+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Basque (http://www.transifex.com/anticapitalista/antix-development/language/eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Localizing/configuring X-Windows"
+msgstr ""
+
+msgid "Disabling splash (fbcondecor) inside of Virtual Box"
+msgstr ""
+
+msgid "Creating missing %s file"
+msgstr ""
+
+#. No default user <USER-NAME> found on the system.
+msgid "No default user %s found on the system."
+msgstr ""
+
+msgid "Mounting all devices"
+msgstr ""
+
+#. Invalid <mount/automount> option <invalid-option>
+msgid "Invalid %s option %s"
+msgstr ""
+
+msgid "Automount disabled"
+msgstr ""
+
+msgid "Enabling fstab hotplugging"
+msgstr ""
+
+msgid "Automount enabled"
+msgstr ""
+
+msgid "Bad fstab option %s"
+msgstr ""
+
+msgid "Unknown menu localization language %s"
+msgstr ""
+
+msgid "Directory not found %s"
+msgstr ""
+
+#. Localizing menus to <language> in </etc/skel>
+msgid "Localizing menus to %s in %s"
+msgstr ""
+
+msgid "Setting %s to %s"
+msgstr ""
+
+msgid "Bad mirror code %s (expected two letters)"
+msgstr ""
+
+#. Localizing source repos using <timezone|country-code>
+msgid "Localizing source repos using %s"
+msgstr ""
+
+#. Assuming <hwclock> is set to <utc|local> time
+msgid "Assuming %s is set to %s time"
+msgstr ""
+
+msgid "Removing previous auto-generated %s file"
+msgstr ""
+
+#. Note: KMS means "kernel mode switching"
+#. Disabling safe mode because of KMS <video-driver> video hardware
+msgid "Disabling safe mode because of KMS %s video hardware"
+msgstr ""
+
+msgid "Letting X server default to using %s driver"
+msgstr ""
+
+msgid "Forcing X-Windows to use default mode"
+msgstr ""
+
+#. Configuring <xorg.conf> file with <arguments to xorg= cheat>
+msgid "Configuring %s file with %s"
+msgstr ""
+
+msgid "Using X to make xorg.conf"
+msgstr ""
+
+#. Forcing <acceleration-type> acceleration on <cpu-type>
+msgid "Forcing %s acceleration on %s"
+msgstr ""
+
+#. Forcing <driver-name> driver on <cpu-type>
+msgid "Forcing %s driver on %s"
+msgstr ""
+
+msgid "Creating file %s"
+msgstr ""
+
+msgid "Scanning for hardware specific video modules ..."
+msgstr ""
+
+#. Found <KMS> video module(s) <module-name(s)>
+msgid "Found %s video module(s) %s"
+msgstr ""
+
+#. Found <type> kernel modules ...
+msgid "Found %s kernel modules ..."
+msgstr ""
+
+#. Found <driver-name> video driver
+msgid "Found %s video driver"
+msgstr ""
+
+msgid "Setting Conky width to %s"
+msgstr ""
+
+#. Invalid <option-name> boot parameter <bad-parameter>
+msgid "Invalid %s boot parameter %s"
+msgstr ""
+
+msgid "Bad desktop delay parameter %s"
+msgstr ""
+
+msgid "Setting desktop delay to %s"
+msgstr ""
+
+msgid "Setting console blanking timeout to %s minute(s)"
+msgstr ""
+
+msgid "Creating issue file for %s"
+msgstr ""
+
+msgid "Files already exist under %s"
+msgstr ""
+
+msgid "Not creating or populating %s"
+msgstr ""
+
+msgid "Populating %s directory"
+msgstr ""
+
+msgid "Setting desktop theme to %s"
+msgstr ""

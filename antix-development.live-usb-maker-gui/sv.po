@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Henry Oquist <henryoquist@comhem.se>, 2016\n"
+"Language-Team: Swedish (https://www.transifex.com/anticapitalista/teams/10162/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Live-USB Maker GUI"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Live-system upptäckt. Välj skapa Live-USB läge"
+
+msgid "Select Mode"
+msgstr "Välj Läge"
+
+msgid "Select USB Device"
+msgstr "Välj USB-enhet"
+
+msgid "Clone Mode"
+msgstr "Klon-läge"
+
+msgid "Select ISO"
+msgstr "Välj ISO"
+
+msgid "Clone Running Live System"
+msgstr "Klona det Live-system som körs"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "Källan är inte en ISO-fil. Var vänlig välj en annan fil."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Enkelt grafiskt gränssnitt för Live-USB Maker"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Ingen mål-USB-enhet hittad. Var vänlig anslut en enhet och försök igen"
+
+msgid "License"
+msgstr "Licens"
+
+msgid "Apply"
+msgstr "Genomför"
+
+msgid "Close"
+msgstr "Stäng"
+
+msgid "About"
+msgstr "Om"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Advanced"
+msgstr "Avancerat"
+
+msgid "LiveUSB creation successful!"
+msgstr "Skapandet av LiveUSB gick bra"
+
+msgid "Operation stopped by user."
+msgstr "Processen stoppades av användaren"
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "En %s process (använder PID %s) körs redan"
+
+msgid "Please close that process before starting a new one"
+msgstr "Var vänlig avsluta den processen innan en ny startas"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Misslyckades med att låsa %s"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Förloppsfönstret stängdes, men inget jobb har utförts. Vill du fortsätta?"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"

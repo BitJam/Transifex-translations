@@ -1,0 +1,388 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2016
+# Eduard Selma <selma@tinet.cat>, 2014-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-03 12:45-0600\n"
+"PO-Revision-Date: 2017-09-20 00:13+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Catalan (http://www.transifex.com/anticapitalista/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: lib/antiX-gui-cli.sh:82
+msgid "warning"
+msgstr "avís "
+
+#: lib/antiX-gui-cli.sh:181
+msgid "Really Quit?"
+msgstr "Voleu sortir? "
+
+#: lib/antiX-gui-cli.sh:382
+msgid "Y"
+msgstr "S"
+
+#: lib/antiX-gui-cli.sh:383
+msgid "y"
+msgstr "s"
+
+#: lib/antiX-gui-cli.sh:384
+msgid "N"
+msgstr "N"
+
+#: lib/antiX-gui-cli.sh:385
+msgid "n"
+msgstr "n"
+
+#: lib/antiX-gui-cli.sh:397 lib/antiX-gui-cli.sh:661
+msgid "Press <Enter> to Continue"
+msgstr "Premeu <Retorn> per continuar"
+
+#: lib/antiX-gui-cli.sh:530
+msgid "Try again"
+msgstr "Torneu a provar-ho "
+
+#: lib/antiX-gui-cli.sh:538
+msgid "you entered: %s"
+msgstr "heu entrat: %s "
+
+#: lib/antiX-gui-cli.sh:540
+msgid "Is this correct?"
+msgstr "És correcte? "
+
+#: lib/antiX-gui-cli.sh:581
+msgid "Enter a number"
+msgstr "Entreu una xifra "
+
+#: lib/antiX-gui-cli.sh:604
+msgid " (or a letter)"
+msgstr "(o una lletra) "
+
+#: lib/antiX-gui-cli.sh:647
+msgid "Your selection was empty."
+msgstr "La vostra tria és buida."
+
+#: lib/antiX-gui-cli.sh:651
+msgid "You must select a number."
+msgstr "Cal que trieu una xifra."
+
+#: lib/antiX-gui-cli.sh:656
+msgid "Your selection %s was out of range."
+msgstr "La vostra tria %s està fora de marges."
+
+#: lib/antiX-get-param.sh:121
+msgid "Error"
+msgstr "Error"
+
+#: lib/antiX-common.sh:114
+msgid "Switching to CLI mode."
+msgstr "Canvia al mode de línia d'ordres. "
+
+#: lib/antiX-common.sh:137
+msgid "Standard options"
+msgstr "Opcions estàndard"
+
+#: lib/antiX-common.sh:138
+msgid "Force command line interface"
+msgstr "Força la interfície de línia d'ordres "
+
+#: lib/antiX-common.sh:139
+msgid "Force console colors to bright"
+msgstr "Força colors de consola brillants "
+
+#: lib/antiX-common.sh:140
+msgid "Force GUI interface (usually never needed)"
+msgstr "Força interfície gràfica (normalment no és necessari) "
+
+#: lib/antiX-common.sh:141
+msgid "Show this simple help"
+msgstr "Mostra aquesta ajuda senzilla "
+
+#: lib/antiX-common.sh:142
+msgid "Force console colors to muted/dimmer"
+msgstr "Força els colors de consola foscos "
+
+#: lib/antiX-common.sh:143
+msgid "Turn off console colors"
+msgstr "Desactiva els colors de consola "
+
+#: lib/antiX-common.sh:144
+msgid "Turn off logging"
+msgstr "Desactiva el registre "
+
+#: lib/antiX-common.sh:145
+msgid "Suppress extra questions and printing"
+msgstr "Elimina les preguntes i escriptures addicionals "
+
+#: lib/antiX-common.sh:146
+msgid "Pretend yad does not exist"
+msgstr "Suposa que YAD no existeix "
+
+#: lib/antiX-common.sh:147
+msgid "Print more"
+msgstr "Escriu més "
+
+#: lib/antiX-common.sh:149
+msgid "Debug options"
+msgstr "Opcions de depuració "
+
+#: lib/antiX-common.sh:150
+msgid "Debug Pango markup sent to yad"
+msgstr "Depura l'etiquetatge Pango enviat a YAD "
+
+#: lib/antiX-common.sh:151
+msgid "Show all lower-case globals when done"
+msgstr "Mostra en minúscula tots els globals en acabar "
+
+#: lib/antiX-common.sh:152
+msgid "Show all globals when done"
+msgstr "Mostra tots els globals en acabar "
+
+#: lib/antiX-common.sh:179
+msgid "option %s requires an argument"
+msgstr "l'opció %s necessita un argument "
+
+#: lib/antiX-common.sh:187
+msgid "option %s does not take an argument"
+msgstr "l'opció %s no pren un argument "
+
+#: lib/antiX-common.sh:211
+msgid "unknown argument %s"
+msgstr "argument %s desconegut "
+
+#: lib/antiX-common.sh:235
+msgid "Too many extra arguments: %s"
+msgstr "Massa arguments addicionals: %s "
+
+#: lib/antiX-common.sh:237
+msgid "Too few arguments.  Needed at least %s"
+msgstr "Pocs arguments. En calen com a mínim %s "
+
+#: lib/antiX-common.sh:244
+msgid "Expected a numeric value after %s parameter"
+msgstr "S'esperava un valor numèric després del paràmetre %s "
+
+#: lib/antiX-common.sh:255
+msgid "Do you really want to quit from %s?"
+msgstr "De debò voleu sortir de %s? "
+
+#: lib/antiX-common.sh:388 lib/antiX-common.sh:413
+msgid "This script can only be run in a %s environment."
+msgstr "Aquest script només es pot executar en un entorn %s. "
+
+#: lib/antiX-common.sh:389 lib/antiX-common.sh:414
+msgid "The %s directory does not exist"
+msgstr "No hi ha cap directori %s "
+
+#: lib/antiX-common.sh:390 lib/antiX-common.sh:415
+msgid "indicating this is not a %s environment."
+msgstr "el que vol dir que no és un entorn %s. "
+
+#: lib/antiX-common.sh:392 lib/antiX-common.sh:417
+msgid "Exiting."
+msgstr "Sortint. "
+
+#: lib/antiX-common.sh:448
+msgid "Please run this script as root."
+msgstr "Si us plau, executeu aquest script com a usuari principal (root)."
+
+#: lib/antiX-common.sh:488
+msgid "Variables %s are empty"
+msgstr "Les variables %s estan buides "
+
+#: lib/antiX-common.sh:490
+msgid "Variable %s is empty"
+msgstr "La variable %s està buida "
+
+#: lib/antiX-common.sh:493
+msgid "In %s:"
+msgstr "A %s: "
+
+#: lib/antiX-common.sh:496
+msgid "This is a fatal error"
+msgstr "Aquest error és fatal "
+
+#: lib/antiX-common.sh:548 lib/antiX-common.sh:988
+msgid "Warning"
+msgstr "Avís "
+
+#: lib/antiX-common.sh:550
+msgid "The program %s wasn't found so locking won't happen."
+msgstr "No es troba el programa %s, o sigui que no es pot bloquejar. "
+
+#: lib/antiX-common.sh:552
+msgid "Do you want to continue anyway?"
+msgstr "Voleu continuar de tota manera? "
+
+#: lib/antiX-common.sh:558
+msgid "Another copy of %s is running."
+msgstr "S'està executant una altra instància de %s. "
+
+#: lib/antiX-common.sh:559
+msgid "If you are certain this is not so then delete the file:"
+msgstr "Si sabeu del cert que no és així llavors esborreu el fitxer: "
+
+#: lib/antiX-common.sh:560
+msgid "and try again."
+msgstr "i torneu-ho a provar. "
+
+#: lib/antiX-common.sh:702
+msgid "Could not make %s read-write"
+msgstr "No es pot fer %s de lectura/escriptura "
+
+#: lib/antiX-common.sh:742
+msgid "Could not create the %s mountpoint."
+msgstr "No es pot crear el punt de muntatge %s. "
+
+#: lib/antiX-common.sh:757
+msgid "Could not bind mount %s to %s."
+msgstr "No s'ha pogut vincular el muntatge de %s a %s. "
+
+#: lib/antiX-common.sh:762
+msgid "Could not mount %s at %s."
+msgstr "No es pot muntar %s a %s. "
+
+#: lib/antiX-common.sh:866
+msgid "Could not umount %s"
+msgstr "No es pot desmuntar %s "
+
+#: lib/antiX-common.sh:977
+msgid "Strange.  File %s does not exist."
+msgstr "És estrany; el fitxer %s no hi és. "
+
+#: lib/antiX-common.sh:990
+msgid "the file %s cannot be mounted."
+msgstr "no es pot muntar el fitxer %s. "
+
+#: lib/antiX-common.sh:991 lib/antiX-common.sh:1024
+msgid "size"
+msgstr "mida "
+
+#: lib/antiX-common.sh:993
+msgid "Should it be deleted?"
+msgstr "Cal esborrar-lo? "
+
+#: lib/antiX-common.sh:1001
+msgid "Delete it"
+msgstr "Esborra'l "
+
+#: lib/antiX-common.sh:1002
+msgid "Save it"
+msgstr "Desa'l "
+
+#: lib/antiX-common.sh:1003
+msgid "View info"
+msgstr "Veure la informació "
+
+#: lib/antiX-common.sh:1004
+msgid "Quit"
+msgstr "Surt"
+
+#: lib/antiX-common.sh:1020
+msgid "Cleaning up"
+msgstr "Netejant"
+
+#: lib/antiX-common.sh:1023
+msgid "What should we do with %s ?"
+msgstr "Què cal fer amb %s ? "
+
+#: lib/antiX-common.sh:1026
+msgid "Left over from a rollback.  Normally delete."
+msgstr "Deixalla d'un rollback. Normalment s'esborra. "
+
+#: lib/antiX-common.sh:1027
+msgid "A remaster you made without rebooting."
+msgstr "Un remasteritzat que heu fet sense tornar a arrencar. "
+
+#: lib/antiX-common.sh:1028
+msgid "Previous squashfs file.  Save or delete."
+msgstr "Fitxer squashfs anterior. Deseu-lo o esborreu-lo."
+
+#: lib/antiX-common.sh:1029
+msgid "An incomplete remaster."
+msgstr "Un remasteritzat incomplet. "
+
+#: lib/antiX-common.sh:1031
+msgid "Select an action:"
+msgstr "Trieu una acció: "
+
+#: lib/antiX-common.sh:1059
+msgid "Version info for"
+msgstr "Informació de la versió per "
+
+#: lib/antiX-common.sh:1117
+msgid "No VID file"
+msgstr "No hi ha cap fitxer VID "
+
+#: lib/antiX-common.sh:1122
+msgid "Could not mount %s"
+msgstr "No es pot muntar %s "
+
+#: lib/antiX-common.sh:1218
+msgid "Strange.  Could not find a string matching \"%s\"."
+msgstr "És estrany. No es troba cap cadena que coincideixi amb \"%s\". "
+
+#: lib/antiX-common.sh:1270
+msgid "Select which devices to choose from"
+msgstr "Trieu entre quins dispositius voleu triar "
+
+#: lib/antiX-common.sh:1272
+msgid "All"
+msgstr "Tots "
+
+#: lib/antiX-common.sh:1273
+msgid "Mounted"
+msgstr "Muntats "
+
+#: lib/antiX-common.sh:1274
+msgid "Unmounted"
+msgstr "No muntats "
+
+#: lib/antiX-common.sh:1277
+msgid "devices"
+msgstr "dispositius "
+
+#: lib/antiX-common.sh:1289
+msgid "OK"
+msgstr "D'acord"
+
+#: lib/antiX-common.sh:1291
+msgid "Click on a device then hit %s"
+msgstr "Cliqueu en un dispositiu i després premeu %s "
+
+#: lib/antiX-common.sh:1298
+msgid "Device"
+msgstr "Dispositiu "
+
+#: lib/antiX-common.sh:1299
+msgid "Mount"
+msgstr "Munta "
+
+#: lib/antiX-common.sh:1300
+msgid "Type"
+msgstr "Tipus "
+
+#: lib/antiX-common.sh:1301
+msgid "Label"
+msgstr "Etiqueta "
+
+#: lib/antiX-common.sh:1302
+msgid "Size"
+msgstr "Mida "
+
+#: lib/antiX-common.sh:1303
+msgid "Free"
+msgstr "Lliure "
+
+#: lib/antiX-common.sh:1436
+msgid "Use the \"exit\" command to return to %s"
+msgstr "Useu l'ordre \"exit\" per tornar a %s "

@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:57+0000\n"
+"Language-Team: Indonesian (https://www.transifex.com/anticapitalista/teams/10162/id/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "This program must be run as root"
+msgstr ""
+
+msgid "Could not get console width. Is the framebuffer enabled?"
+msgstr ""
+
+msgid "No fonts found"
+msgstr ""
+
+msgid "Select the console width in characters"
+msgstr ""
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr ""
+
+msgid "Screen is %s chars wide"
+msgstr ""
+
+msgid "%s is %s chars wide"
+msgstr ""
+
+msgid "Select Console Width"
+msgstr ""
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr ""
+
+#. How many columns wide the screen is, and the font width
+msgid "columns"
+msgstr ""
+
+msgid "font width"
+msgstr ""
+
+msgid "Setting default font to %s"
+msgstr ""

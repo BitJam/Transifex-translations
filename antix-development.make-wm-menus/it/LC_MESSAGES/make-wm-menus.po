@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2015
+# Guybrush88 <erpizzo@alice.it>, 2015
+# Pierluigi Mario <pierluigimariomail@gmail.com>, 2014-2016,2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Pierluigi Mario <pierluigimariomail@gmail.com>\n"
+"Language-Team: Italian (http://www.transifex.com/anticapitalista/antix-development/language/it/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Terminal"
+msgstr "Terminale"
+
+msgid "File Manager"
+msgstr "Gestore dei file"
+
+msgid "Web Browser"
+msgstr "Web Browser"
+
+msgid "Editor"
+msgstr "Editor"
+
+msgid "Personal"
+msgstr "Personale"
+
+msgid "Applications"
+msgstr "Applicazioni"
+
+msgid "Terminal Apps"
+msgstr "Applicazioni da terminale"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "CD/DVD Writer"
+msgstr "Masterizza CD/DVD"
+
+msgid "Music Player"
+msgstr "Lettore Audio"
+
+msgid "Network"
+msgstr "Network"
+
+msgid "Alpine Mail"
+msgstr "Alpine Mail"
+
+msgid "Browser elinks"
+msgstr "Browser elinks"
+
+msgid "Irssi Chat"
+msgstr "Chat Irssi"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom Reader"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Ufficio"
+
+msgid "Organizer"
+msgstr "Agenda"
+
+msgid "Word"
+msgstr "Testo"
+
+msgid "Update Menu"
+msgstr "Aggiorna menu"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Alternate Desktops"
+msgstr "Cambia Desktop"
+
+msgid "Add Desktop"
+msgstr "Aggiungi voce al menu/desktop"
+
+msgid "Wallpaper"
+msgstr "Wallpaper"
+
+msgid "GTK Theme"
+msgstr "Temi GTK"
+
+msgid "Desktop Defaults"
+msgstr "Applicazioni di Default"
+
+msgid "Session Settings"
+msgstr "Imposta Sessione"
+
+msgid "Session Settings Global"
+msgstr "Imposta Sess. Globale"
+
+msgid "RoxPanel on/off"
+msgstr "Panello Rox on/off"
+
+msgid "Conky on/off"
+msgstr "Conky on/off"
+
+msgid "Tools"
+msgstr "Strumenti"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "MC File Manager"
+msgstr "MC File Manager"
+
+msgid "App Killer"
+msgstr "App Killer"
+
+msgid "Process Viewer"
+msgstr "Mostra Processi"
+
+msgid "System Information"
+msgstr "Informazioni Sistema"
+
+msgid "Control Centre"
+msgstr "Centro di Controllo"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live How-To"
+
+msgid "Rox Manual"
+msgstr "Rox Manual"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox Docs"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "IceWM Manual"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Homepage"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Pagine Man"
+
+msgid "Backup"
+msgstr "Backup"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Esegui..."
+
+msgid "Fluxbox Settings"
+msgstr "Imposta Fluxbox"
+
+msgid "Configuration"
+msgstr "Configurazione"
+
+msgid "Styles"
+msgstr "Stili"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Stili di Fluxbox"
+
+msgid "Workspaces"
+msgstr "Spazi di lavoro"
+
+msgid "Reconfigure"
+msgstr "Riconfigura"
+
+msgid "Restart"
+msgstr "Riavvia"
+
+msgid "Exit"
+msgstr "Esci"
+
+msgid "antiX Installer"
+msgstr "Installa antiX"
+
+msgid "Logout..."
+msgstr "Esci..."
+
+msgid "Restart JWM"
+msgstr "Riavvia JWM"
+
+msgid "Log Out"
+msgstr "Termina Sessione"
+
+msgid "Home Folder"
+msgstr "Cartella Home"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Unplug Removable Device"
+msgstr "Scollega Dispositivi Rimovibili"
+
+msgid "Quit"
+msgstr "Esci"

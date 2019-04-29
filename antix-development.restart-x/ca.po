@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/antix-development/issues\n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-05-02 11:11+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:18
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:20
+msgid "Restart X Windows"
+msgstr "Torna a engegar les X-windows"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:24
+msgid "Pause between stopping and starting."
+msgstr "Pausa entre aturada i arrencada"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:25
+msgid "DO NOT USE."
+msgstr "NO L'USEU"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:49
+msgid "The default display manager was not found."
+msgstr "No s'ha trobat el gestor de finestres."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:51
+msgid "Will search for any running display manager."
+msgstr "Se cercarà qualsevol gestor de pantalla en execució."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:54
+msgid "No display manager was found."
+msgstr "No s'ha trobar cap gestor de pantalla."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:55
+msgid "Cannot restart X."
+msgstr "No es pot tornar a arrencar les X."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:59
+msgid "Found display manager: %s"
+msgstr "S'ha trobat el gestor de pantalla: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:61
+msgid "Do you want to restart X-windows now?  "
+msgstr "Voleu tornar a arrencar les X-windows ara?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:63
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Es farà una pausa de %s segons abans de tornar a arrencar) "

@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Baurzhan Muftakhidinov <baurthefirst@gmail.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Baurzhan Muftakhidinov <baurthefirst@gmail.com>\n"
+"Language-Team: Kazakh (http://www.transifex.com/anticapitalista/antix-development/language/kk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: kk\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Terminal"
+msgstr "Терминал"
+
+msgid "File Manager"
+msgstr "Файлдар басқарушысы"
+
+msgid "Web Browser"
+msgstr "Веб браузері"
+
+msgid "Editor"
+msgstr "Түзетуші"
+
+msgid "Personal"
+msgstr "Жеке"
+
+msgid "Applications"
+msgstr "Қолданбалар"
+
+msgid "Terminal Apps"
+msgstr "Терминал қолданбалары"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "CD/DVD Writer"
+msgstr "CD/DVD жазу қолданбасы"
+
+msgid "Music Player"
+msgstr "Музыкалық плеері"
+
+msgid "Network"
+msgstr "Желі"
+
+msgid "Alpine Mail"
+msgstr "Alpine Mail"
+
+msgid "Browser elinks"
+msgstr "elinks браузері"
+
+msgid "Irssi Chat"
+msgstr "Irssi чат қолданбасы"
+
+msgid "RSS/Atom Reader"
+msgstr "RSS/Atom оқу қолданбасы"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Кеңселік"
+
+msgid "Organizer"
+msgstr "Ұйымдастыру"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Update Menu"
+msgstr "Мәзірді жаңарту"
+
+msgid "Desktop"
+msgstr "Жұмыс үстелі"
+
+msgid "Alternate Desktops"
+msgstr "Басқа жұмыс үстелдер"
+
+msgid "Add Desktop"
+msgstr "Жұмыс үстелін қосу"
+
+msgid "Wallpaper"
+msgstr "Түсқағаз"
+
+msgid "GTK Theme"
+msgstr "GTK темасы"
+
+msgid "Desktop Defaults"
+msgstr "Жұмыс үстелдің бастапқы баптаулары"
+
+msgid "Session Settings"
+msgstr "Сессия баптаулары"
+
+msgid "Session Settings Global"
+msgstr "Сессияның глобалды баптаулары"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel іске қосу/сөндіру"
+
+msgid "Conky on/off"
+msgstr "Conky іске қосу/сөндіру"
+
+msgid "Tools"
+msgstr "Саймандар"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Іздеу"
+
+msgid "MC File Manager"
+msgstr "MC файлдар басқарушысы"
+
+msgid "App Killer"
+msgstr "Қолданбаларды тоқтату"
+
+msgid "Process Viewer"
+msgstr "Процестерді қарау қолданбасы"
+
+msgid "System Information"
+msgstr "Жүйелік ақпарат"
+
+msgid "Control Centre"
+msgstr "Басқару орталығы"
+
+msgid "Help"
+msgstr "Көмек"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX ЖҚС"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live нұсқаулығы"
+
+msgid "Rox Manual"
+msgstr "Rox құжаттамасы"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Fluxbox құжаттамасы"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox ЖҚС"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox вики"
+
+msgid "Arch Wiki"
+msgstr "Arch вики"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM ЖҚС"
+
+msgid "IceWM Manual"
+msgstr "IceWM құжаттамасы"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Үй парағы"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Желілік экран"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Man парақтары"
+
+msgid "Backup"
+msgstr "Қор көшірме"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Торрент"
+
+msgid "Run"
+msgstr "Жөнелту"
+
+msgid "Fluxbox Settings"
+msgstr "Fluxbox баптаулары"
+
+msgid "Configuration"
+msgstr "Баптаулар"
+
+msgid "Styles"
+msgstr "Стильдер"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Fluxbox стильдері"
+
+msgid "Workspaces"
+msgstr "Жұмыс орындар"
+
+msgid "Reconfigure"
+msgstr "Қайта баптау"
+
+msgid "Restart"
+msgstr "Қайта қосу"
+
+msgid "Exit"
+msgstr "Шығу"
+
+msgid "antiX Installer"
+msgstr "antiX орнатқышы"
+
+msgid "Logout..."
+msgstr "Шығу..."
+
+msgid "Restart JWM"
+msgstr "JWM қайта іске қосу"
+
+msgid "Log Out"
+msgstr "Жүйеден шығу"
+
+msgid "Home Folder"
+msgstr "Үй бумасы"
+
+msgid "Browser"
+msgstr "Браузер"
+
+msgid "Unplug Removable Device"
+msgstr "Ауыстырмалы құрылғыны шығару"
+
+msgid "Quit"
+msgstr "Шығу"

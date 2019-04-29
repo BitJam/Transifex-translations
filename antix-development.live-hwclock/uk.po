@@ -1,0 +1,85 @@
+# Translation for antiX Development: live-hwclock file.
+# Copyright (C) 2012 -- 2016 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2016-04-04 01:08-0600\n"
+"PO-Revision-Date: 2016-04-04 07:41+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian (http://www.transifex.com/anticapitalista/antix-development/language/uk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Configuring Hardware Clock"
+msgstr ""
+
+msgid "Unknown %s option: %s"
+msgstr ""
+
+msgid "Assuming %s is set to %s time"
+msgstr ""
+
+msgid "Setting timezone and localtime to %s"
+msgstr ""
+
+msgid "Unknown time zone %s"
+msgstr ""
+
+msgid "Please wait while we examine the hardware clock ..."
+msgstr ""
+
+msgid "Your local time and UTC time are currently the same"
+msgstr ""
+
+msgid "They both say the current time is %s"
+msgstr ""
+
+msgid ""
+"Your local timezone and the UTC timezone are currently close but not the "
+"same"
+msgstr ""
+
+msgid "They both say the current time is within 15 minutes of %s"
+msgstr ""
+
+msgid "Your local time is UTC time %s"
+msgstr ""
+
+msgid "Help us figure out what time is used by your hardware clock"
+msgstr ""
+
+msgid "by telling us if either setting produces the correct time."
+msgstr ""
+
+msgid "Got a strange answer from guess hwclock menu %s"
+msgstr ""
+
+msgid "This is an unusual situation."
+msgstr ""
+
+msgid ""
+"Either your timezone is incorrect or your hardware clock is incorrect or "
+"both."
+msgstr ""
+
+msgid "It seems your hardware clock is not set to local time or to UTC time."
+msgstr ""
+
+msgid "You need to set your system time and then set your hardware clock."
+msgstr ""
+
+msgid "Press <enter> to continue"
+msgstr ""
+
+msgid "Missing %s or %s"
+msgstr ""
+
+msgid "The realtime clock is not enabled.  Can't check hardware clock"
+msgstr ""

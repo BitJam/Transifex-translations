@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Hannes_Worst <hannesworst@gmail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 22:16+0300\n"
+"PO-Revision-Date: 2014-11-19 17:02+0000\n"
+"Last-Translator: Hannes_Worst <hannesworst@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: phonebookadd.sh:16
+msgid "Phonebook"
+msgstr "Telefoonboek"
+
+#: phonebookadd.sh:18
+msgid "Enter a name and number:"
+msgstr "Voer een naam en nummer in:"
+
+#: phonebookadd.sh:27
+msgid "Close"
+msgstr "Afsluiten"
+
+#: phonebookadd.sh:33
+msgid "Create"
+msgstr "Aanmaken"
+
+#: phonebookadd.sh:36
+msgid "Entry Status"
+msgstr "Invoerstatus"
+
+#: phonebookadd.sh:36
+#, sh-format
+msgid "$ENTRY\\nhas been added."
+msgstr "$ENTRY is toegevoegd"

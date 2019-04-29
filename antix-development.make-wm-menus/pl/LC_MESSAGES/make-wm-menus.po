@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Filip Bog <mxlinuxpl@gmail.com>, 2019
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-14 13:10+0200\n"
+"PO-Revision-Date: 2019-03-12 09:54+0000\n"
+"Last-Translator: Filip Bog <mxlinuxpl@gmail.com>\n"
+"Language-Team: Polish (http://www.transifex.com/anticapitalista/antix-development/language/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+msgid "Terminal"
+msgstr "Terminal"
+
+msgid "File Manager"
+msgstr "Menedżer plików"
+
+msgid "Web Browser"
+msgstr "Przeglądarka"
+
+msgid "Editor"
+msgstr "Edytor"
+
+msgid "Personal"
+msgstr "Osobiste"
+
+msgid "Applications"
+msgstr "Aplikacje"
+
+msgid "Terminal Apps"
+msgstr "Aplikacje terminala"
+
+msgid "Multimedia"
+msgstr "Multimedia"
+
+msgid "CD/DVD Writer"
+msgstr "Nagrywanie CD/DVD"
+
+msgid "Music Player"
+msgstr "Odtwarzacz muzyczny"
+
+msgid "Network"
+msgstr "Sieć"
+
+msgid "Alpine Mail"
+msgstr "Alpine Mail"
+
+msgid "Browser elinks"
+msgstr "Przeglądarka elinks"
+
+msgid "Irssi Chat"
+msgstr "Irssi Chat"
+
+msgid "RSS/Atom Reader"
+msgstr "Czytnik RSS/Atom"
+
+msgid "rTorrent"
+msgstr "rTorrent"
+
+msgid "Office"
+msgstr "Biuro"
+
+msgid "Organizer"
+msgstr "Organizer"
+
+msgid "Word"
+msgstr "Word"
+
+msgid "Update Menu"
+msgstr "Menu aktualizacji"
+
+msgid "Desktop"
+msgstr "Pulpit"
+
+msgid "Alternate Desktops"
+msgstr "Alternatywne pulpity"
+
+msgid "Add Desktop"
+msgstr "Dodaj pulpit"
+
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+msgid "GTK Theme"
+msgstr "Motyw GTK"
+
+msgid "Desktop Defaults"
+msgstr "Ustawienia domyślne pulpitu"
+
+msgid "Session Settings"
+msgstr "Ustawienia sesji"
+
+msgid "Session Settings Global"
+msgstr "Globalne ustawienia sesji"
+
+msgid "RoxPanel on/off"
+msgstr "RoxPanel włącz/wyłącz"
+
+msgid "Conky on/off"
+msgstr "Conky włącz/wyłącz"
+
+msgid "Tools"
+msgstr "Narzędzia"
+
+msgid "Nano"
+msgstr "Nano"
+
+msgid "Ted"
+msgstr "Ted"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "MC File Manager"
+msgstr "Menedżer plików MC"
+
+msgid "App Killer"
+msgstr "Zabij aplikację"
+
+msgid "Process Viewer"
+msgstr "Przeglądarka procesów"
+
+msgid "System Information"
+msgstr "Informacje o systemie"
+
+msgid "Control Centre"
+msgstr "Centrum Kontroli"
+
+msgid "Help"
+msgstr "Pomoc"
+
+msgid "antiX"
+msgstr "antiX"
+
+msgid "antiX FAQ"
+msgstr "antiX FAQ"
+
+msgid "antiX-live How-To"
+msgstr "antiX-live Jak-To-Zrobić"
+
+msgid "Rox Manual"
+msgstr "Podręcznik Rox"
+
+msgid "Fluxbox"
+msgstr "Fluxbox"
+
+msgid "Fluxbox Docs"
+msgstr "Dokumentacja Fluxbox"
+
+msgid "Fluxbox FAQ"
+msgstr "Fluxbox FAQ"
+
+msgid "Fluxbox Wiki"
+msgstr "Fluxbox Wiki"
+
+msgid "Arch Wiki"
+msgstr "Arch Wiki"
+
+msgid "IceWM"
+msgstr "IceWM"
+
+msgid "IceWM FAQ"
+msgstr "IceWM FAQ"
+
+msgid "IceWM Manual"
+msgstr "Podręcznik IceWM"
+
+msgid "OSNews"
+msgstr "OSNews"
+
+msgid "JWM"
+msgstr "JWM"
+
+msgid "Homepage"
+msgstr "Strona główna"
+
+msgid "WM - Puppy-Linux"
+msgstr "WM - Puppy-Linux"
+
+msgid "Firewall"
+msgstr "Firewall"
+
+msgid "Partimage"
+msgstr "Partimage"
+
+msgid "Man Pages"
+msgstr "Dokumentacja (strony man)"
+
+msgid "Backup"
+msgstr "Kopia zapasowa"
+
+msgid "Irssi"
+msgstr "Irssi"
+
+msgid "mc"
+msgstr "mc"
+
+msgid "mocp"
+msgstr "mocp"
+
+msgid "Rss/Atom"
+msgstr "Rss/Atom"
+
+msgid "Torrent"
+msgstr "Torrent"
+
+msgid "Run"
+msgstr "Uruchom"
+
+msgid "Fluxbox Settings"
+msgstr "Ustawienia Fluxbox"
+
+msgid "Configuration"
+msgstr "Kofiguracja"
+
+msgid "Styles"
+msgstr "Style"
+
+msgid "~/.fluxbox/styles"
+msgstr "~/.fluxbox/styles"
+
+msgid "Fluxbox Styles"
+msgstr "Style Fluxbox"
+
+msgid "Workspaces"
+msgstr "Obszary robocze"
+
+msgid "Reconfigure"
+msgstr "Skonfiguruj ponownie"
+
+msgid "Restart"
+msgstr "Uruchom ponownie"
+
+msgid "Exit"
+msgstr "Wyjście"
+
+msgid "antiX Installer"
+msgstr "Instalator antiX"
+
+msgid "Logout..."
+msgstr "Wyloguj..."
+
+msgid "Restart JWM"
+msgstr "Uruchom ponownie JWM"
+
+msgid "Log Out"
+msgstr "Wyloguj"
+
+msgid "Home Folder"
+msgstr "Folder domowy"
+
+msgid "Browser"
+msgstr "Przeglądarka"
+
+msgid "Unplug Removable Device"
+msgstr "Odłącz urządzenie przenośne"
+
+msgid "Quit"
+msgstr "Zakończ"

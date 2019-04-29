@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Tony Ivanov <antonivanov8@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2014-07-20 01:20+0000\n"
+"Last-Translator: Tony Ivanov <antonivanov8@gmail.com>\n"
+"Language-Team: Bulgarian (http://www.transifex.com/projects/p/antix-development/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Опции За Мишка"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Ускорение На Мишка"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Сменете движението на мишка"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Ускорение (Коефициент)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Праг (Пиксели)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Възтанови движение по подразбиране"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Бутонна Последователност"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Без промяна"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Оформление За Лява Ръка"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Оформление За Дясна Ръка"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Размер На Курсора"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Сменете размера на курсора"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Размер (в пиксели)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Възтановете размера по подразбиране"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Тема На Курсор"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "След като изберете нова тема, моля излезте/влезте за да видите промените."
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Променете курсор тема"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Скорост на мишка променена."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Използване на скорост по подразбиране."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Сега се използва оформление за лява ръка."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Сега се използва оформление за дясна ръка."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Размера на курсора сменен. Моля излезте/влезте за да видите промените."
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Размера по подразбиране е възатановен. Моля излезте/влезте за да видите промените."

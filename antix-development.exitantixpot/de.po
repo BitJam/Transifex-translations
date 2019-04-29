@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# alfredmale <maledora4@googlemail.com>, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-24 21:38+0300\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: alfredmale <maledora4@googlemail.com>\n"
+"Language-Team: German (http://www.transifex.com/projects/p/antix-development/language/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: exitantix.sh:16 exitantix.sh:53
+msgid "Log Out"
+msgstr "Abmelden"
+
+#: exitantix.sh:28
+msgid "Lock Screen"
+msgstr "Bildschirm sperren"
+
+#: exitantix.sh:36
+msgid "Hibernate"
+msgstr "Ruhezustand"
+
+#: exitantix.sh:43
+msgid "Reboot"
+msgstr "Neustarten"
+
+#: exitantix.sh:61
+msgid "Suspend"
+msgstr "Standby = Bereitschaft"
+
+#: exitantix.sh:68
+msgid "Shutdown"
+msgstr "Herunterfahren"
+
+#: exitantix.sh:76
+msgid "Close"
+msgstr "Schließen"

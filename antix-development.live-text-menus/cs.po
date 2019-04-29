@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2018-08-21 19:30+0000\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>\n"
+"Language-Team: Czech (http://www.transifex.com/anticapitalista/antix-development/language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;\n"
+
+msgid "Default"
+msgstr "Předvolené"
+
+msgid "Check integrity of the live media"
+msgstr "Zkontrolovat integritu LIVE média"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Zkontrolovat LiveUSB a persistentní systémy ext2/3/4"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Zkopírovat komprimovaný soubor souborového systému do RAM"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Dokončit zavedení systému z LiveUSB"
+
+msgid "Finish booting from a hard drive"
+msgstr "Dokončit zavedení systému z pevného disku"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Odpojit všechna usb-2 zařízení počas startu"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Má systém pomoct určit nastavení hodin"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "Hardvérové hodiny používají UTC (pouze systémy Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "Hardvérové hodiny používají lokální nastavení času (systémy MS Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Před přihášením změnit hesla"
+
+msgid "Enable wicd service on startup"
+msgstr "Povolit službu wicd při startu"
+
+msgid "Disable wicd service on startup"
+msgstr "Zakázat službu wicd při startu"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr " Zakázat funkci uložiště LiveUSB (pouze LiveUSB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr " Povolit funkci uložiště LiveUSB (pouzeLiveUSB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Uchovávat soubory mezi restarty (pouze LiveUSB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Neuchovávat soubory mezi restarty (pouze LiveUSB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Automaticky připojovat zařízení po vložení"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Zakázat všechna připojení a automatické připojování"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Rychlé. Uchovává root a home (používá RAM, data se ukládájí při vypnutí)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Rychlé. Uchovává  pouze root-a (používá RAM, data se ukládájí při vypnutí)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Pomalejší. Uchovává root a home (nepoužívá RAM, data se ukládájí průběžně)"
+
+msgid "Only home persistence"
+msgstr "Pouze persistence Home"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Úsporný, s persistencí Home a root"
+
+msgid "Frugal with only root persistence"
+msgstr "Úsporný, s persistencí root"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Úsporný, s persistencí Home a root staticky"
+
+msgid "Frugal with only home persistence"
+msgstr "Úsporný, s persistencí Home"
+
+msgid "Only Frugal, no persistence"
+msgstr "Pouze úsporný, bez persistence"
+
+msgid "Yes (default)"
+msgstr "Ano (předvolené)"
+
+msgid "No"
+msgstr "Ne"

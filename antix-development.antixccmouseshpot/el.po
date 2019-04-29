@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2011-11-13 13:42+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/antix-development/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Επιλογές Ποντικιού"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Επιτάχυνση Ποντικιού"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Αλλαγή κίνηση του ποντικιού"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Επιτάχυνση (πολλαπλασιαστής)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Κατώφλι (Pixel)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Επαναφορά κίνηση προεπιλογή"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Σειρά κουμπιών"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Καμία αλλαγή"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Αριστερό χέρι διάταξη"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Δικαίωμα διάταξη χέρι"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Δρομέας Μέγεθος"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Αλλαγή του δρομέα μεγέθους"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Μέγεθος (σε pixels)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Επαναφορά προεπιλεγμένο μέγεθος"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Δρομέας Θέμα"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Αφού επιλέξετε ένα νέο θέμα, παρακαλούμε\\ n logout /login για να δείτε τις αλλαγές."
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Επιλέξτε Δείκτη Ποντικιού"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "Ταχύτητα του ποντικιού αλλάξει."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Χρησιμοποιώντας default ταχύτητα του ποντικιού."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Τώρα, χρησιμοποιώντας το αριστερό χέρι διάταξη."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Τώρα με το δεξί χέρι διάταξη."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Δρομέας μέγεθος αλλάξει. Παρακαλούμε \\nlogout/συνδεθείτε για να δείτε τις αλλαγές."
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Προκαθορισμένο μέγεθος δρομέα αποκατασταθεί. \\ NΠαρακαλώ logout / login για να δείτε τις αλλαγές."

@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: anticapitalista <anticapitalista@riseup.net>, 2017\n"
+"Language-Team: Greek (https://www.transifex.com/anticapitalista/teams/10162/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "antiX Command-Line Control Centre"
+msgstr "antiX Command-Line Control Centre"
+
+msgid ""
+"Press: <Enter> to select an option, <b> back to main, <q> to quit, <h> for "
+"help"
+msgstr ""
+"Πατήστε: <Enter>για επιλογή, <b>πίσω στο κύριο μενού, <q>για έξοδο, <h>για "
+"βοήθεια"
+
+msgid "Main Menu"
+msgstr "Κυρίως μενού"
+
+msgid "antiX Live Commands"
+msgstr "εντολές του antiX Live"
+
+msgid "Audio/Visual Commands"
+msgstr " Εντολές ήχου/Οπτικές εντολές"
+
+msgid "System Tools"
+msgstr "Εργαλεία συστήματος"
+
+msgid "System Information"
+msgstr "Πληροφορίες συστήματος "
+
+msgid "Console Utilities"
+msgstr "Βοηθητικά προγράμματα κονσόλας"
+
+msgid "Internet Applications"
+msgstr "Εφαρμογές Διαδικτύου"
+
+msgid "Office Applications"
+msgstr "Εφαρμογές γραφείου"
+
+msgid "Configuration Files"
+msgstr "Αρχεία ρυθμίσεων"
+
+msgid "Logout / Installer"
+msgstr "Αποσύνδεση / Εγκατάσταση"
+
+msgid "Logout / Reboot"
+msgstr "Αποσύνδεση / επανεκκίνηση"
+
+msgid "Audio/Visual menu"
+msgstr "Μενού Ήχου/Εικόνας"
+
+msgid "Internet Tools & Apps"
+msgstr "Εργαλεία και εφαρμογές Διαδικτύου"
+
+msgid "Live System Centre"
+msgstr "Live System Center"
+
+msgid "Office and Other"
+msgstr "Γραφείο και άλλα"
+
+msgid "Logout / Install"
+msgstr "Αποσύνδεση / Εγκατάσταση"
+
+msgid "Quit"
+msgstr "Έξοδος "
+
+msgid "Would do action %s"
+msgstr "Θα ενεργήσει %s"
+
+msgid "Install this distro on a hard drive"
+msgstr "Εγκατάσταση αυτής της διανομής σε έναν σκληρό δίσκο"
+
+msgid "Reboot the system"
+msgstr "Επανεκκίνηση "
+
+msgid "Powerdown the system"
+msgstr "Απενεργοποίηση "
+
+msgid "See if sound is working"
+msgstr "Ελέγξτε εάν λειτουργεί ο ήχος"
+
+msgid "Select which sound card to use"
+msgstr "Επιλέξτε την κάρτα ήχου που θέλετε να χρησιμοποιήσετε"
+
+msgid "simple sound mixer"
+msgstr "απλό μίκτη ήχου"
+
+msgid "Audio Player"
+msgstr "Audio Player"
+
+msgid "Stop mocp Audio Player"
+msgstr "Stop mocp Audio Player"
+
+msgid "Video Player"
+msgstr "βίντεο"
+
+msgid "YouTube audio-only jukebox"
+msgstr "YouTube Jukebox μόνο για ήχο"
+
+msgid "Poor Man's Radio Player"
+msgstr "Poor Man's Radio Player"
+
+#. add_cmd burniso                  "cd/dvd burner"
+msgid "Image viewer"
+msgstr "Προβολής εικόνων"
+
+msgid "Pdf viewer"
+msgstr "Pdf viewer"
+
+msgid "cd/dvd burner"
+msgstr "cd/dvd burner"
+
+msgid "Install new packages (like Synaptic)"
+msgstr "Εγκαταστήστε νέα πακέτα (όπως το Synaptic)"
+
+#. add_cmd smxi                  $"System maintenance tool"
+msgid "Install nvidia non-free graphics drivers (for X)"
+msgstr "Εγκαταστήστε γραφικών nvidia (για X)"
+
+msgid "Check and undelete disk partitions"
+msgstr "Ελέγξτε και ξεδιαγράψτε τα διαμερίσματα δίσκου"
+
+msgid "Choose startup services"
+msgstr "Επιλέξτε υπηρεσίες εκκίνησης"
+
+msgid "Set date and time"
+msgstr "Ρύθμιση Ημερομηνίας & Ώρας"
+
+msgid "Partition block device %s"
+msgstr "Partition block device %s"
+
+msgid "Monitor and control processes"
+msgstr "Διαδικασίες παρακολούθησης και ελέγχου"
+
+msgid "Hardware and OS information"
+msgstr "Πληροφορίες υλικού και λειτουργικού συστήματος"
+
+msgid "Other system information"
+msgstr "Άλλες πληροφορίες συστήματος"
+
+msgid "Show memory usage"
+msgstr "Εμφάνιση χρήσης μνήμης"
+
+msgid "Information about mounted partitions"
+msgstr "Πληροφορίες σχετικά με τα τοποθετημένα διαμερίσματα"
+
+msgid "List all block (disk) partitions"
+msgstr "Κατάλογος όλων των κατατμήσεων (δίσκου)"
+
+msgid "List currently installed kernel modules"
+msgstr "Κατάλογος εγκατεστημένων ενοτήτων πυρήνα"
+
+msgid "List major system components"
+msgstr "Κατάλογος σημαντικών στοιχείων του συστήματος"
+
+msgid "List attached USB devices"
+msgstr "Κατάλογος συνημμένων συσκευών USB"
+
+msgid "Display messages from the kernel"
+msgstr "Εμφάνιση μηνυμάτων από τον πυρήνα"
+
+msgid "View information about various commands"
+msgstr "Προβολή πληροφοριών σχετικά με διάφορες εντολές"
+
+msgid "View and edit disk partitions"
+msgstr "Προβολή και επεξεργασία διαμερισμάτων δίσκου"
+
+msgid "X Server Log File"
+msgstr "X Server Log File"
+
+msgid "Live Boot Log File"
+msgstr "Live Boot Log File"
+
+msgid "Make a full featured antiX or MX live-usb"
+msgstr "Κάντε ένα πλήρες χαρακτηριστικό live-usb"
+
+msgid "Make a "
+msgstr "Κάνει μια"
+
+msgid "Update live kernel"
+msgstr "Ενημέρωση πυρήνα"
+
+msgid "Remaster live system"
+msgstr "Remaster"
+
+msgid "Save dynamic root persistence"
+msgstr "Αποθηκεύστε dynamic root persistence"
+
+msgid "Configure dynamic root persistence"
+msgstr "Διαμόρφωση dynamic root persistence "
+
+msgid "Create live persistence files"
+msgstr "δημιουργία αρχείων persistence"
+
+msgid "Adjust the brightness of the backlight"
+msgstr "Ρυθμίστε τη φωτεινότητα του φωτισμού"
+
+msgid "Choose the console background"
+msgstr "Επιλέξτε το φόντο της κονσόλας"
+
+msgid "Choose the console font"
+msgstr "Επιλέξτε τη γραμματοσειρά κονσόλας"
+
+msgid "Display all possible console text colors"
+msgstr "Εμφάνιση όλων των πιθανών χρωμάτων κειμένου κονσόλας"
+
+#. add_cmd space-evaders         $"Arcade type game"
+msgid "Excerpts from the Tao of Programming"
+msgstr "Excerpts from the Tao of Programming"
+
+msgid "Lock the virtual consoles"
+msgstr "Κλείδωμα τις εικονικές κονσόλες"
+
+msgid "Set up wired/wireless"
+msgstr "Ρυθμίσεις ενσύρματα/ασύρματα"
+
+msgid "Show network status"
+msgstr "Εμφάνιση κατάστασης δικτύου"
+
+msgid "Test if network is connected"
+msgstr "Ελέγξτε εάν είναι συνδεδεμένο το δίκτυο"
+
+msgid "Test network bandwidth"
+msgstr "Δοκιμή εύρους ζώνης δικτύου"
+
+msgid "Show all network connections and ports"
+msgstr "Εμφάνιση όλων των συνδέσεων δικτύου και των θυρών"
+
+msgid "Manage network profiles"
+msgstr "Διαχείριση προφίλ δικτύου"
+
+msgid "Weather forecast"
+msgstr "Δελτίο καιρού"
+
+msgid "Email client"
+msgstr "ηλεκτρονικού ταχυδρομείου"
+
+msgid "Web browser (text mode)"
+msgstr "Web browser (text)"
+
+#. add_cmd links2           $"Web browser (text mode)"
+msgid "Web browser (graphics mode)"
+msgstr "Web browser (graphics)"
+
+msgid "Chat client"
+msgstr "συνομιλίας"
+
+msgid "RSS/Atom feed reader"
+msgstr "RSS/Atom feed reader"
+
+msgid "BitTorrent client"
+msgstr "BitTorrent"
+
+msgid "Midnight commander file manager"
+msgstr "Midnight commander"
+
+msgid "Word Processor"
+msgstr "Επεξεργαστή Κειμένου"
+
+msgid "Calendar/Schedule"
+msgstr "Ημερολόγιο/Πρόγραμμα"
+
+msgid "Simple text editor"
+msgstr "Απλός επεξεργαστής κειμένου"
+
+msgid "Advanced text editor"
+msgstr "Σύνθετο πρόγραμμα επεξεργασίας κειμένου"
+
+msgid "File system table"
+msgstr "Πίνακας συστήματος αρχείων"
+
+msgid "X Windows Configuration"
+msgstr "Ρύθμιση του X Windows"
+
+msgid "SLiM Graphical login manager"
+msgstr "διαχειριστής σύνδεσης SLiM"
+
+msgid "Installed bootloader"
+msgstr "Εγκαταστημένο bootloader"
+
+msgid "Live usb BIOS bootloader"
+msgstr "Live usb BIOS bootloader"
+
+msgid "Live usb UEFI bootloader"
+msgstr "Live usb UEFI bootloader"
+
+msgid "Remaster Exclude List"
+msgstr "Remaster Εξαίρεση λίστας"
+
+msgid "Snapshot Exclude List"
+msgstr "Snapshot Εξαίρεση λίστας "
+
+msgid "Remaster Exclude List 2"
+msgstr "Remaster Εξαίρεση λίστας 2"
+
+msgid "Persist Save Exclude List"
+msgstr "Persist Save Εξαίρεση λίστας"

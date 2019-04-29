@@ -1,0 +1,56 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# mahmut özcan <mahmutozcan65@yahoo.com>, 2016,2018
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-10-28 17:00-0600\n"
+"PO-Revision-Date: 2018-03-08 04:10+0000\n"
+"Last-Translator: mahmut özcan <mahmutozcan65@yahoo.com>\n"
+"Language-Team: Turkish (http://www.transifex.com/anticapitalista/antix-development/language/tr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr ""
+
+msgid "It appears that root persistence was recently enabled."
+msgstr ""
+
+msgid "The default password for the %s account is not secure."
+msgstr "%s hesabının öntanımlı parolası güvenli değil."
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr ""
+
+msgid "Please provide a more secure password."
+msgstr "Lütfen daha güvenli bir parola girin."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr ""
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Bunun sebep olduğu küçük rahatsızlık için özür dilerim."
+
+msgid "username: %s"
+msgstr "kullanıcı adı: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr ""
+
+msgid "Changing password for account %s as requested"
+msgstr ""
+
+msgid "by use of the %s boot parameter."
+msgstr ""

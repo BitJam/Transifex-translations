@@ -1,0 +1,71 @@
+# Translation for antiX Development: live-umount file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Moo, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/anticapitalista/antix-development/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Asking most remaining processes to terminate"
+msgstr "Prašoma didžiąją dalį likusių procesų baigti"
+
+msgid "Almost all processes terminated immediately"
+msgstr "Beveik visi procesai nedelsiant baigė"
+
+msgid "%s Waiting for termination %s"
+msgstr "%s Laukiama baigimo %s"
+
+msgid "All processes ended within %s second(s)"
+msgstr ""
+
+msgid "Killing remaining processes"
+msgstr "Nutraukiami likę procesai"
+
+msgid "Unable to kill: %s"
+msgstr "Nepavyko nutraukti: %s"
+
+msgid "Unmount most filesystems"
+msgstr ""
+
+msgid "Disable swap"
+msgstr ""
+
+msgid "Kill any remaining processes"
+msgstr "Nutraukti bet kokius likusius procesus"
+
+msgid "Failed to umount some filesystems"
+msgstr ""
+
+msgid "reboot"
+msgstr "paleisti iš naujo"
+
+msgid "poweroff"
+msgstr ""
+
+msgid "Ready to %s"
+msgstr ""
+
+msgid "Please remove the disc, close the tray"
+msgstr "Prašome pašalinti diską, uždaryti dėklą"
+
+msgid "and press ENTER to continue"
+msgstr "ir, norint tęsti, paspausti ENTER"
+
+#. "seconds" as in seconds per minute
+msgid "seconds"
+msgstr ""
+
+msgid "Saving random seed"
+msgstr ""

@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2015
+# sombreros <sebastiendebierre@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-07 00:12+0300\n"
+"PO-Revision-Date: 2015-01-09 14:11+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/antix-development/language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: antixsources.sh:13
+#, sh-format
+msgid ""
+"This <b>$title</b> tool sets your default Debian repository and then runs "
+"the installer.\\n\\\\nYou can choose between: "
+"\\n\\\\n<b>Jessie/Stable</b>\\n\\\\n<b>Testing</b> or "
+"\\n\\\\n<b>Sid/Unstable</b>.\\n\\\\nThis release of antiX defaults to "
+"<b>Wheezy/Stable</b> for maximum stability.\\n\\\\nIf you do not know what "
+"to do, choose <b>Cancel</b> and the \\n<b>Stable</b> repository will be used"
+" and the installer will begin.\\n\\\\nPress <b>OK</b> to continue."
+msgstr "Cet outil <b>$title</b> définit votre dépôt Debian par défaut, puis exécute le programme d'installation.\\n\\\\nVous pouvez choisir entre:\\n\\\\n<b>Jessie/Stable</b>\\n\\\\n<b>Testing</b> or \\n\\\\n<b>Sid/Unstable</b>.\\n\\\\nCette version d'Antix est basé par défaut sur <b>Wheezy/Stable</b> pour une stabilité maximale.\\n\\\\nSi vous ne savez pas quoi faire, choisissez <b>Annuler</b> et le\\ndépôt <b>Stable</b> sera utilisé puis l'installateur va commencer.\\n\\\\nPressez <b>Valider</b> pour continuer."
+
+#: antixsources.sh:53
+#, sh-format
+msgid "Your Debian repository is set to <b>$x</b>"
+msgstr "Votre dépôt Debian est réglé sur "
+
+#: antixsources.sh:58
+msgid "The installer will now run."
+msgstr "Le programme d'installation va maintenant commencer."
+
+#: antixsources.sh:79
+msgid "Choose <b>ONE</b> Debian repository"
+msgstr "Choisissez <b>UN</b> dépôt Debian"
+
+#: antixsources.sh:80
+msgid "Choose"
+msgstr "Choisir"
+
+#: antixsources.sh:80
+msgid "Repository"
+msgstr "Dépots"
+
+#: antixsources.sh:112
+msgid "No item selected"
+msgstr "Aucun élément sélectionné"

@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Vinzenz Vietzke <vinz@vinzv.de>, 2017\n"
+"Language-Team: German (https://www.transifex.com/anticapitalista/teams/10162/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. grid_color_scheme light
+msgid "Select a Background Theme"
+msgstr "Hintergrundthema wählen"
+
+msgid ""
+"Press: <Enter> to use new theme, <q> to quit, <e> to edit, <h> for help"
+msgstr ""
+"Drücke: <Enter> um das neue Thema zu verwenden, <q> zum Beenden, <e> zum "
+"Bearbeiten, <h> für Hilfe"
+
+msgid "Current theme"
+msgstr "Aktuelles Thema"
+
+msgid "FB Background Themes"
+msgstr "FB-Hintergrundthemen"

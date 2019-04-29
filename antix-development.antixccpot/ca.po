@@ -1,0 +1,216 @@
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+# marcmetallextrem <marcmetallextrem@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: marcmetallextrem <marcmetallextrem@gmail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Launchpad (build 15135)\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: antixcc.sh:18
+msgid "Desktop"
+msgstr "Escriptori"
+
+#: antixcc.sh:18
+msgid "System"
+msgstr "Sistema"
+
+#: antixcc.sh:18
+msgid "Network"
+msgstr "Xarxa"
+
+#: antixcc.sh:18
+msgid "Session"
+msgstr "Session"
+
+#: antixcc.sh:19
+msgid "Live"
+msgstr "Live"
+
+#: antixcc.sh:19
+msgid "Disks"
+msgstr "Discs"
+
+#: antixcc.sh:19
+msgid "Hardware"
+msgstr "Maquinari"
+
+#: antixcc.sh:37
+msgid "Choose Wallpaper"
+msgstr "Tria el Fons de Pantalla"
+
+#: antixcc.sh:46
+msgid "Edit Fluxbox Settings"
+msgstr "Edita Configuració de Fluxbox"
+
+#: antixcc.sh:55
+msgid "Edit System Monitor"
+msgstr "Edita Utilitat Conky"
+
+#: antixcc.sh:66
+msgid "Change Gtk2 and Icon Themes"
+msgstr "Canvia Icones i Tema Gtk2"
+
+#: antixcc.sh:75
+msgid "Edit IceWM Settings"
+msgstr "Edita Configuració de IceWM\n\t"
+
+#: antixcc.sh:84
+msgid "Edit jwm Settings"
+msgstr "Edita Configuració de JWM"
+
+#: antixcc.sh:102
+msgid "Manage Packages"
+msgstr "Gestiona el Programari"
+
+#: antixcc.sh:111
+msgid "Configure System"
+msgstr "Configura el Sistema"
+
+#: antixcc.sh:120
+msgid "Choose Startup Services"
+msgstr "Tria Serveis d'arrencada"
+
+#: antixcc.sh:131
+msgid "Manage Users"
+msgstr "Gestió d'Usuaris"
+
+#: antixcc.sh:140
+msgid "Edit Config Files"
+msgstr "Edita Fitxers de Configuració"
+
+#: antixcc.sh:149
+msgid "Set Date and Time"
+msgstr "Ajusta Data i Hora"
+
+#: antixcc.sh:167
+msgid "Network Interfaces (ceni)"
+msgstr "Interfície de Xarxa (ceni)"
+
+#: antixcc.sh:176
+msgid "Configure GPRS/UMTS Connection"
+msgstr "Configura Connexió GPRS/UMTS"
+
+#: antixcc.sh:185
+msgid "Connect Wirelessly (wicd)"
+msgstr "Connexió sense fils (wicd)"
+
+#: antixcc.sh:196
+msgid "Wireless (rutilt)"
+msgstr "Informació sense fils (rutilt)"
+
+#: antixcc.sh:205
+msgid "Configure Dial-Up Connection"
+msgstr "Configura Connexió Telefònica"
+
+#: antixcc.sh:214
+msgid "Manage Firewall"
+msgstr "Gestiona el Tallafocs"
+
+#: antixcc.sh:232
+msgid "Change Keyboard Layout"
+msgstr "Configuració del Teclat"
+
+#: antixcc.sh:241
+msgid "Change Slim Background"
+msgstr "Canvia Fons de Slim"
+
+#: antixcc.sh:250
+msgid "Set Screen Resolution"
+msgstr "Resolució de Pantalla"
+
+#: antixcc.sh:261
+msgid "Edit Login Options"
+msgstr "Edita Opcions d'Entrada"
+
+#: antixcc.sh:270
+msgid "Set auto-login"
+msgstr "Configura auto-login"
+
+#: antixcc.sh:277
+msgid "After choosing a new theme, please logout/login to see the changes."
+msgstr "Després de triar un nou tema, sortiu i torneu a entrar per a veure els canvis"
+
+#: antixcc.sh:280
+msgid "Change cursor theme"
+msgstr "Canvia Temes del Cursor"
+
+#: antixcc.sh:298
+msgid "RemasterCC"
+msgstr "RemasterCC"
+
+#: antixcc.sh:307
+msgid "Set up live persistence"
+msgstr "Configurar persistència live"
+
+#: antixcc.sh:318
+msgid "Save root persistence"
+msgstr "Desar persistència root"
+
+#: antixcc.sh:327
+msgid "Remaster"
+msgstr "Remasteritza"
+
+#: antixcc.sh:345
+msgid "Partition a Drive"
+msgstr "Particiona els Discos"
+
+#: antixcc.sh:354
+msgid "Mount Connected Devices"
+msgstr "Munta Dispositius Connectats"
+
+#: antixcc.sh:363
+msgid "Backup Your System"
+msgstr "Còpia Seguretat Sistema"
+
+#: antixcc.sh:374
+msgid "Image a Partition"
+msgstr "Crea Imatge de Partició"
+
+#: antixcc.sh:383
+msgid "Synchronize Directories"
+msgstr "Sincronitza Directoris"
+
+#: antixcc.sh:392
+msgid "antiX2usb"
+msgstr "antix2usb"
+
+#: antixcc.sh:410
+msgid "System Information"
+msgstr "Informació del sistema"
+
+#: antixcc.sh:419
+msgid "Setup a Printer"
+msgstr "Configura Impressores"
+
+#: antixcc.sh:428
+msgid "Configure Sound System"
+msgstr "Configura Sistema de So"
+
+#: antixcc.sh:439
+msgid "PC Information"
+msgstr "Informació del Sistema"
+
+#: antixcc.sh:448
+msgid "Configure Mouse"
+msgstr "Configura el Ratolí"
+
+#: antixcc.sh:457
+msgid "Adjust Mixer"
+msgstr "Ajusta el Mesclador"
+
+#: antixcc.sh:468
+msgid "Close"
+msgstr "Tanca"

@@ -1,0 +1,574 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# anticapitalista <anticapitalista@riseup.net>, 2017
+# Filip Bog <mxlinuxpl@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-08-12 00:15-0600\n"
+"PO-Revision-Date: 2017-07-13 21:55+0000\n"
+"Last-Translator: Filip Bog <mxlinuxpl@gmail.com>, 2019\n"
+"Language-Team: Polish (https://www.transifex.com/anticapitalista/teams/10162/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#. The category of command line programs
+msgid "Command Line"
+msgstr "Wiersz poleceń"
+
+#. The catatory of GUI (graphics user interface) programs
+msgid "GUI"
+msgstr "GUI"
+
+#. Keyboard keys: up-arrow, down-arrow, page-up, page-down
+msgid "up-arrow"
+msgstr "strzałka-w-górę"
+
+msgid "down-arrow"
+msgstr "strzałka-w-dół"
+
+msgid "page-up"
+msgstr "strona-w-górę"
+
+msgid "page-down"
+msgstr "strona-w-dół"
+
+#. First letter is lowercase
+msgid "go back to the main menu"
+msgstr "wróć do menu głównego"
+
+msgid "antiX Command Line Package Installer"
+msgstr "antiX Instalator Pakietów Wiersza Poleceń"
+
+msgid "Main Menu"
+msgstr "Menu Główne"
+
+msgid "Search for packages to mark or install"
+msgstr "Wyszukaj pakiety do zaznaczenia lub zainstalowania"
+
+msgid "Search for antiX kernels"
+msgstr "Wyszukaj jądra antiX (kernels)"
+
+msgid "Search for all kernels"
+msgstr "Wyszukaj wszystkie jądra (kernels)"
+
+#. menu_printf kernels   $"Search for kernels or antiX kernels"
+msgid "Update package index"
+msgstr "Uaktualnij listę pakietów"
+
+msgid "Edit the repo source files"
+msgstr "Edytuj pliki źródłowe repozytoriów"
+
+msgid "Quit"
+msgstr "Zakończ"
+
+#. all <25> suggested <GUI> packages have been installed
+msgid "All %s suggested %s packages have been installed"
+msgstr "Wszystkie %s sugerowane %s pakiety zostały zainstalowane"
+
+msgid "no pending upgrades"
+msgstr "brak oczekujących aktualizacji"
+
+#. View a list of <32> suggested <Command Line> packages
+msgid "View a list of %s suggested %s packages"
+msgstr "Wyświetl listę %s sugerowanych %s pakietów"
+
+msgid "View or perform %s upgrade now"
+msgstr "Wyświetl lub wykonaj %s teraz uaktualnienie"
+
+msgid "View or perform %s upgrades now"
+msgstr "Wyświetl lub wykonaj %s teraz uaktualnienia"
+
+msgid "Upgrade %s package now"
+msgstr "Zaktualizuj %s pakiet teraz"
+
+msgid "Upgrade %s packages now"
+msgstr "Zaktualizuj %s pakiety teraz"
+
+msgid "View a list of packages to be upgraded"
+msgstr "Wyświetl listę pakietów do aktualizacji"
+
+msgid "Ignore these upgrades for now"
+msgstr "Zignoruj na razie te aktualizacje"
+
+msgid "View or install %s marked package"
+msgstr "Wyświetl lub zainstaluj %s zaznaczony pakiet"
+
+msgid "View or install %s marked packages"
+msgstr "Wyświetl lub zainstaluj %s zaznaczonych pakietów"
+
+msgid "Edit Source Menu"
+msgstr "Edytuj menu źródła"
+
+msgid "Please select a source file to edit"
+msgstr "Wybierz plik źródłowy do edycji"
+
+msgid "Could not find file %s to edit"
+msgstr "Nie można znaleźć pliku %s do edycji"
+
+#. First letter is uppercase
+msgid "Go back to the main menu"
+msgstr "Wróć do menu głównego"
+
+msgid "Search for packages"
+msgstr "Wyszukiwanie pakietów"
+
+#. An "exact name match" means the search term matches the entire package name
+msgid "exact name match"
+msgstr "dokładne dopasowanie nazwy"
+
+msgid "exact name matches"
+msgstr "dokładne dopasowania nazw"
+
+#. A "leading name match"the search term matches  the beginning of the package
+#. name
+msgid "leading name match"
+msgstr "wiodące dopasowanie nazwy"
+
+msgid "leading name matches"
+msgstr "wiodące dopasowania nazw"
+
+#. An "any name match" the search term matches any part of the package name
+msgid "any name match"
+msgstr "dowolne dopasowanie nazwy"
+
+msgid "any name matches"
+msgstr "wszystkie pasujące nazwy"
+
+#. A "name or description match"  matches any part of the package name or
+#. description
+msgid "name or description match"
+msgstr "dopasowanie nazwy lub opisu"
+
+msgid "name or description matches"
+msgstr "dopasowania nazw lub opisów"
+
+#. searches <took 0.25 seconds>
+msgid "searches"
+msgstr "wyszukiwania"
+
+msgid "No matches were found"
+msgstr "Nie znaleziono pasujących elementów"
+
+msgid "Do you want to try a different search?"
+msgstr "Czy chcesz spróbować innego wyszukiwania?"
+
+#. As in "exact match", search term matches these packages exactly
+msgid "exact"
+msgstr "dokładny"
+
+#. As in "leading match", search term matches the beginning of these packages
+msgid "leading"
+msgstr "wiodący"
+
+#. As in "any match' search term matches somewhere in the package name
+msgid "any name"
+msgstr "wszystkie nazwy"
+
+#. As in "name or description match" search term matches somewhere in the name
+#. or description
+msgid "description"
+msgstr "opis"
+
+msgid "Do a different search"
+msgstr "Wykonaj inne wyszukiwanie"
+
+msgid "Search Result Menu"
+msgstr "Menu Wyników Wyszukiwania"
+
+msgid "Please select an action"
+msgstr "Wybierz działanie"
+
+msgid "What next?"
+msgstr "Co dalej?"
+
+msgid "%s packages were found"
+msgstr "Znaleziono %s pakietów"
+
+msgid ""
+"In the next step you will be shown a list of packages that you can scroll"
+msgstr "W następnym kroku wyświetli się lista pakietów, którą można przewijać"
+
+#. Use <up-arrow>, <down-arrow>, <page-up>, and <page-down> to scroll list
+msgid "Use %s, %s, %s, and %s to scroll the list"
+msgstr "Użyj %s, %s, %s, i %s aby przewinąć listę"
+
+msgid ""
+"Position the package you want near the bottom and then press %s to continue"
+msgstr ""
+"Ustaw żądany pakiet blisko dolnej części i naciśnij %s aby kontynuować"
+
+#. echo
+#. Press <enter> to see the list
+#. The Enter key
+msgid "Enter"
+msgstr "Enter"
+
+msgid "Press %s to see the list"
+msgstr "Naciśnij %s aby wyświetlić listę"
+
+msgid "Use %s to go to the main menu"
+msgstr "Użyj %s aby przejść do menu głównego"
+
+#. Use 'r' to repeat the same search
+msgid "Use %s to repeat same search"
+msgstr "Użyj %s aby powtórzyć to samo wyszukiwanie"
+
+#. Use 's' to do a new search
+msgid "Use %s to do new search"
+msgstr "Użyj %s aby rozpocząć nowe wyszukiwanie"
+
+msgid "Press %s to skip picking a package"
+msgstr "Naciśnij %s aby pominąć wybór pakietu"
+
+msgid "Or enter the number of each package you want to mark or install"
+msgstr ""
+"Lub wprowadź numer każdego pakietu, który chcesz zaznaczyć lub zainstalować"
+
+#. Use '-' to indicate a range of numbers
+msgid "Use %s to indicate a range of numbers"
+msgstr "Użyj %s aby wskazać zakres liczb"
+
+#. [Use] 'q<enter>' to go the main menu, 'r<enter>' see the results again,
+#. 's<enter>' to do a new search
+msgid "Use %s to go to main menu"
+msgstr "Użyj %s aby przejść do menu głównego"
+
+msgid "Use %s to see the results again"
+msgstr "Użyj %s aby zobaczyć wyniki ponownie"
+
+msgid "Use %s to do a new search"
+msgstr "Użyj %s aby rozpocząć nowe wyszukiwanie"
+
+msgid "Invalid input.  Please try again"
+msgstr "Nieprawidłowe dane wejściowe. Proszę spróbuj ponownie"
+
+msgid "The following numbers were out of range %s"
+msgstr "Następujące liczby były poza zakresem %s"
+
+msgid "No valid numbers were given.  Please try again"
+msgstr "Nie podano prawidłowych numerów. Proszę spróbuj ponownie"
+
+msgid "Selected packages"
+msgstr "Wybrane pakiety"
+
+msgid "Could not find package number %s"
+msgstr "Nie można znaleźć numeru pakietu %s"
+
+msgid "Repeat the same search"
+msgstr "Powtórz to samo wyszukiwanie"
+
+msgid "Search again"
+msgstr "Wyszukaj ponownie"
+
+msgid "Go back to main menu"
+msgstr "Wróć do menu głównego"
+
+msgid "Now what?"
+msgstr "Co teraz?"
+
+msgid "Do a new search"
+msgstr "Rozpocznij nowe wyszukiwanie"
+
+msgid "See search results again"
+msgstr "Zobacz ponownie wyniki wyszukiwania"
+
+msgid "Return to main menu"
+msgstr "Powrót do menu głównego"
+
+msgid "Remove or Purge Menu"
+msgstr "Menu Odinstaluj lub Usuń"
+
+msgid "Please choose an action for this package"
+msgstr "Wybierz działanie dla tego pakietu"
+
+msgid "Un-install package [remove package but not its config files]"
+msgstr "Odinstaluj pakiet [usuń pakiet, ale nie jego pliki konfiguracyjne]"
+
+msgid "Purge package [remove package AND its config files]"
+msgstr "Usuń pakiet [usuń pakiet ORAZ jego pliki konfiguracyjne]"
+
+msgid "Reinstall package [even if it is up to date]"
+msgstr "Zainstaluj pakiet ponownie [nawet jeśli jest aktualny]"
+
+msgid "Install package [only if it is not up to date]"
+msgstr "Zainstaluj pakiet [tylko, jeśli nie jest aktualny]"
+
+msgid "The %s command failed"
+msgstr "Polecenie %s nie powiodło się"
+
+msgid "Please enter the term you want to search for"
+msgstr "Wprowadź nazwę lub termin, który chcesz wyszukać"
+
+msgid "Standard globbing wildcards %s and %s work"
+msgstr "Standardowe symbole wieloznaczne (znaki globalne) %s i %s działają"
+
+msgid "Use an empty string or %s to return to main menu"
+msgstr "Użyj pustego ciągu lub %s aby powrócić do menu głównego"
+
+msgid "Found"
+msgstr "Znaleziono"
+
+#. View <25> <exact|leading|any name|description> results
+msgid "View %s %s results"
+msgstr "Wyświetl %s %s rezultatów"
+
+msgid "Show more information about package %s"
+msgstr "Pokaż więcej informacji o pakiecie %s"
+
+msgid "Uninstall package %s"
+msgstr "Odinstaluj pakiet %s"
+
+msgid "Unmark package %s"
+msgstr "Odznacz pakiet %s"
+
+msgid "Mark package %s"
+msgstr "Zaznacz pakiet %s"
+
+msgid "Install package %s"
+msgstr "Zainstaluj pakiet %s"
+
+msgid "Mark selected, uninstalled package %s"
+msgstr "Zaznacz wybrany, niezainstalowany pakiet %s"
+
+msgid "Mark %s selected, uninstalled packages"
+msgstr "Zaznacz %s wybranych, niezainstalowanych pakietów"
+
+msgid "install selected uninstalled package %s"
+msgstr "zainstaluj wybrany niezainstalowany pakiet %s"
+
+msgid "install %s selected uninstalled packages"
+msgstr "zainstaluj %s wybranych niezainstalowanych pakietów"
+
+msgid "Checking source files ..."
+msgstr "Sprawdzanie plików źródłowych ..."
+
+msgid "Run %s now?"
+msgstr "Czy uruchomić teraz %s?"
+
+msgid "No list files were found"
+msgstr "Nie znaleziono plików list"
+
+#. An <apt-get update> is required in order to continue
+msgid "An %s is required in order to continue"
+msgstr "%s jest wymagany aby kontynuować"
+
+msgid "It appears that at least one list file is missing"
+msgstr "Wygląda na to, że brakuje co najmniej jednego pliku listy"
+
+#. You should probably run <apt-get update> now
+msgid "You should probably run %s now"
+msgstr "Prawdopodobnie powinieneś teraz uruchomić %s"
+
+#. Doing <apt-get update>
+msgid "Doing %s"
+msgstr "Wykonuję %s"
+
+msgid "There was a problem running %s"
+msgstr "Wystąpił problem z uruchomieniem %s"
+
+msgid "Do you want to continue anyway"
+msgstr "Czy mimo to chcesz kontynuować?"
+
+msgid "Creating database ..."
+msgstr "Tworzenie bazy danych ..."
+
+#. data base generation <took 12 seconds>
+msgid "database generation"
+msgstr "generowanie bazy danych"
+
+msgid "Updating database ..."
+msgstr "Aktualizowanie bazy danych ..."
+
+#. database update <took 4 seconds>
+msgid "database update"
+msgstr "aktualizacja bazy danych"
+
+msgid "Found %s dependencies"
+msgstr "Znaleziono %s zależności"
+
+msgid "Marking %s uninstalled dependencies"
+msgstr "Zaznaczanie %s niezainstalowanych zależności"
+
+msgid "found %s dependencies"
+msgstr "znaleziono %s zależności"
+
+msgid "found %s unmet dependencies"
+msgstr "znaleziono %s niespełnionych zależności"
+
+msgid "This package and unmet dependencies will add %s Meg"
+msgstr "Ten pakiet i niespełnione zależności dodadzą %s MB"
+
+msgid "Marking package %s"
+msgstr "Zaznaczanie pakietu %s"
+
+msgid "Unmarked %s package"
+msgstr "Odznaczono %s pakiet"
+
+msgid "Unmarked %s packages"
+msgstr "Odznaczono %s pakietów"
+
+msgid "Do you want to see more detailed information?"
+msgstr "Czy chcesz zobaczyć bardziej szczegółowe informacje?"
+
+msgid "found %s unmet dependencies that will also get installed"
+msgstr ""
+"znaleziono %s niespełnione zależności, które również zostaną zainstalowane"
+
+msgid "Do you want to install this package now?"
+msgstr "Czy chcesz teraz zainstalować ten pakiet?"
+
+msgid "Installing %s"
+msgstr "Instalowanie %s"
+
+msgid "Found %s un-installed marked packages"
+msgstr "Znaleziono %s niezainstalowane zaznaczone pakiety"
+
+msgid "Nothing to install"
+msgstr "Nie ma nic do zainstalowania"
+
+msgid "Install %s package"
+msgstr "Zainstaluj %s pakiet"
+
+msgid "Install %s packages"
+msgstr "Zainstaluj %s pakiety"
+
+msgid "The packages and unmet dependencies will add %s Meg"
+msgstr "Pakiety i niespełnione zależności dodadzą %s MB"
+
+msgid "Install this package?"
+msgstr "Czy zainstalować ten pakiet?"
+
+msgid "Install these packages?"
+msgstr "Czy zainstalować te pakiety?"
+
+msgid "Install %s marked package"
+msgstr "Zainstaluj %s zaznaczony pakiet"
+
+msgid "Install all %s marked packages"
+msgstr "Zainstaluj wszystkie %s zaznaczone pakiety"
+
+msgid "View %s marked package"
+msgstr "Wyświetl %s zaznaczony pakiet"
+
+msgid "View all %s marked packages"
+msgstr "Wyświetl wszystkie %s zaznaczone pakiety"
+
+msgid "Unmark %s marked package"
+msgstr "Odznacz %s zaznaczony pakiet"
+
+msgid "Unmark all %s marked packages"
+msgstr "Odznacz wszystkie %s zaznaczone pakiety"
+
+msgid "View or Install Marked Packages"
+msgstr "Wyświetl lub Zainstaluj Zaznaczone Pakiety"
+
+msgid "No marked packages were found"
+msgstr "Nie znaleziono żadnych zaznaczonych pakietów"
+
+msgid "Marked packages will add %s Meg"
+msgstr "Zaznaczone pakiety dodadzą %s MB"
+
+msgid ""
+"In the next step you will been shown a list of packages that you can scroll"
+msgstr "W następnym kroku wyświetli się lista pakietów, którą można przewijać"
+
+msgid "Use %s to go the main menu"
+msgstr "Użyj %s aby przejść do menu głównego"
+
+msgid "Use %s to do another search"
+msgstr "Użyj %s aby wykonać inne wyszukiwanie"
+
+#. Suggested <Command Line> packages
+msgid "Suggested %s Packages"
+msgstr "Sugerowane %s pakiety"
+
+msgid "No suggestions were found!"
+msgstr "Nie znaleziono żadnych sugestii!"
+
+#. error message if things are reall not working
+msgid "Check for the file %s"
+msgstr "Sprawdź plik %s"
+
+#. View <16> <***> star packages
+msgid "View"
+msgstr "Wyświetl"
+
+#. View all <40> suggested packages
+msgid "View all"
+msgstr "Wyświetl wszystkie"
+
+#. View all <25> suggested packages
+msgid "suggested packages"
+msgstr "sugerowane pakiety"
+
+#. View <16> <***> star packages
+msgid "star packages"
+msgstr "gwiazdkowych pakietów"
+
+#. View <32> zero star packages
+msgid "zero star packages"
+msgstr "zero gwiazdkowych pakietów"
+
+msgid "Skip to the next step (don't view packages)"
+msgstr "Przejdź do następnego kroku (nie przeglądaj pakietów)"
+
+msgid "Please select which packages to view"
+msgstr "Wybierz pakiety do wyświetlenia"
+
+msgid "%s packages were found (%s uninstalled)"
+msgstr "Znaleziono %s pakietów (%s niezainstalowanych)"
+
+msgid "Press %s to see the list, %s to go the main menu, %s to search again"
+msgstr ""
+"Naciśnij %s aby zobaczyć listę, %s aby przejść do menu głównego, %s aby "
+"wyszukać ponownie"
+
+msgid "See suggestions again"
+msgstr "Zobacz ponownie sugestie"
+
+msgid "Marked %s previously unmarked packages"
+msgstr "Zaznaczono %s poprzednio niezaznaczone pakiety"
+
+msgid "Unmarked all %s previously marked packages"
+msgstr "Odznaczono wszystkie %s poprzednio zaznaczone pakiety"
+
+msgid "%s package is still marked"
+msgstr "%s pakiet jest nadal zaznaczony"
+
+msgid "%s packages are still marked"
+msgstr "%s pakiety są nadal zaznaczone"
+
+msgid "Mark %s unmarked, uninstalled package"
+msgstr "Zaznacz %s niezaznaczony, niezainstalowany pakiet"
+
+msgid "Mark %s unmarked, uninstalled packages"
+msgstr "Zaznacz %s niezaznaczonych, niezainstalowanych pakietów"
+
+msgid "Unmark %s marked packages"
+msgstr "Odznacz %s zaznaczonych pakietów"
+
+msgid "Checking for package upgrades ..."
+msgstr "Sprawdzanie aktualizacji pakietów ..."
+
+msgid "There are %s packages that can be upgraded"
+msgstr "Masz zainstalowane %s pakiety, które można zaktualizować."
+
+msgid "There are no packages to upgrade"
+msgstr "Brak pakietów do aktualizacji"
+
+msgid "System Upgrade Menu"
+msgstr "Menu Aktualizacji Systemu"
+
+msgid "Exit"
+msgstr "Wyjście"

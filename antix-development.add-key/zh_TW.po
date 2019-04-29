@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-29 18:58+0200\n"
+"PO-Revision-Date: 2014-12-30 11:52+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/antix-development/language/zh_TW/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: add-key.py:70
+msgid "No line Selected:"
+msgstr ""
+
+#: add-key.py:145
+msgid "line has been removed"
+msgstr ""
+
+#: add-key.py:166
+msgid "Remove Items"
+msgstr ""
+
+#: add-key.py:175
+msgid "Line to Remove"
+msgstr ""
+
+#: add-key.py:186
+msgid "Remove"
+msgstr ""
+
+#: add-key.py:297
+msgid "That key combination has been used"
+msgstr ""
+
+#: add-key.py:336
+msgid "command has been added"
+msgstr ""
+
+#: add-key.py:349
+msgid "Add Items"
+msgstr ""
+
+#: add-key.py:358
+msgid "Select first key:"
+msgstr ""
+
+#: add-key.py:367
+msgid "Select second key:"
+msgstr ""
+
+#: add-key.py:377
+msgid "third key (letter or number)"
+msgstr ""
+
+#: add-key.py:386
+msgid "Add"
+msgstr ""
+
+#: add-key.py:411
+msgid "add-key"
+msgstr ""
+
+#: add-key.py:421
+msgid "Changing keys for: "
+msgstr ""
+
+#: add-key.py:444
+#, python-format
+msgid ""
+"There is no file ~/.%s/keys \n"
+" The session's DESKTOP_CODE='%s' \n"
+" incorrectly matches your system"
+msgstr ""

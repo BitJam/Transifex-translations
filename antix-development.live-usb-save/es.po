@@ -1,0 +1,79 @@
+# Translation for antiX Development: live-usb-save file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Richard  Holt <richard.holt@gmail.com>, 2016
+# Roberto Saravia <jratlsv2@racsa.co.cr>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: Richard  Holt <richard.holt@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/anticapitalista/antix-development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. "State" information are files saved at shutdown and restored at startup
+#. Like saving the state of a game.
+msgid "Restore state information"
+msgstr "Restaurar el estado de la información"
+
+msgid "Save state information"
+msgstr "Guardar la información del estado"
+
+#. Save <user-name> file <file-name>
+msgid "Save %s file %s"
+msgstr "Guardar %s archivo %s"
+
+#. Restore <user-name> file <file-name>
+msgid "Restore %s file %s"
+msgstr "Restaurar %s archivo %s"
+
+#. "Save %s desktop %s" $(wq $user) $(wq $(cat $from))
+msgid "Save %s desktop %s"
+msgstr "Guardar %s escritorio %s"
+
+#. Restore <user-name> desktop to <window-manager-name>
+msgid "restore %s desktop to %s"
+msgstr "restaurar escritorio %s a %s"
+
+#. "general" (same on all machines) versus "machine specific"
+msgid "general"
+msgstr "general"
+
+#. "machine specific" versus "general" (same on all machines)
+msgid "machine specific"
+msgstr "específico del equipo"
+
+#. Save <general|machine specific> state file <file-name>
+msgid "Save %s state file %s"
+msgstr "Guardar archivo de estado%s %s"
+
+#. Restore <general|machine specific> state file <file-name>
+msgid "Restore %s state file %s"
+msgstr "Restaurar archivo de estado %s  %s"
+
+msgid "Reset file %s"
+msgstr "Reajustar archivo %s"
+
+#. Delete <general|machine specific> state file <file-name>
+msgid "Delete %s state file %s"
+msgstr "Borrar archivo de estado %s %s"
+
+msgid "Could not find UUID of boot device for remounting"
+msgstr "No se encontró la UUID del dispositivo iniciable para montarlo de nuevo"
+
+msgid "Will not save state information"
+msgstr "No se guardará la información del estado"
+
+msgid "Could not find boot device for remounting"
+msgstr "No se encontró el medio de inicio para montar de nuevo"
+
+msgid "Could not remount boot device"
+msgstr "No se pudo montar de nuevo el dispositivo iniciable"

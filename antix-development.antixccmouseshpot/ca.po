@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-25 00:34+0300\n"
+"PO-Revision-Date: 2012-05-02 11:15+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixccmouse.sh:8 antixccmouse.sh:116 antixccmouse.sh:122
+#: antixccmouse.sh:128 antixccmouse.sh:132 antixccmouse.sh:138
+#: antixccmouse.sh:143
+msgid "Mouse Options"
+msgstr "Opcions del ratolí"
+
+#: antixccmouse.sh:12
+msgid "Mouse Acceleration"
+msgstr "Acceleració del ratolí"
+
+#: antixccmouse.sh:14
+msgid "Change mouse motion"
+msgstr "Canvia el moviment del ratolí"
+
+#: antixccmouse.sh:24
+msgid "Acceleration (Multiplier)"
+msgstr "Acceleració (Multiplicador)"
+
+#: antixccmouse.sh:33
+msgid "Threshold (Pixels)"
+msgstr "Llindar (píxels)"
+
+#: antixccmouse.sh:42
+msgid "Restore default motion"
+msgstr "Restaura el moviment per omissió"
+
+#: antixccmouse.sh:48
+msgid "Button Order"
+msgstr "Ordre dels botons"
+
+#: antixccmouse.sh:51
+msgid "No change"
+msgstr "Sense canvis"
+
+#: antixccmouse.sh:52
+msgid "Left hand layout"
+msgstr "Disposició per esquerrans"
+
+#: antixccmouse.sh:53
+msgid "Right hand layout"
+msgstr "Disposició per destres"
+
+#: antixccmouse.sh:57
+msgid "Cursor Size"
+msgstr "Mida del Cursor"
+
+#: antixccmouse.sh:59
+msgid "Change cursor size"
+msgstr "Canvia la mida del cursor"
+
+#: antixccmouse.sh:67
+msgid "Size (in pixels)"
+msgstr "Mida (en píxels)"
+
+#: antixccmouse.sh:76
+msgid "Restore default size"
+msgstr "Restaura la mida per omissió"
+
+#: antixccmouse.sh:82
+msgid "Cursor Theme"
+msgstr "Tema del Cursor"
+
+#: antixccmouse.sh:87
+msgid "After choosing a new theme, please\\n logout/login to see the changes."
+msgstr "Després de triar un nou tema, sortiu i torneu a entrar per a veure els canvis"
+
+#: antixccmouse.sh:90
+msgid "Change cursor theme"
+msgstr "Canvia el tema del cursor"
+
+#: antixccmouse.sh:116
+msgid "Mouse speed changed."
+msgstr "S'ha canviat la velocitat del ratolí."
+
+#: antixccmouse.sh:122
+msgid "Using default mouse speed."
+msgstr "Usant la velocitat del ratolí per omissió."
+
+#: antixccmouse.sh:128
+msgid "Now using left-hand layout."
+msgstr "Usant ara la disposició per esquerrans."
+
+#: antixccmouse.sh:132
+msgid "Now using right-hand layout."
+msgstr "Usant ara la disposició per a destres."
+
+#: antixccmouse.sh:138
+msgid "Cursor size changed. Please\\nlogout/login to see changes."
+msgstr "Canviada la mida del cursor. Sortiu i torneu a entrar per a veure els canvis."
+
+#: antixccmouse.sh:143
+msgid "Default cursor size restored.\\nPlease logout/login to see changes."
+msgstr "Restaurada la mida del cursor. Sortiu i torneu a entrar per a veure els canvis."

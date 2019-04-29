@@ -1,0 +1,56 @@
+# Translation for antiX Development: persist-password file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-12 01:31-0600\n"
+"PO-Revision-Date: 2017-09-22 00:59+0000\n"
+"Last-Translator: Вячеслав Волошин <vol_vel@mail.ru>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "DANGER!%s INSECURE PASSWORD!%s"
+msgstr "ОПАСНОСТЬ!%s НЕНАДЕЖНЫЙ ПАРОЛЬ!%s"
+
+msgid "It appears that root persistence was recently enabled."
+msgstr "Похоже, сохранение корневой папки уже включено."
+
+msgid "The default password for the %s account is not secure."
+msgstr "Пароль по умолчанию для логина %s ненадежен."
+
+msgid ""
+"It was convenient for a LiveCD but is not sufficient to protect a system "
+"with persistence."
+msgstr "Этого было достаточно для LiveCD, но недостаточно для защиты системы с сохранением состояния."
+
+msgid "Please provide a more secure password."
+msgstr "Пожалуйста, предусмотрите более безопасный пароль."
+
+msgid ""
+"One type of good password has 8 or more characters and contains a mixture of"
+" letters, numbers, and punctuation."
+msgstr "Обычный тип хорошего пароля имеет 8 или более символов и содержит смесь букв, цифр и знаков препинания."
+
+msgid "Sorry for the slight inconvenience this causes."
+msgstr "Извините за небольшое неудобство, этим вызванное."
+
+msgid "username: %s"
+msgstr "имя пользователя: %s"
+
+msgid "The %s password hasn't changed.  Please try again."
+msgstr "%s пароль не изменился.  Пожалуйста, попробуйте еще раз."
+
+msgid "Changing password for account %s as requested"
+msgstr "Изменение пароля для учетной записи %s с подтверждением"
+
+msgid "by use of the %s boot parameter."
+msgstr "с использованием параметра загрузки %s."

@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# José Vieira <jvieira33@sapo.pt>, 2017
+# ric, 2017
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 22:44-0600\n"
+"PO-Revision-Date: 2017-10-11 04:55+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Portuguese (http://www.transifex.com/anticapitalista/antix-development/language/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Default"
+msgstr "Pré-definição"
+
+msgid "Check integrity of the live media"
+msgstr "Verificar a integridade do dispositivo externo"
+
+msgid "Check LiveUSB and persistence ext2/3/4 file systems"
+msgstr "Verificar os sistemas de ficheiros ext2/3/4 da Instalação USB Externa e área persistente"
+
+msgid "Copy the compressed file system to RAM"
+msgstr "Copiar o sistema de ficheiros comprimido para a memória (RAM)"
+
+msgid "Finish booting from a LiveUSB"
+msgstr "Acabar de iniciar a partir duma Instalação USB Externa"
+
+msgid "Finish booting from a hard drive"
+msgstr "Acabar de iniciar pelo disco rígido"
+
+msgid "Disable all usb-2 devices while booting"
+msgstr "Desactivar todos os dispositivos usb-2 enquanto iniciar"
+
+msgid "Have the system help determine the clock setting"
+msgstr "Fazer o sistema ajudar a determinar as definições de relógio"
+
+msgid "Hardware clock uses UTC (Linux-only systems)"
+msgstr "O relógio interno usa o fuso horário UTC (só em sistemas Linux)"
+
+msgid "Hardware clock uses local time (Windows systems)"
+msgstr "O relógio interno usa a hora local (sistemas Windows)"
+
+msgid "Change passwords before booting"
+msgstr "Alterar a as senhas antes de iniciar"
+
+msgid "Enable wicd service on startup"
+msgstr "Activar serviço wicd ao iniciar"
+
+msgid "Disable wicd service on startup"
+msgstr "Desactivar serviço wicd ao iniciar"
+
+msgid "Disable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "Desactivar a funcionalidade Armazenar em Instalação USB Externa (apenas para Instalações USB)"
+
+msgid "Enable LiveUSB-Storage feature (LiveUSB only)"
+msgstr "activar a funcionalidade Armazenar em Instalação USB Externa (apenas para Instalações USB)"
+
+msgid "Save some files across reboots (LiveUSB only)"
+msgstr "Guardar alguns ficheiros de reinício para reinício (apenas para Instalações USB)"
+
+msgid "Don't save files across reboots (LiveUSB only)"
+msgstr "Não guardar ficheiros de reinício para reinício (apenas para Instalações USB)"
+
+msgid "Automatically mount devices when plugged in"
+msgstr "Quando fisicamente ligados, montar os dispositivos automaticamente"
+
+msgid "Disable all extra mounting and automounting"
+msgstr "Desactivar todas as montagens extra e auto-montagens"
+
+msgid "Fast. Saves root and home (uses RAM, saves at shutdown)"
+msgstr "Rápido. Guarda a root e a home (usa a RAM, guarda ao encerrar)"
+
+msgid "Fast. Only saves root (uses RAM, saves at shutdown)"
+msgstr "Rápido. Guarda apenas a root (usa a RAM, guarda ao encerrar)"
+
+msgid "Slow. Saves root and home (no RAM use, saves constantly)"
+msgstr "Lento. Guarda a root e a home (não usa a RAM, guarda continuamente)"
+
+msgid "Only home persistence"
+msgstr "Persistência apenas em home"
+
+msgid "Frugal with both root and home persistence"
+msgstr "Frugal com persistência em root e em home"
+
+msgid "Frugal with only root persistence"
+msgstr "Frugal com persistência apenas da root"
+
+msgid "Frugal with home and static root persistence"
+msgstr "Frugal com persistência em home e na root estática"
+
+msgid "Frugal with only home persistence"
+msgstr "Frugal com persistência apenas em home"
+
+msgid "Only Frugal, no persistence"
+msgstr "Apenas frugal, sem persistência"
+
+msgid "Yes (default)"
+msgstr "Sim (pré-definição)"
+
+msgid "No"
+msgstr "Não"

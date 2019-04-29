@@ -1,0 +1,535 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-07 23:55+0200\n"
+"PO-Revision-Date: 2014-09-30 20:19+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: xlate-linuxrc.sh:8
+msgid "Start"
+msgstr "Inici"
+
+#: xlate-linuxrc.sh:9
+msgid "remaster"
+msgstr "remasteritza"
+
+#: xlate-linuxrc.sh:10
+msgid "to put linuxfs file in RAM"
+msgstr "per a posar linuxfs a la RAM"
+
+#: xlate-linuxrc.sh:11
+msgid "to mount persist file %s at %s"
+msgstr "per a muntar el fitxer persistent %s a %s"
+
+#: xlate-linuxrc.sh:13
+msgid "Select"
+msgstr "Selecciona"
+
+#: xlate-linuxrc.sh:14
+msgid "then hit <enter>"
+msgstr "després premeu <ENTER>"
+
+#: xlate-linuxrc.sh:15
+msgid "or"
+msgstr "o"
+
+#: xlate-linuxrc.sh:18
+msgid "continue"
+msgstr "continua"
+
+#: xlate-linuxrc.sh:19
+msgid "c"
+msgstr "c"
+
+#: xlate-linuxrc.sh:20
+msgid "C"
+msgstr "C"
+
+#: xlate-linuxrc.sh:21
+msgid "power off"
+msgstr "Apaga"
+
+#: xlate-linuxrc.sh:22
+msgid "p"
+msgstr "p"
+
+#: xlate-linuxrc.sh:23
+msgid "P"
+msgstr "P"
+
+#: xlate-linuxrc.sh:24
+msgid "reboot"
+msgstr "Arrenca de nou"
+
+#: xlate-linuxrc.sh:25
+msgid "r"
+msgstr "r"
+
+#: xlate-linuxrc.sh:26
+msgid "R"
+msgstr "R"
+
+#: xlate-linuxrc.sh:27
+msgid "powering down"
+msgstr "Apagant"
+
+#: xlate-linuxrc.sh:28
+msgid "rebooting"
+msgstr "Arrencant de nou"
+
+#: xlate-linuxrc.sh:29
+msgid "Rolling back %s to %s"
+msgstr "Desfent %s a %s"
+
+#: xlate-linuxrc.sh:30
+msgid "Refusing to remaster"
+msgstr "Rebutjant remasteritzar"
+
+#: xlate-linuxrc.sh:32
+msgid "In directory %s one or more of these files already exist"
+msgstr "Al directori %s un o més d'aquests fitxers ja hi son"
+
+#: xlate-linuxrc.sh:33
+msgid "Run the remaster-me program to fix this problem"
+msgstr "Executeu el programa remaster-me per resoldre el problema"
+
+#: xlate-linuxrc.sh:34
+msgid "Remastering %s to %s"
+msgstr "Remasteritzant %s a %s"
+
+#: xlate-linuxrc.sh:36
+msgid "Fatal Error"
+msgstr "Error fatal"
+
+#: xlate-linuxrc.sh:37
+msgid "Non-Fatal Error"
+msgstr "Error no fatal"
+
+#: xlate-linuxrc.sh:38
+msgid "Waiting for file systems to sync"
+msgstr "Esperant per a sincronitzar els sitemes de fitxers"
+
+#: xlate-linuxrc.sh:39
+msgid "done"
+msgstr "fet"
+
+#: xlate-linuxrc.sh:40
+msgid "Unknown command"
+msgstr "Ordre desconeguda"
+
+#: xlate-linuxrc.sh:41
+msgid "Please try again"
+msgstr "Torneu a provar-ho"
+
+#: xlate-linuxrc.sh:42
+msgid "No device with %s found"
+msgstr "No s'ha trobat cap dispositiu amb %s"
+
+#: xlate-linuxrc.sh:43
+msgid "Valid"
+msgstr "Vàlid"
+
+#: xlate-linuxrc.sh:44
+msgid "Could not find device"
+msgstr "No s'ha trobat el dispositiu"
+
+#: xlate-linuxrc.sh:45
+msgid "Valid devices"
+msgstr "Dispositius vàlids"
+
+#: xlate-linuxrc.sh:46
+msgid "Copying linuxfs VID to empty rootfs"
+msgstr "Copiant linuxfs VID al rootfs buit"
+
+#: xlate-linuxrc.sh:47
+msgid "VID file not found"
+msgstr "No s'ha trobat el fitxer VID"
+
+#: xlate-linuxrc.sh:48
+msgid "No VID found in"
+msgstr "No s'ha trobat el VID a"
+
+#: xlate-linuxrc.sh:49
+msgid "VID mismatch"
+msgstr "VID no concordant"
+
+#: xlate-linuxrc.sh:50
+msgid "Matching VID found in"
+msgstr "VID concordant trobat a"
+
+#: xlate-linuxrc.sh:51
+msgid "Directory"
+msgstr "Directori"
+
+#: xlate-linuxrc.sh:52
+msgid "does not exist"
+msgstr "no existeix"
+
+#: xlate-linuxrc.sh:53
+msgid "Can't perform md5 check"
+msgstr "No es pot fer la comprovació MD5"
+
+#: xlate-linuxrc.sh:54
+msgid "Checking files in %s dir. This may take a while"
+msgstr "Comprovant fitxers al directori %s. Això necessita un temps"
+
+#: xlate-linuxrc.sh:55
+msgid "file"
+msgstr "fitxer"
+
+#: xlate-linuxrc.sh:56
+msgid "files"
+msgstr "fitxers"
+
+#: xlate-linuxrc.sh:57
+msgid "result"
+msgstr "resultat"
+
+#: xlate-linuxrc.sh:58
+msgid "passed"
+msgstr "passat"
+
+#: xlate-linuxrc.sh:59
+msgid "failed"
+msgstr "ha fallat"
+
+#: xlate-linuxrc.sh:60
+msgid "wanted"
+msgstr "desitjat"
+
+#: xlate-linuxrc.sh:61
+msgid "got"
+msgstr "obtingut"
+
+#: xlate-linuxrc.sh:62
+msgid "No md5 checksums were found in %s. Can't do any md5 checks"
+msgstr "No s'han trobat checksums MD5 a %s. No es pot fer la prova MD5"
+
+#: xlate-linuxrc.sh:63
+msgid "At least one checksum did not match"
+msgstr "Com a mínim un checksum no coincideix"
+
+#: xlate-linuxrc.sh:64
+msgid "Success!"
+msgstr "Èxit!"
+
+#: xlate-linuxrc.sh:65
+msgid "Welcome to"
+msgstr "Benvingut a"
+
+#: xlate-linuxrc.sh:66
+msgid "Total Memory"
+msgstr "Memòria total"
+
+#: xlate-linuxrc.sh:67
+msgid "Free Memory"
+msgstr "Memòria lliure"
+
+#: xlate-linuxrc.sh:68
+msgid "Used Memory"
+msgstr "Memòria utilitzada"
+
+#: xlate-linuxrc.sh:69
+msgid "Linux kernel"
+msgstr "Nucli de Linux"
+
+#: xlate-linuxrc.sh:70
+msgid "CPU"
+msgstr "UCP"
+
+#: xlate-linuxrc.sh:71
+msgid "cores"
+msgstr "nuclis"
+
+#: xlate-linuxrc.sh:72
+msgid "cache"
+msgstr "memòria cau"
+
+#: xlate-linuxrc.sh:73
+msgid "Hardware kernel modules"
+msgstr "Mòduls de nucli de maquinari"
+
+#: xlate-linuxrc.sh:74
+msgid "Possibly unknown or misspelled boot codes:"
+msgstr "Codis d'arrencada possiblement desconeguts"
+
+#: xlate-linuxrc.sh:75
+msgid "(don't take this too seriously)"
+msgstr "(no li doneu massa importància)"
+
+#: xlate-linuxrc.sh:76
+msgid "Looking for"
+msgstr "Cercant"
+
+#: xlate-linuxrc.sh:77
+msgid "device"
+msgstr "dispositiu"
+
+#: xlate-linuxrc.sh:78
+msgid "with label"
+msgstr "amb etiqueta"
+
+#: xlate-linuxrc.sh:79
+msgid "with uuid"
+msgstr "amb UUID"
+
+#: xlate-linuxrc.sh:80
+msgid "retrying"
+msgstr "reintentant"
+
+#: xlate-linuxrc.sh:81
+msgid "Looking for %s on: %s"
+msgstr "Cercant %s a: %s"
+
+#: xlate-linuxrc.sh:82
+msgid "Device"
+msgstr "Dispositiu"
+
+#: xlate-linuxrc.sh:83
+msgid "already mounted"
+msgstr "ja està muntat"
+
+#: xlate-linuxrc.sh:84
+msgid "Mounted %s at %s"
+msgstr "Mounted %s at %s"
+
+#: xlate-linuxrc.sh:85
+msgid "The boot param %s was given but no %s was found"
+msgstr "S'ha donat el paràmetre %s però no s'ha trobat cap %s"
+
+#: xlate-linuxrc.sh:86
+msgid "Waiting %s seconds"
+msgstr "Esperant %s segons"
+
+#: xlate-linuxrc.sh:87
+msgid "Not enough RAM available for"
+msgstr "No hi ha prou RAM per a"
+
+#: xlate-linuxrc.sh:88
+msgid "have"
+msgstr "té"
+
+#: xlate-linuxrc.sh:89
+msgid "needed"
+msgstr "necessita"
+
+#: xlate-linuxrc.sh:90
+msgid "Unable to mount tmpfs.  Not doing"
+msgstr "No és possible muntar tmpfs. No es fa"
+
+#: xlate-linuxrc.sh:91
+msgid "Copying files from %s to %s ... Please be patient"
+msgstr "Copiant fitxers de %s a %s. Una mica de paciència"
+
+#: xlate-linuxrc.sh:92
+msgid "Copy failed.  Aborting"
+msgstr "Ha fallat la còpia. S'interromp"
+
+#: xlate-linuxrc.sh:93
+msgid "Copy to ram failed.  Destination file missing"
+msgstr "Ha fallat la còpia a RAM. Manca el fitxer de destinació"
+
+#: xlate-linuxrc.sh:94
+msgid "Copy was incomplete. The %s failed"
+msgstr "Còpia incompleta. Ha fallat el %s"
+
+#: xlate-linuxrc.sh:95
+msgid "Original size"
+msgstr "Mida original"
+
+#: xlate-linuxrc.sh:96
+msgid "Copy size"
+msgstr "Mida de còpia"
+
+#: xlate-linuxrc.sh:97
+msgid "Copy to RAM succeeded"
+msgstr "Copiat a RAM amb èxit"
+
+#: xlate-linuxrc.sh:98
+msgid "Not enough space in RAM to hold persistent root"
+msgstr "No hi ha prou espai de RAM per encabir l'arrel persistent"
+
+#: xlate-linuxrc.sh:99
+msgid "Time to remaster"
+msgstr "Temps per remasteritzar"
+
+#: xlate-linuxrc.sh:100
+msgid "Copy to RAM failed!  Erasing partial copy ..."
+msgstr "Ha fallat la còpia a RAM! Esborrant la còpia parcial..."
+
+#: xlate-linuxrc.sh:101
+msgid "Could not find any persistence files"
+msgstr "No s'han trobat fitxers persistents"
+
+#: xlate-linuxrc.sh:102
+msgid "Could not find %s for required %s persistence"
+msgstr "No s'ha trobat %s per a la persistència necessària %s"
+
+#: xlate-linuxrc.sh:103
+msgid "Not enabling %s persistence"
+msgstr "No s'habilita la persistència de %s"
+
+#: xlate-linuxrc.sh:104
+msgid "Enabling %s persistence"
+msgstr "Habilitat la persistència %s"
+
+#: xlate-linuxrc.sh:105
+msgid "Not remastering rootfs twice"
+msgstr "No es remasteritza dos cops el rootfs"
+
+#: xlate-linuxrc.sh:106
+msgid "Looking for crypt device ..."
+msgstr "Cercant dispositiu d'encriptació"
+
+#: xlate-linuxrc.sh:107
+msgid "Could not find crypt device"
+msgstr "No s'ha trobat el dispositiu d'encriptació"
+
+#: xlate-linuxrc.sh:108
+msgid "Could not find crypt device after"
+msgstr "No s'ha trobat el dispositiu d'encriptació després de"
+
+#: xlate-linuxrc.sh:109
+msgid "Strange, could not find crypt device"
+msgstr "És estrany, no es pot trobar el dispositiu d'encriptació"
+
+#: xlate-linuxrc.sh:110
+msgid "Found crypt partition"
+msgstr "S'ha trobat la partició encriptada"
+
+#: xlate-linuxrc.sh:111
+msgid "Could not find iso file"
+msgstr "No s'ha trobat el fitxer ISO"
+
+#: xlate-linuxrc.sh:112
+msgid "linuxfs file: %s not found on %s"
+msgstr "Fitxer linuxfs: %s no trobat a %s"
+
+#: xlate-linuxrc.sh:113
+msgid "Could not find linuxfs file"
+msgstr "No s'ha trobat el fitxer linuxfs"
+
+#: xlate-linuxrc.sh:114
+msgid "Unknown %s parameter: %s"
+msgstr "Paràmetre %s desconegut: %s"
+
+#: xlate-linuxrc.sh:115
+msgid "Valid values"
+msgstr "Valors vàlids"
+
+#: xlate-linuxrc.sh:116
+msgid "Creating the aufs tempfs failed"
+msgstr "Ha fallat la creació d'aufs"
+
+#: xlate-linuxrc.sh:117
+msgid "Could not enable required %s persistence"
+msgstr "No es pot habilitar la persistència %s necessària"
+
+#: xlate-linuxrc.sh:118
+msgid "Could not mount aufs"
+msgstr "No es pot muntar aufs"
+
+#: xlate-linuxrc.sh:119
+msgid "The linuxrc bootstrap is done"
+msgstr "S'ha fet l'arrencada linuxrc"
+
+#: xlate-linuxrc.sh:121
+msgid "Creating %s at: %s"
+msgstr "Creant %s a: %s"
+
+#: xlate-linuxrc.sh:122
+msgid "Output of:"
+msgstr "Sortida de:"
+
+#: xlate-linuxrc.sh:123
+msgid "Loading module:"
+msgstr "carregant mòdul:"
+
+#: xlate-linuxrc.sh:124
+msgid "Translating to %s in %s"
+msgstr "Traduïnt a %s en %s"
+
+#: xlate-linuxrc.sh:125
+msgid "Invalid %s parameter(s):"
+msgstr "Paràmetre(s) %s no vàlids:"
+
+#: xlate-linuxrc.sh:126
+msgid "Valid values are:"
+msgstr "Els valors vàlids son:"
+
+#: xlate-linuxrc.sh:127
+msgid "Scanning %s devices for"
+msgstr "Explorant %s sispositius per"
+
+#: xlate-linuxrc.sh:128
+msgid "No %s devices found!"
+msgstr "No s'ha trobat cap dispositiu %s!"
+
+#: xlate-linuxrc.sh:129
+msgid "Filtered devices:"
+msgstr "Dispositius filtrats:"
+
+#: xlate-linuxrc.sh:130
+msgid "The %s parameter is blocking device: %s"
+msgstr "El paràmetre %s bloqueja el dispositiu: %s"
+
+#: xlate-linuxrc.sh:131
+msgid "Remove the %s boot parameter to let that device be scanned"
+msgstr "Elimineu el paràmtre d'arrencada %s per a permetre que s'explori el dispositiu"
+
+#: xlate-linuxrc.sh:132
+msgid "Found new device in:"
+msgstr "Trobat nou dispositiu a:"
+
+#: xlate-linuxrc.sh:133
+msgid "Putting persistent root in RAM"
+msgstr "Posant arrel persistent en RAM"
+
+#: xlate-linuxrc.sh:134
+msgid "from"
+msgstr "de"
+
+#: xlate-linuxrc.sh:135
+msgid "Copying"
+msgstr "Copiant"
+
+#: xlate-linuxrc.sh:136
+msgid "to"
+msgstr "a"
+
+#: xlate-linuxrc.sh:137
+msgid "Copy persistent root to RAM succeeded"
+msgstr "S'ha copiat amb èxit l'arrel persistent a la RAM"
+
+#: xlate-linuxrc.sh:138
+msgid "Delaying %s second(s)"
+msgstr "Retardant %s segon(s)"
+
+#: xlate-linuxrc.sh:139
+msgid "Module %s was not found."
+msgstr "No s'ha trobat el mòdul %s"
+
+#: xlate-linuxrc.sh:140
+msgid "Could not mount %s as a %s file"
+msgstr "No s'ha pogut muntar %s com un fitxer %s"
+
+#: xlate-linuxrc.sh:141
+msgid "Mounting %s at %s"
+msgstr "Muntant %s a %s"
+
+#: xlate-linuxrc.sh:142
+msgid "Starting init process"
+msgstr "Començant el procés init"

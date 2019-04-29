@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Eadwine Rose, 2014
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-06 00:34+0300\n"
+"PO-Revision-Date: 2014-10-01 21:30+0000\n"
+"Last-Translator: ko <ko.bros@gmail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: antixsnapshot-gui.sh:95
+msgid "There is no xserver running. Exiting..."
+msgstr "Er draait geen xserver; verlaat het programma"
+
+#: antixsnapshot-gui.sh:96
+msgid "You need to be root\\! \\n\\nCannot continue."
+msgstr "Je moet root-rechten hebben\\! \\n\\nKan niet verder gaan."
+
+#: antixsnapshot-gui.sh:98
+#, sh-format
+msgid ""
+"Are you ready to create a live installable snapshot of your system? \n"
+"This utility will create a bootable image that you can burn to CD. \n"
+"The image will be stored in $snapshot_dir.\n"
+"\n"
+"This is free software that comes with no warranty or guarantee of any type, \n"
+"including but not limited to express, implied, merchantability or fitness \n"
+"of purpose.\n"
+"\n"
+"Copyright:\n"
+"2012, 2013 anticapitalista@antiX@operamail.com \n"
+"2011, 2012 fsmithred@gmail.com \n"
+"(portions may be copyright Dean Linkous)"
+msgstr "Ben je klaar om een installeerbaar snapshot van je systeem te maken? \nDeze software zal een bootable image maken dat je op CD kunt branden. \nHet image-bestand zal worden opgeslagen in $snapshot_dir. \n\nDit is vrije software die wordt geleverd zonder enige garantie, \ninclusief,  maar niet beperkt tot, verhandelbaarheid of gebruiksgeschiktheid.\n\nKopierechten:\n2012, 2013 anticapitalista@antiX@operamail.com\n2011, 2012 fsmithred@gmail.com\n(delen kunnen ook het kopierecht van Dean Linkous zijn)"
+
+#: antixsnapshot-gui.sh:112
+#, sh-format
+msgid "$TEXT1"
+msgstr "$TEXT1"
+
+#: antixsnapshot-gui.sh:120
+#, sh-format
+msgid ""
+"The graphical text editor is set to\n"
+"${gui_editor}, but it is not installed. Edit $configfile\n"
+"and set the gui_editor variable to the editor of your choice.\n"
+"(examples: /usr/bin/gedit, /usr/bin/leafpad)"
+msgstr "De grafische text editor is ingesteld op\n${gui_editor}, maar deze is niet geïnstalleerd. Bewerk $configfile\nen stel de gui_editor variabele in op de editor van uw keuze.\n(voorbeelden: /usr/bin/gedit, /usr/bin/leafpad)"
+
+#: antixsnapshot-gui.sh:155
+#, sh-format
+msgid ""
+"* You have a saved copy of the system using $saved_size of space located at "
+"$work_dir/new-squashfs."
+msgstr "* Je hebt een weggeschreven kopie van het systeem dat $saved_size ruimte inneemt  in lokatie $work_dir/new-squashfs."
+
+#: antixsnapshot-gui.sh:160
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be saved at $work_dir/new-"
+"squashfs."
+msgstr "* De tijdelijke kopie van het filesysteem zal worden weggeschreven in $work_dir/new-squashfs."
+
+#: antixsnapshot-gui.sh:162
+#, sh-format
+msgid ""
+"* The temporary copy of the filesystem will be created at $work_dir/new-"
+"squashfs and removed when this program finishes."
+msgstr "* De tijdelijke kopie van het filesysteem zal worden gemaakt in $work_dir/new-squashfs en zal worden verwijderd als dit programma beeindigd is."
+
+#: antixsnapshot-gui.sh:219
+msgid ""
+"You will need plenty of free space. It is recommended that free space "
+"(Avail) in the partition that holds the work directory (probably \\"
+msgstr "Je zult een heleboel vrije ruimte nodig hebben. Het wordt aanbevolen om vrije ruimte (Avail.) in de parttitie die de werk directory (waarschijnlijk \\  "

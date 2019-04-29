@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# joyinko <joyinko@azet.sk>, 2018
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2017-10-17 12:31-0600\n"
+"PO-Revision-Date: 2017-07-13 21:56+0000\n"
+"Last-Translator: joyinko <joyinko@azet.sk>, 2018\n"
+"Language-Team: Slovak (https://www.transifex.com/anticapitalista/teams/10162/sk/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sk\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n >= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
+
+msgid "Select a Console Font"
+msgstr "Zvoľte Písmo Konzoly"
+
+msgid "Press: <Enter> to select a font <q> to quit, <h> for help"
+msgstr ""
+"Stlačte: <Enter> pre použitie nového motívu, <q> pre ukončenie, <h> pre "
+"pomoc"
+
+msgid "Current width is %s characters"
+msgstr "Navolená šírka je%s znakov"
+
+msgid "Screen is %s chars wide, font is %s"
+msgstr "Monitor má šírku %s znakov, písmo je %s"

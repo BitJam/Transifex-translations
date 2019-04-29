@@ -1,0 +1,850 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-13 11:53+0300\n"
+"PO-Revision-Date: 2015-02-25 21:22+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Hungarian (http://www.transifex.com/projects/p/antix-development/language/hu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Translate Toolkit 1.10.0\n"
+
+#: MInstall#1
+msgid "No"
+msgstr "Nem"
+
+#: MInstall#2
+msgid "Yes"
+msgstr "Igen"
+
+#: MInstall#3
+msgid ""
+"The home directory for %1 already exists.Would you like to reuse the old "
+"home directory?"
+msgstr "A %1 -en már van home könyvtár. Újra szeretnéd használni a régi a home könyvtárat?"
+
+#: MInstall#4
+msgid "Other"
+msgstr "Egyéb"
+
+#: MInstall#5
+msgid ""
+"You must choose a root partition.\n"
+"The root partition must be at 1.5 GB."
+msgstr ""
+
+#: MInstall#6
+msgid "Sorry, unable to set user password."
+msgstr "Bocs, de nem lehet a felhasználói jelszót beállítani."
+
+#: MInstall#7
+msgid ""
+"Failed to write antiX to destination.\n"
+"Returning to Step 1."
+msgstr "Nem sikerült a kijelölt helyre írni a antiX-t.\nVisszatérés az 1. Lépéshez."
+
+#: MInstall#8
+msgid ""
+"Sorry, failed to delete old home directory. Before proceeding, \n"
+"you'll have to select a different username."
+msgstr "Bocs, de a régi home könyvtár törlése nem sikerült. Mielőtt\nfolytatnád, egy új felhasználónevet kell választanod."
+
+#: MInstall#9
+msgid ""
+"Failed to prepare chosen partitions.\n"
+"Returning to Step 1."
+msgstr "A kiválasztott partíciók előkészítése sikertelen.\nVisszatérés az 1. lépéshez."
+
+#: MInstall#10
+msgid ""
+"The user password entries do\n"
+"not match.  Please try again."
+msgstr "A felhasználó jelszó bejegyzések\nnem egyeznek. Próbáld meg újra."
+
+#: MInstall#11
+msgid ""
+"<p><b>Adjusting Your Sound Mixer</b><br/>antiX attempts to configure the "
+"sound mixer for you but sometimes it will be necessary for you to turn up "
+"volumes and unmute channels in the mixer in order to hear sound.</p> <p>The "
+"mixer shortcut is located in the tray. Click on it to open the mixer. </p>"
+msgstr "<p><b>A Hangkeverő Beállítása</b><br/>A antiX megpróbálja beállítani a hangkeverőt a számodra, de néha szükséges lehet a hangerő felerősítése, valamint hangcsatornák némításának kikapcsolása a hallható hang érdekében.</p> <p>A keverő ikonja a panelen megtalálható. Nyomd meg, hogy megnyisd a keverőt.</p>"
+
+#: MInstall#12
+msgctxt "MInstall#12"
+msgid "Ready to install antiX filesystem"
+msgstr "antiX fájlrendszer telepítésére készen"
+
+#: MInstall#13
+msgid "Creating required partitions"
+msgstr "A szükséges partíciók létrehozása"
+
+#: MInstall#14
+msgid ""
+"antiX is installing, are you \n"
+"sure you want to Close now?"
+msgstr "A antiX telepszik, biztosan meg akarod szakítani?"
+
+#: MInstall#15
+msgid "Desktop firewall"
+msgstr "Asztali tűzfal"
+
+#: MInstall#16
+msgid ""
+"Sorry your computer name needs to be\n"
+"at least 2 characters long. You'll have to\n"
+"select a different name before proceeding."
+msgstr "A számítógép nevének legalább\n2 karakternyi hosszúnak kell lennie.\nVálassz egy másik nevet mielőtt folytatnád."
+
+#: MInstall#17
+msgid "Preparing required partitions"
+msgstr "Szükséges partíciók előkészítése"
+
+#: MInstall#18
+msgid "Ok to format and destroy all data on %1 for the /home partition?"
+msgstr "Biztosan leformázod és törlöd az összes adatot a %1 -n a /home könyvtár számára?"
+
+#: MInstall#19
+msgid "Mounting the /home partition"
+msgstr "/home partíció csatolása folyamatban"
+
+#: MInstall#20
+msgid "Ok to reuse (no reformat) %1 as the /home partition?"
+msgstr "Biztosan újra szeretnéd használni (formázás nélkül) %1 -t /home partícióként?"
+
+#: MInstall#21
+msgid "Formatting swap partition"
+msgstr "A swap partíció formázása"
+
+#: MInstall#22
+msgid "title %1 at %2"
+msgstr "title %1 az %2 -n"
+
+#: MInstall#23
+msgid ""
+"The installation and configuration is incomplete.\n"
+"Do you really want to stop now?"
+msgstr "A telepítés és beállítás még nem teljes.\nBiztos meg akarod állítani a folyamatot?"
+
+#: MInstall#24
+msgid ""
+"<p><b>Common Services to Enable</b><br/>Select any of the these common "
+"services that you might need with your system configuration and the services"
+" will be started automatically when you start antiX.</p>"
+msgstr "<p><b>Általános Szolgáltatások Bekapcsolása</b><br/>Válaszd ki bármelyik alábbi általános szolgáltatást melyre szükséged lehet a rendszer beállításai miatt, így azok automatikusan el lesznek indítva a antiX indításával együtt.</p>"
+
+#: MInstall#25
+msgid "title antiX at %1, previous kernel (if any)\n"
+msgstr "title antiX az %1 -n, az előző kernellel (ha van)\n"
+
+#: MInstall#26
+msgid ""
+"The user name needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer name before proceeding."
+msgstr "A felhasználónévnek legalább\n2 karakternyi hosszúnak kell lennie.\nVálassz egy hosszabb nevet mielőtt folytatnád."
+
+#: MInstall#27
+msgid ""
+"<p><b>Repairing Your Installation</b><br/>If antiX stops working from the "
+"hard drive, sometimes it's possible to fix the problem by booting from CD "
+"and running one of the utilities in System Configuration or by using one of "
+"the regular Linux tools to repair the system.</p><p>You can also use your "
+"antiX CD to recover data from MS-Windows systems!</p>"
+msgstr "<p><b>A Telepített Rendszer Javítása</b><br/>Ha a antiX nem működik a merevlemezről többé, akkor néha meg lehet oldani a problémát a CD-ről való indítás segítségével. Választhatjuk a CD-n lévő System Configuration-ben lévő segédek egyikét, vagy éppen valamelyik szokásos Linux alkalmazást, hogy kijavítsuk a rendszerhibát.</p><p>A antiX CD-t MS-WIndows rendszerekről való adatmentésre is fel tudod használni!</p>"
+
+#: MInstall#28
+msgid "Finish"
+msgstr "Befejezés"
+
+#: MInstall#29
+msgid ""
+"The root password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "A root jelszónak legalább 2 karakternyi\nhosszúnak kell lennie. Válassz egy\nhosszabb jelszót mielőtt folytatnád."
+
+#: MInstall#30
+msgid "Dialup, adsl, and pptp support"
+msgstr "modemes, adsl és pptp támogatás"
+
+#: MInstall#31
+msgid ""
+"Sorry your computer domain needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Bocs, de a számítógép doménnek legalább 2\nkarakternyi hosszúnak kell lennie. Válassz egy\nmásik nevet mielőtt folytatnád."
+
+#: MInstall#32
+msgctxt "MInstall#32"
+msgid "Next >"
+msgstr "Következő >"
+
+#: MInstall#33
+msgid "Bluetooth wireless device support"
+msgstr "Bluetooth vezetéknélküli eszköz támogatás"
+
+#: MInstall#34
+msgid ""
+"Ok to use (no format) \n"
+"%1 as the / (root) partition?"
+msgstr "Szeretnéd használni (formázás nélkül)\n%1 -t /(root) partícióként?"
+
+#: MInstall#35
+msgid ""
+"Sorry that name is in use.\n"
+"Please select a different name.\n"
+msgstr "Bocs, de ez a név már foglalt.\nVálassz egy másik nevet.\n"
+
+#: MInstall#36
+msgid "Fixing configuration"
+msgstr "Beállítások javítása"
+
+#: MInstall#37
+msgid ""
+"<p><b>Getting Help</b><br/>Basic information about antiX Linux is at "
+"http://antix.mepis.com. There are volunteers to help you at the antiX Forum,"
+" http://antix.freeforums.org.</p><p>If you ask for help, please remember to "
+"describe your problem and your computer in some detail. Usually statements "
+"like 'it didn't work' are not helpful.</p>"
+msgstr ""
+
+#: MInstall#38
+msgid ""
+"Sorry, installing GRUB failed. This may be due to a change in the disk "
+"formatting. You can uncheck GRUB and finish installing antiX, then reboot to"
+" the CD and repair the installation with the reinstall GRUB function."
+msgstr "Bocs, a GRUB telepítése nem sikerült. Ez a lemez formázásának megváltozása miatt lehetséges. Kikapcsolhatod a GRUB box-ot és befejezheted a antiX telepítését. A GRUB-ot a LiveCD-be való újraindítás után a GRUB újratelepítése funkcióval telepítheted."
+
+#: MInstall#39
+msgid ""
+"Sorry your workgroup needs to be at least\n"
+"2 characters long. You'll have to select a different\n"
+"name before proceeding."
+msgstr "Bocs, de a munkacsoportnak legalább 2\nkarakternyi hosszúnak kell lennie. Válassz\negy másik nevet mielőtt folytatnád."
+
+#: MInstall#40
+msgid ""
+"<p><b>Select Boot Method</b><br/>antiX uses the GRUB bootloader to boot "
+"antiX and MS-Windows. If you have other versions of Linux already installed "
+"on your computer, GRUB will not be automatically configured to boot them. "
+"You will have to add them manually to the /boot/grub/menu.lst file.</p><p>If"
+" you install GRUB here, by default it is placed in the Master Boot Record of"
+" your boot drive and replaces whatever boot loader you may have been using "
+"before. This is normal.</p><p>If you choose to install GRUB at root instead "
+"of MBR, then GRUB will be installed at the beginning of the root partition. "
+"In most cases, this will allow you to start GRUB from a third party "
+"bootloader. This option is for experts only.</p><p>The use initrd option "
+"will allow a special software called initrd to preload extra drivers, "
+"restore from suspend to disk, and start the splash screen earlier. Its use "
+"is recommended, but not mandatory. </p><p>If you do not select the Install "
+"GRUB checkbox, GRUB will not be installed at this time. You can install GRUB"
+" later by using the Reinstall GRUB function in the antiX Utilities. "
+"Reinstall GRUB will also give you the option to install GRUB on a floppy "
+"disk.</p>"
+msgstr "<p><b>Válassz Indítási Módot</b><br/>A antiX a GRUB bootmenedzsert használja a antiX és MS-Windows rendszerek indításához. Ha egyéb Linux verziók is vannak a számítógépeden, akkor a GRUB nem lesz automatikusan beállítva az elindításukhoz. A /boot/grub/menu.lst fájlba neked kell majd egyénileg beírni azokat a rendszereket.</p><p>Ha ide telepíted a GRUB-ot, akkor az az elsődleges merevlemez MBR részébe lesz írva, ahol felül fogja írni az előzőleg használt egyéb bootmenedzsert. Ez normális.</p><p>Ha az MBR helyett a root-ot választod a GRUB helyéül, akkor a GRUB a root partíció elejébe lesz telepítve. A legtöbb esetben ez lehetővé teszi a GRUB indítását egy harmadik fél által biztosított bootmenedzserből. Ez az opció csak szakértőknek ajánlott.</p><p>Az 'initrd használata' opció lehetővé teszi az initrd nevű speciális szoftver számára, hogy előre betöltsőn néhány extra illesztőt, visszahozza a számítógépet a hibernálás funkcióból, és hogy hamarabb elindítsa a grafikus indítás funkciót. Használata javasolt, de nem szükségszerű. </p><p>Ha nem pipálod be a 'GRUB telepítése' dobozt, akkor a GRUB nem lesz föltelepítve ezalkalommal. A GRUB a későbbiekben a 'GRUB újratelepítése' funkcióval telepíthető, mely a antiX Segédekben található. A 'GRUB újratelepítése' lehetőséget ad a GRUB floppyra való telepítésére is.</p>"
+
+#: MInstall#41
+msgid ""
+"The partition you selected for /home, appears to be a MS-Windows partition."
+"  Are you sure you want to reformat this partition?"
+msgstr "Az általad /home-nak választott partíció MS-Windows partíciónak tűnik. Biztosan újra szeretnéd formázni?"
+
+#: MInstall#42
+msgid ""
+"The partition you selected for root, appears to be a MS-Windows partition.  "
+"Are you sure you want to reformat this partition?"
+msgstr "Az általad root-nak választott partíció MS-Windows partíciónak tűnik. Biztosan újra szeretnéd formázni?"
+
+#: MInstall#43
+msgid "Copying new system"
+msgstr "Új rendszer másolása"
+
+#: MInstall#44
+msgid "Formatting the /home partition"
+msgstr "/home partíció formázása folyamatban"
+
+#: MInstall#45
+msgid ""
+"Failed to delete old antiX on destination.\n"
+"Returning to Step 1."
+msgstr "A régi antiX törlése sikertelen a célmeghajtón.\nVisszatérés az 1. lépéshez."
+
+#: MInstall#46
+msgid ""
+"Sorry, failed to save old home directory. Before proceeding,\n"
+"you'll have to select a different username or\n"
+"delete a previously saved copy of your home directory."
+msgstr "Bocs, de a régi home könyvtár mentése nem sikerült. Mielőtt\nfolytatnád, egy új felhasználónevet kell választanod,\nvagy le kell törölnöd egy előzőleg mentett home könyvtárad."
+
+#: MInstall#47
+msgid ""
+"<p><b>Computer Identity</b><br/>The computer name is a common unique name "
+"which will identify your computer if it is on a network. The computer domain"
+" is unlikely to be used unless your ISP or local network requires "
+"it.</p><p>The SaMBa Server needs to be activated if you want to use it to "
+"share some of your directories or printer with a local computer that is "
+"running MS-Windows or Mac OSX.</p>"
+msgstr "<p><b>Számítógép azonosító</b><br/>A számítógépnév egy általános, egyedi név, amely azonosítani fogja számítógéped, ha egy hálózatra van csatlakoztatva. A számítógép domént nem valószínű hogy használni kell, hacsak az internet szolgáltató vagy helyi hálózat nem kívánja. A SaMBa Szervert aktiválni kell, ha néhány mappádat vagy nyomtatódat meg szeretnéd osztani egy olyan helyi hálózaton, ahol a gépeken MS-Windows vagy Mac OSX fut.</p>"
+
+#: MInstall#48
+msgid "Printing"
+msgstr "Nyomtatás"
+
+#: MInstall#49
+msgid "Sorry, failed to name user directory."
+msgstr "Bocs, de nem sikerült elnevezni a felhasználói könyvtárat."
+
+#: MInstall#50
+msgid ""
+"The user password needs to be at least\n"
+"2 characters long. Please select\n"
+"a longer password before proceeding."
+msgstr "A felhasználói jelszónak legalább\n2 karakternyi hosszúnak kell lennie.\nVálassz egy hosszabb jelszót mielőtt folytatnád."
+
+#: MInstall#51
+msgid ""
+"Local web server \n"
+"with php and perl support"
+msgstr "Helyi web szerver php\nés perl támogatással"
+
+#: MInstall#52
+msgid "Deleting old system"
+msgstr "Régi rendszer törlése"
+
+#: MInstall#53
+msgid "Creating system directories"
+msgstr "Rendszer könyvtárak létrehozása"
+
+#: MInstall#54
+msgid "Sorry, failed to create user directory."
+msgstr "Bocs, de nem sikerült felhasználói könyvtárat létrehozni."
+
+#: MInstall#55
+msgid "title antiX at %1, kernel %2\n"
+msgstr "title antiX az %1 -n, %2 kernellel\n"
+
+#: MInstall#56
+msgid ""
+"Would you like to save the old home directory\n"
+"and create a new home directory?"
+msgstr "El szeretnéd menteni a régi home könyvtárat\nés egy új home könyvtárat létrehozni?"
+
+#: MInstall#57
+msgid ""
+"antiX installation and configuration is complete.\n"
+"To use the new installation, reboot without the CD.\n"
+"Do you want to reboot now?"
+msgstr "A antiX telepítés és beállítása sikeresen befejeződött.\nAz új rendszer használatához újra kell indítani a számítógépet\nCD nélkül. Újra szeretnéd indítani a számítógépet most?"
+
+#: MInstall#58
+msgid ""
+"The root password entries do\n"
+" not match.  Please try again."
+msgstr "A root jelszó bejegyzések nem\negyeznek. Próbáld meg újra."
+
+#: MInstall#59
+msgid "Formatting home partition"
+msgstr "A home partíció formázása"
+
+#: MInstall#60
+msgid "Ok to format and use the entire disk (%1) for antiX?"
+msgstr "Szeretnéd formázni és használni az egész lemezt (%1) a antiX-re?"
+
+#: MInstall#61
+msgid "Formatting root partition"
+msgstr "A root partíció formázása"
+
+#: MInstall#62
+msgid ""
+"<p><b>Congratulations!</b><br/>You have completed the installation of antiX "
+"Linux.</p><p><b>Finding Applications</b><br/>There are hundreds of excellent"
+" applications installed with antiX. The best way to learn about them is to "
+"browse through the Menu and try them. Many of the apps were developed "
+"specifically for the icewm/fluxbox environment. These are shown in the main "
+"menus. Other Linux applications can be found in Menu > Applications</p><p>In"
+" addition antiX includes many standard linux applications that are run only "
+"from the commandline and therefore do not show up in Menu.</p>"
+msgstr "<p><b>Gratulálunk!</b><br/>Sikeresen befejezted a antiX Linux telepítését.</p><p><b>Programok Megtalálása</b><br/>Több száz kitűnő program települt a antiX-el. A legjobb mód megismerésükre a Menu böngészése és a menupontok kipróbálása. Az alkalmazások többsége kifejezetten a icewm/fluxbox felülethez lettek tervezve. Ezek a főbb menükben vannak feltünteteve. Az egyéb alkalmazások a K Menu > Applications</p><p>Ráadásképp, a antiX sok olyan linxos alkalmazást is tartalmaz, melyek csak a parancssorban futnak, így a Menu-ben nem is jelennek meg.</p>"
+
+#: MInstall#63
+msgid "Sorry, failed to set ownership of user directory."
+msgstr "Bocs, de nem sikerült a felhasználói könyvtár tulajdonjogait beállítani."
+
+#: MInstall#64
+msgid "Linux and OSX printer service"
+msgstr "Linux és OSX nyomtató szolgáltatás"
+
+#: MInstall#65
+msgid ""
+"<p><b>Special Thanks</b><br/>My thanks to everyone who has chosen to support"
+" antiX with their time, money, suggestions, work, praise, ideas, promotion, "
+"and/or encouragement.</p><p>Without you there would be no antiX "
+"Linux.</p><p>anticapitalista</p>"
+msgstr "<p><b>Külön Köszönet</b><br/>Köszönöm mindenkinek aki időt, pénzt, tanácsot, munkát, dicséretet, ötletet, híresztelést és/vagy bátorítást adott, hogy támogassa a antiX-t.</p><p>Nélkületek nem létezne antiX Linux.</p><p>anticapitalista</p>"
+
+#: MInstall#66
+msgid ""
+"<p><b>General Instructions</b><br/>BEFORE PROCEEDING, CLOSE ALL OTHER APPLICATIONS.</p><p>On each page, please read the instructions, make your selections, and then click on Next when you are ready to proceed. You will be prompted for confirmation before any destructive actions are performed.</p><p>Core versions of antiX require about 1 GB of space, Base versions about 1.5GB and Full versions of antiX require about 3 GB of space. 5 GB or more is preferred.You can use the entire disk or you can put antiX on existing partitions. </p><p>If you are using PC type hardware, run GParted from here if you need to modify some partitions before doing a custom install. If you are using Apple hardware, you must never use parted or GParted on your boot drive. Instead you must setup your partitions and boot manager in OSX before installing antiX.</p><p>The ext2, ext3, ext4, jfs, xfs, btrfs and reiserfs Linux filesystems are supported and ext4 is recommended. </\n"
+"p><p><b>Partition Requirements</b><br/>A linux-swap partition is highly recommended. Your RAM memory plus swap space must be at least 128MB. A larger size can improve system performance but you should not need more than 512MB of swap space unless you develop software or edit video files or run a database server.</p><p>A separate linux /home (pronounced home) partition is recommended and should be at least 200MB and preferably as large as possible. This is where your work will be stored. A separate home partition will make it easier to backup, upgrade or reinstall antiX in the future.A linux / ( pronounced root) partition is required. It needs to be at least 800 MB for Core versions of antiX and 1.5 GB for Base versions and 2.7GB for Full versions of antiX and it must be larger if you do not have a separate home partition. This is where additional applications will be stored and where the Linux kernel and drivers may be compiled. If you will be installing and/or testing a lot of applications, you should make this partition larger but, unless you test a lot software, it is unlikely you would need more than 5GB in this partition.</p><p><b>Auto-install Using Entire Disk</b><br/>The selected disk will be reformatted to ext4 and the installer will partition the disk as antiX prefers. Optionally you may request that a portion of the disk is left free if possible, for example so you can install a second OS later.</p><p><b>Custom Install on Existing Partitions</b><br/>antiX will be installed on the existing partitions you choose. If the disk isn't already partitioned appropriately, you can modify the partitions here with GParted.  If you have modified the partitions, it is best to reboot the system before continuing with the installation.  Do NOT use parted or GParted if you are installing on an Apple computer boot drive.</p><p><b>Upgrading</b><br/>To upgrade an existing Linux installation, choose to install on existing partitions and then choose to preserve the data in /home.</p>"
+msgstr ""
+
+#: MInstall#67
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the swap partition?"
+msgstr "Szeretnéd formázni és az összes adatot törölni a\n%1 -n a swap számára?"
+
+#: MInstall#68
+msgid "Mounting the / (root) partition"
+msgstr "/root partíció csatolása folyamatban"
+
+#: MInstall#69
+msgid ""
+"<p><b>Keep Your Copy of antiX Up-to-date</b><br/>For antiX information and "
+"updates please visit http://antix.freeforums.org. </p>"
+msgstr "<p><b>Tartsd a antiX-ed Frissítve</b><br/>antiX információkért és frissítésekért látogasd meg a http://antix.freeforums.org weblapot. </p>"
+
+#: MInstall#70
+msgid ""
+"<p><b>Localization Defaults</b><br/>Set the default keyboard and locale.  "
+"These will apply unless, they are overridden later by the "
+"user.</p><p><b>Configure Clock</b><br/>If you have an Apple or a pure Unix "
+"computer, by default the system clock is set to GMT or Universal Time.  In "
+"this case, check the box for 'System clock uses GMT.'</p>The CD boots with "
+"the timezone preset to EST. To change the timezone, after you reboot into "
+"the new installation, right click on the clock in the Panel and select "
+"Adjust Date & Time...</p>"
+msgstr "<p><b>Lokalizációs Alapbeállítások</b><br/>Állítsd be az alapértelmezett billenytűzetet és helyet. Ezek lesznek érvényesek, hacsak a felhasználó később felül nem írja.</p><p><b>Óra Beállítása</b><br/>Ha Apple vagy tisztán Unix alapú számítógéped van, akkor az óra alapértlemezetten a GMT-i (Greenwich-i Idő) vagy UTC-i (Egyetemes Idő) időzónára van állítva. Ebben az esetben pipáld be a 'A számítógép órája GMT-re van állítva' boxot.</p>A CD az EST (Keleti Standard Idő) időzónára állítva indul el. Az időzóna átállításához (az újonnan telepített rendszer elindítása után) klikkelj a jobb egérgombbal a Panelon (tálca) található órára és válaszd a 'dátum és az idő beállítása' pontot.</p>"
+
+#: MInstall#71
+msgid "Sorry, creating menu.lst failed. Root filesystem may be faulty."
+msgstr "Bocs, a menu.lst fájl létrehozása nem sikerült. A root fájlrendszer hibás lehet."
+
+#: MInstall#72
+msgid ""
+"<p><b>Limitations</b><br/>Remember, this software is provided AS-IS with no "
+"warranty what-so-ever. It's solely your responsibility to backup your data "
+"before proceeding.</p><p><b>Choose Partitions</b><br/>antiX requires a root "
+"partition. The swap partition is optional but highly recommended. If you "
+"want to use the Suspend-to-Disk feature of antiX, you will need a swap "
+"partition that is larger than your physical memory size.</p><p>If you choose"
+" a separate /home partition it will be easier for you to upgrade in the "
+"future, but this will not be possible if you are upgrading from an "
+"installation that does not have a separate home "
+"partition.</p><p><b>Upgrading</b><br/>To upgrade from an existing Linux "
+"installation, select the same home partition as before and check the "
+"preference to preserve data in /home.</p><p>If you are preserving an "
+"existing /home directory tree located on your root partition, the installer "
+"will not reformat the root partition. As a result, the installation will "
+"take much longer than usual.</p><p><b>Preferred Filesystem Type</b><br/>For "
+"antiX Linux, you may choose to format the partitions as ext2, ext3, ext4, "
+"jfs, xfs, btrfs or reiser. </p><p><b>Bad Blocks</b><br/>If you choose ext2, "
+"ext3 or ext4 as the format type, you have the option of checking and "
+"correcting for badblocks on the drive. The badblock check is very time "
+"consuming, so you may want to skip this step unless you suspect that your "
+"drive has badblocks.</p>"
+msgstr "<p><b>Korlátozások</b><br/>Emlékezz, hogy ezt a programot úgy kapod AHOGY VAN, mindenféle garancia nélkül. Teljesen a te felelőséged az adatok lementése a telepítés folytatása előtt.</p><p><b>Partíciók Kiválasztása</b><br/>A antiX-nek szüksége van egy root partícióra. A swap partíció használata tetszőleges, ám erősen ajánlott. Ha a későbbiekben szeretnéd használni a antiX hibernálás funkcióját, akkor a fizikai memóriánál (RAM) nagyobb méretű swap partícióra szükséged lesz.</p><p>Ha a különálló /home partíció mellett döntesz, akkor a későbbiekben könnyebb lesz a rendszer frissítése. Különálló home partíció nélküli rendszer esetén az ilyen, egyszerű frissítés nem lehetséges.</p><p><b>Frissítés</b><br/>Ha egy már létező Linux-ot frissítesz, akkor válaszd ki az előzőleg használt /home partíciót és pipáld be a 'Adatok meghagyása a /home-ban' opciót.</p><p>Ha a root partíción már létező home könyvtárban hagyod meg az adatokat, akkor a telepítő nem fogja újraformázni a root partíciót. Ennek az lesz az eredménye, hogy a telepítés a szokásosnál hosszabb ideig fog tartani.</p><p><b>Ajánlott Fájlrendszer Típus</b><br/>Az ext3, ext4, jfs, xfs, btrfs és reiserfs fájlrendszerek egyikét választhatod ki a antiX számára.</p><p><b>Hibás Blokkok</b><br/>Ha az ext2, ext3 és ext4 fájlrendszert választod, akkor lehetőséged van a merevlemezen esetlegesen előforduló hibás blokkok keresésére és javítására. A hibás blokkok keresése nagyon időigényes. Hacsak nem gyanakszol hibás blokkokra a merevlemezeden, akkor valószínűleg ki szeretnéd hagyni ezt a tesztet.</p>"
+
+#: MInstall#73
+msgid ""
+"Failed to create required partitions.\n"
+"Returning to Step 1."
+msgstr "A szükséges partíciók létrehozása sikertelen.\nVisszatérés az 1. lépéshez."
+
+#: MInstall#74
+msgid "Sorry, unable to set root password."
+msgstr "Bocs, de nem lehet a root jelszót beállítani."
+
+#: MInstall#75
+msgid "GRUB installed ok."
+msgstr "A GRUB feltelepült."
+
+#: MInstall#76
+msgid "Ok to install GRUB bootloader at %1 ?"
+msgstr "Biztosan telepíted a GRUB bootmenedzsert %1 -re?"
+
+#: MInstall#77
+msgid "title antiX at %1, newest kernel\n"
+msgstr "title antiX az  %1 -n, a legújabb kernellel\n"
+
+#: MInstall#78
+msgid "Networking"
+msgstr "Hálózatok"
+
+#: MInstall#79
+msgid "Network connection"
+msgstr "hálózati csatlakozás"
+
+#: MInstall#80
+msgid "Hardware"
+msgstr "Hardver"
+
+#: MInstall#81
+msgid "Would you like to delete the old home directory for %1?"
+msgstr "Le szeretnéd törölni a régi home könyvtárat a %1 -n?"
+
+#: MInstall#82
+msgid ""
+"Ok to format and destroy all data on \n"
+"%1 for the / (root) partition?"
+msgstr "Szeretnéd formázni és az összes adatot törölni a\n%1 -n a /(root) partíció számára?"
+
+#: MInstall#83
+msgid ""
+"You've chosen to not use, save or delete the old home directory.\n"
+"Before proceeding, you'll have to select a different username."
+msgstr "Nem választottad ki, hogy használd, töröld vagy mentsd a régi home\nkönyvtárad. Mielőtt folytatnád, egy új felhasználónevet kell választanod."
+
+#: MInstall#84
+msgid ""
+"<p><b>Default User Login</b><br/>The root user is similar to the "
+"Administrator user in some other operating systems. You should not use the "
+"root user as your daily user account. Please enter the name for a new "
+"(default) user account that you will use on a daily basis. If needed, you "
+"can add other user accounts later. </p><p><b>Passwords</b><br/>Enter a new "
+"password for your default user account and for the root account. Each "
+"password must be entered twice.</p>"
+msgstr "<p><b>Alapértelmezett Felhasználói Fiók</b><br/>A root felhasználó hasonlít a más operációs rendszerekből ismert Adminisztrátori felhasználóhoz. Légyszíves adj megegy nevet az új (alapértelmezett) felhasználói fiókodhoz, melyet napi rendszerességgel fogsz használni. Ha szükséges, később további fiókokat is megadhatsz.</p><p><b>Jelszók</b><br/>Adj meg egy-egy új jelszót az alapértelmezett felhasználói és root fiókokhoz. Mindegyik jelszót kettőször kell begépelni.</p>"
+
+#: MInstall#85
+msgid ""
+"<p><b>Installation in Progress</b><br/>antiX is installing.  For a fresh "
+"install, this will probably take 3-20 minutes, depending on the speed of "
+"your system and the size of any partitions you are reformatting.</p><p>If "
+"you click the Abort button, the installation will be stopped as soon as "
+"possible.</p>"
+msgstr "<p><b>Telepítés Folyamatban</b><br/>A antiX telepszik. Új telepítésnél ez valószínűleg 3-20 percet fog igénybe venni a rendszered sebességétől és a általad formázott partíciók méretétől függően.</p><p>Ha megnyomod a Megszakít gombot, akkor a telepítés a lehető leghamarább le fog állni.</p>"
+
+#: MInstall#86
+msgid "Formatting the / (root) partition"
+msgstr ""
+
+#: MInstall#87
+msgctxt "MInstall#87"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Támogasd a antiX-t</b><br/>antiX-t olyan emberek támogatják, mint te. Néhányan a http://antix.freeforums.org fórumon keresztül segítenek másokat, mások fájlokat fordítanak más nyelvekre, javaslatokat tesznek, dokumentációt írnak, vagy éppen az új szofvert tesztelik.</p>"
+
+#: MeInstall#1
+msgid "MB "
+msgstr "MB"
+
+#: MeInstall#2
+msgid "MBR"
+msgstr "MBR"
+
+#: MeInstall#3
+msgid "Tips"
+msgstr "Tippek"
+
+#: MeInstall#4
+msgid "ext3"
+msgstr "ext3"
+
+#: MeInstall#5
+msgid "root"
+msgstr "root"
+
+#: MeInstall#6
+msgid "Preserve data in /home (if upgrading)"
+msgstr "Adatok meghagyása a /home-ban (frissítéskor)"
+
+#: MeInstall#7
+msgid "System clock uses LOCAL"
+msgstr "A számítógép órája LOCAL-re van állítva"
+
+#: MeInstall#8
+msgid "Abort"
+msgstr "Megszakít"
+
+#: MeInstall#9
+msgid "Alt+A"
+msgstr "Alt+A"
+
+#: MeInstall#10
+msgid "Alt+B"
+msgstr "Alt+B"
+
+#: MeInstall#11
+msgid "Alt+K"
+msgstr "Alt+K"
+
+#: MeInstall#12
+msgid "Alt+N"
+msgstr "Alt+N"
+
+#: MeInstall#13
+msgid "Alt+X"
+msgstr "Alt+X"
+
+#: MeInstall#14
+msgid "MeInstall"
+msgstr "MeTelepítő"
+
+#: MeInstall#15
+msgid "1a. Choose disk for installation"
+msgstr "1a. Válassz lemezt a telepítésre"
+
+#: MeInstall#16
+msgid "3. Installation in progress"
+msgstr "3. A telepítés folyamatban"
+
+#: MeInstall#17
+msgctxt "MeInstall#17"
+msgid "Ready to install antiX filesystem"
+msgstr "antiX fájlrendszer telepítésére készen"
+
+#: MeInstall#18
+msgid "Workgroup:"
+msgstr "Munkacsoport:"
+
+#: MeInstall#19
+msgid "Computer name:"
+msgstr "Számítógép név:"
+
+#: MeInstall#20
+msgid "1c. Select type of installation"
+msgstr "1c. Válassz telepítési típust"
+
+#: MeInstall#21
+msgid "8b. Root (administrator) Account"
+msgstr "8b. Root (rendszergazda) Fiók"
+
+#: MeInstall#22
+msgid "5. Common Services to Enable"
+msgstr "5. Általános szolgáltatások elindítása"
+
+#: MeInstall#23
+msgid "swap partition:"
+msgstr "swap partíció:"
+
+#: MeInstall#24
+msgid "Locale:"
+msgstr "Hely:"
+
+#: MeInstall#25
+msgid "Confirm root password:"
+msgstr "Root jelszó megerősítése:"
+
+#: MeInstall#26
+msgid "Filesystem type:"
+msgstr "Fájlrendszer típus:"
+
+#: MeInstall#27
+msgid ""
+"<p>antiX is an independent linux distribution based on Debian Testing.</p> "
+"<p>antiX uses some components from MEPIS Linux which are released under an "
+"Apache free license. Some MEPIS components have been modified for antiX.</p>"
+" <p>Enjoy using antiX.</p>"
+msgstr "<p>Antix egy független Linux-disztribúció Debian alapú tesztelés.</p> <p>Antix használ néhány összetevőket MEPIS Linux amelyek alatt kiadott Apache szabad licenc. Néhány MEPIS elemek módosításra kerültek a Antix.</p> <p>Szívesen használja Antix.</p>"
+
+#: MeInstall#28
+msgid "< Back"
+msgstr "< Vissza"
+
+#: MeInstall#29
+msgid "Default user login name:"
+msgstr "Alapértlemezett felhasználói login név:"
+
+#: MeInstall#30
+msgid "Check for badblocks (takes longer)"
+msgstr "Hibás blokkok keresése (tovább tart)"
+
+#: MeInstall#31
+msgid "Reminders"
+msgstr "Emlékeztetők"
+
+#: MeInstall#32
+msgid "2a. Choose partitions"
+msgstr "2a. Válassz partíciókat"
+
+#: MeInstall#33
+msgid "1b. Rearrange disk partitions (optional)"
+msgstr "1b. A partíciók átrendezése (opcionális)"
+
+#: MeInstall#34
+msgid "Terms of Use"
+msgstr "Használat feltételei"
+
+#: MeInstall#35
+msgid "7a. Localization Defaults"
+msgstr "7a. Lokalizációs Alapértelmezések"
+
+#: MeInstall#36
+msgctxt "MeInstall#36"
+msgid "Next >"
+msgstr "Következő >"
+
+#: MeInstall#37
+msgid "antiXgrp"
+msgstr "antiXgrp"
+
+#: MeInstall#38
+msgid "Run GParted..."
+msgstr "GParted indítása..."
+
+#: MeInstall#39
+msgid "antiX1"
+msgstr "antiX1"
+
+#: MeInstall#40
+msgid "I have read the Terms"
+msgstr "Elolvastam az Általános Szerződési Feltételeket"
+
+#: MeInstall#41
+msgctxt "MeInstall#41"
+msgid ""
+"<p><b>Support antiX</b><br/>antiX is supported by people like you. Some help"
+" others at the support forum - http://antix.freeforums.org, or translate "
+"help files into different languages, or make suggestions, write "
+"documentation, or help test new software.</p>"
+msgstr "<p><b>Támogasd a antiX-t</b><br/>antiX-t olyan emberek támogatják, mint te. Néhányan a http://antix.freeforums.org fórumon keresztül segítenek másokat, mások fájlokat fordítanak más nyelvekre, javaslatokat tesznek, dokumentációt írnak, vagy éppen az új szofvert tesztelik.</p>"
+
+#: MeInstall#42
+msgid "example.dom"
+msgstr "pelda.dom"
+
+#: MeInstall#43
+msgid "6. Computer Network Names"
+msgstr "6. Számítógép hálózati nevek"
+
+#: MeInstall#44
+msgid "Leave free space up to:"
+msgstr "Ennyi szabad hely maradjon:"
+
+#: MeInstall#45
+msgid "Use disk:"
+msgstr "Ezt a lemezt használd:"
+
+#: MeInstall#46
+msgid "Install on:"
+msgstr "Telepítés ezen:"
+
+#: MeInstall#47
+msgid "4. Select Boot Method"
+msgstr "4. Válassz Indítási Módot"
+
+#: MeInstall#48
+msgid "use initrd (recommended)"
+msgstr "initrd használata (ajánlott)"
+
+#: MeInstall#49
+msgid "Description"
+msgstr "Leírás"
+
+#: MeInstall#50
+msgid "username"
+msgstr "felhasználónév"
+
+#: MeInstall#51
+msgid "Service"
+msgstr "Szolgáltatás"
+
+#: MeInstall#52
+msgid "8a. Default User Account"
+msgstr "8a. Alapértelmezett Felhasználói Fiók"
+
+#: MeInstall#53
+msgid "Run partition tool..."
+msgstr "Fuss partíció eszköz..."
+
+#: MeInstall#54
+msgid "Show passwords"
+msgstr "Megjelenítés jelszavak"
+
+#: MeInstall#55
+msgid "/home partition:"
+msgstr "/home partíció:"
+
+#: MeInstall#56
+msgid "Auto-install using entire disk "
+msgstr "Automatikus telepítés az egész lemez felhasználásával"
+
+#: MeInstall#57
+msgid "Default user password:"
+msgstr "Alapértelmezett felhasználói jelszó:"
+
+#: MeInstall#58
+msgid "reiserfs"
+msgstr "reiserfs"
+
+#: MeInstall#59
+msgid "SaMBa Server for MS Networking"
+msgstr "SaMBa szerver MS hálózatokhoz"
+
+#: MeInstall#60
+msgid "Root password:"
+msgstr "Root jelszó:"
+
+#: MeInstall#61
+msgid "2b. Preferences"
+msgstr "2b. Beállítások"
+
+#: MeInstall#62
+msgid "Custom install on existing partitions"
+msgstr "Egyéni telepítés meglévő partíciókra"
+
+#: MeInstall#63
+msgid "System boot disk:"
+msgstr "Rendszer boot lemez:"
+
+#: MeInstall#64
+msgid "Confirm user password:"
+msgstr "felhasználó jelszavának megerősítése:"
+
+#: MeInstall#65
+msgid "/ (root) partition:"
+msgstr "/(root) partíció:"
+
+#: MeInstall#66
+msgid "Modify partitions:"
+msgstr "Partíciók módosítása:"
+
+#: MeInstall#67
+msgid "Computer domain:"
+msgstr "Számítógép domén:"
+
+#: MeInstall#68
+msgid "7b. Configure Clock"
+msgstr "7b. Óra Beállítása"
+
+#: MeInstall#69
+msgid "7c. Timezone Settings"
+msgstr "7c. Válasszon időzónát"
+
+#: MeInstall#70
+msgid "Timezone:"
+msgstr "Időzóna:"
+
+#: MeInstall#71
+msgid "Install GRUB for antiX and Windows"
+msgstr "GRUB telepítése antiX és Windows számára"
+
+#: MeInstall#72
+msgid "Keyboard:"
+msgstr "Billentyűzet:"
+
+#: MeMain#1
+msgid "Help"
+msgstr "Segítség"
+
+#: MeMain#2
+msgid "Close"
+msgstr "Bezár"
+
+#: MeMain#3
+msgid "antiX Install"
+msgstr "antiX telepítő"
+
+#: QApplication#1
+msgid "You must run this app as root."
+msgstr "Ezt a programot root-ként kell futtatnod."

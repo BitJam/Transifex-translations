@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-03-15 01:20+0000\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:20
+msgid "Change Default Window Manager"
+msgstr "Canvia el gestor de finestres per omissió"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:22
+msgid ""
+"Change the default desktop in %s, %s and %s then offer to restart X-windows."
+msgstr "Canvia l'escriptori per defecte a %s, %s i %s i ofereix de tornar a arrencar les X-windows"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:25
+msgid ""
+"Includes all known installed Windows Managers as options in both files."
+msgstr "Inclou tots els Gestors de Finestres coneguts com a opcions a ambdós fitxers."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:31
+msgid "New default desktop."
+msgstr "Nou escriptori per omissió."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:32
+msgid "Overwrite customized .xinitrc files without asking."
+msgstr "Sobreescriu els fitxers .xinitrc sense preguntar."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:33
+msgid "Pause between stopping and starting X."
+msgstr "Pausa entre l'aturada i arrencada de les X."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:34
+msgid "Print out changes without touching files."
+msgstr "Imprimeix els canvis sense modificar els fitxers."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:60
+msgid "No %s specified, not updating %s file."
+msgstr "No s'ha especificat %s, no s'actualitza el fitxer %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:62
+msgid "Try running %s as a normal user."
+msgstr "Proveu d'executar %s com a usuari normal."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:63
+msgid "Or you could trying running it as:"
+msgstr "O bé podeu provar d'executar-ho com a:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:68
+msgid "%s directory: %s does not exist"
+msgstr "Directori %s:  no existeix %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:79
+msgid "Invalid deskcode: %s"
+msgstr "Deskcode no vàlid: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:81
+msgid "Valid choices: %s"
+msgstr "Opcions vàlides: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:93
+msgid "Do you want to over-write it?"
+msgstr "Voleu sobreescriure'l?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:99
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:109
+msgid "Writing %s\\n"
+msgstr "Escrivint %s \\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:114
+msgid "Found no Slim sessions"
+msgstr "No s'han trobat sessions de Slim"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:119
+msgid "Here is the new sessions line for slim.conf:"
+msgstr "Aquesta és la línia per a noves sessions per slim.conf:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:131
+msgid "Wrote: %s"
+msgstr "S'ha escrit: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:133
+msgid "Set default window manager to: %s"
+msgstr "Gestor de finestres per omissió establert en: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:135
+msgid "Do you want to restart X-windows now?  "
+msgstr "Voleu tornar a arrencar les X-windows ara?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/change-default-desktop:137
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(Es farà una pausa de %s segons abans de tornar a arrencar) "

@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR antiX Linux
+# This file is distributed under the same license as the antiX Development package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# James Bowlin <BitJam@gmail.com>, 2016
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: antiX Development\n"
+"Report-Msgid-Bugs-To: translation@antixlinux.org\n"
+"POT-Creation-Date: 2016-11-16 14:11-0700\n"
+"PO-Revision-Date: 2016-11-16 21:44+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>, 2016\n"
+"Language-Team: Greek (https://www.transifex.com/anticapitalista/teams/10162/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Live-USB Maker GUI"
+msgstr "Live-USB Maker GUI"
+
+msgid "Live System Detected.  Select Live-USB creation mode"
+msgstr "Εντοπίστηκε Live System. Επιλέξτε τη λειτουργία δημιουργίας Live-USB"
+
+msgid "Select Mode"
+msgstr "Επιλογή λειτουργίας"
+
+msgid "Select USB Device"
+msgstr "Επιλογή συσκευής USB"
+
+msgid "Clone Mode"
+msgstr "Λειτουργία Clone"
+
+msgid "Select ISO"
+msgstr "Επιλέξτε το αρχείο ISO"
+
+msgid "Clone Running Live System"
+msgstr "Κλωνοποίηση του Live System"
+
+msgid "Information"
+msgstr "Πληροφορίες"
+
+msgid "Source is not an ISO file.  Please choose another file."
+msgstr "Πηγή δεν είναι ένα αρχείο ISO. Παρακαλώ επιλέξτε ένα άλλο αρχείο."
+
+msgid "Simple GUI for Live-USB Maker"
+msgstr "Απλό GUI για το Live-USB Maker"
+
+msgid "Version"
+msgstr "Έκδοση"
+
+msgid "No target USB device detected.  Please insert a device and try again"
+msgstr ""
+"Καμία συσκευή USB ανιχνεύεται. Παρακαλώ εισάγετε μια συσκευή και δοκιμάστε "
+"ξανά"
+
+msgid "License"
+msgstr "Άδεια"
+
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+msgid "Close"
+msgstr "Κλείσιμο"
+
+msgid "About"
+msgstr "Περί"
+
+msgid "Help"
+msgstr "Βοήθεια "
+
+msgid "Advanced"
+msgstr "Προχωρημένα"
+
+msgid "LiveUSB creation successful!"
+msgstr "δημιουργία LiveUSB επιτυχής!"
+
+msgid "Operation stopped by user."
+msgstr "Η λειτουργία διακόπηκε από το χρήστη."
+
+msgid "A %s process (using PID %s) is already running"
+msgstr "Μια διαδικασία %s (με χρήση PID %s) είναι ήδη σε λειτουργία"
+
+msgid "Please close that process before starting a new one"
+msgstr "Παρακαλώ κλείστε αυτή τη διαδικασία πριν από την έναρξη ενός νέου"
+
+msgid "Failed to obtain lock on %s"
+msgstr "Αποτυχία για την απόκτηση κλειδώματος στο %s"
+
+msgid "Progress window closed, but job not done. Do you want to keep going?"
+msgstr ""
+"Το παράθυρο προόδου έχει κλείσει, αλλά η δουλειά δεν τελειωσε. Θέλετε να "
+"συνεχίσετε;"
+
+msgid "Yes"
+msgstr "Ναι"
+
+msgid "No"
+msgstr "Όχι"

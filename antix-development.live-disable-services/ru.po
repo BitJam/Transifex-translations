@@ -1,0 +1,49 @@
+# Translation for antiX Development: live-disable-services file.
+# Copyright (C) 2012 -- 2017 antiX and Mepis
+# This file is distributed under the same license as the antiX Development package.
+# 
+# Translators:
+# Вячеслав Волошин <vol_vel@mail.ru>, 2015-2016
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: bitjam@gmail.com\n"
+"POT-Creation-Date: 2017-09-25 14:28-0600\n"
+"PO-Revision-Date: 2017-09-26 04:26+0000\n"
+"Last-Translator: James Bowlin <BitJam@gmail.com>\n"
+"Language-Team: Russian (http://www.transifex.com/anticapitalista/antix-development/language/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+msgid "Customizing services"
+msgstr "Настройка служб"
+
+msgid "Enabling %s service"
+msgstr ""
+
+msgid "Disabling %s service"
+msgstr ""
+
+msgid "Enabling %s services"
+msgstr "Включение %s служб"
+
+msgid "Disabling %s services"
+msgstr "Отключение %s служб"
+
+msgid "Disabling some services %s"
+msgstr "Отключение некоторых служб %s"
+
+msgid "Disabling %s services %s"
+msgstr "Отключение %s служб %s"
+
+msgid "Disabling network services %s"
+msgstr "Отключение сетевых служб %s"
+
+msgid "Disabling more services %s"
+msgstr "Отключение других служб %s"
+
+msgid "Disabling NFS server %s"
+msgstr "Отключение NFS сервера %s"

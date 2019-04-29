@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# secipolla <secipolla@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/antix-development/issues\n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2012-01-12 12:24+0000\n"
+"Last-Translator: secipolla <secipolla@gmail.com>\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/antix-development/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:18
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:20
+msgid "Restart X Windows"
+msgstr "Reiniciar X Windows"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:24
+msgid "Pause between stopping and starting."
+msgstr "Pausa entre a interrupção e o reinício."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:25
+msgid "DO NOT USE."
+msgstr "NÃO USAR."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:49
+msgid "The default display manager was not found."
+msgstr "O gerenciador de sessões padrão não foi encontrado."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:51
+msgid "Will search for any running display manager."
+msgstr "Procurar-se-á por algum gerenciador de sessões em atividade."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:54
+msgid "No display manager was found."
+msgstr "Não foi encontrado nenhum gerenciador de sessões."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:55
+msgid "Cannot restart X."
+msgstr "Incapaz de reiniciar o X."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:59
+msgid "Found display manager: %s"
+msgstr "Gerenciador de sessões encontrado: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:61
+msgid "Do you want to restart X-windows now?  "
+msgstr "Quer reiniciar o X agora?  "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/restart-X:63
+msgid "(There will be a %s second pause before X-windows starts) "
+msgstr "(haverá uma pausa de %s segundos antes do X ser iniciado) "
